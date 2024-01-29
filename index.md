@@ -111,10 +111,10 @@
 2. 陈娟, 邓春燕, 吕帅, 贾海洋, 张长海. 程序设计基础课程形成性评价的设计与实践. 计算机教育, 2023, 3: 61-64. (CCF推荐中文C类期刊)
 3. 陈娟, 邓春燕, 张晓旭, 吕帅, 贾海洋, 张长海. 程序设计基础课程的思政元素与教学实践. 计算机教育, 2022, 3: 106-111. (CCF推荐中文C类期刊)
 4. 陈娟, 邓春燕, 吕帅, 李河, 张长海. 程序设计基础混合式教学实践与思考. 计算机教育, 2019, 8: 126-131. (CCF推荐中文C类期刊)
-5. 邓春燕, 周治国\*, 陈娟, 吕帅. 工程教育认证背景下程序设计基础课程设计教学改革与实践. 计算机教育, 2019, 5: 68-72. (CCF推荐中文C类期刊)
-6. 李占山, 吕帅\*. 基于计算思维与创新能力培养的计算理论课程教学改革探索. 计算机教育, 2019, 1: 21-24. (CCF推荐中文C类期刊)
-7. 吕帅, 王强强\*, 郭德贵, 金京姬. 实践教学中的开放性创新实验项目探索. 计算机教育, 2017, 3: 29-32. (CCF推荐中文C类期刊)
-8. 吕帅, 刘磊\*, 张睿, 郭德贵. 计算机学科研究生科研基础的建立模式. 计算机教育, 2012, 23: 22-24. (CCF推荐中文C类期刊)
+5. 邓春燕, 周治国*, 陈娟, 吕帅. 工程教育认证背景下程序设计基础课程设计教学改革与实践. 计算机教育, 2019, 5: 68-72. (CCF推荐中文C类期刊)
+6. 李占山, 吕帅*. 基于计算思维与创新能力培养的计算理论课程教学改革探索. 计算机教育, 2019, 1: 21-24. (CCF推荐中文C类期刊)
+7. 吕帅, 王强强*, 郭德贵, 金京姬. 实践教学中的开放性创新实验项目探索. 计算机教育, 2017, 3: 29-32. (CCF推荐中文C类期刊)
+8. 吕帅, 刘磊*, 张睿, 郭德贵. 计算机学科研究生科研基础的建立模式. 计算机教育, 2012, 23: 22-24. (CCF推荐中文C类期刊)
 
 ## 【个人荣誉】
 + 2016年，吉林大学“三育人”先进个人荣誉称号
@@ -167,12 +167,12 @@
 
 主要代表性学术论文：
 
-1. Zhang Xinyu, Kang Meng, Lü Shuai\*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
-2. Zhang Shaojie, Shen Chun, Lü Shuai\*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
-3. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
-4. Gong Xiaoyu, Lü Shuai\*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023), Macao, China, August 19-25, 2023, 3750-3758. (CCF推荐A类会议, CORE推荐A*类会议)
-5. Zhang Junwei, Han Shuai, Xiong Xi, Zhu Sheng, Lü Shuai\*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. Information Sciences, 2024. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)
-6. Lü Shuai, Zhang Tongbo, Xu Yue, Zhou Wenbo, Lai Yong\*. Combining bounded solving and controllable randomization for approximate model counting. Journal of Experimental & Theoretical Artificial Intelligence, 2024. (中科院4区期刊, CCF推荐C类期刊, SCI, IF: 2.2)
+1. Zhang Xinyu, Kang Meng, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
+2. Zhang Shaojie, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
+3. Zhu Sheng, Shen Chun, Lü Shuai*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
+4. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023), Macao, China, August 19-25, 2023, 3750-3758. (CCF推荐A类会议, CORE推荐A*类会议)
+5. Zhang Junwei, Han Shuai, Xiong Xi, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. Information Sciences, 2024. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)
+6. Lü Shuai, Zhang Tongbo, Xu Yue, Zhou Wenbo, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. Journal of Experimental & Theoretical Artificial Intelligence, 2024. (中科院4区期刊, CCF推荐C类期刊, SCI, IF: 2.2)
 7. Lü Shuai, Li Zongze, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. Expert Systems with Applications, 2024, 241: 122577. (中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)
 8. Shen Chun, Zhu Sheng, Han Shuai, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. Expert Systems with Applications, 2023, 231: 120693. (中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)
 9. Han Shuai, Zhou Wenbo, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. Information Sciences, 2023, 622: 476-489. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)
