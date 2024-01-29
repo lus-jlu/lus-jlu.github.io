@@ -167,7 +167,7 @@
 
 主要代表性学术论文：
 
-1. Zhang Xinyu, Kang Meng, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
+1. Zhang Xinyu, Kang Meng, Lü Shuai\*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
 2. Zhang Shaojie, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
 3. Zhu Sheng, Shen Chun, Lü Shuai*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada, February 20-27, 2024. (CCF推荐A类会议, CORE推荐A*类会议)
 4. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023), Macao, China, August 19-25, 2023, 3750-3758. (CCF推荐A类会议, CORE推荐A*类会议)
