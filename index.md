@@ -1,4 +1,4 @@
-[个人介绍] [教学经历](https://github.com/lus-jlu/lus-jlu.github.io/edit/ml/index.md#%E6%95%99%E5%AD%A6%E7%BB%8F%E5%8E%86) [教学工作] [科研工作] [人才培养]
+[个人介绍] [教学经历](# 教学经历) [教学工作] [科研工作] [人才培养]
 
 # 欢迎浏览吕帅（Lü Shuai）的个人主页！
 
