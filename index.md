@@ -178,13 +178,13 @@
 13. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (2023.12 Submitted)
 14. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (2023.05 Submitted; 2023.07 Revised; 2023.09 Revised; 2023.10 Revised; 2024.02 Revised)
 15. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2024. (2024.01 Submitted)
-16. Zhou Ruikai, Lu Jiayi, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (2023.09 Submitted)
+16. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (2023.09 Submitted)
 17. Luo Jing, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (2023.12 Submitted)
 18. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (2024.02 Submitted)
 19. Zhu Sheng, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2024. (2024.01 Submitted)
 20. **Lü Shuai**, Kang Meng, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence. 2024. (2024.01 Submitted)
-21. Li Junjie, Li Jingyao, Zhou Wenbo, **Lü Shuai\***. Evolutionary generative adversarial networks based on new fitness function and generic crossover operator. 2021. (2021.08 Submitted; 2022.10 Revised; 2023.07 Revised)
-22. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. 2023. (2023.04 Submitted; 2024.02 Revised; 2024.03 Revised)
+21. Li Junjie, Li Jingyao, Zhou Wenbo, **Lü Shuai\***. Evolutionary generative adversarial networks based on new fitness function and generic crossover operator. 2024. (2024.04 Submitted)
+22. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. 2023. (2023.04 Submitted; 2024.02 Revised; 2024.03 Revised; 2024.04 Revised)
 
 主要代表性学术论文：
 1. Zhang Xinyu, Kang Meng, **Lü Shuai\***. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
