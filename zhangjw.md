@@ -6,7 +6,6 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 天翼云科技有限公司
 
-
 # 【学术论文】在国内外期刊和会议上发表学术论文7篇，在审学术论文1篇。
 1. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, Lü Shuai*. Proximal policy optimization with reward-based prioritization, 2023. (Submitted)
 
@@ -23,7 +22,6 @@
 7. Li Junjie, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021), Virtual Event, July 18-22, 2021, 1-8. (CCF推荐C类会议, CORE推荐B类会议)
 
 8. Lü Shuai*, Han Shuai, Zhou Wenbo, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. Information Sciences, 2021, 553: 172-188. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)
-
 
 # 【学位论文】
 1. 张峻伟.  基于过估计控制与探索增强的强化学习优化方法[硕士学位论文]. 长春: 吉林大学, 2023.
@@ -49,8 +47,6 @@
 - 2022-2023学年，研究生学业奖学金
 - 2023.06，吉林大学优秀毕业研究生
 - 2023.06，吉林大学优秀硕士学位论文：基于过估计控制与探索增强的强化学习优化方法
-
-
 
 # 【联系方式】
 
