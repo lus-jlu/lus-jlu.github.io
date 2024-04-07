@@ -1,7 +1,7 @@
 # 2020级硕士生（5人）
 
 ---
-<img src="zhangjw.jpg" width="150" align="center">
+<img src="zhangjw2020.jpg" width="150" align="center">
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
 - 2016.09-2020.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -49,6 +49,6 @@
 - 办公：吉林大学王湘浩楼B227室
 - 地址：长春市前进大街2699号，130012
 ---
-<img src="lizz.jpg" width="150" align="center">
+<img src="lizz2020.jpg" width="150" align="center">
 
 ## 李宗泽，
