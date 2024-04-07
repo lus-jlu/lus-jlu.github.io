@@ -1,4 +1,4 @@
-<img src="zhangjunwei2020.jpg" width=30% align=center>
+<img src="zhangjunwei2020.jpg" width=30% align="center">
 
 # 张峻伟，男，1998年12月生，吉林省通化市人。
 - 2016.09-2020.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
