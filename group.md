@@ -31,15 +31,140 @@
 
 <img src="xiongx2021.jpg" width="150" align="center">
 
+## 熊玺，男，1997年05月生，山西省运城市人。
+- 2017.09-2021.06，山西大学数学科学学院信息与计算科学专业，本科生
+- 2021.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授、申春副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
+1. **Xiong Xi**, Shen Chun, Wu Junhong, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels, 2023. (Submitted)
+2. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning, 2023. (Submitted)
+3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
+
+## 【荣誉奖励】
+- 2017-2018学年，校优秀学生干部
+- 2018-2019学年，国家励志奖学金、校三好学生
+- 2019-2020学年，国家励志奖学金、三等奖学金
+- 2020-2021学年，三等奖学金、校三好学生
+- 2021-2022学年，研究生学业奖学金
+- 2022-2023学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：xiongxi21@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B230室
+- 地址：长春市前进大街2699号，130012
+
+
 <img src="longzh2021.jpg" width="150" align="center">
+
+## 龙泽泓，男，1999年06月生，山西省大同市人。
+- 2017.09-2021.06，山西大学数学科学学院信息与计算科学专业，本科生
+- 2021.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+1. Zhu Wenbo, Lü Shuai*, **Long Zehong**, Wu Junhong. Feature distillation for curiosity-driven exploration, 2023. (Submitted)
+2. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance, 2023. (Submitted)
+3. **Long Zehong**, Zhu Wenbo, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay, 2023. (Submitted)
+4. Luo Jing, Liu Jie, **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration, 2023. (Submitted)
+
+## 【联系方式】
+- 邮箱：longzh21@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B227室
+- 地址：长春市前进大街2699号，130012
+
 
 <img src="shum2021.png" width="150" align="center">
 
+## 舒曼，女，1999年10月生，吉林省长春市人。
+- 2017.09-2021.06，吉林大学软件学院软件工程专业，本科生
+- 2021.09至今，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. **Shu Man**, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory, 2023. (Submitted)
+
+## 【荣誉奖励】
+- 2017-2018学年，三等奖学金
+- 2018.12，全国大学生数学建模竞赛，省级一等奖
+- 2018-2019学年，三等奖学金
+- 2019.04，美国大学生数学建模竞赛，国家级一等奖
+- 2019.12，全国大学生数学建模竞赛，省级一等奖
+- 2019-2020学年，三等奖学金
+- 2022-2023学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：shuman21@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B227室
+- 地址：长春市前进大街2699号，130012
+
+
 <img src="zhangys2021.jpg" width="150" align="center">
+
+## 张玉树，男，1999年06月生，河北省辛集市人。
+- 2017.09-2021.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2021.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授、申春副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
+1. **Zhang Yushu**, Shen Chun, An Daolong, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution, 2023. (Submitted) 
+2. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance, 2023. (Submitted)
+3. Luo Jing, Liu Jie, Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration, 2023. (Submitted)
+
+## 【联系方式】
+- 邮箱：yushu21@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B230室
+- 地址：长春市前进大街2699号，130012
+
 
 <img src="maq2021.jpg" width="150" align="center">
 
+## 马强，男，1996年01月生，山西省阳泉市人。
+- 2014.09-2018.06，上海电机学院电子信息学院物联网工程专业，本科生
+- 2021.09至今，吉林大学软件学院软件工程专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
+1. **Ma Qiang**, Lü Shuai*, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption, 2023. (Submitted)
+2. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration, 2023. (Submitted)
+
+## 【荣誉奖励】
+- 2014-2015学年，二等奖学金
+- 2015-2016学年，二等奖学金
+- 2016-2017学年，上海市奖学金、一等奖学金、校三好学生
+- 2017.08，全国大学生物联网设计竞赛（华为杯），华东赛区二等奖
+- 2018.06，上海电机学院优秀本科毕业生
+
+## 【联系方式】
+- 邮箱：maqiang21@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B230室
+- 地址：长春市前进大街2699号，130012
+
+
 <img src="luoj2021.jpg" width="150" align="center">
+
+## 罗敬，男，1999年07月生，四川省自贡市人。
+- 2017.09-2021.06，成都信息工程大学计算机学院计算机科学与技术专业，本科生
+- 2021.09至今，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授、刘杰副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. **Luo Jing**, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration, 2023. (Submitted)
+
+## 【荣誉奖励】
+- 2017-2018学年，二等奖学金
+- 2018-2019学年，国家励志奖学金、一等奖学金
+- 2019.03，蓝桥杯全国软件和信息技术专业人才大赛，省级一等奖
+- 2020.12，成都信息工程大学优秀本科毕业生
+- 2020-2021学年，一等奖学金
+- 2021-2022学年，二等奖学金
+- 2022-2023学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：luojing21@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B227室
+- 地址：长春市前进大街2699号，130012
+
 
 <img src="zhuwb2022.jpg" width="150" align="center">
 
