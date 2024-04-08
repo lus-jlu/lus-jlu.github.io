@@ -43,9 +43,93 @@
 
 <img src="zhuwb2022.jpg" width="150" align="center">
 
+## 朱文博，女，2000年08月生，吉林省长春市人。
+- 2018.09-2022.06，吉林大学软件学院软件工程专业，本科生
+- 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文6篇。
+1. **Zhu Wenbo**, Lü Shuai*, Long Zehong, Wu Junhong. Feature distillation for curiosity-driven exploration, 2023. (Submitted)
+2. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution, 2023. (Submitted)
+3. Long Zehong, **Zhu Wenbo**, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay, 2023. (Submitted)
+4. Zhou Ruikai, Lu Jiayi, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs, 2023. (Submitted)
+5. Luo Jing, Liu Jie, Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration, 2023. (Submitted)
+6. Zhu Sheng, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task, 2022. (Submitted)
+7. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
+
+## 【荣誉奖励】
+- 2018-2019学年，二等奖学金
+- 2019.11，全国大学生数学建模竞赛，省级一等奖
+- 2019-2020学年，二等奖学金
+- 2020.11，全国大学生数学建模竞赛，省级一等奖
+- 2020-2021学年，二等奖学金、院优秀学生
+- 2022.06，吉林大学优秀本科毕业论文：基于策略参数多样性的深度强化学习算法的设计与实现
+- 2022年度，研究生新生奖学金
+- 2022-2023学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2023-2024学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：zhuwb22@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B227室
+- 地址：长春市前进大街2699号，130012
+
 <img src="zhangxy2022.jpg" width="150" align="center">
 
+## 张鑫宇，男，1999年04月生，黑龙江省齐齐哈尔市人。
+- 2018.09-2022.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
+1. Lü Shuai, **Zhang Xinyu**, Li Zongze, Kang Meng, Li Jingyao*. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
+2. **Zhang Xinyu**, Kang Meng, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议)**
+3. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 8.5)**
+
+## 【荣誉奖励】
+- 2018-2019学年，二等奖学金、院优秀学生
+- 2019-2020学年，二等奖学金、院优秀学生
+- 2020-2021学年，二等奖学金、院优秀学生
+- 2021-2022学年，三等奖学金
+- 2022.06，吉林大学优秀本科毕业论文：基于双分类器确定性最大化的无监督领域自适应算法的设计和实现
+- 2022年度，研究生新生奖学金
+- 2022-2023学年，研究生学业奖学金
+- 2023-2024学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：zhang_xinyu22@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B230室
+- 地址：长春市前进大街2699号，130012
+
+
 <img src="zhangzy2022.jpg" width="150" align="center">
+
+## 张泽宇，男，2000年09月生，山东省滨州市人。
+- 2018.09-2022.06，内蒙古大学计算机学院（软件学院）计算机科学与技术专业，本科生（学业排名和综合排名均为第1/38名）
+- 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅副教授、申春副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
+1. **Zhang Zeyu**, Shen Chun, Lü Shuai*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation, 2024. (Submitted)
+2. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration, 2023. (Submitted)
+3. Zhang Shaojie, Shen Chun, Lü Shuai*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议)**
+
+## 【荣誉奖励】
+- 2019.04，中国高校计算机大赛团体程序设计天梯赛，省级特等奖
+- 2019-2020学年，一等奖学金、校三好学生
+- 2020.10，东北地区大学生程序设计竞赛，优胜奖
+- 2020.12，中国高校计算机大赛团体程序设计天梯赛，省级一等奖
+- 2020-2021学年，国家奖学金
+- 2022.06，内蒙古大学优秀本科毕业论文：面向OBE模式的工程教育认证自评与辅助管理系统
+- 2022.12，中国研究生数学建模竞赛，国家级一等奖
+- 2022-2023学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2023年度，浪潮奖学金
+- 2023-2024学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：zeyuz22@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B230室
+- 地址：长春市前进大街2699号，130012
+
 
 <img src="lindj2022.jpg" width="150" align="center">
 
