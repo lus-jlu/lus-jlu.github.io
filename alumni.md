@@ -100,7 +100,7 @@
 2. Zhou Ruikai, Lu Jiayi, Zhu Wenbo, Han Shuai, **Kang Meng**, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs, 2023. (Submitted)
 3. Lü Shuai, Zhang Xinyu, Li Zongze, Li Jingyao*, **Kang Meng**. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
 4. Lü Shuai, **Kang Meng**, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence, 2022. (Submitted)
-5. Zhang Xinyu, **Kang Meng**, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议, CORE推荐A*类会议)**
+5. Zhang Xinyu, **Kang Meng**, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议)**
 6. Lu Jiayi, Han Shuai, Lü Shuai*, **Kang Meng**, Zhang Junwei. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
 
 ## 【学位论文】
@@ -434,7 +434,7 @@
 6. 李壮, 刘磊, 张桐搏, **周文博**, 吕帅*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
 7. Lü Shuai*, Han Shuai, **Zhou Wenbo**, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
 8. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
-9. **Zhou Wenbo**, Dague Philippe, Liu Lei*, Ye Lina, Zaidi Fatiha. A coloured Petri nets based attack tolerance framework. In: **Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC 2020)**, Singapore, December 1-4, 2020, 159-168. **(CCF推荐C类会议, CORE推荐B类会议)**
+9. **Zhou Wenbo**, Dague Philippe, Liu Lei*, Ye Lina, Zaidi Fatiha. A coloured Petri nets based attack tolerance framework. In: **Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC 2020)**, Singapore, December 1-4, 2020, 159-168. **(CCF推荐C类会议)**
 10. **Zhou Wenbo**, Liu Lei, Lü Shuai, Zhang Peng*. Toward formal modeling and verification of resource provisioning as a service in cloud. **IEEE Access**, 2019, 7: 26721-26730. **(中科院2区期刊, SCI, IF: 3.745)**
 11. **周文博**, 刘磊, 张鹏*, 吕帅. Tabular表达式中正规函数表操作的形式语义. **华南理工大学学报(自然科学版)**, 2019, 47(2): 85-91.
 12. Ren Junqi, Liu Lei, Liu Feng, **Zhou Wenbo**, Lü Shuai*. An executable specification of Map-Join-Reduce using Haskell. **IEEE Access**, 2019, 7: 10892-10904. **(中科院2区期刊, SCI, IF: 3.745)**
@@ -779,7 +779,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 10. **牛当当**, 刘磊, 吕帅*. EPCCL理论的求交知识编译算法. **软件学报**, 2017, 28(8): 2096-2112. **(CCF推荐中文A类期刊)**
 11. Zhang Xindi, Xie Xiaojie, Pan Yancen, **Niu Dangdang**, Lü Shuai*. A new method for computing preferred extensions. In: **Proceedings of the 2nd International Conference on Intelligent Information Processing (IIP 2017)**, Bangkok, Thailand, July 17-18, 2017, ACM ICPS 131840, a3.
 12. **Niu Dangdang**, Liu Lei, Zhang Xin, Lü Shuai*, Li Zhuang. Security analysis model, system architecture and relation model of enterprise cloud services. **International Journal of Automation and Computing**, 2016, 13(6): 574-584.
-13. **Niu Dangdang**, Liu Lei, Lü Shuai*. A new stochastic local search approach for computing preferred extensions of abstract argumentation. In: **Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)**, The Hague, The Netherlands, August 29 - September 2, 2016, FAIA 285, 1652-1653. **(CCF推荐B类会议, CORE推荐A类会议, 短文)**
+13. **Niu Dangdang**, Liu Lei, Lü Shuai*. A new stochastic local search approach for computing preferred extensions of abstract argumentation. In: **Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)**, The Hague, The Netherlands, August 29 - September 2, 2016, FAIA 285, 1652-1653. **(CCF推荐B类会议, 短文)**
 14. 刘磊, **牛当当**, 吕帅*. 基于超扩展规则的知识编译方法. **计算机学报**, 2016, 39(8): 1681-1696. **(CCF推荐中文A类期刊)**
 15. 刘磊, **牛当当**, 李壮, 吕帅*. 基于超扩展规则的动态在线推理算法. **哈尔滨工程大学学报**, 2015, 36(12): 1614-1619.
 
