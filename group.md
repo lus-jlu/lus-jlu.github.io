@@ -1,16 +1,11 @@
-# 2010年至今指导和协助指导的毕业研究生
-- 2020级：张峻伟、李宗泽、康勐、龚晓宇、朱盛
-- 2019级：于佳玉、张正昊、路笳艺
-- 2018级：李静瑶、李俊劼、刘京、韩帅
-- 2017级：周文博、张桐搏、徐玥
-- 2016级：贺甫霖、邹璐琨
-- 2015级：牛当当、李壮、王强、李广力、王冠成
-- 2014级：杨洋、刘丰
-- 2012级：牛当当、李壮
-- 2011级：张鑫、刘冬清
-- 2010级：魏唯、邹婷婷
+# 目前指导和协助指导的在读研究生
+- 2020级：周瑞凯
+- 2021级：熊玺、龙泽泓、舒曼、张玉树、马强、罗敬
+- 2022级：朱文博、张鑫宇、张泽宇、林炟君、张少杰、钟太鸿、吴珺泓、安道龙
+- 2023级：李松霖、袁健会、肖威
+- 2024级：方文思、李贵祥、吴昊、孙耕浩、章晓丹、陈黄洋、张涛、檀磊、侯志斌
 
-<img src="zhangjw2020.jpg" width="150" align="center">
+<img src="zhourk2020.jpg" width="150" align="center">
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
 - 2016.09-2020.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -55,3 +50,55 @@
 
 ## 【联系方式】
 - 邮箱：junwei20@mails.jlu.edu.cn
+
+<img src="xiongx2021.jpg" width="150" align="center">
+
+<img src="longzh2021.jpg" width="150" align="center">
+
+<img src="shum2021.jpg" width="150" align="center">
+
+<img src="zhangys2021.jpg" width="150" align="center">
+
+<img src="maq2021.jpg" width="150" align="center">
+
+<img src="luoj2021.jpg" width="150" align="center">
+
+<img src="zhuwb2022.jpg" width="150" align="center">
+
+<img src="zhangxy2022.jpg" width="150" align="center">
+
+<img src="zhangzy2022.jpg" width="150" align="center">
+
+<img src="lindj2022.jpg" width="150" align="center">
+
+<img src="zhangsj2022.jpg" width="150" align="center">
+
+<img src="zhongth2022.jpg" width="150" align="center">
+
+<img src="wujh2022.jpg" width="150" align="center">
+
+<img src="andl2022.jpg" width="150" align="center">
+
+<img src="lisl2023.jpg" width="150" align="center">
+
+<img src="yuanjh2023.jpg" width="150" align="center">
+
+<img src="xiaow2023.jpg" width="150" align="center">
+
+<img src="fangws2024.jpg" width="150" align="center">
+
+<img src="ligx2024.jpg" width="150" align="center">
+
+<img src="wuh2024.jpg" width="150" align="center">
+
+<img src="sungh2024.jpg" width="150" align="center">
+
+<img src="zhangxd2024.jpg" width="150" align="center">
+
+<img src="chenhy2024.jpg" width="150" align="center">
+
+<img src="zhangt2024.jpg" width="150" align="center">
+
+<img src="tanl2024.jpg" width="150" align="center">
+
+<img src="houzb2024.jpg" width="150" align="center">
