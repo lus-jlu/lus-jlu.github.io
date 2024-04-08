@@ -70,7 +70,151 @@
 
 ## 李宗泽，
 
+<img src="hefl2016.jpg" width="150" align="center">
 
+## 贺甫霖，男，1993年05月生，吉林省吉林市人。
+- 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2016.09-2019.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生
+- 研究方向：人工智能、自动推理
+- 毕业去向：[长春] 中车长春轨道客车股份有限公司，现为中国科学院沈阳自动化研究所科研人员
+
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇。
+1. **贺甫霖**, 刘磊, 吕帅*, 牛当当, 王强. 基于格局检测的模型计数方法. **软件学报**, 2020, 31(2): 395-405. **(CCF推荐中文A类期刊)**
+
+## 【学位论文】
+1. **贺甫霖**. 基于局部搜索的模型计数方法研究[硕士学位论文]. 长春: 吉林大学, 2019.
+
+## 【荣誉奖励】
+- 2016.06，吉林大学优秀本科毕业论文：基于格局检测的模型计数方法
+- 2017-2018学年，二等奖学金、研究生学业奖学金
+- 2018年度，研究生国家奖学金
+- 2018-2019学年，研究生学业奖学金
+- 2020年度，研究生学术业绩三等奖学金
+
+
+<img src="zoulk2016.jpg" width="150" align="center">
+
+## 邹璐琨，男，1994年01月生，河南省三门峡市人。
+- 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2016.09-2019.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生
+- 研究方向：云计算、编译优化
+- 毕业去向：[上海] 中国银联股份有限公司
+
+## 【学位论文】
+1. **邹璐琨**. 基于信任模型的云服务评价与推荐方法研究[硕士学位论文]. 长春: 吉林大学, 2019.
+
+
+<img src="wangq2015.jpg" width="150" align="center">
+
+## 王强，男，1994年07月生，山西省霍州市人。
+- 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 研究方向：人工智能、自动推理与机器学习
+- 毕业去向：[北京] 阿里巴巴网络技术有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文5篇。
+1. 贺甫霖, 刘磊, 吕帅*, 牛当当, **王强**. 基于格局检测的模型计数方法. **软件学报**, 2020, 31(2): 395-405. **(CCF推荐中文A类期刊)**
+2. 吕帅, 张桐搏, **王强**, 刘磊*. 两种新的基于扩展规则#SAT问题求解算法. **东北大学学报(自然科学版)**, 2019, 40(5): 630-634, 646.
+3. **王强**, 刘磊, 吕帅*. 基于扩展规则的启发式#SAT求解算法. **软件学报**, 2018, 29(11): 3517-3527. **(CCF推荐中文A类期刊)**
+4. 刘磊, **王强**, 吕帅*. 模糊命题模态逻辑的Tableau方法. **哈尔滨工程大学学报**, 2017, 38(6): 914-920.
+5. Li Guangli, Wang Guancheng, **Wang Qiang**, Fei Fan, Lü Shuai, Guo Degui*. ANN*: A heuristic search algorithm based on artificial neural networks. In: **Proceedings of the International Conference on Intelligent Information Processing (ICIIP 2016)**, Wuhan, China, December 23-25, 2016, ACM ICPS 126594, 51.
+
+## 【学位论文】
+1. **王强**. 基于扩展规则的#SAT求解算法研究[硕士学位论文]. 长春: 吉林大学, 2018.
+
+## 【社会实践】
+- 吉林大学2016年研究生暑期社会实践调研项目：寻找红色印记，传承革命精神
+
+## 【荣誉奖励】
+- 2015年度，研究生新生奖学金
+- 2015-2016学年，一等奖学金、优秀研究生、优秀研究生干部、研究生学业奖学金
+- 2016年度，华为奖学金
+- 2016.11，全国研究生数学建模竞赛，国家级二等奖
+- 2016.12，CCF大数据与计算智能大赛：农产品价格预测分析，三等奖，4/740
+- 2016.12，获得中国商业联合会2016年度全国商业科技进步一等奖：形式化新方法及其在云计算中的应用（2016-1-54）第12完成人
+- 2016-2017学年，一等奖学金、优秀研究生、优秀研究生干部、研究生学业奖学金
+- 2017年度，研究生国家奖学金
+- 2017-2018学年，研究生学业奖学金
+- 2018.06，吉林大学优秀毕业研究生
+
+
+<img src="ligl2015.jpg" width="150" align="center">
+
+## 李广力，男，1992年03月生，吉林省长春市人。
+- 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机技术专业，创新人才推荐免试硕士研究生
+- 研究方向：人工智能、深度学习、程序优化
+- 毕业去向：[北京] 中国科学院计算技术研究所博士生，现为中国科学院计算技术研究所助理研究员
+
+## 【学术论文】在国内外期刊和会议上发表学术论文12篇，第一完成人获得国家实用新型专利授权1项。
+1. 吕帅, 徐玥, 张桐搏, **李广力**, 池策. 云环境下网络感知的虚拟机分配问题的求解方法. **吉林大学学报(工学版)**, 2020, 50(4): 1455-1464.
+2. **Li Guangli**, Liu Lei, Zhang Tongbo, Yu Hang, Xu Yue, Lü Shuai*. Visual field movement detection model based on low-resolution images. **International Journal of Embedded Systems**, 2020, 12(1): 93-105.
+3. Yu Boyang, Shao Jiejing, Cheng Quan, Yu Hang, **Li Guangli**, Lü Shuai*. Multi-source news recommender system based on convolutional neural networks. In: **Proceedings of the 3rd International Conference on Intelligent Information Processing (ICIIP 2018)**, Guilin, China, May 19-20, 2018, ACM ICPS 140156, 17-23.
+4. 杨洋, 刘磊, **李广力**, 张桐搏, 吕帅*. 一种新的基于局部搜索的扩展规则推理方法. **计算机学报**, 2018, 41(4): 825-839. **(CCF推荐中文A类期刊)**
+5. Yu Hang, Cheng Quan, Shao Jiejing, Yu Boyang, **Li Guangli**, Lü Shuai*. WPNet: Wallpaper recommendation with deep convolutional neural networks. In: **Proceedings of the 5th International Conference on Geo-Spatial Knowledge and Intelligence (GSKI 2017)**, Chiang Mai, Thailand, December 8-10, 2017, CCIS 849, 531-543.
+6. Tan Mingzhe, Chi Ce, Zhang Jiahao, Zhao Shichang, **Li Guangli**, Lü Shuai*. An energy-aware virtual machine placement algorithm in cloud data center. In: **Proceedings of the 2nd International Conference on Intelligent Information Processing (IIP 2017)**, Bangkok, Thailand, July 17-18, 2017, ACM ICPS 131840, a1.
+7. Liu Lei, Yang Yang, **Li Guangli**, Wang Qi, Lü Shuai*. Redundancy checking algorithms based on parallel novel extension rule. **Journal of Experimental & Theoretical Artificial Intelligence**, 2017, 29(3): 629-647. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 1.011)**
+8. 刘磊, **李广力**, 徐玥, 张桐搏, 吕帅*. 基于移动平台的异构并行字符串匹配算法. **吉林大学学报(理学版)**, 2017, 55(1): 82-88.
+9. **Li Guangli**, Wang Guancheng, Wang Qiang, Fei Fan, Lü Shuai, Guo Degui*. ANN*: A heuristic search algorithm based on artificial neural networks. In: **Proceedings of the International Conference on Intelligent Information Processing (ICIIP 2016)**, Wuhan, China, December 23-25, 2016, ACM ICPS 126594, 51.
+10. 杨洋, **李广力**, 张桐搏, 刘磊, 吕帅*. 命题模态逻辑S5系统中并行推理方法. **计算机科学与探索**, 2016, 10(12): 1783-1792. **(CCF推荐中文B类期刊)**
+11. Zhang Tongbo, **Li Guangli**, Yang Yang, Xu Yue, Lü Shuai*. Fragmented files restoration algorithm based on character characteristic. **Journal of Computational Information Systems**, 2015, 11(22): 8405-8412.
+12. Zhang Tongbo, Xu Yue, **Li Guangli**, Weng Jie, Lü Shuai*. HCCA: A cryptogram analysis algorithm based on hill climbing. In: **Proceedings of the 5th International Conference on Logistics Engineering, Management and Computer Science (LEMCS 2015)**, Shenyang, China, July 29-31, 2015, AISR 117, 336-340.
+
+## 【学位论文】
+1. **李广力**. 面向稀疏数据的GPU程序优化技术研究[硕士学位论文]. 长春: 吉林大学, 2018.
+
+## 【科研项目】
+- 吉林大学2016年研究生创新研究计划项目：面向深度学习的领域特定语言的设计与实现（2016181）
+项目负责人：李广力；执行期间：2016.07-2017.06；经费：0.6万
+
+## 【社会实践】
+- 吉林大学2016年研究生暑期社会实践调研项目：寻找红色印记，传承革命精神
+
+## 【荣誉奖励】
+- 2014.07，吉林省大学生数学建模竞赛，省级二等奖
+- 2015.04，美国大学生数学建模竞赛，国家级三等奖
+- 2015.06，吉林大学优秀本科毕业论文：异构环境下云计算模型研究
+- 2015年度，研究生新生奖学金
+- 2015.12，全国研究生数学建模竞赛，国家级二等奖
+- 2015-2016学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2016年度，奇虎360奖学金
+- 2016.11，全国研究生数学建模竞赛，国家级二等奖
+- 2016.12，获得中国商业联合会2016年度全国商业科技进步一等奖：形式化新方法及其在云计算中的应用（2016-1-54）第10完成人
+- 2016年度，研究生国家奖学金
+- 2016-2017学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2017.12，中国研究生数学建模竞赛，国家级二等奖
+- 2017-2018学年，研究生学业奖学金
+- 2018.06，吉林大学优秀毕业研究生
+
+
+<img src="wanggcl2015.jpg" width="150" align="center">
+
+## 王冠成，男，1993年07月生，江苏省连云港市人。
+- 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 研究方向：编程语言与机器学习
+- 毕业去向：[北京] 北京大学博士生
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇。
+1. 郭德贵, **王冠成**, 吕帅, 刘磊*. peC语言的部分求值器及在编译器测试中的应用. **软件学报**, 2017, 28(5): 1221-1232. **(CCF推荐中文A类期刊)**
+2. Li Guangli, **Wang Guancheng**, Wang Qiang, Fei Fan, Lü Shuai, Guo Degui*. ANN*: A heuristic search algorithm based on artificial neural networks. In: **Proceedings of the International Conference on Intelligent Information Processing (ICIIP 2016)**, Wuhan, China, December 23-25, 2016, ACM ICPS 126594, 51.
+
+## 【学位论文】
+1. **王冠成**. 基于机器学习的编译器测试优化方法研究[硕士学位论文]. 长春: 吉林大学, 2018.
+
+## 【社会实践】
+- 吉林大学2016年研究生暑期社会实践调研项目：寻找红色印记，传承革命精神
+
+## 【荣誉奖励】
+- 2015年度，研究生新生奖学金
+- 2015-2016学年，二等奖学金、研究生学业奖学金
+- 2016年度，华为奖学金
+- 2016.11，全国研究生数学建模竞赛，国家级二等奖
+- 2016-2017学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2017年度，研究生国家奖学金
+- 2017-2018学年，研究生学业奖学金
+- 2018.06，吉林大学优秀硕士学位论文：基于机器学习的编译器测试优化方法研究
+- 2018.06，吉林大学优秀毕业研究生
 
 
 <img src="yangy2014.jpg" width="150" align="center">
@@ -92,7 +236,7 @@
 1. **杨洋**. 基于扩展规则的推理方法研究[硕士学位论文]. 长春: 吉林大学, 2017.
 
 ## 【社会实践】
-1. 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
+- 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
 
 ## 【荣誉奖励】
 - 2014.06，吉林大学优秀本科毕业论文：命题逻辑知识约简与命题模态逻辑推理方法研究
@@ -107,6 +251,7 @@
 - 2017.06，吉林大学优秀硕士学位论文：基于扩展规则的推理方法研究
 - 2017.06，吉林省优秀硕士学位论文：基于扩展规则的推理方法研究
 - 2017.06，吉林大学优秀毕业研究生
+
 
 <img src="liuf2014.jpg" width="150" align="center">
 
@@ -124,7 +269,7 @@
 1.**刘丰**. 基于细胞膜演算的Dryad形式化描述[硕士学位论文]. 长春: 吉林大学, 2017.
 
 ## 【社会实践】
-1. 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
+- 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
 
 ## 【荣誉奖励】
 - 2014年度，研究生新生奖学金
@@ -132,6 +277,7 @@
 - 2015-2016学年，二等奖学金、研究生学业奖学金
 - 2016-2017学年，研究生学业奖学金
 - 2017.06，吉林大学优秀毕业研究生
+
 
 <img src="niudd2012.jpg" width="150" align="center">
 
@@ -175,6 +321,7 @@
 - 2018.06，吉林大学优秀博士学位论文：基于扩展规则的知识编译方法研究
 - 2019年度，研究生学术业绩三等奖学金
 
+
 <img src="liz2012.jpg" width="150" align="center">
 
 ## 李壮，男，1988年11月生，吉林省白城市人。
@@ -201,6 +348,7 @@
 - 2016-2017学年，研究生学业奖学金
 - 2017-2018学年，研究生学业奖学金
 
+
 <img src="zhangx2011.jpg" width="150" align="center">
 
 ## 张鑫，女，1988年10月生，北京市人。
@@ -220,6 +368,7 @@
 ## 【荣誉奖励】
 - 2011-2012学年，一等奖学金、优秀研究生
 - 2012-2013学年，二等奖学金
+
 
 <img src="liudq2011.jpg" width="150" align="center">
 
@@ -242,6 +391,7 @@
 - 2014.06，吉林大学优秀硕士学位论文：云计算编程模型的形式化描述方法研究
 - 2014.06，吉林省优秀硕士学位论文：云计算编程模型的形式化描述方法研究
 - 2014.06，吉林大学优秀毕业研究生
+
 
 <img src="weiw2010.jpg" width="150" align="center">
 
@@ -271,13 +421,14 @@
 2. **魏唯**. 不确定环境下多目标路径规划方法研究[硕士学位论文]. 长春: 吉林大学, 2010.
 
 ## 【科研项目】
-1. 吉林大学2011年研究生创新研究计划项目：基于增量搜索的动态多目标路径规划方法（20111060）
+- 吉林大学2011年研究生创新研究计划项目：基于增量搜索的动态多目标路径规划方法（20111060）
 项目负责人：魏唯；执行期间：2011.01-2011.12；经费：1.2万
 
 ## 【荣誉奖励】
 - 2010.10，吉林大学博士研究生杰出人才培育资助计划
 - 2012年度，研究生国家奖学金
 - 2013.06，吉林大学优秀毕业研究生
+
 
 <img src="zoutt2010.jpg" width="150" align="center">
 
