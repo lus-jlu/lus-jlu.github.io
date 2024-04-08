@@ -10,14 +10,6 @@
 - 2011级：张鑫、刘冬清
 - 2010级：魏唯、邹婷婷
 
-
-
-
-
-
-
-
-
 <img src="zhangjw2020.jpg" width="150" align="center">
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
@@ -37,7 +29,7 @@
 8. Lü Shuai*, Han Shuai, Zhou Wenbo, **Zhang Junwei**. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
 
 ## 【学位论文】
-1. **张峻伟**.  基于过估计控制与探索增强的强化学习优化方法[硕士学位论文]. 长春: 吉林大学, 2023.
+1. **张峻伟**. 基于过估计控制与探索增强的强化学习优化方法[硕士学位论文]. 长春: 吉林大学, 2023.
 
 ## 【荣誉奖励】
 - 2016-2017学年，一等奖学金、校优秀学生
@@ -63,19 +55,155 @@
 
 ## 【联系方式】
 - 邮箱：junwei20@mails.jlu.edu.cn
-- 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
+
 
 <img src="lizz2020.jpg" width="150" align="center">
 
-## 李宗泽，
+## 李宗泽，男，1998年08月生，河南省焦作市人。
+- 2016.09-2020.06，吉林大学软件学院软件工程专业，本科生
+- 2020.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[上海] 北京酷克数据科技有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
+1. Lü Shuai, Zhang Xinyu, **Li Zongze**, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
+2. Lü Shuai, **Li Zongze**, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+3. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, **Li Zongze**. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+
+## 【学位论文】
+1. **李宗泽**. 无需源域的无监督领域自适应算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
+
+## 【荣誉奖励】
+- 2016-2017学年，三等奖学金
+- 2017-2018学年，二等奖学金
+- 2018.09，CCF计算机软件能力认证，320分
+- 2018-2019学年，二等奖学金、院优秀学生
+- 2020.06，吉林大学优秀本科毕业论文：基于生成对抗网络的域自适应算法设计与实现
+- 2020.12，中国研究生数学建模竞赛，国家级三等奖
+- 2020-2021学年，研究生学业奖学金
+- 2021-2022学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：zzli20@mails.jlu.edu.cn
 
 
 <img src="kangm2020.jpg" width="150" align="center">
 
+## 康勐，男，1998年06月生，陕西省西安市人。
+- 2016.09-2020.06，吉林大学软件学院软件工程专业，本科生
+- 2020.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[北京] 北京京东世纪贸易有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文4篇。
+1. Zhang Zeyu, Shen Chun, Ma Qiang, **Kang Meng**, Lü Shuai*. Prototype-driven active domain adaptation with density consideration, 2023. (Submitted)
+2. Zhou Ruikai, Lu Jiayi, Zhu Wenbo, Han Shuai, **Kang Meng**, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs, 2023. (Submitted)
+3. Lü Shuai, Zhang Xinyu, Li Zongze, Li Jingyao*, **Kang Meng**. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
+4. Lü Shuai, **Kang Meng**, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence, 2022. (Submitted)
+5. Zhang Xinyu, **Kang Meng**, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议, CORE推荐A*类会议)**
+6. Lu Jiayi, Han Shuai, Lü Shuai*, **Kang Meng**, Zhang Junwei. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+
+## 【学位论文】
+1. **康勐**. 基于自监督学习的多源领域适应方法研究[硕士学位论文]. 长春: 吉林大学, 2023.
+
+## 【荣誉奖励】
+- 2016-2017学年，二等奖学金、院优秀学生
+- 2017-2018学年，三等奖学金
+- 2018-2019学年，二等奖学金、院优秀学生
+- 2020.06，吉林大学优秀本科毕业论文：基于条件对抗网络的域适应和域泛化方法研究
+- 2020.12，中国研究生数学建模竞赛，国家级三等奖
+
+## 【联系方式】
+- 邮箱：kangmeng20@mails.jlu.edu.cn
+
+
 <img src="gongxy2020.jpg" width="150" align="center">
 
+## 龚晓宇，男，1997年12月生，湖北省十堰市人。
+
+2016.09-2020.06，吉林大学计算机科学与技术学院物联网工程专业，本科生
+
+2020.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，创新推免硕士生（导师：吕帅副教授）
+
+研究方向：人工智能、机器学习
+
+毕业去向：[上海] 中信证券股份有限公司
+
+
+## 【学术论文】在国内外期刊和会议上发表学术论文7篇，在审学术论文1篇。
+1. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory, 2023. (Submitted)
+2. Shen Chun, Zhu Sheng, Han Shuai, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. Expert Systems with Applications, 2023, 231: 120693. (中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)
+3. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023), Macao, China, August 19-25, 2023, 3750-3758. (CCF推荐A类会议, CORE推荐A*类会议)
+4. Han Shuai, Zhou Wenbo, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. Information Sciences, 2023, 622: 476-489. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)
+5. 张峻伟, 吕帅*, 张正昊, 于佳玉, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. 软件学报, 2022, 33(11): 4217-4238. (CCF推荐中文A类期刊)
+6. 吕帅*, 龚晓宇, 张正昊, 韩帅, 张峻伟. 结合进化算法的深度强化学习方法研究综述. 计算机学报, 2022, 45(7): 1478-1499. (CCF推荐中文A类期刊)
+7. Gong Xiaoyu, Yu Jiayu, Lü Shuai*, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. Information Sciences, 2022, 582: 633-647. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)
+8. Li Junjie, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021), Virtual Event, July 18-22, 2021, 1-8. (CCF推荐C类会议, CORE推荐B类会议)
+
+## 【学位论文】
+1. 龚晓宇. 基于熟悉度的深度强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
+
+## 【荣誉奖励】
+
+2017-2018学年，二等奖学金、院优秀学生
+
+2018.07，吉林省“互联网+”大学生创新创业大赛，省级金奖
+
+2018-2019学年，二等奖学金、院优秀学生
+
+2019-2020学年，二等奖学金、院优秀学生
+
+2020年度，研究生新生奖学金
+
+2020-2021学年，二等奖学金、研究生学业奖学金
+
+2021年度，吉林银行王湘浩奖学金
+
+2021-2022学年，一等奖学金、优秀研究生、研究生学业奖学金
+
+2022年度，研究生国家奖学金
+
+2022年度，研究生学术业绩二等奖学金
+
+2022-2023学年，研究生学业奖学金
+
+2023.06，吉林大学优秀毕业研究生
+
+
+
+## 【联系方式】
+- 邮箱：gongxy20@mails.jlu.edu.cn
+
+
 <img src="zhus2020.jpg" width="150" align="center">
+
+## 朱盛，男，1999年04月生，江西省赣州市人。
+- 2016.09-2020.06，南昌航空大学软件学院软件工程专业，本科生
+- 2020.09-2023.06，吉林大学软件学院软件工程专业，硕士生（导师：吕帅副教授、申春副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[北京] 北京蓝色创想网络科技有限责任公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
+1. **Zhu Sheng**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task, 2022. (Submitted)
+2. Zhang Junwei, Han Shuai, Xiong Xi, **Zhu Sheng**, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+3. **Zhu Sheng**, Shen Chun, Lü Shuai*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议, CORE推荐A*类会议)**
+4. Shen Chun, **Zhu Sheng**, Han Shuai, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+5. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, **Zhu Sheng**, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+6. Han Shuai, Zhou Wenbo, Lü Shuai*, **Zhu Sheng**, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+
+## 【学位论文】
+1. **朱盛**. 双智能体协作的深度强化学习算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
+
+## 【荣誉奖励】
+- 2016-2017学年，三等奖学金
+- 2017-2018学年，三等奖学金
+- 2018-2019学年，三等奖学金
+- 2020-2021学年，二等奖学金
+- 2021-2022学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：zhusheng20@mails.jlu.edu.cn
+
 
 <img src="yujy2019.jpg" width="150" align="center">
 
@@ -179,7 +307,7 @@
 - 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文8篇，在审学术论文3篇。
-1. Lü Shuai, Zhang Xinyu, Li Zongze, Kang Meng, **Li Jingyao***. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
+1. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
 2. Li Junjie, **Li Jingyao**, Zhou Wenbo, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator, 2021. (Submitted)
 3. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning, 2021. (Submitted)
 4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
@@ -635,7 +763,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 2. 刘磊, **刘丰**, 任俊绮, 吕帅*. 基于细胞膜演算的Dryad形式化描述. **哈尔滨工程大学学报**, 2016, 37(11): 1539-1545.
 
 ## 【学位论文】
-1.**刘丰**. 基于细胞膜演算的Dryad形式化描述[硕士学位论文]. 长春: 吉林大学, 2017.
+1. **刘丰**. 基于细胞膜演算的Dryad形式化描述[硕士学位论文]. 长春: 吉林大学, 2017.
 
 ## 【社会实践】
 - 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
