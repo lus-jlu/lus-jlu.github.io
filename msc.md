@@ -22,7 +22,7 @@
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
 - 2016.09-2020.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2020.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，推荐免试硕士研究生（导师：吕帅副教授）
+- 2020.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 天翼云科技有限公司
 
@@ -79,23 +79,365 @@
 
 <img src="yujy2019.jpg" width="150" align="center">
 
+## 于佳玉，男，1997年04月生，河北省沧州市人。
+- 2015.09-2019.06，吉林大学软件学院软件工程专业，本科生
+- 2019.09-2022.06，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[广东深圳] 深圳市腾讯计算机系统有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文1篇。
+1. **Yu Jiayu**, Li Jingyao, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning, 2021. (Submitted)
+2. Gong Xiaoyu, Lü Shuai*, **Yu Jiayu**, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+3. 张峻伟, 吕帅*, 张正昊, **于佳玉**, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
+4. Gong Xiaoyu, **Yu Jiayu**, Lü Shuai*, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. **Information Sciences**, 2022, 582: 633-647. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+5. Han Shuai, Zhou Wenbo, Lü Shuai*, **Yu Jiayu**. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
+
+## 【学位论文】
+1. **于佳玉**. 基于采样频次和相似性的经验回放[硕士学位论文]. 长春: 吉林大学, 2022.
+
+## 【荣誉奖励】
+- 2015-2016学年，一等奖学金、校优秀学生
+- 2016-2017学年，二等奖学金、院优秀学生
+- 2017.12，全国大学生数学建模竞赛，省级一等奖
+- 2017-2018学年，一等奖学金、院优秀学生
+- 2018-2019学年，三等奖学金
+- 2019.06，吉林大学优秀本科毕业论文：基于Q值估计的深度Q网络学习方法的设计与实现
+- 2019年度，研究生新生奖学金
+- 2019-2020学年，二等奖学金、优秀研究生干部、研究生学业奖学金
+- 2020-2021学年，研究生学业奖学金
+- 2021-2022学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：yujy19@mails.jlu.edu.cn
+
+
 <img src="zhangzh2019.jpg" width="150" align="center">
+
+## 张正昊，男，1996年07月生，河南省安阳市人。
+- 2015.09-2019.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2019.09-2022.06，吉林大学计算机科学与技术学院计算机技术专业，推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[北京] 北京字节跳动科技有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文3篇。
+1. 张峻伟, 吕帅*, **张正昊**, 于佳玉, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
+2. Zhang Junwei, **Zhang Zhenghao**, Han Shuai, Lü Shuai*. Proximal policy optimization via enhanced exploration efficiency. **Information Sciences**, 2022, 609: 750-765. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+3. 吕帅*, 龚晓宇, **张正昊**, 韩帅, 张峻伟. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
+
+## 【学位论文】
+1. **张正昊**. 进化强化学习的优化算法研究[硕士学位论文]. 长春: 吉林大学, 2022.
+
+## 【荣誉奖励】
+- 2016-2017学年，二等奖学金、院优秀学生
+- 2017.07，吉林省大学生数学建模竞赛，省级一等奖
+- 2017.10，全国大学生网络商务创新应用大赛大数据分析专业竞赛，省级一等奖
+- 2017.12，全国大学生数学建模竞赛，省级一等奖
+- 2017-2018学年，一等奖学金、校优秀学生
+- 2018-2019学年，二等奖学金、院优秀学生
+- 2019年度，研究生新生奖学金
+- 2019-2020学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2020-2021学年，研究生学业奖学金
+
 
 <img src="lujy2019.jpg" width="150" align="center">
 
+## 路笳艺，女，1997年03月生，吉林省四平市人。
+- 2015.09-2019.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2019.09-2022.06，吉林大学计算机科学与技术学院计算机软件与理论专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[长春] 北京经纬恒润科技股份有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
+1. Zhou Ruikai, **Lu Jiayi**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs, 2023. (Submitted)
+2. **Lu Jiayi**, Han Shuai, Lü Shuai*, Kang Meng, Zhang Junwei. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+3. Han Shuai, Zhou Wenbo, **Lu Jiayi**, Liu Jing, Lü Shuai*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+
+## 【学位论文】
+1. **路笳艺**. 采样多样性驱动的深度强化学习探索方法研究[硕士学位论文]. 长春: 吉林大学, 2022.
+
+## 【荣誉奖励】
+- 2015-2016学年，三等奖学金
+- 2016-2017学年，二等奖学金、院优秀学生
+- 2017.12，全国大学生数学建模竞赛，省级一等奖
+- 2017-2018学年，三等奖学金
+- 2019-2020学年，二等奖学金、研究生学业奖学金
+- 2020-2021学年，研究生学业奖学金
+- 2022.06，吉林大学优秀毕业研究生
+- 2022.06，吉林大学优秀硕士学位论文：采样多样性驱动的深度强化学习探索方法研究
+
+## 【联系方式】
+- 邮箱：lujy19@mails.jlu.edu.cn
+
+
 <img src="lijy2018.jpg" width="150" align="center">
+
+## 李静瑶，女，1994年10月生，吉林省松原市人。
+- 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2016.09-2018.06，吉林大学计算机科学与技术学院计算机技术专业，推免硕士生
+- 2018.07-2022.06，吉林大学计算机科学与技术学院软件工程专业，推免博士生
+- 研究方向：人工智能、机器学习
+- 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
+
+## 【学术论文】在国内外期刊和会议上发表学术论文8篇，在审学术论文3篇。
+1. Lü Shuai, Zhang Xinyu, Li Zongze, Kang Meng, **Li Jingyao***. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
+2. Li Junjie, **Li Jingyao**, Zhou Wenbo, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator, 2021. (Submitted)
+3. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning, 2021. (Submitted)
+4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+5. **Li Jingyao**, Lü Shuai, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+6. **Li Jingyao**, Lü Shuai, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
+7. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
+8. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院3区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
+9. **Li Jingyao**, Liu Lei, Zhang Peng*. Tabular-expression-based method for constructing metamorphic relations. **Software: Practice and Experience**, 2020, 50(8): 1345-1380. **(中科院3区期刊, CCF推荐B类期刊, SCI, IF: 2.028)**
+10. Hou Yun, **Li Jingyao**, Yu Haihong, Li Zhanshan*. BIFFOA: A novel binary improved fruit fly algorithm for feature selection. **IEEE Access**, 2019, 7: 81177-81194. **(中科院2区期刊, SCI, IF: 3.745)**
+11. Zhou Wenbo, Liu Lei, Zhang Peng*, Lü Shuai, **Li Jingyao**. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
+
+## 【学位论文】
+1. **李静瑶**. 无监督领域适配方法研究[博士学位论文]. 长春: 吉林大学, 2022.
+
+## 【荣誉奖励】
+- 2016-2017学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2017-2018学年，研究生学业奖学金
+- 2018-2019学年，研究生学业奖学金
+- 2019-2020学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2020年度，研究生学术业绩二等奖学金
+- 2020-2021学年，研究生学业奖学金
+- 2022年度，研究生学术业绩二等奖学金
+
+## 【联系方式】
+- 邮箱：jingyao@jlu.edu.cn
+- 办公：吉林大学计算机楼B522室
+- 地址：长春市前进大街2699号，130012
+
 
 <img src="lijj2018.jpg" width="150" align="center">
 
+## 李俊劼，男，1995年10月生，安徽省黄山市人。
+- 2013.09-2018.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2018.09-2021.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[广东深圳] 哈尔滨工业大学（深圳）博士生
+
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
+1. **Li Junjie**, Li Jingyao, Zhou Wenbo, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator, 2021. (Submitted)
+2. **Li Junjie**, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议, CORE推荐B会议)**
+
+## 【学位论文】
+1. **李俊劼**. 含有通用交叉算子的进化生成对抗网络[硕士学位论文]. 长春: 吉林大学, 2021.
+
+## 【荣誉奖励】
+- 2015-2016学年，二等奖学金、院优秀学生
+- 2016-2017学年，三等奖学金
+- 2018年度，研究生新生奖学金
+- 2018-2019学年，研究生学业奖学金
+- 2019-2020学年，研究生学业奖学金
+
+## 【联系方式】
+- 邮箱：junjiel18@mails.jlu.edu.cn
+
+
 <img src="liuj2018.jpg" width="150" align="center">
+
+## 刘京，男，1995年11月生，河南省灵宝市人。
+- 2014.09-2018.06，吉林大学软件学院软件工程专业，本科生
+- 2018.09-2021.06，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习与自动推理
+- 毕业去向：[北京] 华为技术有限公司2012实验室
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇。
+1. Han Shuai, Zhou Wenbo, Lu Jiayi, **Liu Jing**, Lü Shuai*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+2. 吕帅, **刘京**. 基于深度强化学习的随机局部搜索启发式方法. **吉林大学学报(工学版)**, 2021, 51(4): 1420-1426.
+
+## 【学位论文】
+1. **刘京**. 基于深度学习的SAT问题随机局部搜索算法[硕士学位论文]. 长春: 吉林大学, 2021.
+
+## 【荣誉奖励】
+- 2014-2015学年，国家奖学金、校优秀学生
+- 2015-2016学年，国家奖学金、校优秀学生
+- 2016-2017学年，一等奖学金、院优秀学生
+- 2017-2018学年，一等奖学金、校优秀学生
+- 2018年度，研究生新生奖学金
+- 2018-2019学年，二等奖学金、研究生学业奖学金
+- 2019-2020学年，研究生学业奖学金
+- 2020-2021学年，研究生学业奖学金
+- 2021.06，吉林大学优秀毕业研究生
+
 
 <img src="hans2018.jpg" width="150" align="center">
 
+## 韩帅，男，1996年07月生，河北省廊坊市人。
+- 2014.09-2018.06，吉林大学软件学院软件工程专业，本科生
+- 2018.09-2021.06，吉林大学计算机科学与技术学院计算机软件与理论专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[荷兰] Utrecht University（乌特列支大学）国家公派博士生（导师：Mehdi Dastani教授）
+
+## 【学术论文】在国内外期刊和会议上发表学术论文10篇，在审学术论文5篇。
+1. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution, 2023. (Submitted)
+2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance, 2023. (Submitted)
+3. Zhou Ruikai, Lu Jiayi, Zhu Wenbo, **Han Shuai**, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs, 2023. (Submitted)
+4. Zhu Sheng, Shen Chun, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task, 2022. (Submitted)
+5. Yu Jiayu, Li Jingyao, Lü Shuai*, **Han Shuai**. Mixed experience sampling for off-policy reinforcement learning, 2021. (Submitted)
+6. Zhang Junwei, **Han Shuai**, Xiong Xi, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+7. Shen Chun, Zhu Sheng, **Han Shuai**, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+8. **Han Shuai**, Zhou Wenbo, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+9. Lu Jiayi, **Han Shuai**, Lü Shuai*, Kang Meng, Zhang Junwei. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+10. **Han Shuai**, Zhou Wenbo, Lu Jiayi, Liu Jing, Lü Shuai*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+11. Zhang Junwei, Zhang Zhenghao, **Han Shuai**, Lü Shuai*. Proximal policy optimization via enhanced exploration efficiency. **Information Sciences**, 2022, 609: 750-765. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+12. 吕帅*, 龚晓宇, 张正昊, **韩帅**, 张峻伟. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
+13. Lü Shuai*, **Han Shuai**, Zhou Wenbo, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
+14. **Han Shuai**, Zhou Wenbo, Lü Shuai*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
+15. Zhang Lei, **Han Shuai**, Zhang Zhiruo, Li Lefan, Lü Shuai*. Deep recurrent deterministic policy gradient for physical control. In: **Proceedings of the 29th International Conference on Artificial Neural Networks (ICANN 2020)**, Bratislava, Slovakia, September 15-18, 2020, LNCS 12397, 257-268. **(CCF推荐C类会议, CORE推荐B类会议)**
+
+## 【学位论文】
+1. **韩帅**. 基于熵正则化和定期更新的深度确定性策略梯度[硕士学位论文]. 长春: 吉林大学, 2021.
+
+## 【荣誉奖励】
+- 2014-2015学年，三等奖学金
+- 2015-2016学年，二等奖学金
+- 2016-2017学年，二等奖学金
+- 2018-2019学年，二等奖学金、研究生学业奖学金
+- 2019-2020学年，研究生学业奖学金
+- 2021.06，吉林大学优秀毕业研究生
+- 2021.06，吉林大学优秀硕士学位论文：基于熵正则化和定期更新的深度确定性策略梯度
+- 2021.06，吉林省优秀硕士学位论文：基于熵正则化和定期更新的深度确定性策略梯度
+- 2021年度，研究生学术业绩二等奖学金
+
+## 【联系方式】
+- 单位：Department of Information and Computing Sciences, Utrecht University, Utrecht 3584 CC, The Netherlands
+- 邮箱：s.han@uu.nl
+
+
 <img src="zhouwb2017.jpg" width="150" align="center">
+
+## 周文博，男，1991年05月生，吉林省四平市人。
+- 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
+- 2017.09-2021.06，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生
+- 2019.09-2021.03，[法国] Paris-Saclay University（巴黎萨克雷大学），国家公派联合培养博士生（合作导师：Dague Philippe教授，Ye Lina副教授，Zaidi Fatiha副教授）
+- 研究方向：形式化方法与云计算
+- 毕业去向：[长春] 东北师范大学教师
+
+## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文2篇。
+1. Ma Qiang, Lü Shuai*, Zhang Shaojie, Wu Junhong, **Zhou Wenbo**. Contrastive label self-correction for unsupervised domain adaption, 2023. (Submitted)
+2. Li Junjie, Li Jingyao, **Zhou Wenbo**, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator, 2021. (Submitted)
+3. Lü Shuai, Zhang Tongbo, Xu Yue, **Zhou Wenbo**, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 2.2)**
+4. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+5. Han Shuai, **Zhou Wenbo**, Lu Jiayi, Liu Jing, Lü Shuai*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+6. 李壮, 刘磊, 张桐搏, **周文博**, 吕帅*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
+7. Lü Shuai*, Han Shuai, **Zhou Wenbo**, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
+8. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
+9. **Zhou Wenbo**, Dague Philippe, Liu Lei*, Ye Lina, Zaidi Fatiha. A coloured Petri nets based attack tolerance framework. In: **Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC 2020)**, Singapore, December 1-4, 2020, 159-168. **(CCF推荐C类会议, CORE推荐B类会议)**
+10. **Zhou Wenbo**, Liu Lei, Lü Shuai, Zhang Peng*. Toward formal modeling and verification of resource provisioning as a service in cloud. **IEEE Access**, 2019, 7: 26721-26730. **(中科院2区期刊, SCI, IF: 3.745)**
+11. **周文博**, 刘磊, 张鹏*, 吕帅. Tabular表达式中正规函数表操作的形式语义. **华南理工大学学报(自然科学版)**, 2019, 47(2): 85-91.
+12. Ren Junqi, Liu Lei, Liu Feng, **Zhou Wenbo**, Lü Shuai*. An executable specification of Map-Join-Reduce using Haskell. **IEEE Access**, 2019, 7: 10892-10904. **(中科院2区期刊, SCI, IF: 3.745)**
+13. **Zhou Wenbo**, Liu Lei, Zhang Peng*, Lü Shuai, Li Jingyao. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
+14. **周文博**, 刘洪佳, 刘磊, 张鹏*, 吕帅. 一种服务消息交互行为的元建模方法. **计算机科学**, 2017, 44(4): 24-29. **(CCF推荐中文B类期刊)**
+
+## 【学位论文】
+1. **周文博**. 云计算系统的形式化建模与验证方法研究[博士学位论文]. 长春: 吉林大学, 2021.
+
+## 【科研项目】
+- 吉林大学2018年研究生创新研究计划项目：时间与环境感知的云服务形式化验证方法研究
+项目负责人：周文博；执行期间：2018.10-2019.09；经费：0.6万
+
+## 【社会实践】
+- 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
+- 2015.11-2016.11，CCF吉林大学学生分会主席
+
+## 【荣誉奖励】
+- 2014-2015学年，二等奖学金、研究生学业奖学金
+- 2015-2016学年，二等奖学金、研究生学业奖学金
+- 2016年度，浪潮奖学金
+- 2016.12，全国大学生软件测试大赛嵌入式测试大赛，国家级一等奖
+- 2016.12，获得中国商业联合会2016年度全国商业科技进步一等奖：形式化新方法及其在云计算中的应用（2016-1-54）第11完成人
+- 2016-2017学年，研究生学业奖学金
+- 2017.06，吉林大学优秀毕业研究生
+- 2017-2018学年，二等奖学金、研究生学业奖学金
+- 2018-2019学年，二等奖学金、研究生学业奖学金
+- 2019年度，研究生国家奖学金
+- 2019-2020学年，研究生学业奖学金
+- 2020年度，"科研之星"荣誉称号
+- 2020年度，研究生学术业绩三等奖学金
+
+## 【联系方式】
+- 单位：东北师范大学信息科学与技术学院, 长春 130117; 应用统计教育部重点实验室(东北师范大学), 长春 130024; 符号计算与知识工程教育部重点实验室(吉林大学), 长春 130012; 广西多源信息挖掘与安全重点实验室(广西师范大学), 广西桂林 541004
+School of Information Science and Technology, Northeast Normal University, Changchun 130117, China; Key Laboratory of Applied Statistics (Northeast Normal University), Ministry of Education, Changchun 130024, China; Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China; Guangxi Key Laboratory of Multi-source Information Mining and Security (Guangxi Normal University), Guilin 541004, China
+- 邮箱：zhouwb646@nenu.edu.cn
+
 
 <img src="zhangtb2017.jpg" width="150" align="center">
 
+## 张桐搏，男，1995年01月生，吉林省长春市人。
+- 2013.09-2017.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2017.09-2020.06，吉林大学计算机科学与技术学院计算机技术专业，创新人才推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、自动推理
+- 毕业去向：[北京] 微软亚洲互联网工程院
+
+## 【学术论文】在国内外期刊和会议上发表学术论文15篇。
+1. Lü Shuai, **Zhang Tongbo**, Xu Yue, Zhou Wenbo, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 2.2)**
+2. 李壮, 刘磊, **张桐搏**, 周文博, 吕帅*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
+3. 吕帅, 徐玥, **张桐搏**, 李广力, 池策. 云环境下网络感知的虚拟机分配问题的求解方法. **吉林大学学报(工学版)**, 2020, 50(4): 1455-1464.
+4. 李壮, 刘磊, **张桐搏**, 吕帅*. 基于格局检测的并行模型计数方法. **吉林大学学报(工学版)**, 2020, 50(4): 1443-1448.
+5. Li Guangli, Liu Lei, **Zhang Tongbo**, Yu Hang, Xu Yue, Lü Shuai*. Visual field movement detection model based on low-resolution images. **International Journal of Embedded Systems**, 2020, 12(1): 93-105.
+6. 李壮, 刘磊, **张桐搏**, 吕帅*. 基于重启策略的学习子句优化方法. **东北大学学报(自然科学版)**, 2020, 41(1): 44-48.
+7. 吕帅, **张桐搏**, 王强, 刘磊*. 两种新的基于扩展规则#SAT问题求解算法. **东北大学学报(自然科学版)**, 2019, 40(5): 630-634, 646.
+8. Liu Hao, Ni Ziao, Zhou Wenyang, **Zhang Tongbo**, Lü Shuai*. Approximate model counting via extension rule and clause reduction. In: **Proceedings of the 3rd International Conference on Intelligent Information Processing (ICIIP 2018)**, Guilin, China, May 19-20, 2018, ACM ICPS 140156, 40-45.
+9. 杨洋, 刘磊, 李广力, **张桐搏**, 吕帅*. 一种新的基于局部搜索的扩展规则推理方法. **计算机学报**, 2018, 41(4): 825-839. **(CCF推荐中文A类期刊)**
+10. 刘磊, 李广力, 徐玥, **张桐搏**, 吕帅*. 基于移动平台的异构并行字符串匹配算法. **吉林大学学报(理学版)**, 2017, 55(1): 82-88.
+11. 杨洋, 李广力, **张桐搏**, 刘磊, 吕帅*. 命题模态逻辑S5系统中并行推理方法. **计算机科学与探索**, 2016, 10(12): 1783-1792. **(CCF推荐中文B类期刊)**
+12. **Zhang Tongbo**, Li Guangli, Wu Yu, Lü Shuai*. Bitmap image vectorization algorithm based on edge detection. In: **Proceedings of the 2nd International Conference on Mechanical Engineering and Control System (MECS2016)**, Wuhan, China, April 15-17, 2016, 275-281.
+13. **Zhang Tongbo**, Li Guangli, Xu Yue, Yang Yang, Lü Shuai*. Prediction of transportation network based on PageRank algorithm. In: **Proceedings of the 5th International Conference on Advanced Materials and Computer Science (ICAMCS 2016)**, Qingdao, China, March 26-27, 2016, AER 80, 88-94.
+14. **Zhang Tongbo**, Li Guangli, Yang Yang, Xu Yue, Lü Shuai*. Fragmented files restoration algorithm based on character characteristic. **Journal of Computational Information Systems**, 2015, 11(22): 8405-8412.
+15. **Zhang Tongbo**, Xu Yue, Li Guangli, Weng Jie, Lü Shuai*. HCCA: A cryptogram analysis algorithm based on hill climbing. In: **Proceedings of the 5th International Conference on Logistics Engineering, Management and Computer Science (LEMCS 2015)**, Shenyang, China, July 29-31, 2015, AISR 117, 336-340.
+
+## 【学位论文】
+1. **张桐搏**. 基于异或约束约简的近似#SAT求解算法研究[硕士学位论文]. 长春: 吉林大学, 2020.
+
+## 【荣誉奖励】
+- 2015.04，美国大学生数学建模竞赛，国家级三等奖
+- 2015-2016学年，三等奖学金
+- 2016.04，大学生创新创业训练计划————创新训练项目：基于半监督学习的自适应云任务分配策略研究，国家级优秀结题（项目负责人）
+- 2017.04，大学生创新创业训练计划————创新训练项目：云环境下虚拟机迁移选址策略研究，国家级优秀结题（项目负责人）
+- 2017.06，吉林大学优秀本科毕业论文：基于约简策略的模型计数求解方法研究
+- 2017年度，研究生新生奖学金
+- 2017.12，中国研究生数学建模竞赛，国家级二等奖
+- 2017-2018学年，研究生学业奖学金
+- 2018-2019学年，二等奖学金
+- 2019-2020学年，研究生学业奖学金
+- 2020.06，吉林大学优秀毕业研究生
+
+
 <img src="xuy2017.jpg" width="150" align="center">
+
+## 徐玥，女，1994年08月生，吉林省长春市人。
+- 2013.09-2017.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2017.09-2020.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、自动推理
+- 毕业去向：[北京] FreeWheel公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文8篇。
+1. Lü Shuai, Zhang Tongbo, **Xu Yue**, Zhou Wenbo, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 2.2)**
+2. 吕帅, **徐玥**, 张桐搏, 李广力, 池策. 云环境下网络感知的虚拟机分配问题的求解方法. **吉林大学学报(工学版)**, 2020, 50(4): 1455-1464.
+3. Li Guangli, Liu Lei, Zhang Tongbo, Yu Hang, **Xu Yue**, Lü Shuai*. Visual field movement detection model based on low-resolution images. **International Journal of Embedded Systems**, 2020, 12(1): 93-105.
+4. Niu Dangdang, Liu Lei, Lü Shuai*, **Xu Yue**. Complementary knowledge compilation using the hyper extension rule. **Chinese Journal of Electronics**, 2019, 28(2): 259-265. **(中科院4区期刊, SCI, IF: 0.941)**
+5. 刘磊, 李广力, **徐玥**, 张桐搏, 吕帅*. 基于移动平台的异构并行字符串匹配算法. **吉林大学学报(理学版)**, 2017, 55(1): 82-88.
+6. Zhang Tongbo, Li Guangli, **Xu Yue**, Yang Yang, Lü Shuai*. Prediction of transportation network based on PageRank algorithm. In: **Proceedings of the 5th International Conference on Advanced Materials and Computer Science (ICAMCS 2016)**, Qingdao, China, March 26-27, 2016, AER 80, 88-94.
+7. Zhang Tongbo, Li Guangli, Yang Yang, **Xu Yue**, Lü Shuai*. Fragmented files restoration algorithm based on character characteristic. **Journal of Computational Information Systems**, 2015, 11(22): 8405-8412.
+8. Zhang Tongbo, **Xu Yue**, Li Guangli, Weng Jie, Lü Shuai*. HCCA: A cryptogram analysis algorithm based on hill climbing. In: **Proceedings of the 5th International Conference on Logistics Engineering, Management and Computer Science (LEMCS 2015)**, Shenyang, China, July 29-31, 2015, AISR 117, 336-340.
+
+## 【学位论文】
+1. **徐玥**. 云环境下网络感知的虚拟机分配方法研究[硕士学位论文]. 长春: 吉林大学, 2020.
+
+## 【荣誉奖励】
+- 2015-2016学年，二等奖学金
+- 2016.04，大学生创新创业训练计划————创新训练项目：基于半监督学习的自适应云任务分配策略研究，国家级优秀结题（项目成员）
+- 2017.04，大学生创新创业训练计划————创新训练项目：云环境下虚拟机迁移选址策略研究，国家级优秀结题（项目成员）
+- 2017年度，研究生新生奖学金
+- 2017.12，中国研究生数学建模竞赛，国家级二等奖
+- 2017-2018学年，二等奖学金
+- 2018-2019学年，二等奖学金、优秀研究生干部、研究生学业奖学金
+- 2019-2020学年，研究生学业奖学金
+- 2020.06，吉林大学优秀毕业研究生
+
 
 <img src="hefl2016.jpg" width="150" align="center">
 
@@ -135,7 +477,7 @@
 
 ## 王强，男，1994年07月生，山西省霍州市人。
 - 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
 - 研究方向：人工智能、自动推理与机器学习
 - 毕业去向：[北京] 阿里巴巴网络技术有限公司
 
@@ -169,7 +511,7 @@
 
 ## 李广力，男，1992年03月生，吉林省长春市人。
 - 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机技术专业，创新人才推荐免试硕士研究生
+- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机技术专业，创新人才推免硕士生
 - 研究方向：人工智能、深度学习、程序优化
 - 毕业去向：[北京] 中国科学院计算技术研究所博士生，现为中国科学院计算技术研究所助理研究员
 
@@ -218,7 +560,7 @@
 
 ## 王冠成，男，1993年07月生，江苏省连云港市人。
 - 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
 - 研究方向：编程语言与机器学习
 - 毕业去向：[北京] 北京大学博士生
 
@@ -248,7 +590,7 @@
 
 ## 杨洋，男，1992年01月生，江苏省南京市人。
 - 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
 - 研究方向：人工智能、自动推理
 - 毕业去向：[南京] 华为技术有限公司
 
@@ -284,7 +626,7 @@
 
 ## 刘丰，男，1992年07月生，湖北省天门市人。
 - 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
 - 研究方向：人工智能、形式化方法与云计算
 - 毕业去向：[杭州] 网易互动娱乐有限公司
 
@@ -380,7 +722,7 @@
 
 ## 张鑫，女，1988年10月生，北京市人。
 - 2007.09-2011.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2011.09-2014.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 2011.09-2014.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
 - 研究方向：人工智能、自动推理、软件安全与云计算
 - 毕业去向：[北京] 中国工商银行业务研发中心
 
@@ -401,7 +743,7 @@
 
 ## 刘冬清，男，1989年01月生，山东省威海市人。
 - 2007.09-2011.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2011.09-2014.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 2011.09-2014.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
 - 研究方向：云计算
 - 毕业去向：[法国] University of Technology of Troyes（特鲁瓦技术大学）、[加拿大] University of Montreal（蒙特利尔大学）国家公派博士生（导师：Lyes Khoukhi教授，Abdelhakim Hafid教授），现为郑州大学附属第一医院科研人员
 
@@ -423,8 +765,8 @@
 <img src="weiw2010.jpg" width="150" align="center">
 
 ## 魏唯，女，1984年12月生，吉林省长春市人。
-- 2007.09-2010.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
-- 2010.09-2013.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试博士研究生
+- 2007.09-2010.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
+- 2010.09-2013.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免博士生
 - 研究方向：人工智能、智能规划与自动推理
 - 毕业去向：[长春] 吉林大学教师，现为吉林大学副教授
 
