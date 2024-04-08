@@ -25,7 +25,7 @@
 4. Lu Jiayi, Han Shuai, Lü Shuai*, Kang Meng, **Zhang Junwei**. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
 5. **Zhang Junwei**, Zhang Zhenghao, Han Shuai, Lü Shuai*. Proximal policy optimization via enhanced exploration efficiency. **Information Sciences**, 2022, 609: 750-765. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
 6. 吕帅*, 龚晓宇, 张正昊, 韩帅, **张峻伟**. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
-7. Li Junjie, **Zhang Junwei**, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议, CORE推荐B类会议)**
+7. Li Junjie, **Zhang Junwei**, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
 8. Lü Shuai*, Han Shuai, Zhou Wenbo, **Zhang Junwei**. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
 
 ## 【学位论文】
@@ -68,7 +68,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. Lü Shuai, Zhang Xinyu, **Li Zongze**, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation, 2022. (Submitted)
 2. Lü Shuai, **Li Zongze**, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
-3. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, **Li Zongze**. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+3. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, **Li Zongze**. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 
 ## 【学位论文】
 1. **李宗泽**. 无需源域的无监督领域自适应算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
@@ -128,12 +128,12 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文7篇，在审学术论文1篇。
 1. Shu Man, Lü Shuai*, **Gong Xiaoyu**, An Daolong, Li Songlin. Double actor-critic with episodic memory, 2023. (Submitted)
 2. Shen Chun, Zhu Sheng, Han Shuai, **Gong Xiaoyu**, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
-3. **Gong Xiaoyu**, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+3. **Gong Xiaoyu**, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 4. Han Shuai, Zhou Wenbo, Lü Shuai*, Zhu Sheng, **Gong Xiaoyu**. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
 5. 张峻伟, 吕帅*, 张正昊, 于佳玉, **龚晓宇**. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
 6. 吕帅*, **龚晓宇**, 张正昊, 韩帅, 张峻伟. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
 7. **Gong Xiaoyu**, Yu Jiayu, Lü Shuai*, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. **Information Sciences**, 2022, 582: 633-647. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
-8. Li Junjie, Zhang Junwei, **Gong Xiaoyu**, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议, CORE推荐B类会议)**
+8. Li Junjie, Zhang Junwei, **Gong Xiaoyu**, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
 
 ## 【学位论文】
 1. **龚晓宇**. 基于熟悉度的深度强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
@@ -167,9 +167,9 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
 1. **Zhu Sheng**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task, 2022. (Submitted)
 2. Zhang Junwei, Han Shuai, Xiong Xi, **Zhu Sheng**, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
-3. **Zhu Sheng**, Shen Chun, Lü Shuai*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议, CORE推荐A*类会议)**
+3. **Zhu Sheng**, Shen Chun, Lü Shuai*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议)**
 4. Shen Chun, **Zhu Sheng**, Han Shuai, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
-5. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, **Zhu Sheng**, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+5. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, **Zhu Sheng**, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 6. Han Shuai, Zhou Wenbo, Lü Shuai*, **Zhu Sheng**, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
 
 ## 【学位论文】
@@ -196,7 +196,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文1篇。
 1. **Yu Jiayu**, Li Jingyao, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning, 2021. (Submitted)
-2. Gong Xiaoyu, Lü Shuai*, **Yu Jiayu**, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+2. Gong Xiaoyu, Lü Shuai*, **Yu Jiayu**, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 3. 张峻伟, 吕帅*, 张正昊, **于佳玉**, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
 4. Gong Xiaoyu, **Yu Jiayu**, Lü Shuai*, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. **Information Sciences**, 2022, 582: 633-647. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
 5. Han Shuai, Zhou Wenbo, Lü Shuai*, **Yu Jiayu**. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
@@ -328,7 +328,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
 1. **Li Junjie**, Li Jingyao, Zhou Wenbo, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator, 2021. (Submitted)
-2. **Li Junjie**, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议, CORE推荐B会议)**
+2. **Li Junjie**, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
 
 ## 【学位论文】
 1. **李俊劼**. 含有通用交叉算子的进化生成对抗网络[硕士学位论文]. 长春: 吉林大学, 2021.
@@ -394,7 +394,7 @@
 12. 吕帅*, 龚晓宇, 张正昊, **韩帅**, 张峻伟. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
 13. Lü Shuai*, **Han Shuai**, Zhou Wenbo, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
 14. **Han Shuai**, Zhou Wenbo, Lü Shuai*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
-15. Zhang Lei, **Han Shuai**, Zhang Zhiruo, Li Lefan, Lü Shuai*. Deep recurrent deterministic policy gradient for physical control. In: **Proceedings of the 29th International Conference on Artificial Neural Networks (ICANN 2020)**, Bratislava, Slovakia, September 15-18, 2020, LNCS 12397, 257-268. **(CCF推荐C类会议, CORE推荐B类会议)**
+15. Zhang Lei, **Han Shuai**, Zhang Zhiruo, Li Lefan, Lü Shuai*. Deep recurrent deterministic policy gradient for physical control. In: **Proceedings of the 29th International Conference on Artificial Neural Networks (ICANN 2020)**, Bratislava, Slovakia, September 15-18, 2020, LNCS 12397, 257-268. **(CCF推荐C类会议)**
 
 ## 【学位论文】
 1. **韩帅**. 基于熵正则化和定期更新的深度确定性策略梯度[硕士学位论文]. 长春: 吉林大学, 2021.
