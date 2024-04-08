@@ -665,7 +665,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2018.06，吉林大学优秀毕业研究生
 
 
-<img src="wanggcl2015.jpg" width="150" align="center">
+<img src="wanggc2015.jpg" width="150" align="center">
 
 ## 王冠成，男，1993年07月生，江苏省连云港市人。
 - 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
