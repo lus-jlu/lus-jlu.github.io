@@ -70,6 +70,33 @@
 
 ## 李宗泽，
 
+
+<img src="kangm2020.jpg" width="150" align="center">
+
+<img src="gongxy2020.jpg" width="150" align="center">
+
+<img src="zhus2020.jpg" width="150" align="center">
+
+<img src="yujy2019.jpg" width="150" align="center">
+
+<img src="zhangzh2019.jpg" width="150" align="center">
+
+<img src="lujy2019.jpg" width="150" align="center">
+
+<img src="lijy2018.jpg" width="150" align="center">
+
+<img src="lijj2018.jpg" width="150" align="center">
+
+<img src="liuj2018.jpg" width="150" align="center">
+
+<img src="hans2018.jpg" width="150" align="center">
+
+<img src="zhouwb2017.jpg" width="150" align="center">
+
+<img src="zhangtb2017.jpg" width="150" align="center">
+
+<img src="xuy2017.jpg" width="150" align="center">
+
 <img src="hefl2016.jpg" width="150" align="center">
 
 ## 贺甫霖，男，1993年05月生，吉林省吉林市人。
@@ -279,7 +306,7 @@
 - 2017.06，吉林大学优秀毕业研究生
 
 
-<img src="niudd2012.jpg" width="150" align="center">
+<img src="niudd2012.png" width="150" align="center">
 
 ## 牛当当，男，1990年02月生，陕西省西安市人。
 - 2008.09-2012.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
