@@ -71,6 +71,136 @@
 ## 李宗泽，
 
 
+
+
+<img src="yangy2014.jpg" width="150" align="center">
+
+## 杨洋，男，1992年01月生，江苏省南京市人。
+- 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 研究方向：人工智能、自动推理
+- 毕业去向：[南京] 华为技术有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文5篇。
+1. **杨洋**, 刘磊, 李广力, 张桐搏, 吕帅*. 一种新的基于局部搜索的扩展规则推理方法. **计算机学报**, 2018, 41(4): 825-839. **(CCF推荐中文A类期刊)**
+2. Liu Lei, **Yang Yang**, Li Guangli, Wang Qi, Lü Shuai*. Redundancy checking algorithms based on parallel novel extension rule. **Journal of Experimental & Theoretical Artificial Intelligence**, 2017, 29(3): 629-647. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 1.011)**
+3. **杨洋**, 李广力, 张桐搏, 刘磊, 吕帅*. 命题模态逻辑S5系统中并行推理方法. **计算机科学与探索**, 2016, 10(12): 1783-1792. **(CCF推荐中文B类期刊)**
+4. Zhang Tongbo, Li Guangli, Xu Yue, **Yang Yang**, Lü Shuai*. Prediction of transportation network based on PageRank algorithm. In: **Proceedings of the 5th International Conference on Advanced Materials and Computer Science (ICAMCS 2016)**, Qingdao, China, March 26-27, 2016, AER 80, 88-94.
+5. Zhang Tongbo, Li Guangli, **Yang Yang**, Xu Yue, Lü Shuai*. Fragmented files restoration algorithm based on character characteristic. **Journal of Computational Information Systems**, 2015, 11(22): 8405-8412.
+
+## 【学位论文】
+1. **杨洋**. 基于扩展规则的推理方法研究[硕士学位论文]. 长春: 吉林大学, 2017.
+
+## 【社会实践】
+1. 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
+
+## 【荣誉奖励】
+- 2014.06，吉林大学优秀本科毕业论文：命题逻辑知识约简与命题模态逻辑推理方法研究
+- 2014年度，研究生新生奖学金
+- 2014-2015学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2015年度，三星奖学金
+- 2015-2016学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2015.12，全国研究生数学建模竞赛，国家级二等奖
+- 2016年度，研究生国家奖学金
+- 2016-2017学年，研究生学业奖学金
+- 2017年度，吉林大学十佳研究生
+- 2017.06，吉林大学优秀硕士学位论文：基于扩展规则的推理方法研究
+- 2017.06，吉林省优秀硕士学位论文：基于扩展规则的推理方法研究
+- 2017.06，吉林大学优秀毕业研究生
+
+<img src="liuf2014.jpg" width="150" align="center">
+
+## 刘丰，男，1992年07月生，湖北省天门市人。
+- 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 研究方向：人工智能、形式化方法与云计算
+- 毕业去向：[杭州] 网易互动娱乐有限公司
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇。
+1. Ren Junqi, Liu Lei, **Liu Feng**, Zhou Wenbo, Lü Shuai*. An executable specification of Map-Join-Reduce using Haskell. **IEEE Access**, 2019, 7: 10892-10904. **(中科院2区期刊, SCI, IF: 3.745)**
+2. 刘磊, **刘丰**, 任俊绮, 吕帅*. 基于细胞膜演算的Dryad形式化描述. **哈尔滨工程大学学报**, 2016, 37(11): 1539-1545.
+
+## 【学位论文】
+1.**刘丰**. 基于细胞膜演算的Dryad形式化描述[硕士学位论文]. 长春: 吉林大学, 2017.
+
+## 【社会实践】
+1. 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
+
+## 【荣誉奖励】
+- 2014年度，研究生新生奖学金
+- 2014-2015学年，二等奖学金、研究生学业奖学金
+- 2015-2016学年，二等奖学金、研究生学业奖学金
+- 2016-2017学年，研究生学业奖学金
+- 2017.06，吉林大学优秀毕业研究生
+
+<img src="niudd2012.jpg" width="150" align="center">
+
+## 牛当当，男，1990年02月生，陕西省西安市人。
+- 2008.09-2012.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2012.09-2015.06，吉林大学计算机科学与技术学院计算机软件与理论专业，硕士生
+- 2015.09-2018.06，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生
+- 研究方向：人工智能、自动推理
+- 毕业去向：[陕西杨凌] 西北农林科技大学教师，现为西北农林科技大学副教授、硕士生导师
+
+## 【学术论文】在国内外期刊和会议上发表学术论文15篇。
+1. **牛当当***, 吕帅, 王金艳, 刘斌. 基于MACR和CAL启发式的求差知识编译算法. **电子学报**, 2020, 48(2): 285-290. **(CCF推荐中文A类期刊)**
+2. 贺甫霖, 刘磊, 吕帅*, **牛当当**, 王强. 基于格局检测的模型计数方法. **软件学报**, 2020, 31(2): 395-405. **(CCF推荐中文A类期刊)**
+3. **牛当当***, 吕帅, 王金艳. 基于相邻子句规约的求差知识编译算法. **哈尔滨工程大学学报**, 2019, 40(12): 2044-2049.
+4. **牛当当***, 吕帅, 王金艳. 基于MOVR启发式的求差知识编译算法. **电子学报**, 2019, 47(11): 2299-2303. **(CCF推荐中文A类期刊)**
+5. **Niu Dangdang**, Liu Lei, Lü Shuai*. Augmenting negation normal form with irrelevant variables. **IEEE Access**, 2019, 7: 91360-91366. **(中科院2区期刊, SCI, IF: 3.745)**
+6. **Niu Dangdang**, Liu Lei, Lü Shuai*, Xu Yue. Complementary knowledge compilation using the hyper extension rule. **Chinese Journal of Electronics**, 2019, 28(2): 259-265. **(中科院4区期刊, SCI, IF: 0.941)**
+7. **Niu Dangdang**, Liu Lei, Lü Shuai*. Knowledge compilation methods based on the clausal relevance and extension rule. **Chinese Journal of Electronics**, 2018, 27(5): 1037-1042. **(中科院4区期刊, SCI, IF: 0.945)**
+8. **Niu Dangdang**, Liu Lei, Lü Shuai*. New stochastic local search approaches for computing preferred extensions of abstract argumentation. **AI Communications**, 2018, 31(4): 369-382. **(中科院4区期刊, SCI, IF: 0.765)**
+9. **牛当当**, 刘磊, 吕帅*. EPCCL理论的并行知识编译算法. **电子学报**, 2018, 46(3): 537-543. **(CCF推荐中文A类期刊)**
+10. **牛当当**, 刘磊, 吕帅*. EPCCL理论的求交知识编译算法. **软件学报**, 2017, 28(8): 2096-2112. **(CCF推荐中文A类期刊)**
+11. Zhang Xindi, Xie Xiaojie, Pan Yancen, **Niu Dangdang**, Lü Shuai*. A new method for computing preferred extensions. In: **Proceedings of the 2nd International Conference on Intelligent Information Processing (IIP 2017)**, Bangkok, Thailand, July 17-18, 2017, ACM ICPS 131840, a3.
+12. **Niu Dangdang**, Liu Lei, Zhang Xin, Lü Shuai*, Li Zhuang. Security analysis model, system architecture and relation model of enterprise cloud services. **International Journal of Automation and Computing**, 2016, 13(6): 574-584.
+13. **Niu Dangdang**, Liu Lei, Lü Shuai*. A new stochastic local search approach for computing preferred extensions of abstract argumentation. In: **Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)**, The Hague, The Netherlands, August 29 - September 2, 2016, FAIA 285, 1652-1653. **(CCF推荐B类会议, CORE推荐A类会议, 短文)**
+14. 刘磊, **牛当当**, 吕帅*. 基于超扩展规则的知识编译方法. **计算机学报**, 2016, 39(8): 1681-1696. **(CCF推荐中文A类期刊)**
+15. 刘磊, **牛当当**, 李壮, 吕帅*. 基于超扩展规则的动态在线推理算法. **哈尔滨工程大学学报**, 2015, 36(12): 1614-1619.
+
+## 【学位论文】
+1. **牛当当**. 基于扩展规则的知识编译方法研究[博士学位论文]. 长春: 吉林大学, 2018.
+2. **牛当当**. 基于超扩展规则的高效知识编译方法研究[硕士学位论文]. 长春: 吉林大学, 2015.
+
+## 【荣誉奖励】
+- 2015.06，吉林大学优秀硕士学位论文：基于超扩展规则的高效知识编译方法研究
+- 2015.06，吉林省优秀硕士学位论文：基于超扩展规则的高效知识编译方法研究
+- 2015-2016学年，二等奖学金、研究生学业奖学金
+- 2016年度，浪潮奖学金
+- 2016.12，获得中国商业联合会2016年度全国商业科技进步一等奖：形式化新方法及其在云计算中的应用（2016-1-54）第6完成人
+- 2016-2017学年，二等奖学金、研究生学业奖学金
+- 2017年度，研究生国家奖学金
+- 2017-2018学年，研究生学业奖学金
+- 2018.06，吉林大学优秀博士学位论文：基于扩展规则的知识编译方法研究
+- 2019年度，研究生学术业绩三等奖学金
+
+<img src="liz2012.jpg" width="150" align="center">
+
+## 李壮，男，1988年11月生，吉林省白城市人。
+- 2012.09-2015.06，吉林大学软件学院软件工程专业，硕士生
+- 2015.09-2020.09，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生
+- 研究方向：人工智能、自动推理与机器学习
+- 毕业去向：[吉林吉林] 东北电力大学教师，现为东北电力大学副教授、硕士生导师
+
+## 【学术论文】在国内外期刊和会议上发表学术论文7篇。
+1. **李壮**, 刘磊, 张桐搏, 周文博, 吕帅*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
+2. **李壮**, 刘磊, 张桐搏, 吕帅*. 基于格局检测的并行模型计数方法. **吉林大学学报(工学版)**, 2020, 50(4): 1443-1448.
+3. **李壮**, 刘磊, 张桐搏, 吕帅*. 基于重启策略的学习子句优化方法. **东北大学学报(自然科学版)**, 2020, 41(1): 44-48.
+4. **李壮**, 刘磊, 吕帅*, 任俊绮. 利用细胞膜演算描述带子句学习的DPLL算法. **哈尔滨工程大学学报**, 2019, 40(4): 799-804.
+5. Niu Dangdang, Liu Lei, Zhang Xin, Lü Shuai*, **Li Zhuang**. Security analysis model, system architecture and relation model of enterprise cloud services. **International Journal of Automation and Computing**, 2016, 13(6): 574-584.
+6. 刘磊, 牛当当, **李壮**, 吕帅*. 基于超扩展规则的动态在线推理算法. **哈尔滨工程大学学报**, 2015, 36(12): 1614-1619.
+7. 刘磊, **李壮**, 张鑫, 吕帅*. 中文网络文本的语义信息处理研究综述. **计算机应用研究**, 2015, 32(1): 6-10, 16. **(CCF推荐中文C类期刊)**
+
+## 【学位论文】
+1. **李壮**. 可满足性问题的相关问题研究[博士学位论文]. 长春: 吉林大学, 2020.
+2. **李壮**. 基于细胞膜演算的伴随子句学习的DPLL算法描述[硕士学位论文]. 长春: 吉林大学, 2015.
+
+## 【荣誉奖励】
+- 2015-2016学年，研究生学业奖学金
+- 2016-2017学年，研究生学业奖学金
+- 2017-2018学年，研究生学业奖学金
+
 <img src="zhangx2011.jpg" width="150" align="center">
 
 ## 张鑫，女，1988年10月生，北京市人。
