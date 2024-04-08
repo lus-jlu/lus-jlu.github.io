@@ -1,5 +1,32 @@
 # 2010年至今指导和协助指导的毕业研究生
 
+<img src="zhangx2011.jpg" width="150" align="center">
+
+## 张鑫，女，1988年10月生，北京市人。
+- 2007.09-2011.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2011.09-2014.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推荐免试硕士研究生
+- 研究方向：人工智能、自动推理、软件安全与云计算
+- 毕业去向：[北京] 中国工商银行业务研发中心
+
+## 【学术论文】在国内外期刊和会议上发表学术论文3篇。
+1. Niu Dangdang, Liu Lei, **Zhang Xin**, Lü Shuai*, Li Zhuang. Security analysis model, system architecture and relation model of enterprise cloud services. **International Journal of Automation and Computing**, 2016, 13(6): 574-584.
+2. 刘磊, 李壮, **张鑫**, 吕帅*. 中文网络文本的语义信息处理研究综述. **计算机应用研究**, 2015, 32(1): 6-10, 16. **(CCF推荐中文C类期刊)**
+3. Liu Lei, **Zhang Xin**, Wang Mengmeng, Lü Shuai*. An improved propositional tableau method based on ordering and indexing strategies. **International Journal of Advancements in Computing Technology**, 2013, 5(8): 971-978.
+
+## 【学位论文】
+1. **张鑫**. SaaS企业云服务安全问题研究[硕士学位论文]. 长春: 吉林大学, 2014.
+
+## 【荣誉奖励】
+- 2011-2012学年，一等奖学金、优秀研究生
+- 2012-2013学年，二等奖学金
+
+
+
+
+
+
+
+
 <img src="zhangjw2020.jpg" width="150" align="center">
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
