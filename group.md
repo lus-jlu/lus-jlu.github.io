@@ -5,7 +5,7 @@
 - 2023级：李松霖、袁健会、肖威
 - 2024级：方文思、李贵祥、吴昊、孙耕浩、章晓丹、陈黄洋、张涛、檀磊、侯志斌
 
-<img src="zhourk2020.jpg" width="150" align="center">
+<img src="zhourk2020.png" width="150" align="center">
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
 - 2016.09-2020.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -55,7 +55,7 @@
 
 <img src="longzh2021.jpg" width="150" align="center">
 
-<img src="shum2021.jpg" width="150" align="center">
+<img src="shum2021.png" width="150" align="center">
 
 <img src="zhangys2021.jpg" width="150" align="center">
 
@@ -77,21 +77,21 @@
 
 <img src="wujh2022.jpg" width="150" align="center">
 
-<img src="andl2022.jpg" width="150" align="center">
+<img src="andl2022.png" width="150" align="center">
 
 <img src="lisl2023.jpg" width="150" align="center">
 
-<img src="yuanjh2023.jpg" width="150" align="center">
+<img src="yuanjh2023.png" width="150" align="center">
 
 <img src="xiaow2023.jpg" width="150" align="center">
 
-<img src="fangws2024.jpg" width="150" align="center">
+<img src="fangws2024.png" width="150" align="center">
 
 <img src="ligx2024.jpg" width="150" align="center">
 
-<img src="wuh2024.jpg" width="150" align="center">
+<img src="wuh2024.png" width="150" align="center">
 
-<img src="sungh2024.jpg" width="150" align="center">
+<img src="sungh2024.png" width="150" align="center">
 
 <img src="zhangxd2024.jpg" width="150" align="center">
 
