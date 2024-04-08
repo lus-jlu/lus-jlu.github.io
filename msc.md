@@ -120,56 +120,37 @@
 <img src="gongxy2020.jpg" width="150" align="center">
 
 ## 龚晓宇，男，1997年12月生，湖北省十堰市人。
-
-2016.09-2020.06，吉林大学计算机科学与技术学院物联网工程专业，本科生
-
-2020.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，创新推免硕士生（导师：吕帅副教授）
-
-研究方向：人工智能、机器学习
-
-毕业去向：[上海] 中信证券股份有限公司
-
+- 2016.09-2020.06，吉林大学计算机科学与技术学院物联网工程专业，本科生
+- 2020.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，创新人才推免硕士生（导师：吕帅副教授）
+- 研究方向：人工智能、机器学习
+- 毕业去向：[上海] 中信证券股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文7篇，在审学术论文1篇。
-1. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory, 2023. (Submitted)
-2. Shen Chun, Zhu Sheng, Han Shuai, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. Expert Systems with Applications, 2023, 231: 120693. (中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)
-3. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023), Macao, China, August 19-25, 2023, 3750-3758. (CCF推荐A类会议, CORE推荐A*类会议)
-4. Han Shuai, Zhou Wenbo, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. Information Sciences, 2023, 622: 476-489. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)
-5. 张峻伟, 吕帅*, 张正昊, 于佳玉, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. 软件学报, 2022, 33(11): 4217-4238. (CCF推荐中文A类期刊)
-6. 吕帅*, 龚晓宇, 张正昊, 韩帅, 张峻伟. 结合进化算法的深度强化学习方法研究综述. 计算机学报, 2022, 45(7): 1478-1499. (CCF推荐中文A类期刊)
-7. Gong Xiaoyu, Yu Jiayu, Lü Shuai*, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. Information Sciences, 2022, 582: 633-647. (中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)
-8. Li Junjie, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021), Virtual Event, July 18-22, 2021, 1-8. (CCF推荐C类会议, CORE推荐B类会议)
+1. Shu Man, Lü Shuai*, **Gong Xiaoyu**, An Daolong, Li Songlin. Double actor-critic with episodic memory, 2023. (Submitted)
+2. Shen Chun, Zhu Sheng, Han Shuai, **Gong Xiaoyu**, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+3. **Gong Xiaoyu**, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议, CORE推荐A*类会议)**
+4. Han Shuai, Zhou Wenbo, Lü Shuai*, Zhu Sheng, **Gong Xiaoyu**. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+5. 张峻伟, 吕帅*, 张正昊, 于佳玉, **龚晓宇**. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
+6. 吕帅*, **龚晓宇**, 张正昊, 韩帅, 张峻伟. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
+7. **Gong Xiaoyu**, Yu Jiayu, Lü Shuai*, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. **Information Sciences**, 2022, 582: 633-647. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+8. Li Junjie, Zhang Junwei, **Gong Xiaoyu**, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议, CORE推荐B类会议)**
 
 ## 【学位论文】
-1. 龚晓宇. 基于熟悉度的深度强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
+1. **龚晓宇**. 基于熟悉度的深度强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
 
 ## 【荣誉奖励】
-
-2017-2018学年，二等奖学金、院优秀学生
-
-2018.07，吉林省“互联网+”大学生创新创业大赛，省级金奖
-
-2018-2019学年，二等奖学金、院优秀学生
-
-2019-2020学年，二等奖学金、院优秀学生
-
-2020年度，研究生新生奖学金
-
-2020-2021学年，二等奖学金、研究生学业奖学金
-
-2021年度，吉林银行王湘浩奖学金
-
-2021-2022学年，一等奖学金、优秀研究生、研究生学业奖学金
-
-2022年度，研究生国家奖学金
-
-2022年度，研究生学术业绩二等奖学金
-
-2022-2023学年，研究生学业奖学金
-
-2023.06，吉林大学优秀毕业研究生
-
-
+- 2017-2018学年，二等奖学金、院优秀学生
+- 2018.07，吉林省“互联网+”大学生创新创业大赛，省级金奖
+- 2018-2019学年，二等奖学金、院优秀学生
+- 2019-2020学年，二等奖学金、院优秀学生
+- 2020年度，研究生新生奖学金
+- 2020-2021学年，二等奖学金、研究生学业奖学金
+- 2021年度，吉林银行王湘浩奖学金
+- 2021-2022学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2022年度，研究生国家奖学金
+- 2022年度，研究生学术业绩二等奖学金
+- 2022-2023学年，研究生学业奖学金
+- 2023.06，吉林大学优秀毕业研究生
 
 ## 【联系方式】
 - 邮箱：gongxy20@mails.jlu.edu.cn
