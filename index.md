@@ -173,7 +173,7 @@
 6. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
 7. Zhang Yushu, Shen Chun, Wu Junhong, An Daolong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2023. (Submitted)
 8. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
-9. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for curiosity-driven exploration. 2023. (Submitted)
+9. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 10. Ma Qiang, **Lü Shuai\***, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
 11. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
 12. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
