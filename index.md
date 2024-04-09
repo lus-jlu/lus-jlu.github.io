@@ -171,7 +171,7 @@
 4. Zhang Zeyu, Shen Chun, **Lü Shuai\***, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. 2024. (Submitted)
 5. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
 6. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
-7. Zhang Yushu, Shen Chun, Wu Junhong, An Daolong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2023. (Submitted)
+7. Zhang Yushu, Shen Chun, An Daolong, Wu Junhong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2023. (Submitted)
 8. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
 9. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 10. Ma Qiang, **Lü Shuai\***, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
