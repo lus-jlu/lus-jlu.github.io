@@ -185,8 +185,8 @@
 18. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
 19. Zhu Sheng, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
 20. **Lü Shuai**, Kang Meng, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence. 2022. (Submitted)
-21. Li Junjie, Li Jingyao, Zhou Wenbo, **Lü Shuai\***. Evolutionary generative adversarial networks based on new fitness function and generic crossover operator. 2021. (Submitted)
-22. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. 2021. (Submitted)
+21. Li Junjie, Li Jingyao, Zhou Wenbo, **Lü Shuai\***. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
+23. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. 2021. (Submitted)
 
 主要代表性学术论文：
 1. Zhu Sheng, Shen Chun, **Lü Shuai\***, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
