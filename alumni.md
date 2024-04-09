@@ -10,6 +10,8 @@
 - 2011级：张鑫、刘冬清
 - 2010级：魏唯、邹婷婷
 
+***
+
 <img src="zhangjw2020.jpg" width="150" align="center">
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
@@ -56,6 +58,7 @@
 ## 【联系方式】
 - 邮箱：junwei20@mails.jlu.edu.cn
 
+***
 
 <img src="lizz2020.jpg" width="150" align="center">
 
@@ -86,6 +89,7 @@
 ## 【联系方式】
 - 邮箱：zzli20@mails.jlu.edu.cn
 
+***
 
 <img src="kangm2020.jpg" width="150" align="center">
 
@@ -116,6 +120,7 @@
 ## 【联系方式】
 - 邮箱：kangmeng20@mails.jlu.edu.cn
 
+***
 
 <img src="gongxy2020.jpg" width="150" align="center">
 
@@ -155,6 +160,7 @@
 ## 【联系方式】
 - 邮箱：gongxy20@mails.jlu.edu.cn
 
+***
 
 <img src="zhus2020.jpg" width="150" align="center">
 
@@ -185,6 +191,7 @@
 ## 【联系方式】
 - 邮箱：zhusheng20@mails.jlu.edu.cn
 
+***
 
 <img src="yujy2019.jpg" width="150" align="center">
 
@@ -219,6 +226,7 @@
 ## 【联系方式】
 - 邮箱：yujy19@mails.jlu.edu.cn
 
+***
 
 <img src="zhangzh2019.jpg" width="150" align="center">
 
@@ -247,6 +255,7 @@
 - 2019-2020学年，一等奖学金、优秀研究生、研究生学业奖学金
 - 2020-2021学年，研究生学业奖学金
 
+***
 
 <img src="lujy2019.jpg" width="150" align="center">
 
@@ -273,6 +282,7 @@
 - 2022.06，吉林大学优秀毕业研究生
 - 2022.06，吉林大学优秀硕士学位论文：采样多样性驱动的深度强化学习探索方法研究
 
+***
 
 <img src="lijy2018.jpg" width="150" align="center">
 
@@ -313,6 +323,7 @@
 - 办公：吉林大学计算机楼B522室
 - 地址：长春市前进大街2699号，130012
 
+***
 
 <img src="lijj2018.jpg" width="150" align="center">
 
@@ -339,6 +350,7 @@
 ## 【联系方式】
 - 邮箱：junjiel18@mails.jlu.edu.cn
 
+***
 
 <img src="liuj2018.jpg" width="150" align="center">
 
@@ -366,6 +378,7 @@
 - 2020-2021学年，研究生学业奖学金
 - 2021.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="hans2018.jpg" width="150" align="center">
 
@@ -410,6 +423,7 @@
 - 单位：Department of Information and Computing Sciences, Utrecht University, Utrecht 3584 CC, The Netherlands
 - 邮箱：s.han@uu.nl
 
+***
 
 <img src="zhouwb2017.jpg" width="150" align="center">
 
@@ -468,6 +482,7 @@
 School of Information Science and Technology, Northeast Normal University, Changchun 130117, China; Key Laboratory of Applied Statistics (Northeast Normal University), Ministry of Education, Changchun 130024, China; Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China; Guangxi Key Laboratory of Multi-source Information Mining and Security (Guangxi Normal University), Guilin 541004, China
 - 邮箱：zhouwb646@nenu.edu.cn
 
+***
 
 <img src="zhangtb2017.jpg" width="150" align="center">
 
@@ -510,6 +525,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2019-2020学年，研究生学业奖学金
 - 2020.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="xuy2017.jpg" width="150" align="center">
 
@@ -543,6 +559,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2019-2020学年，研究生学业奖学金
 - 2020.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="hefl2016.jpg" width="150" align="center">
 
@@ -565,6 +582,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2018-2019学年，研究生学业奖学金
 - 2020年度，研究生学术业绩三等奖学金
 
+***
 
 <img src="zoulk2016.jpg" width="150" align="center">
 
@@ -577,6 +595,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 ## 【学位论文】
 1. **邹璐琨**. 基于信任模型的云服务评价与推荐方法研究[硕士学位论文]. 长春: 吉林大学, 2019.
 
+***
 
 <img src="wangq2015.jpg" width="150" align="center">
 
@@ -611,6 +630,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2017-2018学年，研究生学业奖学金
 - 2018.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="ligl2015.jpg" width="150" align="center">
 
@@ -660,6 +680,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2017-2018学年，研究生学业奖学金
 - 2018.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="wanggc2015.jpg" width="150" align="center">
 
@@ -690,6 +711,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2018.06，吉林大学优秀硕士学位论文：基于机器学习的编译器测试优化方法研究
 - 2018.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="yangy2014.jpg" width="150" align="center">
 
@@ -726,6 +748,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2017.06，吉林省优秀硕士学位论文：基于扩展规则的推理方法研究
 - 2017.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="liuf2014.jpg" width="150" align="center">
 
@@ -752,6 +775,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2016-2017学年，研究生学业奖学金
 - 2017.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="niudd2012.png" width="150" align="center">
 
@@ -795,6 +819,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2018.06，吉林大学优秀博士学位论文：基于扩展规则的知识编译方法研究
 - 2019年度，研究生学术业绩三等奖学金
 
+***
 
 <img src="liz2012.jpg" width="150" align="center">
 
@@ -822,6 +847,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2016-2017学年，研究生学业奖学金
 - 2017-2018学年，研究生学业奖学金
 
+***
 
 <img src="zhangx2011.jpg" width="150" align="center">
 
@@ -843,6 +869,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2011-2012学年，一等奖学金、优秀研究生
 - 2012-2013学年，二等奖学金
 
+***
 
 <img src="liudq2011.jpg" width="150" align="center">
 
@@ -866,6 +893,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2014.06，吉林省优秀硕士学位论文：云计算编程模型的形式化描述方法研究
 - 2014.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="weiw2010.jpg" width="150" align="center">
 
@@ -903,6 +931,7 @@ School of Information Science and Technology, Northeast Normal University, Chang
 - 2012年度，研究生国家奖学金
 - 2013.06，吉林大学优秀毕业研究生
 
+***
 
 <img src="zoutt2010.jpg" width="150" align="center">
 
