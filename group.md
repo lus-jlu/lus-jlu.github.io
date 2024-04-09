@@ -39,7 +39,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
 1. **Xiong Xi**, Shen Chun, Wu Junhong, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels, 2023. (Submitted)
 2. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning, 2023. (Submitted)
-3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
+3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 
 ## 【荣誉奖励】
 - 2017-2018学年，校优秀学生干部
