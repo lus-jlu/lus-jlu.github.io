@@ -16,7 +16,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
 1. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods from Kullback-Leibler divergence. 2024. (Submitted)
 2. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
-3. **Zhou Ruikai**, Lu Jiayi, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
+3. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，研究生学业奖学金
@@ -177,7 +177,7 @@
 1. **Zhu Wenbo**, Lü Shuai*, Long Zehong, Wu Junhong. Feature distillation for curiosity-driven exploration. 2023. (Submitted)
 2. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
 3. Long Zehong, **Zhu Wenbo**, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
-4. Zhou Ruikai, Lu Jiayi, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
+4. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 5. Luo Jing, Liu Jie, Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
 6. Zhu Sheng, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
 7. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
