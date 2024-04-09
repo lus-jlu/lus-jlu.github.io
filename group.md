@@ -236,7 +236,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
 1. **Zhang Zeyu**, Shen Chun, Lü Shuai*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation, 2024. (Submitted)
 2. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration, 2023. (Submitted)
-3. Zhang Shaojie, Shen Chun, Lü Shuai*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议)**
+3. Zhang Shaojie, Shen Chun, Lü Shuai*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2019.04，中国高校计算机大赛团体程序设计天梯赛，省级特等奖
@@ -289,7 +289,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
 1. Zhang Zeyu, Shen Chun, Lü Shuai*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation, 2024. (Submitted)
 2. Ma Qiang, Lü Shuai*, **Zhang Shaojie**, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption, 2023. (Submitted)
-3. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024. **(CCF推荐A类会议)**
+3. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、二等奖学金
