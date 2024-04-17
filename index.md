@@ -12,7 +12,7 @@
 
 现任国家精品课程、国家级精品资源共享课、国家精品在线开放课程、国家级一流本科课程（线上一流课程）《高级语言程序设计》和国家级一流本科课程（线上线下混合式一流课程）《程序设计基础》的教学团队实践负责人，主要承担《程序设计基础》（原名：高级语言程序设计）、《人工智能基础》/《人工智能引论》、《计算理论》和《高级分布计算理论》等课程的教学工作。参加国家级教学改革项目4项，省部级教学改革项目2项，校级教学改革项目10项。在《计算机教育》上发表教研论文8篇。获得校级教学成果一等奖1项。获得吉林大学“三育人”先进个人荣誉称号、吉林大学本科课堂教学质量优秀奖2次。
 
-主要研究领域为人工智能、机器学习、自动推理。主持国家自然科学基金项目等科研项目13项，参加科研项目28项。在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文130篇，其中：SCI和EI检索学术论文99篇。获得全国商业科技进步一等奖3项、二等奖1项，吉林省自然科学二等奖1项，吉林省科学技术进步三等奖2项。
+主要研究领域为人工智能、机器学习、自动推理。主持国家自然科学基金项目等科研项目13项，参加科研项目28项。在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文133篇，其中：SCI和EI检索学术论文102篇。获得全国商业科技进步一等奖3项、二等奖1项，吉林省自然科学二等奖1项，吉林省科学技术进步三等奖2项。
 
 联系方式：
 + 单位：吉林大学计算机科学与技术学院、软件学院
@@ -162,31 +162,28 @@
 33. 技术开发项目：无线电管理领域知识库数据录入及测试
 34. 技术开发项目：山西省监测站管理与覆盖分析系统
 
-## 【科研论文】在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文130篇，其中：SCI和EI检索学术论文99篇。
+## 【科研论文】在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文133篇，其中：SCI和EI检索学术论文102篇。
 
 目前处于评审阶段的学术论文：
 1. Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 2. Zhou Ruikai, Li Songlin, **Lü Shuai\***. EOP: Ensemble various on-policy learning to explore. 2024. (Submitted)
 3. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
-4. Zhang Zeyu, Shen Chun, **Lü Shuai\***, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. 2024. (Submitted)
-5. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
-6. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
-7. Zhang Yushu, Shen Chun, An Daolong, Wu Junhong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2023. (Submitted)
-8. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
-9. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-10. Ma Qiang, **Lü Shuai\***, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
-11. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
-12. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
-13. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
-14. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (Submitted)
-15. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2023. (Submitted)
-16. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
-17. Luo Jing, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
-18. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
-19. Zhu Sheng, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
-20. **Lü Shuai**, Kang Meng, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence. 2022. (Submitted)
-21. Li Junjie, Li Jingyao, Zhou Wenbo, **Lü Shuai\***. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
-22. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. 2021. (Submitted)
+4. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
+5. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
+6. Zhang Yushu, Shen Chun, An Daolong, Wu Junhong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2023. (Submitted)
+7. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
+8. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
+9. Ma Qiang, **Lü Shuai\***, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
+10. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
+11. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
+12. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
+13. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (Submitted)
+14. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2023. (Submitted)
+15. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
+16. Luo Jing, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
+17. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
+18. Zhu Sheng, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
+19. Li Junjie, Li Jingyao, Zhou Wenbo, **Lü Shuai\***. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
 
 主要代表性学术论文：
 1. Zhang Zeyu, Shen Chun, **Lü Shuai\***, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation.  In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024. **(CCF推荐A类会议)**
