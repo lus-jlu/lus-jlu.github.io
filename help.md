@@ -19,7 +19,7 @@
 + 【CCF推荐中文分类】中国计算机学会推荐中文科技期刊目录（2019年第1版，发布时间2019年7月31日），详见[<A href="https://www.ccf.org.cn/Focus/2019-07-31/667609.shtml" target="_black">原文链接</A>]。
 注：官方计划每2-3年更新一次（2019年1月第1版）。
 
-## 2. 研究领域顶级期刊（36本，均为CCF推荐A类期刊或中科院1区期刊）
+## 2. 研究领域顶级期刊（36本，均为CCF推荐A类、B类期刊或中科院1区期刊）
 + ACM Transactions on Information Systems：CCF推荐A类期刊，中科院2区期刊
 + ACM Transactions on Knowledge Discovery from Data：CCF推荐B类期刊，中科院3区期刊
 + ACM Transactions on Multimedia Computing, Communications, and Applications：CCF推荐B类期刊，中科院3区期刊
