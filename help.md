@@ -58,12 +58,12 @@
 + Pattern Recognition：CCF推荐B类期刊，中科院1区TOP期刊
 
 ## 3. 研究领域顶级会议（9个）
-+ AAAI：CCF推荐A类会议（人工智能）
-+ CVPR：CCF推荐A类会议（人工智能）
-+ ICCV：CCF推荐A类会议（人工智能）
-+ ICDE：CCF推荐A类会议（数据挖掘）
-+ ICML：CCF推荐A类会议（人工智能）
-+ IJCAI：CCF推荐A类会议（人工智能）
-+ KDD：CCF推荐A类会议（数据挖掘）
-+ MM：CCF推荐A类会议（图形图像）
-+ NeurIPS：CCF推荐A类会议（人工智能）
++ AAAI，Annual AAAI Conference on Artificial Intelligence：CCF推荐A类会议
++ CVPR，IEEE/CVF Conference on Computer Vision and Pattern Recognition：CCF推荐A类会议
++ ICCV，IEEE/CVF International Conference on Computer Vision：CCF推荐A类会议
++ ICDE，IEEE International Conference on Data Engineering：CCF推荐A类会议
++ ICML，International Conference on Machine Learning：CCF推荐A类会议
++ IJCAI，International Joint Conference on Artificial Intelligence：CCF推荐A类会议
++ KDD，ACM SIGKDD Conference on Knowledge Discovery and Data Mining：CCF推荐A类会议
++ MM，ACM International Conference on Multimedia：CCF推荐A类会议
++ NeurIPS，Annual Conference on Neural Information Processing Systems：CCF推荐A类会议
