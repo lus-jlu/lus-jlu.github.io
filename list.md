@@ -24,50 +24,50 @@
 + NeurIPS 2024（Vancouver, Canada）
   + 摘要截止：2024年05月15日（05月16日04:00）
   + 全文截止：2024年05月22日（05月23日04:00）
-  + 会议主页：[<A href="neurips.cc/Conferences/2024" target="_black"]主页</A>]
+  + 会议主页：[<A href="neurips.cc/Conferences/2024" target="_black">]主页</A>]
   + 投稿链接：[<A href="" target="_black"]待更新</A>]
 + AAAI 2025（Philadelphia, USA）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
 + ICDE 2025
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
   + 投稿链接：[<A href="" target="_black"]待更新</A>]
 + CVPR 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
 + IJCAI 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
 + ICML 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
 + KDD 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
 + ICCV 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
 + MM 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
 + NeurIPS 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black"]待更新</A>]
-  + 投稿链接：[<A href="" target="_black"]待更新</A>]
+  + 会议主页：[<A href="" target="_black">]待更新</A>]
+  + 投稿链接：[<A href="" target="_black">]待更新</A>]
