@@ -25,7 +25,7 @@
   + 摘要截止：2024年05月15日（05月16日04:00）
   + 全文截止：2024年05月22日（05月23日04:00）
   + 会议主页：[<A href="https://neurips.cc/Conferences/2024" target="_black">主页</A>]
-  + 投稿链接：[<A href="https://openreview.net/group?id=NeurIPS.cc/2024/Conference" target="_black">待更新</A>]
+  + 投稿链接：[<A href="https://openreview.net/group?id=NeurIPS.cc/2024/Conference" target="_black">OpenReview投稿系统</A>]
 + AAAI 2025（Philadelphia, USA）
   + 摘要截止：待更新
   + 全文截止：待更新
