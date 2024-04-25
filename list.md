@@ -28,45 +28,36 @@
 + AAAI 2025（Philadelphia, USA）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + ICDE 2025
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + CVPR 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + IJCAI 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + ICML 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + KDD 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + ICCV 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + MM 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
 + NeurIPS 2025（待更新）
   + 摘要截止：待更新
   + 全文截止：待更新
-  + 会议主页：[<A href="" target="_black">待更新</A>]
-  + 投稿链接：[<A href="" target="_black">待更新</A>]
+  + [<A href="" target="_black">会议主页（待更新）</A>]，[<A href="" target="_black">投稿系统（待更新）</A>]
