@@ -22,8 +22,8 @@
 
 ## 2. 研究领域顶级会议投稿时间
 + NeurIPS 2024（Vancouver, Canada）
-  + 摘要截止：2024.05.15
-  + 全文截止：2024.05.22
+  + 摘要截止：2024年05月15日（05月16日04:00）
+  + 全文截止：2024年05月22日（05月23日04:00）
   + 会议主页：[<A href="neurips.cc/Conferences/2024" target="_black"]主页</A>]
   + 投稿链接：[<A href="" target="_black"]待更新</A>]
 + AAAI 2025（Philadelphia, USA）
