@@ -52,6 +52,7 @@
 + 国家自然科学基金，评审
 + 学术期刊论文评审
   - Applied Intelligence
+  - Applied Soft Computing
   - Computer Networks
   - Expert Systems
   - Expert Systems with Applications
