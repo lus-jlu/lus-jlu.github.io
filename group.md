@@ -39,6 +39,7 @@
 - 2017.09-2021.06，山西大学数学科学学院信息与计算科学专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授、申春副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
 1. **Xiong Xi**, Shen Chun, Wu Junhong, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
@@ -69,6 +70,7 @@
 - 2017.09-2021.06，山西大学数学科学学院信息与计算科学专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇。
 1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
@@ -93,6 +95,7 @@
 - 2017.09-2021.06，吉林大学软件学院软件工程专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
 1. **Shu Man**, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
@@ -122,6 +125,7 @@
 - 2017.09-2021.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授、申春副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
 1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
@@ -145,6 +149,7 @@
 - 2014.09-2018.06，上海电机学院电子信息学院物联网工程专业，本科生
 - 2021.09-2024.06，吉林大学软件学院软件工程专业，硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
 1. **Ma Qiang**, Lü Shuai*, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
@@ -173,6 +178,7 @@
 - 2017.09-2021.06，成都信息工程大学计算机学院计算机科学与技术专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授、刘杰副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
 1. **Luo Jing**, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
