@@ -45,6 +45,9 @@
 2. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
 3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 
+## 【学位论文】
+1. **熊玺**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
+
 ## 【荣誉奖励】
 - 2017-2018学年，校优秀学生干部
 - 2018-2019学年，国家励志奖学金、校三好学生
@@ -74,6 +77,9 @@
 4. **Long Zehong**, Zhu Wenbo, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
 5. Luo Jing, Liu Jie, **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
 
+## 【学位论文】
+1. **龙泽泓**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
+
 ## 【联系方式】
 - 邮箱：longzh21@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
@@ -90,6 +96,9 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
 1. **Shu Man**, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
+
+## 【学位论文】
+1. **舒曼**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
 
 ## 【荣誉奖励】
 - 2017-2018学年，三等奖学金
@@ -120,6 +129,9 @@
 3. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
 4. Luo Jing, Liu Jie, Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
 
+## 【学位论文】
+1. **张玉树**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
+
 ## 【联系方式】
 - 邮箱：yushu21@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B230室
@@ -137,6 +149,9 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
 1. **Ma Qiang**, Lü Shuai*, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
 2. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2023. (Submitted)
+
+## 【学位论文】
+1. **马强**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
 
 ## 【荣誉奖励】
 - 2014-2015学年，二等奖学金
@@ -161,6 +176,9 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
 1. **Luo Jing**, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
+
+## 【学位论文】
+1. **罗敬**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
 
 ## 【荣誉奖励】
 - 2017-2018学年，二等奖学金
