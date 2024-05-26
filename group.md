@@ -156,7 +156,7 @@
 2. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2023. (Submitted)
 
 ## 【学位论文】
-1. **马强**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
+1. **马强**. 结合自监督学习的无监督领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
 
 ## 【荣誉奖励】
 - 2014-2015学年，二等奖学金
