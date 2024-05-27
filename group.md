@@ -149,7 +149,7 @@
 - 2014.09-2018.06，上海电机学院电子信息学院物联网工程专业，本科生
 - 2021.09-2024.06，吉林大学软件学院软件工程专业，硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[杭州] 浙江大华技术股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
 1. **Ma Qiang**, Lü Shuai*, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
