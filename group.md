@@ -101,7 +101,7 @@
 1. **Shu Man**, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
 
 ## 【学位论文】
-1. **舒曼**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
+1. **舒曼**. 基于情节记忆的深度强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
 
 ## 【荣誉奖励】
 - 2017-2018学年，三等奖学金
