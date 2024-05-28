@@ -184,7 +184,7 @@
 1. **Luo Jing**, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
 
 ## 【学位论文】
-1. **罗敬**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
+1. **罗敬**. 基于探索和偏差估计的深度强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
 
 ## 【荣誉奖励】
 - 2017-2018学年，二等奖学金
