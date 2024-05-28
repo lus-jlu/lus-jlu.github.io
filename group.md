@@ -125,7 +125,7 @@
 - 2017.09-2021.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅副教授、申春副教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[济南] 神思电子技术股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
 1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
