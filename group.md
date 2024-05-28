@@ -47,7 +47,7 @@
 3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 
 ## 【学位论文】
-1. **熊玺**. 基于***[硕士学位论文]. 长春: 吉林大学, 2024.
+1. **熊玺**. 用于泛化图像深度强化学习的组合数据增强框架[硕士学位论文]. 长春: 吉林大学, 2024.
 
 ## 【荣誉奖励】
 - 2017-2018学年，校优秀学生干部
