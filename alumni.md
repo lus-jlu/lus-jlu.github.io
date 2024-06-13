@@ -158,7 +158,7 @@
 - 2017.09-2021.06，成都信息工程大学计算机学院计算机科学与技术专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授、刘杰副教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[北京] 北京字节跳动科技有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
 1. **Luo Jing**, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
