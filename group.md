@@ -359,8 +359,8 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文2篇。
 1. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
 2. Li Ying, **Fang Wensi**, Zhao Jianing, Yang Xiao, Sun Hang, Du Wei*. Training an end-to-end moonlighting long non-coding RNAs deep learning model based on reinforcement learning. 2023. (Submitted)
-3. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei*, Yu Qiong*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
-4. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.6)**
+3. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei*, Yu Qiong*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 待定)**
+4. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
 5. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
 
 ## 【学位论文】
