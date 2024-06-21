@@ -240,7 +240,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. Lü Shuai, Zhang Xinyu, **Li Zongze**, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
-2. Lü Shuai, **Li Zongze**, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 8.5)**
+2. Lü Shuai, **Li Zongze**, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 3. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, **Li Zongze**. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 
 ## 【学位论文】
@@ -465,7 +465,7 @@
 1. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
 2. Li Junjie, **Li Jingyao**, Zhou Wenbo, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
 3. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 8.5)**
+4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 5. **Li Jingyao**, Lü Shuai, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
 6. **Li Jingyao**, Lü Shuai, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
 7. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
