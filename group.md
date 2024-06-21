@@ -309,7 +309,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文0篇。
-1. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, 目前IF: 3.9)**
+1. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，国家励志奖学金、三等奖学金
