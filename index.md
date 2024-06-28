@@ -71,6 +71,7 @@
   - 自动化学报
 + 学术会议论文评审
   - AAAI (PC, Reviewer)
+  - ACML (Reviewer)
   - ECAI (Reviewer)
   - FMAC (PC, Reviewer)
   - ICANN (PC, Reviewer)
