@@ -212,7 +212,7 @@
 22. Li Junjie, Zhang Junwei, Gong Xiaoyu, **Lü Shuai\***. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
 23. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
 24. **Lü Shuai\***, Han Shuai, Zhou Wenbo, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
-25. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院3区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
+25. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
 26. Han Shuai, Zhou Wenbo, **Lü Shuai\***, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
 27. Zhang Lei, Han Shuai, Zhang Zhiruo, Li Lefan, **Lü Shuai\***. Deep recurrent deterministic policy gradient for physical control. In: **Proceedings of the 29th International Conference on Artificial Neural Networks (ICANN 2020)**, Bratislava, Slovakia, September 15-18, 2020, LNCS 12397, 257-268. **(CCF推荐C类会议)**
 28. 贺甫霖, 刘磊, **吕帅\***, 牛当当, 王强. 基于格局检测的模型计数方法. **软件学报**, 2020, 31(2): 395-405. **(CCF推荐中文A类期刊)**
