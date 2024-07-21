@@ -62,6 +62,20 @@
 
 ## 3. 研究领域顶级会议（9个）
 
+序|会议缩写|会议全称|CCF分类
+:-:|:-:|:-|:-:
+1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类
+2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
+3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类
+4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类
+5|ICML|International Conference on Machine Learning|人工智能A类
+6|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类
+7|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类
+8|MM|ACM International Conference on Multimedia|图形学与多媒体A类
+9|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类
+
+## 3. 研究领域顶级会议（9个）
+
 序|会议缩写|会议名称|CCF分类|最近会议|会议时间|会议地点|会议主页|投稿系统|摘要截止时间|全文截止时间
 :-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:
 1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类|AAAI 2025|2025.02.25-03.04|Philadelphia, USA|[<A href="https://aaai.org/conference/aaai/aaai-25/" target="_black">主页</A>]|[<A href="https://openreview.net/group?id=AAAI.org/2025/Conference" target="_black">投稿</A>]|2024.08.07|2024.08.15
