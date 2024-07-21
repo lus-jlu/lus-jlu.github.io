@@ -84,6 +84,6 @@
 4|<A href="" target="_black">CVPR 2025</A>|预计2024.11|预计2024.11|预计2025.06|待定|<A href="" target="_black">投稿系统待定</A>
 5|<A href="" target="_black">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08|待定|<A href="" target="_black">投稿系统待定</A>
 6|<A href="" target="_black">ICML 2025</A>||预计2025.02|预计2025.07|待定|<A href="" target="_black">投稿系统待定</A>
-7|<A href="" target="_black">ICCV 2025</A>|待定|待定|预计2025.XX|待定|<A href="" target="_black">投稿系统待定</A>
+7|<A href="" target="_black">ICCV 2025</A>||预计2025.03|预计2025.10|待定|<A href="" target="_black">投稿系统待定</A>
 8|<A href="" target="_black">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10|待定|<A href="" target="_black">投稿系统待定</A>
 9|<A href="" target="_black">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12|待定|<A href="" target="_black">投稿系统待定</A>
