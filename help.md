@@ -21,7 +21,7 @@
 
 ## 2. 研究领域顶级或著名期刊（36个）
 
-序|期刊名称|CCF分类|中科院大类分区|中科院小类分区|TOP期刊|ESI学科
+序|期刊名称（排序）|CCF分类|中科院大类分区|中科院小类分区|TOP期刊|ESI学科
 :-:|:-|:-:|:-:|:-:|:-:|:-:
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区||计算机科学
 2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区、软件工程3区||计算机科学
@@ -62,7 +62,7 @@
 
 ## 3. 研究领域顶级会议（9个）
 
-序|会议缩写|会议全称|CCF分类
+序|会议缩写（排序）|会议全称|CCF分类
 :-:|:-:|:-|:-:
 1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
@@ -76,7 +76,7 @@
 
 ### 近期会议投稿信息
 
-序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
+序|会议主页|摘要截止时间|全文截止时间（排序）|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 1|<A href="https://ieee-icde.org/2025/" target="_black">ICDE 2025</A>||2024.08.02 AOE, 2024.11.28 AOE|2025.05.19-05.23|Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_black">投稿系统</A>
 2|<A href="https://aaai.org/conference/aaai/aaai-25/" target="_black">AAAI 2025</A>|2024.08.07 11:59 PM UTC-12|2024.08.15 11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_black">投稿系统</A>
