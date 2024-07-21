@@ -23,42 +23,42 @@
 
 序|期刊名称|CCF分类|中科院大类分区|中科院小类分区|TOP期刊|ESI计算机科学
 :-:|:-|:-:|:-:|:-:|:-:|:-:
-1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区||
-2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区、软件工程3区||
-3|ACM Transactions on Multimedia Computing, Communications, and Applications|图形学与多媒体B类、计算机网络B类|计算机科学3区|信息系统3区、理论方法3区、软件工程3区||
-4|Artificial Intelligence|人工智能A类|计算机科学2区|人工智能2区||
-5|Autonomous Agents and Multi-Agent Systems|人工智能B类|计算机科学3区|人工智能3区||
-6|Computer Vision and Image Understanding|人工智能B类|计算机科学3区|人工智能3区||
-7|Data & Knowledge Engineering|人工智能B类、数据挖掘B类|计算机科学3区|人工智能4区、信息系统4区||
-8|Data Mining and Knowledge Discovery|数据挖掘B类|计算机科学3区|人工智能3区、信息系统3区||
-9|Decision Support Systems|人工智能C类|计算机科学1区|人工智能1区、信息系统1区|TOP期刊|
-10|Engineering Applications of Artificial Intelligence|人工智能C类|计算机科学2区|人工智能2区|TOP期刊|
-11|Evolutionary Computation|人工智能B类|计算机科学2区|人工智能3区、理论方法2区||
-12|Expert Systems with Applications|人工智能C类|计算机科学1区|人工智能2区|TOP期刊|
-13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区、控制论1区|TOP期刊|
-14|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区、理论方法1区|TOP期刊|
-15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|TOP期刊|
-16|IEEE Transactions on Image Processing|图形学与多媒体A类|计算机科学1区|人工智能1区|TOP期刊|
-17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学2区|人工智能2区、信息系统2区||
-18|IEEE Transactions on Multimedia|图形学与多媒体B类|计算机科学1区|信息系统1区、软件工程1区|TOP期刊|
-19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区、理论方法1区、硬件1区|TOP期刊|
-20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|TOP期刊|
-21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|TOP期刊|
-22|Information Processing and Management|数据挖掘B类| |信息系统1区|TOP期刊|
-23|Information Sciences|数据挖掘B类|计算机科学1区|信息系统1区|TOP期刊|
-24|Information Systems|数据挖掘B类|计算机科学2区|信息系统3区||
-25|International Journal of Approximate Reasoning|人工智能B类|计算机科学3区|人工智能3区||
-26|International Journal of Computer Vision|人工智能A类|计算机科学2区|人工智能2区||
-27|Journal of Artificial Intelligence Research|人工智能B类|计算机科学3区|人工智能3区||
-28|Journal of Automated Reasoning|人工智能B类|计算机科学3区|人工智能3区||
-29|Journal of Machine Learning Research|人工智能A类|计算机科学3区|人工智能3区||
-30|Knowledge and Information Systems|数据挖掘B类|计算机科学4区|人工智能4区、信息系统4区||
-31|Knowledge-Based Systems|人工智能C类|计算机科学1区|人工智能2区|TOP期刊|
-32|Machine Learning|人工智能B类|计算机科学3区|人工智能3区||
-33|Nature Machine Intelligence| |计算机科学1区|人工智能1区、跨学科应用1区|TOP期刊|
-34|Neural Computation|人工智能B类|计算机科学4区|人工智能4区||
-35|Neural Networks|人工智能B类|计算机科学1区|人工智能2区|TOP期刊|
-36|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|TOP期刊|
+1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区||计算机科学
+2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区、软件工程3区||计算机科学
+3|ACM Transactions on Multimedia Computing, Communications, and Applications|图形学与多媒体B类、计算机网络B类|计算机科学3区|信息系统3区、理论方法3区、软件工程3区||计算机科学
+4|Artificial Intelligence|人工智能A类|计算机科学2区|人工智能2区||计算机科学
+5|Autonomous Agents and Multi-Agent Systems|人工智能B类|计算机科学3区|人工智能3区||计算机科学
+6|Computer Vision and Image Understanding|人工智能B类|计算机科学3区|人工智能3区||计算机科学
+7|Data & Knowledge Engineering|人工智能B类、数据挖掘B类|计算机科学3区|人工智能4区、信息系统4区||计算机科学
+8|Data Mining and Knowledge Discovery|数据挖掘B类|计算机科学3区|人工智能3区、信息系统3区||计算机科学
+9|Decision Support Systems|人工智能C类|计算机科学1区|人工智能1区、信息系统1区|TOP期刊|计算机科学
+10|Engineering Applications of Artificial Intelligence|人工智能C类|计算机科学2区|人工智能2区|TOP期刊|工程
+11|Evolutionary Computation|人工智能B类|计算机科学2区|人工智能3区、理论方法2区||计算机科学
+12|Expert Systems with Applications|人工智能C类|计算机科学1区|人工智能2区|TOP期刊|工程
+13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区、控制论1区|TOP期刊|计算机科学
+14|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区、理论方法1区|TOP期刊|计算机科学
+15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|TOP期刊|工程
+16|IEEE Transactions on Image Processing|图形学与多媒体A类|计算机科学1区|人工智能1区|TOP期刊|工程
+17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学2区|人工智能2区、信息系统2区||工程
+18|IEEE Transactions on Multimedia|图形学与多媒体B类|计算机科学1区|信息系统1区、软件工程1区|TOP期刊|计算机科学
+19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区、理论方法1区、硬件1区|TOP期刊|计算机科学
+20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|TOP期刊|工程
+21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|TOP期刊|工程
+22|Information Processing and Management|数据挖掘B类|管理学1区|信息系统1区|TOP期刊|社会科学
+23|Information Sciences|数据挖掘B类|计算机科学1区|信息系统1区|TOP期刊|计算机科学
+24|Information Systems|数据挖掘B类|计算机科学2区|信息系统3区||计算机科学
+25|International Journal of Approximate Reasoning|人工智能B类|计算机科学3区|人工智能3区||计算机科学
+26|International Journal of Computer Vision|人工智能A类|计算机科学2区|人工智能2区||工程
+27|Journal of Artificial Intelligence Research|人工智能B类|计算机科学3区|人工智能3区||计算机科学
+28|Journal of Automated Reasoning|人工智能B类|计算机科学3区|人工智能3区||计算机科学
+29|Journal of Machine Learning Research|人工智能A类|计算机科学3区|人工智能3区||计算机科学
+30|Knowledge and Information Systems|数据挖掘B类|计算机科学4区|人工智能4区、信息系统4区||计算机科学
+31|Knowledge-Based Systems|人工智能C类|计算机科学1区|人工智能2区|TOP期刊|计算机科学
+32|Machine Learning|人工智能B类|计算机科学3区|人工智能3区||工程
+33|Nature Machine Intelligence| |计算机科学1区|人工智能1区、跨学科应用1区|TOP期刊|计算机科学
+34|Neural Computation|人工智能B类|计算机科学4区|人工智能4区||计算机科学
+35|Neural Networks|人工智能B类|计算机科学1区|人工智能2区|TOP期刊|计算机科学
+36|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|TOP期刊|工程
 
 ## 3. 研究领域顶级会议（9个）
 + AAAI，Annual AAAI Conference on Artificial Intelligence：CCF推荐A类会议
