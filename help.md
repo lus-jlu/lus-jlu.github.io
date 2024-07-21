@@ -83,7 +83,7 @@
 3|<A href="https://kdd2025.kdd.org/" target="_black">KDD 2025</A>|2024.08.01 AOE, 2025.02.01 AOE|2024.08.08 AOE, 2025.02.08 AOE|预计2025.08|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_black">投稿系统</A>
 4|<A href="" target="_black">CVPR 2025</A>|预计2024.11|预计2024.11|预计2025.06|待定|<A href="" target="_black">投稿系统待定</A>
 5|<A href="" target="_black">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08|待定|<A href="" target="_black">投稿系统待定</A>
-6|<A href="" target="_black">ICML 2025</A>||预计2025.02|预计2025.07|待定|<A href="" target="_black">投稿系统待定</A>
-7|<A href="" target="_black">ICCV 2025</A>||预计2025.03|预计2025.10|待定|<A href="" target="_black">投稿系统待定</A>
+6|<A href="" target="_black">ICML 2025</A>||预计2025.02|预计2025.07|Vancouver, Canada|<A href="" target="_black">投稿系统待定</A>
+7|<A href="" target="_black">ICCV 2025</A>||预计2025.03|预计2025.10|Honolulu, USA|<A href="" target="_black">投稿系统待定</A>
 8|<A href="" target="_black">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10|待定|<A href="" target="_black">投稿系统待定</A>
 9|<A href="" target="_black">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12|待定|<A href="" target="_black">投稿系统待定</A>
