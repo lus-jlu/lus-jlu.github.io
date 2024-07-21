@@ -21,7 +21,7 @@
 
 ## 2. 研究领域顶级或著名期刊（36个）
 
-序号|期刊名称|CCF分类|中科院大类分区|中科院小类分区|TOP期刊
+序|期刊名称|CCF分类|中科院大类分区|中科院小类分区|TOP期刊
 :-:|:-|:-:|:-:|:-:|:-:
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区
 2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区、软件工程3区
