@@ -20,9 +20,14 @@
 注：官方计划每2-3年更新一次（2019年1月第1版）。
 
 ## 2. 研究领域顶级或著名期刊（36个）
-+ ACM Transactions on Information Systems：CCF推荐A类期刊，中科院2区期刊
-+ ACM Transactions on Knowledge Discovery from Data：CCF推荐B类期刊，中科院3区期刊
-+ ACM Transactions on Multimedia Computing, Communications, and Applications：CCF推荐B类期刊，中科院3区期刊
+
+序号|期刊名称|CCF分类|中科院大类分区|中科院小类分区|TOP期刊
+:-:|:-|:-:|:-:|:-:|:-:
+1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区
+2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区、软件工程3区
+3|ACM Transactions on Multimedia Computing, Communications, and Applications|图形学与多媒体B类、计算机网络B类|信息系统3区、理论方法3区、软件工程3区
+
+
 + Artificial Intelligence：CCF推荐A类期刊，中科院2区期刊
 + Autonomous Agents and Multi-Agent Systems：CCF推荐B类期刊，中科院3区期刊
 + Computer Vision and Image Understanding：CCF推荐B类期刊，中科院3区期刊
