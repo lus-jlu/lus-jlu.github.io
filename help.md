@@ -77,7 +77,7 @@
 ### 近期会议投稿信息
 序|会议信息（主页）|会议时间地点|投稿系统|摘要截止时间|全文截止时间
 :-:|:-:|:-:|:-:|:-:|:-:
-1|<A href="" target="_black">ICDE 2025</A>|待定，预计2025.04|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
+1|<A href="https://ieee-icde.org/2025/" target="_black">ICDE 2025</A>|2025.05.19-05.23<br>Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_black">投稿系统</A>||2024.08.02 AOE<br>2024.11.28 AOE
 2|<A href="https://aaai.org/conference/aaai/aaai-25/" target="_black">AAAI 2025</A>|2025.02.25-03.04<br>Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_black">投稿系统</A>|2024.08.07<br>11:59 PM UTC-12|2024.08.15<br>11:59 PM UTC-12
 3|<A href="https://kdd2025.kdd.org/" target="_black">KDD 2025</A>|待定，预计2025.08<br>Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_black">投稿系统</A>|2024.08.01 AOE<br>2025.02.01 AOE|2024.08.08 AOE<br>2025.02.08 AOE
 4|<A href="" target="_black">CVPR 2025</A>|待定，预计2025.06|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
