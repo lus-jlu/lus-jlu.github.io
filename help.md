@@ -64,7 +64,7 @@
 
 序|会议缩写|会议名称|CCF分类|会议时间地点|会议主页|投稿系统|摘要截止时间|全文截止时间
 :-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:
-1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类
+1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类|样例|[<A href="https://neurips.cc/Conferences/2024" target="_black">主页</A>]|[<A href="https://neurips.cc/Conferences/2024" target="_black">投稿</A>]|时间|时间
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
 3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类
 4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类
