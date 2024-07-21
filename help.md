@@ -80,9 +80,9 @@
 1|<A href="https://ieee-icde.org/2025/" target="_black">ICDE 2025</A>||2024.08.02 AOE<br>2024.11.28 AOE|2025.05.19-05.23|Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_black">投稿系统</A>
 2|<A href="https://aaai.org/conference/aaai/aaai-25/" target="_black">AAAI 2025</A>|2024.08.07<br>11:59 PM UTC-12|2024.08.15<br>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_black">投稿系统</A>
 3|<A href="https://kdd2025.kdd.org/" target="_black">KDD 2025</A>|2024.08.01 AOE<br>2025.02.01 AOE|2024.08.08 AOE<br>2025.02.08 AOE|预计2025.08|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_black">投稿系统</A>
-4|<A href="" target="_black">CVPR 2025</A>|待定，预计2025.06|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
-5|<A href="" target="_black">IJCAI 2025</A>|待定，预计2025.08|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
-6|<A href="" target="_black">ICML 2025</A>|待定，预计2025.07|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
-7|<A href="" target="_black">ICCV 2025</A>|待定，预计2025.XX|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
-8|<A href="" target="_black">MM 2025</A>|待定，预计2025.10|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
-9|<A href="" target="_black">NeurIPS 2025</A>|待定，预计2025.12|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
+4|<A href="" target="_black">CVPR 2025</A>|预计2024.11|预计2024.11|预计2025.06|待定|<A href="" target="_black">投稿系统待定</A>
+5|<A href="" target="_black">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08|待定|<A href="" target="_black">投稿系统待定</A>
+6|<A href="" target="_black">ICML 2025</A>||预计2025.02|预计2025.07|待定|<A href="" target="_black">投稿系统待定</A>
+7|<A href="" target="_black">ICCV 2025</A>|待定|待定|预计2025.XX|待定|<A href="" target="_black">投稿系统待定</A>
+8|<A href="" target="_black">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10|待定|<A href="" target="_black">投稿系统待定</A>
+9|<A href="" target="_black">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12|待定|<A href="" target="_black">投稿系统待定</A>
