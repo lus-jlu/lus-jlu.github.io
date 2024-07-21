@@ -62,7 +62,7 @@
 
 ## 3. 研究领域顶级会议（9个）
 
-序|会议缩写|会议名称|CCF分类
+序|会议缩写|会议名称|CCF分类|会议时间地点|会议主页|投稿系统|摘要截止时间|全文截止时间
 :-:|:-:|:-|:-:
 1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
