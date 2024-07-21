@@ -77,7 +77,7 @@
 ### 2025年会议投稿信息
 序|会议信息（主页）|会议时间地点|投稿|摘要截止时间|全文截止时间
 :-:|:-:|:-:|:-:|:-:|:-:
-1|[<A href="https://aaai.org/conference/aaai/aaai-25/" target="_black">AAAI 2025</A>|2025.02.25-03.04\\Philadelphia, USA|[<A href="https://openreview.net/group?id=AAAI.org/2025/Conference" target="_black">投稿</A>]|2024.08.07|2024.08.15
+1|<A href="https://aaai.org/conference/aaai/aaai-25/" target="_black">AAAI 2025</A>|2025.02.25-03.04\\Philadelphia, USA|[<A href="https://openreview.net/group?id=AAAI.org/2025/Conference" target="_black">投稿</A>]|2024.08.07|2024.08.15
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
 3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类
 4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类
