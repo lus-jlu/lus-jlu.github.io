@@ -83,6 +83,6 @@
 4|<A href="" target="_black">ICDE 2025</A>|待更新|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
 5|<A href="" target="_black">ICML 2025</A>|待更新|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
 6|<A href="" target="_black">IJCAI 2025</A>|待更新|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
-7|<A href="" target="_black">KDD 2025</A>|待更新|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
+7|<A href="https://kdd2025.kdd.org/" target="_black">KDD 2025</A>|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_black">投稿系统</A>|2024.08.01 AOE<br>2025.02.01 AOE|2024.08.08 AOE<br>2025.02.08 AOE
 8|<A href="" target="_black">MM 2025</A>|待更新|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
 9|<A href="" target="_black">NeurIPS 2025</A>|待更新|<A href="" target="_black">投稿系统待定</A>|待更新|待更新
