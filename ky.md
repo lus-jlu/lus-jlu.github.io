@@ -12,7 +12,7 @@
 
 ## 2. 研究领域顶级或著名期刊
 
-序|期刊名称（排序）|CCF分类（2022）|中科院大类分区（2023）|中科院小类分区（2023）|TOP期刊（2023）|ESI学科（2023）
+序|期刊名称（排序）|CCF分类<BR>（2022）|中科院大类分区<BR>（2023）|中科院小类分区<BR>（2023）|TOP期刊<BR>（2023）|ESI学科<BR>（2023）
 :-:|:-|:-:|:-:|:-:|:-:|:-:
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区||计算机科学
 2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区<BR>软件工程3区||计算机科学
@@ -53,7 +53,7 @@
 
 ## 3. 研究领域顶级会议
 
-序|会议缩写（排序）|会议全称|CCF分类（2022）
+序|会议缩写（排序）|会议全称|CCF分类<BR>（2022）
 :-:|:-:|:-|:-:
 1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
