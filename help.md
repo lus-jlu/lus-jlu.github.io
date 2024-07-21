@@ -26,6 +26,27 @@
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区
 2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区、软件工程3区
 3|ACM Transactions on Multimedia Computing, Communications, and Applications|图形学与多媒体B类、计算机网络B类|信息系统3区、理论方法3区、软件工程3区
+4|Artificial Intelligence|人工智能A类|计算机科学2区|人工智能2区
+5|Autonomous Agents and Multi-Agent Systems|人工智能B类|计算机科学3区|人工智能3区
+6|Computer Vision and Image Understanding|人工智能B类|计算机科学3区|人工智能3区
+7|Data & Knowledge Engineering|人工智能B类、数据挖掘B类|计算机科学3区|人工智能4区、信息系统4区
+8|Data Mining and Knowledge Discovery|数据挖掘B类|计算机科学3区|人工智能3区、信息系统4区
+9|Decision Support Systems|人工智能C类|计算机科学1区|人工智能1区、信息系统1区|TOP期刊
+10|Engineering Applications of Artificial Intelligence|人工智能C类|计算机科学2区|人工智能2区|TOP期刊
+11|Evolutionary Computation|人工智能B类|计算机科学2区|人工智能3区、理论方法2区
+12|Expert Systems with Applications|人工智能C类|计算机科学1区|人工智能2区|TOP期刊
+13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区、控制论1区|TOP期刊
+14|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区、理论方法1区|TOP期刊
+15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|TOP期刊
+16|IEEE Transactions on Image Processing|图形学与多媒体A类|计算机科学1区|人工智能1区|TOP期刊
+17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学2区|人工智能2区、信息系统2区
+18|IEEE Transactions on Multimedia|图形学与多媒体B类|计算机科学1区|信息系统1区、软件工程1区|TOP期刊
+19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|人工智能2区、理论方法1区、硬件1区|TOP期刊
+20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|TOP期刊
+21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|TOP期刊
+22|Information Processing and Management|数据挖掘B类| |信息系统1区|TOP期刊
+23|Information Sciences|数据挖掘B类|计算机科学1区|信息系统1区|TOP期刊
+
 
 
 + Artificial Intelligence：CCF推荐A类期刊，中科院2区期刊
