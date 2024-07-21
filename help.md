@@ -46,42 +46,19 @@
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|TOP期刊
 22|Information Processing and Management|数据挖掘B类| |信息系统1区|TOP期刊
 23|Information Sciences|数据挖掘B类|计算机科学1区|信息系统1区|TOP期刊
-
-
-
-+ Artificial Intelligence：CCF推荐A类期刊，中科院2区期刊
-+ Autonomous Agents and Multi-Agent Systems：CCF推荐B类期刊，中科院3区期刊
-+ Computer Vision and Image Understanding：CCF推荐B类期刊，中科院3区期刊
-+ Data & Knowledge Engineering：CCF推荐B类期刊，中科院3区期刊
-+ Data Mining and Knowledge Discovery：CCF推荐B类期刊，中科院3区期刊
-+ Decision Support Systems：CCF推荐C类期刊，中科院1区TOP期刊
-+ Engineering Applications of Artificial Intelligence：CCF推荐C类期刊，中科院1区TOP期刊
-+ Evolutionary Computation：CCF推荐B类期刊，中科院2区期刊
-+ Expert Systems with Applications：CCF推荐C类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Cybernetics：CCF推荐B类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Evolutionary Computation：CCF推荐B类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Fuzzy Systems：CCF推荐B类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Image Processing：CCF推荐A类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Knowledge and Data Engineering：CCF推荐A类期刊，中科院2区期刊
-+ IEEE Transactions on Multimedia：CCF推荐B类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Neural Networks and Learning Systems：CCF推荐B类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Pattern Analysis and Machine Intelligence：CCF推荐A类期刊，中科院1区TOP期刊
-+ IEEE Transactions on Systems, Man, and Cybernetics: Systems：CCF推荐B类期刊，中科院1区TOP期刊
-+ Information Processing and Management：CCF推荐B类期刊，中科院1区TOP期刊
-+ Information Sciences：CCF推荐B类期刊，中科院1区TOP期刊
-+ Information Systems：CCF推荐B类期刊，中科院3区期刊
-+ International Journal of Approximate Reasoning：CCF推荐B类期刊，中科院3区期刊
-+ International Journal of Computer Vision：CCF推荐A类期刊，中科院2区期刊
-+ Journal of Artificial Intelligence Research：CCF推荐B类期刊，中科院3区期刊
-+ Journal of Automated Reasoning：CCF推荐B类期刊，中科院3区期刊
-+ Journal of Machine Learning Research：CCF推荐A类期刊，中科院3区期刊
-+ Knowledge and Information Systems：CCF推荐B类期刊，中科院4区期刊
-+ Knowledge-Based Systems：CCF推荐C类期刊，中科院1区TOP期刊
-+ Machine Learning：CCF推荐B类期刊，中科院3区期刊
-+ Nature Machine Intelligence：中科院1区TOP期刊
-+ Neural Computation：CCF推荐B类期刊，中科院4区期刊
-+ Neural Networks：CCF推荐B类期刊，中科院1区TOP期刊
-+ Pattern Recognition：CCF推荐B类期刊，中科院1区TOP期刊
+24|Information Systems|数据挖掘B类|计算机科学2区|信息系统3区
+25|International Journal of Approximate Reasoning|人工智能B类|计算机科学3区|人工智能3区
+26|International Journal of Computer Vision|人工智能A类|计算机科学2区|人工智能2区
+27|Journal of Artificial Intelligence Research|人工智能B类|计算机科学3区|人工智能3区
+28|Journal of Automated Reasoning|人工智能B类|计算机科学3区|人工智能3区
+29|Journal of Machine Learning Research|人工智能A类|计算机科学3区|人工智能3区
+30|Knowledge and Information Systems|数据挖掘B类|计算机科学4区|人工智能4区、信息系统4区
+31|Knowledge-Based Systems|人工智能C类|计算机科学1区|人工智能2区|TOP期刊
+32|Machine Learning|人工智能B类|计算机科学3区|人工智能3区
+33|Nature Machine Intelligence| |计算机科学1区|人工智能1区、跨学科应用1区|TOP期刊
+34|Neural Computation|人工智能B类|计算机科学4区|人工智能4区
+35|Neural Networks|人工智能B类|计算机科学1区|人工智能2区|TOP期刊
+36|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|TOP期刊
 
 ## 3. 研究领域顶级会议（9个）
 + AAAI，Annual AAAI Conference on Artificial Intelligence：CCF推荐A类会议
