@@ -25,7 +25,7 @@
 :-:|:-|:-:|:-:|:-:|:-:
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区
 2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区、软件工程3区
-3|ACM Transactions on Multimedia Computing, Communications, and Applications|图形学与多媒体B类、计算机网络B类|信息系统3区、理论方法3区、软件工程3区
+3|ACM Transactions on Multimedia Computing, Communications, and Applications|图形学与多媒体B类、计算机网络B类|计算机科学3区|信息系统3区、理论方法3区、软件工程3区
 4|Artificial Intelligence|人工智能A类|计算机科学2区|人工智能2区
 5|Autonomous Agents and Multi-Agent Systems|人工智能B类|计算机科学3区|人工智能3区
 6|Computer Vision and Image Understanding|人工智能B类|计算机科学3区|人工智能3区
