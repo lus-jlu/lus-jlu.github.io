@@ -170,7 +170,7 @@
 1. Wu Junhong, Liu Jie, **Lü Shuai\***. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
 2. Zhu Wenbo, Xiao Wei, **Lü Shuai\***. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
 3. Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
-4. Zhou Ruikai, Li Songlin, **Lü Shuai\***. EOP: Ensemble various on-policy learning to explore. 2024. (Submitted)
+4. Zhou Ruikai, Li Songlin, **Lü Shuai\***. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 5. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
 6. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
 7. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
