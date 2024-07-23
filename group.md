@@ -18,7 +18,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
 1. **Zhou Ruikai**, Li Songlin, Lü Shuai*. EOP: Ensemble various on-policy learning to explore. 2024. (Submitted)
 2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
-3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
+3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
 4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 
 ## 【荣誉奖励】
@@ -44,7 +44,7 @@
 1. **Zhu Wenbo**, Xiao Wei, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
 2. Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 3. **Zhu Wenbo**, Lü Shuai*, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-4. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
+4. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
 5. Long Zehong, **Zhu Wenbo**, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
 6. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 7. Luo Jing, Liu Jie, Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
@@ -192,7 +192,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
 1. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
-2. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Revealing the potential of distributions: Balancing exploration and exploitation by reducing the entropy of action distribution. 2023. (Submitted)
+2. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
 3. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
 4. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
 
