@@ -16,7 +16,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
-1. **Zhou Ruikai**, Li Songlin, Lü Shuai*. EOP: Ensemble various on-policy learning to explore. 2024. (Submitted)
+1. **Zhou Ruikai**, Li Songlin, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
 3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
 4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
@@ -285,7 +285,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Zhou Ruikai, **Li Songlin**, Lü Shuai*. EOP: Ensemble various on-policy learning to explore. 2024. (Submitted)
+1. Zhou Ruikai, **Li Songlin**, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 2. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
 3. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, **Li Songlin**. Double actor-critic with episodic memory. 2023. (Submitted)
 
