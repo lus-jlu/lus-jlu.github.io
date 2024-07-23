@@ -186,7 +186,7 @@
 17. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 18. Luo Jing, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
 19. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
-20. Zhu Sheng, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
+20. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
 21. Li Junjie, Li Jingyao, Zhou Wenbo, **Lü Shuai\***. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
 
 主要代表性学术论文：
