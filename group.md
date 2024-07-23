@@ -48,7 +48,7 @@
 5. Long Zehong, **Zhu Wenbo**, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
 6. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 7. Luo Jing, Liu Jie, Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
-8. Zhu Sheng, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
+8. Zhu Sheng, Wu Hao, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
 9. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
 
 ## 【荣誉奖励】
@@ -412,6 +412,9 @@
 - 2020.09-2024.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，三等奖学金
