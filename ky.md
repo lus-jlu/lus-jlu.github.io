@@ -2,12 +2,12 @@
 
 ## 1. 期刊或会议的各种评价
 
-+ 【CCF推荐分类】中国计算机学会推荐国际学术会议和期刊目录（2022年第6版，发布时间2023年3月8日），详见[<A href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" target="_black">原文链接</A>]。
++ 【CCF推荐分类】中国计算机学会推荐国际学术会议和期刊目录（2022年第6版，发布时间2023年3月8日），详见[<A href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" target="_blank">原文链接</A>]。
 注：官方计划每2-3年更新一次（2010年8月第1版，2011年8月第2版，2013年1月第3版，2015年12月第4版，2019年4月第5版）。
-+ 【中科院分区】中国科学院文献情报中心期刊分区表（2023年，发布时间2023年12月27日），详见[<A href="https://www.fenqubiao.com/" target="_black">官方查询系统</A>]。
++ 【中科院分区】中国科学院文献情报中心期刊分区表（2023年，发布时间2023年12月27日），详见[<A href="https://www.fenqubiao.com/" target="_blank">官方查询系统</A>]。
 注：官方计划每年更新一次，一般为12月。
 + 【影响因子】影响因子（Impact Factor，IF）是Thomson Reuters出品的期刊引证报告（Journal Citation Reports，JCR）中的一项数据，即某期刊前2年发表的论文在报告年份被引用总次数除以该期刊在这2年内发表的论文总数，是国际上通行的期刊评价指标。
-+ 【CCF推荐中文分类】中国计算机学会推荐中文科技期刊目录（2019年第1版，发布时间2019年7月31日），详见[<A href="https://www.ccf.org.cn/Focus/2019-07-31/667609.shtml" target="_black">原文链接</A>]。
++ 【CCF推荐中文分类】中国计算机学会推荐中文科技期刊目录（2019年第1版，发布时间2019年7月31日），详见[<A href="https://www.ccf.org.cn/Focus/2019-07-31/667609.shtml" target="_blank">原文链接</A>]。
 注：官方计划每2-3年更新一次（2019年1月第1版）。
 
 ## 2. 研究领域顶级或著名期刊
@@ -69,12 +69,12 @@
 
 序|会议主页|摘要截止时间|全文截止时间（排序）|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-1|<A href="https://ieee-icde.org/2025" target="_black">ICDE 2025</A>||2024.08.02 AOE<BR>2024.11.28 AOE|2025.05.19-05.23|Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_black">投稿系统</A>
-2|<A href="https://kdd2025.kdd.org" target="_black">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_black">投稿系统</A>
-3|<A href="https://aaai.org/conference/aaai/aaai-25" target="_black">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_black">投稿系统</A>
-4|<A href="" target="_black">CVPR 2025</A>|预计2024.11|预计2024.11|预计2025.06||
-5|<A href="" target="_black">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08||
-6|<A href="" target="_black">ICML 2025</A>||预计2025.02|预计2025.07|Vancouver, Canada|
-7|<A href="" target="_black">ICCV 2025</A>||预计2025.03|预计2025.10|Honolulu, USA|
-8|<A href="" target="_black">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10||
-9|<A href="" target="_black">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12||
+1|<A href="https://ieee-icde.org/2025" target="_blank">ICDE 2025</A>||2024.08.02 AOE<BR>2024.11.28 AOE|2025.05.19-05.23|Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_blank">投稿系统</A>
+2|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
+3|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
+4|<A href="" target="_blank">CVPR 2025</A>|预计2024.11|预计2024.11|预计2025.06||
+5|<A href="" target="_blank">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08||
+6|<A href="" target="_blank">ICML 2025</A>||预计2025.02|预计2025.07|Vancouver, Canada|
+7|<A href="" target="_blank">ICCV 2025</A>||预计2025.03|预计2025.10|Honolulu, USA|
+8|<A href="" target="_blank">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10||
+9|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12||
