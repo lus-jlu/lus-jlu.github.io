@@ -1,6 +1,6 @@
 # 欢迎浏览吕帅的主页！
 
-[【个人介绍】](index.md)-[【教学经历】](#教学经历)-[【教学工作】](#教学工作相关文档)-[【科研工作】](#科研工作相关文档)-[【招生需求】](#招生需求)-[【人才培养】](#人才培养)- <A href="lqb" target="_black">【蓝桥杯大赛（吉林大学）组织情况】</A>
+[【个人介绍】](index.md)-[【教学经历】](#教学经历)-[【教学工作】](#教学工作相关文档)-[【科研工作】](#科研工作相关文档)-[【招生需求】](#招生需求)-[【人才培养】](#人才培养)- <A href="lqb" target="_blank">【蓝桥杯大赛（吉林大学）组织情况】</A>
 
 <img src="lus.jpg" width="150" align="center">
 
@@ -36,7 +36,7 @@
 + 2016.11至今，吉林大学计算机科学与技术学院、软件学院，硕士生导师
 + 2015.09至今，吉林大学计算机科学与技术学院、软件学院，副教授
 + 2010.07-2015.09，吉林大学计算机科学与技术学院、软件学院，讲师
-+ 2022.06至今，蓝桥杯全国软件和信息技术专业人才大赛，吉林大学竞赛项目负责人<A href="lqb" target="_black">【组织情况】</A>
++ 2022.06至今，蓝桥杯全国软件和信息技术专业人才大赛，吉林大学竞赛项目负责人<A href="lqb" target="_blank">【组织情况】</A>
 + 2021.10-2024.06，吉林大学2020级工科试验班（软件工程），学业导师/班主任
 + 2021.06至今，吉林大学研究生培养指导委员会软件学院分委员会，委员
 + 2021.01至今，吉林大学软件工程专业，专业负责人
@@ -83,7 +83,7 @@
 
 ***
 
-# 教学工作<A href="jx" target="_black">【相关文档】</A>
+# 教学工作<A href="jx" target="_blank">【相关文档】</A>
 
 ## 【治学格言】宝剑锋从磨砺出，梅花香自苦寒来。——《警世贤文》之勤奋篇
 
@@ -124,7 +124,7 @@
 
 ***
 
-# 科研工作<A href="ky" target="_black">【相关文档】</A>
+# 科研工作<A href="ky" target="_blank">【相关文档】</A>
 
 ## 【研究方向】人工智能、机器学习与自动推理
 
@@ -192,10 +192,10 @@
 主要代表性学术论文：
 1. Zhang Zeyu, Shen Chun, **Lü Shuai\***, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation.  In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024. **(CCF推荐A类会议)**
 2. **Lü Shuai**, Kang Meng, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024. **(CCF推荐A类会议)**
-3. Zhu Sheng, Shen Chun, **Lü Shuai\***, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29665" target="_black">【原文链接】</A>
-4. Zhang Xinyu, Kang Meng, **Lü Shuai\***. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29630" target="_black">【原文链接】</A>
-5. Zhang Shaojie, Shen Chun, **Lü Shuai\***, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29624" target="_black">【原文链接】</A>
-6. Gong Xiaoyu, **Lü Shuai\***, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)** <A href="https://doi.org/10.24963/ijcai.2023/417" target="_black">【原文链接】</A>
+3. Zhu Sheng, Shen Chun, **Lü Shuai\***, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29665" target="_blank">【原文链接】</A>
+4. Zhang Xinyu, Kang Meng, **Lü Shuai\***. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29630" target="_blank">【原文链接】</A>
+5. Zhang Shaojie, Shen Chun, **Lü Shuai\***, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29624" target="_blank">【原文链接】</A>
+6. Gong Xiaoyu, **Lü Shuai\***, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)** <A href="https://doi.org/10.24963/ijcai.2023/417" target="_blank">【原文链接】</A>
 7. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 8. **Lü Shuai**, Zhang Tongbo, Xu Yue, Zhou Wenbo, Lai Yong\*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024. **(中科院4区期刊, CCF推荐C类期刊, SCI, 目前IF: 1.7)**
 9. **Lü Shuai**, Li Zongze, Zhang Xinyu, Li Jingyao\*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
@@ -451,4 +451,4 @@
 + 2020.12，中国研究生数学建模竞赛，国家级三等奖，张峻伟，李宗泽，康勐
 + 2022.12，中国研究生数学建模竞赛，国家级一等奖，吴珺泓，张少杰，张泽宇
 
-### 蓝桥杯全国软件和信息技术专业人才大赛（吉林大学）<A href="lqb" target="_black">【组织情况】</A>
+### 蓝桥杯全国软件和信息技术专业人才大赛（吉林大学）<A href="lqb" target="_blank">【组织情况】</A>
