@@ -73,7 +73,7 @@
 2|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
 3|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
 4|<A href="" target="_blank">CVPR 2025</A>|预计2024.11|预计2024.11|预计2025.06||
-5|<A href="" target="_blank">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08||
+5|<A href="" target="_blank">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08|Montreal, Canada|
 6|<A href="" target="_blank">ICML 2025</A>||预计2025.02|预计2025.07|Vancouver, Canada|
 7|<A href="" target="_blank">ICCV 2025</A>||预计2025.03|预计2025.10|Honolulu, USA|
 8|<A href="" target="_blank">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10||
