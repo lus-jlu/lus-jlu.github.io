@@ -12,7 +12,7 @@
 
 ## 2. 研究领域顶级或著名期刊
 
-序|期刊名称（排序）|CCF分类<BR>（2022）|中科院大类分区<BR>（2023）|中科院小类分区<BR>（2023）|TOP期刊<BR>（2023）|ESI学科<BR>（2023）
+序|期刊名称|CCF分类[2022]|中科院大类分区（2023）|中科院小类分区<BR>（2023）|TOP期刊<BR>（2023）|ESI学科<BR>（2023）
 :-:|:-|:-:|:-:|:-:|:-:|:-:
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区||计算机科学
 2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区<BR>软件工程3区||计算机科学
@@ -53,7 +53,7 @@
 
 ## 3. 研究领域顶级会议
 
-序|会议缩写（排序）|会议全称|CCF分类<BR>（2022）
+序|会议缩写|会议全称|CCF分类<BR>（2022）
 :-:|:-:|:-|:-:
 1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
@@ -67,7 +67,7 @@
 
 ### 近期会议投稿信息（更新于2024.07）
 
-序|会议主页|摘要截止时间|全文截止时间（排序）|会议时间|会议地点|投稿系统
+序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 1|<A href="https://ieee-icde.org/2025" target="_blank">ICDE 2025</A>||2024.08.02 AOE<BR>2024.11.28 AOE|2025.05.19-05.23|Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_blank">投稿系统</A>
 2|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
