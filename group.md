@@ -18,7 +18,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
 1. **Zhou Ruikai**, Li Songlin, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
-3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
+3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
 4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 
 ## 【荣誉奖励】
@@ -44,7 +44,7 @@
 1. **Zhu Wenbo**, Xiao Wei, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
 2. Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 3. **Zhu Wenbo**, Lü Shuai*, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-4. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
+4. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
 5. Long Zehong, **Zhu Wenbo**, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
 6. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 7. Zhu Sheng, Wu Hao, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
@@ -194,7 +194,7 @@
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇，授权发明专利1项。
 1. **Zhong Taihong**, Lü Shuai*, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 2. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
-3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
+3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
 4. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
 5. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
 6. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法.
