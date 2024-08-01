@@ -137,8 +137,9 @@
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅副教授、刘磊教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇，授权发明专利1项。
 1. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
+2. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法.
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、院优秀学生会干部
@@ -190,11 +191,12 @@
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇，授权发明专利1项。
 1. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
 2. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous domain RL: A case study on PPO. 2023. (Submitted)
 3. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
 4. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
+5. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法.
 
 ## 【荣誉奖励】
 - 2018-2019学年，辽宁省政府奖学金、一等奖学金、三好学生标兵
