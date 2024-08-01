@@ -52,13 +52,12 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[XX] XXXX大学教师
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇，授权发明专利1项。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇，授权发明专利1项。
 1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 2. Zhu Wenbo, Lü Shuai*, **Long Zehong**, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 3. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
 4. **Long Zehong**, Zhu Wenbo, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
-5. Luo Jing, Liu Jie, **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
-6. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法.
+5. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法.
 
 ## 【学位论文】
 1. **龙泽泓**. 基于高效经验回放与空间覆盖的深度强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -108,11 +107,10 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[济南] 神思电子技术股份有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
 1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 2. **Zhang Yushu**, Shen Chun, An Daolong, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2023. (Submitted) 
 3. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
-4. Luo Jing, Liu Jie, Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
 
 ## 【学位论文】
 1. **张玉树**. 基于极值理论的强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -160,9 +158,6 @@
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授、刘杰副教授）
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 北京字节跳动科技有限公司
-
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. **Luo Jing**, Liu Jie, Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*. Reduce overestimation bias with single Q-function and use entropy regularization to increase exploration. 2023. (Submitted)
 
 ## 【学位论文】
 1. **罗敬**. 基于探索和偏差估计的深度强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
