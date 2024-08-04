@@ -63,6 +63,7 @@
   - Journal of Experimental & Theoretical Artificial Intelligence
   - Journal of Parallel and Distributed Computing
   - Knowledge-Based Systems
+  - Neural Computing and Applications
   - Science China Information Sciences
   - Soft Computing
   - Theoretical Computer Science
