@@ -7,11 +7,9 @@
 - 2024级硕士生（8人）：李贵祥、吴昊、孙耕浩、章晓丹、陈黄洋、张涛、檀磊、侯志斌
 - 2025级硕士生（X人）：巩锦程
 
-
-
 ***
 
-<img src="zhourk2020.png" width="150" align="center">
+<div align=center><img src="zhourk2020.png" width="150"></div>
 
 ## 周瑞凯，男，瑶族，1992年07月生，广西壮族自治区桂林市人。
 - 2012.09-2016.06，武汉轻工大学机械工程学院机械设计制造及其自动化专业，本科生
@@ -37,7 +35,7 @@
 
 ***
 
-<img src="fangws2024.png" width="150" align="center">
+<div align=center><img src="fangws2024.png" width="150"></div>
 
 ## 方文思，女，1999年01月生，吉林省公主岭市人。
 - 2016.09-2020.06，南昌大学信息工程学院计算机科学与技术专业，本科生
@@ -67,7 +65,7 @@
 
 ***
 
-<img src="zhuwb2022.jpg" width="150" align="center">
+<div align=center><img src="zhuwb2022.jpg" width="150"></div>
 
 ## 朱文博，女，2000年08月生，吉林省长春市人。
 - 2018.09-2022.06，吉林大学软件学院软件工程专业，本科生
@@ -102,7 +100,7 @@
 
 ***
 
-<img src="zhangxy2022.jpg" width="150" align="center">
+<div align=center><img src="zhangxy2022.jpg" width="150"></div>
 
 ## 张鑫宇，男，1999年04月生，黑龙江省齐齐哈尔市人。
 - 2018.09-2022.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -132,7 +130,7 @@
 
 ***
 
-<img src="zhangzy2022.jpg" width="150" align="center">
+<div align=center><img src="zhangzy2022.jpg" width="150"></div>
 
 ## 张泽宇，男，2000年09月生，山东省滨州市人。
 - 2018.09-2022.06，内蒙古大学计算机学院（软件学院）计算机科学与技术专业，本科生（学业排名和综合排名均为第1/38名）
@@ -163,7 +161,7 @@
 
 ***
 
-<img src="lindj2022.jpg" width="150" align="center">
+<div align=center><img src="lindj2022.jpg" width="150"></div>
 
 ## 林炟君，女，2000年08月生，福建省莆田市人。
 - 2018.09-2022.06，海南大学计算机科学与技术学院软件工程专业，本科生
@@ -190,7 +188,7 @@
 
 ***
 
-<img src="zhangsj2022.jpg" width="150" align="center">
+<div align=center><img src="zhangsj2022.jpg" width="150"></div>
 
 ## 张少杰，男，2000年04月生，安徽省合肥市人。
 - 2018.09-2022.06，哈尔滨工程大学软件学院软件工程专业，本科生
@@ -218,7 +216,7 @@
 
 ***
 
-<img src="zhongth2022.jpg" width="150" align="center">
+<div align=center><img src="zhongth2022.jpg" width="150"></div>
 
 ## 钟太鸿，男，1999年11月生，辽宁省大连市人。
 - 2018.09-2022.06，沈阳工业大学软件学院软件工程专业，本科生（学业排名和综合排名均为第1/296名）
@@ -249,7 +247,7 @@
 
 ***
 
-<img src="wujh2022.jpg" width="150" align="center">
+<div align=center><img src="wujh2022.jpg" width="150"></div>
 
 ## 吴珺泓，男，2000年09月生，山东省莱西市人。
 - 2018.09-2022.06，成都理工大学计算机与网络安全学院（牛津布鲁克斯学院）软件工程专业，本科生
@@ -286,7 +284,7 @@
 
 ***
 
-<img src="andl2022.png" width="150" align="center">
+<div align=center><img src="andl2022.png" width="150"></div>
 
 ## 安道龙，男，1998年10月生，河南省濮阳市人。
 - 2017.09-2021.06，吉林大学计算机科学与技术学院物联网工程专业，本科生
@@ -315,7 +313,7 @@
 
 ***
 
-<img src="lisl2023.jpg" width="150" align="center">
+<div align=center><img src="lisl2023.jpg" width="150"></div>
 
 ## 李松霖，男，2000年12月生，吉林省长春市人。
 - 2019.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -342,7 +340,7 @@
 
 ***
 
-<img src="yuanjh2023.png" width="150" align="center">
+<div align=center><img src="yuanjh2023.png" width="150"></div>
 
 ## 袁健会，男，1999年06月生，吉林省长春市人。
 - 2018.09-2022.06，东北电力大学计算机学院计算机科学与技术（卓越）专业，本科生（导师：李壮副教授）
@@ -367,7 +365,7 @@
 
 ***
 
-<img src="xiaow2023.jpg" width="150" align="center">
+<div align=center><img src="xiaow2023.jpg" width="150"></div>
 
 ## 肖威，男，2001年11月生，山东省菏泽市人。
 - 2019.09-2023.06，山东师范大学信息科学与工程学院计算机科学与技术专业，本科生
@@ -390,7 +388,7 @@
 
 ***
 
-<img src="ligx2024.jpg" width="150" align="center">
+<div align=center><img src="ligx2024.jpg" width="150"></div>
 
 ## 李贵祥，男，2003年04月生，山东省聊城市人。
 - 2020.09-2024.06，东北电力大学计算机学院智能科学与技术专业，本科生（导师：李壮副教授）（学业排名和综合排名均为第1/76名）
@@ -414,7 +412,7 @@
 
 ***
 
-<img src="wuh2024.png" width="150" align="center">
+<div align=center><img src="wuh2024.png" width="150"></div>
 
 ## 吴昊，男，2002年02月生，内蒙古自治区额尔古纳市人。
 - 2020.09-2024.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -440,7 +438,7 @@
 
 ***
 
-<img src="sungh2024.png" width="150" align="center">
+<div align=center><img src="sungh2024.png" width="150"></div>
 
 ## 孙耕浩，男，2001年07月生，山东省德州市人。
 - 2020.09-2024.06，西安石油大学计算机学院计算机科学与技术专业，本科生（学业排名为第2/181名，综合排名为第1/181名）
@@ -462,7 +460,7 @@
 
 ***
 
-<img src="zhangxd2024.jpg" width="150" align="center">
+<div align=center><img src="zhangxd2024.jpg" width="150"></div>
 
 ## 章晓丹，女，2002年01月生，山东省威海市人。
 - 2020.09-2024.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -490,7 +488,7 @@
 
 ***
 
-<img src="chenhy2024.png" width="150" align="center">
+<div align=center><img src="chenhy2024.png" width="150"></div>
 
 ## 陈黄洋，男，2002年08月生，福建省漳州市人。
 - 2020.09-2024.06，东北电力大学计算机学院软件工程专业，本科生（学业排名和综合排名均为第1/70名）
@@ -515,7 +513,7 @@
 
 ***
 
-<img src="zhangt2024.jpg" width="150" align="center">
+<div align=center><img src="zhangt2024.jpg" width="150"></div>
 
 ## 张涛，男，2002年10月生，河南省濮阳市人。
 - 2020.09-2024.06，辽宁科技大学计算机与软件工程学院网络工程专业，本科生（学业排名和综合排名均为第1/144名）
@@ -539,7 +537,7 @@
 
 ***
 
-<img src="tanl2024.jpg" width="150" align="center">
+<div align=center><img src="tanl2024.jpg" width="150"></div>
 
 ## 檀磊，男，2000年11月生，安徽省安庆市人。
 - 2020.09-2024.06，安徽农业大学信息与计算机学院物联网工程专业，本科生（学业排名和综合排名均为第1/59名）
@@ -565,7 +563,7 @@
 
 ***
 
-<img src="houzb2024.jpg" width="150" align="center">
+<div align=center><img src="houzb2024.jpg" width="150"></div>
 
 ## 侯志斌，男，1999年08月生，山东省菏泽市人。
 - 2017.09-2021.06，临沂大学信息科学与工程学院网络工程专业，本科生
