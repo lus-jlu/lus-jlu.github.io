@@ -171,7 +171,7 @@
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇，授权发明专利1项。
 1. Zhong Taihong, Lü Shuai*, **Lin Dajun**, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 2. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
-3. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法.
+3. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、院优秀学生会干部
@@ -229,7 +229,7 @@
 3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
 4. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
 5. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
-6. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法.
+6. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【荣誉奖励】
 - 2018-2019学年，辽宁省政府奖学金、一等奖学金、三好学生标兵
