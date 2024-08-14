@@ -37,6 +37,36 @@
 
 ***
 
+<img src="fangws2024.png" width="150" align="center">
+
+## 方文思，女，1999年01月生，吉林省公主岭市人。
+- 2016.09-2020.06，南昌大学信息工程学院计算机科学与技术专业，本科生
+- 2020.09-2023.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：李瑛副教授）
+- 2024.09至今，吉林大学计算机科学与技术学院计算机系统结构专业，博士生（导师：李强教授、吕帅副教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文2篇。
+1. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
+2. Li Ying, **Fang Wensi**, Zhao Jianing, Yang Xiao, Sun Hang, Du Wei*. Training an end-to-end moonlighting long non-coding RNAs deep learning model based on reinforcement learning. 2023. (Submitted)
+3. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei*, Yu Qiong*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 待定)**
+4. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
+5. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
+
+## 【学位论文】
+1. **方文思**. 基于强化学习的政府留言板标签更正与识别算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
+
+## 【荣誉奖励】
+- 2016-2017学年，二等奖学金、院优秀学生干部
+- 2017-2018学年，二等奖学金、院三好学生、院优秀学生干部
+- 2018-2019学年，一等奖学金
+
+## 【联系方式】
+- 邮箱：fangws24@mails.jlu.edu.cn
+- 办公：吉林大学王湘浩楼B227室
+- 地址：长春市前进大街2699号，130012
+
+***
+
 <img src="zhuwb2022.jpg" width="150" align="center">
 
 ## 朱文博，女，2000年08月生，吉林省长春市人。
@@ -355,36 +385,6 @@
 
 ## 【联系方式】
 - 邮箱：weixiao23@mails.jlu.edu.cn
-- 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
-
-***
-
-<img src="fangws2024.png" width="150" align="center">
-
-## 方文思，女，1999年01月生，吉林省公主岭市人。
-- 2016.09-2020.06，南昌大学信息工程学院计算机科学与技术专业，本科生
-- 2020.09-2023.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：李瑛副教授）
-- 2024.09至今，吉林大学计算机科学与技术学院计算机系统结构专业，博士生（导师：李强教授、吕帅副教授）
-- 研究方向：人工智能、机器学习
-
-## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文2篇。
-1. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
-2. Li Ying, **Fang Wensi**, Zhao Jianing, Yang Xiao, Sun Hang, Du Wei*. Training an end-to-end moonlighting long non-coding RNAs deep learning model based on reinforcement learning. 2023. (Submitted)
-3. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei*, Yu Qiong*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 待定)**
-4. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
-5. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
-
-## 【学位论文】
-1. **方文思**. 基于强化学习的政府留言板标签更正与识别算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
-
-## 【荣誉奖励】
-- 2016-2017学年，二等奖学金、院优秀学生干部
-- 2017-2018学年，二等奖学金、院三好学生、院优秀学生干部
-- 2018-2019学年，一等奖学金
-
-## 【联系方式】
-- 邮箱：fangws24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
 - 地址：长春市前进大街2699号，130012
 
