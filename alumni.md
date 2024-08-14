@@ -16,6 +16,106 @@
 
 ***
 
+<img src="lijy2018.jpg" width="150" align="center">
+
+## 李静瑶，女，1994年10月生，吉林省松原市人。
+- 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2016.09-2018.06，吉林大学计算机科学与技术学院计算机技术专业，推免硕士生
+- 2018.07-2022.06，吉林大学计算机科学与技术学院软件工程专业，推免博士生
+- 研究方向：人工智能、机器学习
+- 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
+
+## 【学术论文】在国内外期刊和会议上发表学术论文9篇，在审学术论文2篇。
+1. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
+2. Li Junjie, **Li Jingyao**, Zhou Wenbo, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
+3. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+5. **Li Jingyao**, Lü Shuai, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+6. **Li Jingyao**, Lü Shuai, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
+7. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
+8. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
+9. **Li Jingyao**, Liu Lei, Zhang Peng*. Tabular-expression-based method for constructing metamorphic relations. **Software: Practice and Experience**, 2020, 50(8): 1345-1380. **(中科院3区期刊, CCF推荐B类期刊, SCI, IF: 2.028)**
+10. Hou Yun, **Li Jingyao**, Yu Haihong, Li Zhanshan*. BIFFOA: A novel binary improved fruit fly algorithm for feature selection. **IEEE Access**, 2019, 7: 81177-81194. **(中科院2区期刊, SCI, IF: 3.745)**
+11. Zhou Wenbo, Liu Lei, Zhang Peng*, Lü Shuai, **Li Jingyao**. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
+
+## 【学位论文】
+1. **李静瑶**. 无监督领域适配方法研究[博士学位论文]. 长春: 吉林大学, 2022.
+
+## 【荣誉奖励】
+- 2016-2017学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2017-2018学年，研究生学业奖学金
+- 2018-2019学年，研究生学业奖学金
+- 2019-2020学年，一等奖学金、优秀研究生、研究生学业奖学金
+- 2020年度，研究生学术业绩二等奖学金
+- 2020-2021学年，研究生学业奖学金
+- 2022年度，研究生学术业绩二等奖学金
+
+## 【联系方式】
+- 邮箱：jingyao@jlu.edu.cn
+- 办公：吉林大学计算机楼B522室
+- 地址：长春市前进大街2699号，130012
+
+***
+
+<img src="zhouwb2017.jpg" width="150" align="center">
+
+## 周文博，男，1991年05月生，吉林省四平市人。
+- 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
+- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
+- 2017.09-2021.06，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生
+- 2019.09-2021.03，[法国] Paris-Saclay University（巴黎萨克雷大学），国家公派联合培养博士生（合作导师：Dague Philippe教授，Ye Lina副教授，Zaidi Fatiha副教授）
+- 研究方向：形式化方法与云计算
+- 毕业去向：[长春] 东北师范大学教师
+
+## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文2篇。
+1. Ma Qiang, Lü Shuai*, Zhang Shaojie, Wu Junhong, **Zhou Wenbo**. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
+2. Li Junjie, Li Jingyao, **Zhou Wenbo**, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
+3. Lü Shuai, Zhang Tongbo, Xu Yue, **Zhou Wenbo**, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024. **(中科院4区期刊, CCF推荐C类期刊, SCI, 目前IF: 1.7)**
+4. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+5. Han Shuai, **Zhou Wenbo**, Lu Jiayi, Liu Jing, Lü Shuai*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+6. 李壮, 刘磊, 张桐搏, **周文博**, 吕帅*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
+7. Lü Shuai*, Han Shuai, **Zhou Wenbo**, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
+8. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
+9. **Zhou Wenbo**, Dague Philippe, Liu Lei*, Ye Lina, Zaidi Fatiha. A coloured Petri nets based attack tolerance framework. In: **Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC 2020)**, Singapore, December 1-4, 2020, 159-168. **(CCF推荐C类会议)**
+10. **Zhou Wenbo**, Liu Lei, Lü Shuai, Zhang Peng*. Toward formal modeling and verification of resource provisioning as a service in cloud. **IEEE Access**, 2019, 7: 26721-26730. **(中科院2区期刊, SCI, IF: 3.745)**
+11. **周文博**, 刘磊, 张鹏*, 吕帅. Tabular表达式中正规函数表操作的形式语义. **华南理工大学学报(自然科学版)**, 2019, 47(2): 85-91.
+12. Ren Junqi, Liu Lei, Liu Feng, **Zhou Wenbo**, Lü Shuai*. An executable specification of Map-Join-Reduce using Haskell. **IEEE Access**, 2019, 7: 10892-10904. **(中科院2区期刊, SCI, IF: 3.745)**
+13. **Zhou Wenbo**, Liu Lei, Zhang Peng*, Lü Shuai, Li Jingyao. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
+14. **周文博**, 刘洪佳, 刘磊, 张鹏*, 吕帅. 一种服务消息交互行为的元建模方法. **计算机科学**, 2017, 44(4): 24-29. **(CCF推荐中文B类期刊)**
+
+## 【学位论文】
+1. **周文博**. 云计算系统的形式化建模与验证方法研究[博士学位论文]. 长春: 吉林大学, 2021.
+
+## 【科研项目】
+- 吉林大学2018年研究生创新研究计划项目：时间与环境感知的云服务形式化验证方法研究
+项目负责人：周文博；执行期间：2018.10-2019.09；经费：0.6万
+
+## 【社会实践】
+- 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
+- 2015.11-2016.11，CCF吉林大学学生分会主席
+
+## 【荣誉奖励】
+- 2014-2015学年，二等奖学金、研究生学业奖学金
+- 2015-2016学年，二等奖学金、研究生学业奖学金
+- 2016.12，全国大学生软件测试大赛嵌入式测试大赛，国家级一等奖
+- 2016.12，获得中国商业联合会2016年度全国商业科技进步一等奖：形式化新方法及其在云计算中的应用（2016-1-54）第11完成人
+- 2016年度，浪潮奖学金
+- 2016-2017学年，研究生学业奖学金
+- 2017.06，吉林大学优秀毕业研究生
+- 2017-2018学年，二等奖学金、研究生学业奖学金
+- 2018-2019学年，二等奖学金、研究生学业奖学金
+- 2019年度，研究生国家奖学金
+- 2019-2020学年，研究生学业奖学金
+- 2020年度，研究生学术业绩三等奖学金
+- 2020年度，"科研之星"荣誉称号
+
+## 【联系方式】
+- 单位：东北师范大学信息科学与技术学院, 长春 130117; 应用统计教育部重点实验室(东北师范大学), 长春 130024; 符号计算与知识工程教育部重点实验室(吉林大学), 长春 130012; 广西多源信息挖掘与安全重点实验室(广西师范大学), 广西桂林 541004
+- 单位：School of Information Science and Technology, Northeast Normal University, Changchun 130117, China; Key Laboratory of Applied Statistics (Northeast Normal University), Ministry of Education, Changchun 130024, China; Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China; Guangxi Key Laboratory of Multi-source Information Mining and Security (Guangxi Normal University), Guilin 541004, China
+- 邮箱：zhouwb646@nenu.edu.cn
+
+***
+
 <img src="xiongx2021.jpg" width="150" align="center">
 
 ## 熊玺，男，1997年05月生，山西省运城市人。
@@ -437,47 +537,6 @@
 
 ***
 
-<img src="lijy2018.jpg" width="150" align="center">
-
-## 李静瑶，女，1994年10月生，吉林省松原市人。
-- 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2016.09-2018.06，吉林大学计算机科学与技术学院计算机技术专业，推免硕士生
-- 2018.07-2022.06，吉林大学计算机科学与技术学院软件工程专业，推免博士生
-- 研究方向：人工智能、机器学习
-- 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
-
-## 【学术论文】在国内外期刊和会议上发表学术论文9篇，在审学术论文2篇。
-1. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
-2. Li Junjie, **Li Jingyao**, Zhou Wenbo, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
-3. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-5. **Li Jingyao**, Lü Shuai, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
-6. **Li Jingyao**, Lü Shuai, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
-7. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
-8. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
-9. **Li Jingyao**, Liu Lei, Zhang Peng*. Tabular-expression-based method for constructing metamorphic relations. **Software: Practice and Experience**, 2020, 50(8): 1345-1380. **(中科院3区期刊, CCF推荐B类期刊, SCI, IF: 2.028)**
-10. Hou Yun, **Li Jingyao**, Yu Haihong, Li Zhanshan*. BIFFOA: A novel binary improved fruit fly algorithm for feature selection. **IEEE Access**, 2019, 7: 81177-81194. **(中科院2区期刊, SCI, IF: 3.745)**
-11. Zhou Wenbo, Liu Lei, Zhang Peng*, Lü Shuai, **Li Jingyao**. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
-
-## 【学位论文】
-1. **李静瑶**. 无监督领域适配方法研究[博士学位论文]. 长春: 吉林大学, 2022.
-
-## 【荣誉奖励】
-- 2016-2017学年，一等奖学金、优秀研究生、研究生学业奖学金
-- 2017-2018学年，研究生学业奖学金
-- 2018-2019学年，研究生学业奖学金
-- 2019-2020学年，一等奖学金、优秀研究生、研究生学业奖学金
-- 2020年度，研究生学术业绩二等奖学金
-- 2020-2021学年，研究生学业奖学金
-- 2022年度，研究生学术业绩二等奖学金
-
-## 【联系方式】
-- 邮箱：jingyao@jlu.edu.cn
-- 办公：吉林大学计算机楼B522室
-- 地址：长春市前进大街2699号，130012
-
-***
-
 <img src="lijj2018.jpg" width="150" align="center">
 
 ## 李俊劼，男，1995年10月生，安徽省黄山市人。
@@ -575,65 +634,6 @@
 ## 【联系方式】
 - 单位：Department of Information and Computing Sciences, Utrecht University, Utrecht 3584 CC, The Netherlands
 - 邮箱：s.han@uu.nl
-
-***
-
-<img src="zhouwb2017.jpg" width="150" align="center">
-
-## 周文博，男，1991年05月生，吉林省四平市人。
-- 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
-- 2014.09-2017.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
-- 2017.09-2021.06，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生
-- 2019.09-2021.03，[法国] Paris-Saclay University（巴黎萨克雷大学），国家公派联合培养博士生（合作导师：Dague Philippe教授，Ye Lina副教授，Zaidi Fatiha副教授）
-- 研究方向：形式化方法与云计算
-- 毕业去向：[长春] 东北师范大学教师
-
-## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文2篇。
-1. Ma Qiang, Lü Shuai*, Zhang Shaojie, Wu Junhong, **Zhou Wenbo**. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
-2. Li Junjie, Li Jingyao, **Zhou Wenbo**, Lü Shuai*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
-3. Lü Shuai, Zhang Tongbo, Xu Yue, **Zhou Wenbo**, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024. **(中科院4区期刊, CCF推荐C类期刊, SCI, 目前IF: 1.7)**
-4. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
-5. Han Shuai, **Zhou Wenbo**, Lu Jiayi, Liu Jing, Lü Shuai*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
-6. 李壮, 刘磊, 张桐搏, **周文博**, 吕帅*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
-7. Lü Shuai*, Han Shuai, **Zhou Wenbo**, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
-8. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
-9. **Zhou Wenbo**, Dague Philippe, Liu Lei*, Ye Lina, Zaidi Fatiha. A coloured Petri nets based attack tolerance framework. In: **Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC 2020)**, Singapore, December 1-4, 2020, 159-168. **(CCF推荐C类会议)**
-10. **Zhou Wenbo**, Liu Lei, Lü Shuai, Zhang Peng*. Toward formal modeling and verification of resource provisioning as a service in cloud. **IEEE Access**, 2019, 7: 26721-26730. **(中科院2区期刊, SCI, IF: 3.745)**
-11. **周文博**, 刘磊, 张鹏*, 吕帅. Tabular表达式中正规函数表操作的形式语义. **华南理工大学学报(自然科学版)**, 2019, 47(2): 85-91.
-12. Ren Junqi, Liu Lei, Liu Feng, **Zhou Wenbo**, Lü Shuai*. An executable specification of Map-Join-Reduce using Haskell. **IEEE Access**, 2019, 7: 10892-10904. **(中科院2区期刊, SCI, IF: 3.745)**
-13. **Zhou Wenbo**, Liu Lei, Zhang Peng*, Lü Shuai, Li Jingyao. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
-14. **周文博**, 刘洪佳, 刘磊, 张鹏*, 吕帅. 一种服务消息交互行为的元建模方法. **计算机科学**, 2017, 44(4): 24-29. **(CCF推荐中文B类期刊)**
-
-## 【学位论文】
-1. **周文博**. 云计算系统的形式化建模与验证方法研究[博士学位论文]. 长春: 吉林大学, 2021.
-
-## 【科研项目】
-- 吉林大学2018年研究生创新研究计划项目：时间与环境感知的云服务形式化验证方法研究
-项目负责人：周文博；执行期间：2018.10-2019.09；经费：0.6万
-
-## 【社会实践】
-- 吉林大学2015年研究生暑期社会实践调研项目：历史遗迹的文化剩余价值——以丹东战争遗址为例
-- 2015.11-2016.11，CCF吉林大学学生分会主席
-
-## 【荣誉奖励】
-- 2014-2015学年，二等奖学金、研究生学业奖学金
-- 2015-2016学年，二等奖学金、研究生学业奖学金
-- 2016.12，全国大学生软件测试大赛嵌入式测试大赛，国家级一等奖
-- 2016.12，获得中国商业联合会2016年度全国商业科技进步一等奖：形式化新方法及其在云计算中的应用（2016-1-54）第11完成人
-- 2016年度，浪潮奖学金
-- 2016-2017学年，研究生学业奖学金
-- 2017.06，吉林大学优秀毕业研究生
-- 2017-2018学年，二等奖学金、研究生学业奖学金
-- 2018-2019学年，二等奖学金、研究生学业奖学金
-- 2019年度，研究生国家奖学金
-- 2019-2020学年，研究生学业奖学金
-- 2020年度，研究生学术业绩三等奖学金
-- 2020年度，"科研之星"荣誉称号
-
-## 【联系方式】
-- 单位：东北师范大学信息科学与技术学院, 长春 130117; 应用统计教育部重点实验室(东北师范大学), 长春 130024; 符号计算与知识工程教育部重点实验室(吉林大学), 长春 130012; 广西多源信息挖掘与安全重点实验室(广西师范大学), 广西桂林 541004
-- 单位：School of Information Science and Technology, Northeast Normal University, Changchun 130117, China; Key Laboratory of Applied Statistics (Northeast Normal University), Ministry of Education, Changchun 130024, China; Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China; Guangxi Key Laboratory of Multi-source Information Mining and Security (Guangxi Normal University), Guilin 541004, China
-- 邮箱：zhouwb646@nenu.edu.cn
 
 ***
 
