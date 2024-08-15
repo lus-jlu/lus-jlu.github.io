@@ -75,13 +75,11 @@
   - AAAI (PC, Reviewer)
   - ACML (Reviewer)
   - ECAI (Reviewer)
-  - FMAC (PC, Reviewer)
   - ICANN (PC, Reviewer)
   - ICLR (Reviewer)
   - ICML (Reviewer)
   - ISPA (Reviewer)
   - KDD (Reviewer)
-  - NCTCS (PC, Reviewer)
   - NeurIPS (Reviewer)
 
 ***
