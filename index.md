@@ -167,6 +167,8 @@
 
 ## 【科研论文】在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文133篇，其中：SCI和EI检索学术论文102篇。
 
+DBLP: <A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">0000-0002-8081-4498</A>
+
 ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002-8081-4498</A>
 
 目前处于评审阶段的学术论文：
