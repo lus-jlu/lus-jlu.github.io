@@ -58,6 +58,7 @@
   - Expert Systems
   - Expert Systems with Applications
   - Frontiers of Computer Science
+  - IEEE Transactions on Neural Networks and Learning Systems
   - Information Processing and Management
   - Information Sciences
   - Journal of Experimental & Theoretical Artificial Intelligence
