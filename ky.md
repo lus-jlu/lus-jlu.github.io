@@ -29,9 +29,9 @@
 13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区<BR>控制论1区|TOP期刊|计算机科学
 14|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区<BR>理论方法1区|TOP期刊|计算机科学
 15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|TOP期刊|工程
-16|IEEE Transactions on Image Processing|图形学与多媒体A类|计算机科学1区|人工智能1区|TOP期刊|工程
+16|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区|人工智能1区|TOP期刊|工程
 17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学2区|人工智能2区<BR>信息系统2区||工程
-18|IEEE Transactions on Multimedia|图形学与多媒体B类|计算机科学1区|信息系统1区<BR>软件工程1区|TOP期刊|计算机科学
+18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区|信息系统1区<BR>软件工程1区|TOP期刊|计算机科学
 19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区<BR>理论方法1区<BR>硬件1区|TOP期刊|计算机科学
 20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|TOP期刊|工程
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|TOP期刊|工程
@@ -62,7 +62,7 @@
 5|ICML|International Conference on Machine Learning|人工智能A类
 6|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类
 7|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类
-8|MM|ACM International Conference on Multimedia|图形学与多媒体A类
+8|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类
 9|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类
 
 ### 近期会议投稿信息（更新于2024.07）
