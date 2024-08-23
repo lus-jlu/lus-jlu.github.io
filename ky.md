@@ -34,7 +34,7 @@
 18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区|信息系统1区|计算机科学
 19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区|计算机科学
 20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|工程
-21|Information Fusion||计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学
+21|Information Fusion||计算机科学1区|人工智能1区|计算机科学
 22|Information Processing and Management|数据挖掘B类|管理学1区|信息系统1区|社会科学
 23|Information Sciences|数据挖掘B类|计算机科学1区|信息系统1区|计算机科学
 24|Information Systems|数据挖掘B类|计算机科学2区|信息系统3区|计算机科学
