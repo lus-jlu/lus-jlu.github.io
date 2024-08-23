@@ -51,8 +51,8 @@
 35|Neural Networks|人工智能B类|计算机科学1区|人工智能2区|TOP期刊|计算机科学
 36|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|TOP期刊|工程
 37|Applied Soft Computing||计算机科学1区|人工智能2区<BR>跨学科应用1区|TOP期刊|待查
-38|Big Data Mining and Analytics|计算机科学1区|人工智能1区<BR>信息系统1区||待查
-39|Information Fusion|计算机科学1区|人工智能1区<BR>理论方法1区|TOP期刊|待查
+38|Big Data Mining and Analytics||计算机科学1区|人工智能1区<BR>信息系统1区||待查
+39|Information Fusion||计算机科学1区|人工智能1区<BR>理论方法1区|TOP期刊|待查
 
 ## 3. 研究领域顶级会议
 
