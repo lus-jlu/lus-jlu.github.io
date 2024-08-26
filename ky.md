@@ -48,7 +48,7 @@
 26|International Journal of Approximate Reasoning|人工智能B类|智能基础B类|计算机科学3区|人工智能3区|计算机科学
 27|International Journal of Computer Vision|人工智能A类|机器视觉A类|计算机科学2区|人工智能2区|工程
 28|Journal of Artificial Intelligence Research|人工智能B类|智能基础B类|计算机科学3区|人工智能3区|计算机科学
-29|Journal of Automated Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学
+29|Journal of Automated Reasoning|人工智能B类||计算机科学3区|人工智能3区|计算机科学
 30|Journal of Machine Learning Research|人工智能A类|机器学习A类|计算机科学3区|人工智能3区|计算机科学
 31|Knowledge and Information Systems|数据挖掘B类|数据挖掘B类|计算机科学4区|人工智能4区<BR>信息系统4区|计算机科学
 32|Knowledge-Based Systems|人工智能C类|数据挖掘B类|计算机科学1区|人工智能2区|计算机科学
