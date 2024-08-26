@@ -26,7 +26,7 @@
 10|Decision Support Systems|人工智能C类|计算机科学1区|人工智能1区<BR>信息系统1区|计算机科学
 11|Evolutionary Computation|人工智能B类|计算机科学2区|人工智能3区<BR>理论方法2区|计算机科学
 12|Expert Systems with Applications|人工智能C类|计算机科学1区|人工智能2区|工程
-13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区|计算机科学
+13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区<BR>控制论1区|计算机科学
 14|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学
 15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|工程
 16|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区|人工智能1区|工程
