@@ -15,8 +15,8 @@
 序|期刊名称|CCF分类（2022）|中科院大类分区<BR>（2023）|中科院小类分区<BR>（2023）|ESI学科<BR>（2023）
 :-:|:-|:-:|:-:|:-:|:-:
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区|计算机科学
-2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区|计算机科学
-3|ACM Transactions on Multimedia Computing, Communications, and Applications|计算机图形学与多媒体B类<BR>计算机网络B类|计算机科学3区|信息系统3区|计算机科学
+2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区<BR>软件工程3区|计算机科学
+3|ACM Transactions on Multimedia Computing, Communications, and Applications|计算机图形学与多媒体B类<BR>计算机网络B类|计算机科学3区|信息系统3区<BR>软件工程3区|计算机科学
 4|Applied Soft Computing||计算机科学1区|人工智能2区|计算机科学
 5|Artificial Intelligence|人工智能A类|计算机科学2区|人工智能2区|计算机科学
 6|Autonomous Agents and Multi-Agent Systems|人工智能B类|计算机科学3区|人工智能3区|计算机科学
@@ -31,7 +31,7 @@
 15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|工程
 16|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区|人工智能1区|工程
 17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学2区|人工智能2区<BR>信息系统2区|工程
-18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区|信息系统1区|计算机科学
+18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区|信息系统1区<BR>软件工程1区|计算机科学
 19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区|计算机科学
 20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|工程
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|XX待定
