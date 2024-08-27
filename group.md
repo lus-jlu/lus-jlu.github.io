@@ -585,7 +585,7 @@
 
 ***
 
-<div align=center><img src="zhangsh2024.jpg" width="150"></div>
+<div align=center><img src="zhangsh2024.png" width="150"></div>
 
 ## 张顺浩，男，2002年03月生，山东省济南市人。
 - 2020.09-2024.06，重庆理工大学车辆工程学院车辆工程[新能源及智能汽车教改班]专业，本科生
