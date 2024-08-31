@@ -355,7 +355,7 @@
 - 毕业去向：[杭州] 浙江大华技术股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. **Ma Qiang**, Lü Shuai*, Zhang Shaojie, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
+1. **Ma Qiang**, Lü Shuai, Zhang Shaojie, Wu Junhong, Zhou Wenbo*. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
 2. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2023. (Submitted)
 
 ## 【学位论文】
