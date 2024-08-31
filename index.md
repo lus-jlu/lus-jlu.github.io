@@ -52,34 +52,21 @@
 + 吉林省计算机学会，理事
 + 国家自然科学基金，评审
 + 学术期刊论文评审
-  - Applied Intelligence
   - Applied Soft Computing
-  - Computer Networks
-  - Expert Systems
   - Expert Systems with Applications
-  - Frontiers of Computer Science
   - IEEE Transactions on Neural Networks and Learning Systems
   - Information Processing and Management
   - Information Sciences
-  - Journal of Experimental & Theoretical Artificial Intelligence
-  - Journal of Parallel and Distributed Computing
   - Knowledge-Based Systems
-  - Neural Computing and Applications
   - Science China Information Sciences
-  - Soft Computing
-  - Theoretical Computer Science
   - 计算机学报
   - 软件学报
   - 电子学报
   - 自动化学报
 + 学术会议论文评审
   - AAAI (PC, Reviewer)
-  - ACML (Reviewer)
-  - ECAI (Reviewer)
-  - ICANN (PC, Reviewer)
   - ICLR (Reviewer)
   - ICML (Reviewer)
-  - ISPA (Reviewer)
   - KDD (Reviewer)
   - NeurIPS (Reviewer)
 
