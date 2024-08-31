@@ -254,8 +254,8 @@
 - 毕业去向：[山东青岛] 青岛市工业和信息化局
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
-1. **Xiong Xi**, Shen Chun, Wu Junhong, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
-2. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
+1. **Xiong Xi**, Shen Chun, Wu Junhong, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2024. (Submitted)
+2. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
 3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 
 ## 【学位论文】
@@ -285,8 +285,8 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇，授权发明专利1项。
 1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 2. Zhu Wenbo, Lü Shuai*, **Long Zehong**, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-3. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
-4. **Long Zehong**, Zhu Wenbo, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
+3. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
+4. **Long Zehong**, Zhu Wenbo, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
 5. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
@@ -306,7 +306,7 @@
 - 毕业去向：[长春] 中国科学院长春光学精密机械与物理研究所
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. **Shu Man**, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
+1. **Shu Man**, Lü Shuai*, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
 
 ## 【学位论文】
 1. **舒曼**. 基于情节记忆的深度强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -335,8 +335,8 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
 1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
-2. **Zhang Yushu**, Shen Chun, An Daolong, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2023. (Submitted) 
-3. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
+2. **Zhang Yushu**, Shen Chun, An Daolong, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
+3. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
 
 ## 【学位论文】
 1. **张玉树**. 基于极值理论的强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -355,8 +355,8 @@
 - 毕业去向：[杭州] 浙江大华技术股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. **Ma Qiang**, Lü Shuai, Zhang Shaojie, Wu Junhong, Zhou Wenbo*. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
-2. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2023. (Submitted)
+1. **Ma Qiang**, Lü Shuai, Zhang Shaojie, Wu Junhong, Zhou Wenbo*. Contrastive label self-correction for unsupervised domain adaption. 2024. (Submitted)
+2. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
 
 ## 【学位论文】
 1. **马强**. 结合自监督学习的无监督领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
