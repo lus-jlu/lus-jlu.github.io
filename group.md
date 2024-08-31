@@ -19,7 +19,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
 1. **Zhou Ruikai**, Li Songlin, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
-2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
+2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
 3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
 4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
 
@@ -225,7 +225,7 @@
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇，授权发明专利1项。
 1. **Zhong Taihong**, Lü Shuai*, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
-2. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
+2. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
 3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
 4. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
 5. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
@@ -322,7 +322,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
 1. Zhou Ruikai, **Li Songlin**, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
-2. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai*. Exposing what happened in policy gradient methods by Kullback-Leibler divergence. 2024. (Submitted)
+2. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
 3. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, **Li Songlin**. Double actor-critic with episodic memory. 2023. (Submitted)
 
 ## 【荣誉奖励】
