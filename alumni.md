@@ -26,10 +26,10 @@
 - 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文9篇，在审学术论文2篇。
-1. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
-2. Li Junjie, Lü Shuai, **Li Jingyao**, Zhou Wenbo\*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
+1. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao\***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
+2. Li Junjie, Lü Shuai, **Li Jingyao**, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
 3. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao\***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 5. **Li Jingyao**, Lü Shuai, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
 6. **Li Jingyao**, Lü Shuai, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
 7. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
@@ -126,10 +126,10 @@
 - 毕业去向：[陕西杨凌] 西北农林科技大学教师，现为西北农林科技大学副教授、硕士生导师
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文15篇。
-1. **牛当当***, 吕帅, 王金艳, 刘斌. 基于MACR和CAL启发式的求差知识编译算法. **电子学报**, 2020, 48(2): 285-290. **(CCF推荐中文A类期刊)**
+1. **牛当当\***, 吕帅, 王金艳, 刘斌. 基于MACR和CAL启发式的求差知识编译算法. **电子学报**, 2020, 48(2): 285-290. **(CCF推荐中文A类期刊)**
 2. 贺甫霖, 刘磊, 吕帅*, **牛当当**, 王强. 基于格局检测的模型计数方法. **软件学报**, 2020, 31(2): 395-405. **(CCF推荐中文A类期刊)**
-3. **牛当当***, 吕帅, 王金艳. 基于相邻子句规约的求差知识编译算法. **哈尔滨工程大学学报**, 2019, 40(12): 2044-2049.
-4. **牛当当***, 吕帅, 王金艳. 基于MOVR启发式的求差知识编译算法. **电子学报**, 2019, 47(11): 2299-2303. **(CCF推荐中文A类期刊)**
+3. **牛当当\***, 吕帅, 王金艳. 基于相邻子句规约的求差知识编译算法. **哈尔滨工程大学学报**, 2019, 40(12): 2044-2049.
+4. **牛当当\***, 吕帅, 王金艳. 基于MOVR启发式的求差知识编译算法. **电子学报**, 2019, 47(11): 2299-2303. **(CCF推荐中文A类期刊)**
 5. **Niu Dangdang**, Liu Lei, Lü Shuai*. Augmenting negation normal form with irrelevant variables. **IEEE Access**, 2019, 7: 91360-91366. **(中科院2区期刊, SCI, IF: 3.745)**
 6. **Niu Dangdang**, Liu Lei, Lü Shuai*, Xu Yue. Complementary knowledge compilation using the hyper extension rule. **Chinese Journal of Electronics**, 2019, 28(2): 259-265. **(中科院4区期刊, SCI, IF: 0.941)**
 7. **Niu Dangdang**, Liu Lei, Lü Shuai*. Knowledge compilation methods based on the clausal relevance and extension rule. **Chinese Journal of Electronics**, 2018, 27(5): 1037-1042. **(中科院4区期刊, SCI, IF: 0.945)**
@@ -675,7 +675,7 @@
 - 毕业去向：[广东深圳] 哈尔滨工业大学（深圳）博士生
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
-1. **Li Junjie**, Lü Shuai, Li Jingyao, Zhou Wenbo\*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
+1. **Li Junjie**, Lü Shuai, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
 2. **Li Junjie**, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
 
 ## 【学位论文】
