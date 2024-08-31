@@ -110,8 +110,8 @@
 - 2020年度，"科研之星"荣誉称号
 
 ## 【联系方式】
-- 单位：东北师范大学信息科学与技术学院, 长春 130117; 应用统计教育部重点实验室(东北师范大学), 长春 130024; 符号计算与知识工程教育部重点实验室(吉林大学), 长春 130012; 广西多源信息挖掘与安全重点实验室(广西师范大学), 广西桂林 541004
-- 单位：School of Information Science and Technology, Northeast Normal University, Changchun 130117, China; Key Laboratory of Applied Statistics (Northeast Normal University), Ministry of Education, Changchun 130024, China; Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China; Guangxi Key Laboratory of Multi-source Information Mining and Security (Guangxi Normal University), Guilin 541004, China
+- 单位：东北师范大学信息科学与技术学院, 长春 130117; 应用统计教育部重点实验室(东北师范大学), 长春 130024
+- 单位：School of Information Science and Technology, Northeast Normal University, Changchun 130117, China; Key Laboratory of Applied Statistics (Northeast Normal University), Ministry of Education, Changchun 130024, China
 - 邮箱：zhouwb646@nenu.edu.cn
 
 ***
