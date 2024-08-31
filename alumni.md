@@ -452,7 +452,7 @@
 - 毕业去向：[上海] 北京酷克数据科技有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. Lü Shuai, Zhang Xinyu, **Li Zongze**, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
+1. Lü Shuai, Zhang Xinyu, **Li Zongze**, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
 2. Lü Shuai, **Li Zongze**, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 3. Gong Xiaoyu, Lü Shuai*, Yu Jiayu, Zhu Sheng, **Li Zongze**. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 
@@ -483,9 +483,9 @@
 - 毕业去向：[北京] 北京京东世纪贸易有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文3篇。
-1. Zhang Zeyu, Shen Chun, Ma Qiang, **Kang Meng**, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2023. (Submitted)
+1. Zhang Zeyu, Shen Chun, Ma Qiang, **Kang Meng**, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
 2. Zhou Ruikai, Zhu Wenbo, Han Shuai, **Kang Meng**, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
-3. Lü Shuai, Zhang Xinyu, Li Zongze, Li Jingyao*, **Kang Meng**. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2022. (Submitted)
+3. Lü Shuai, Zhang Xinyu, Li Zongze, Li Jingyao*, **Kang Meng**. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
 4. Lü Shuai, **Kang Meng**, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence.  In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 4669-4677. **(CCF推荐A类会议)**
 5. Zhang Xinyu, **Kang Meng**, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
 6. Lu Jiayi, Han Shuai, Lü Shuai*, **Kang Meng**, Zhang Junwei. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
@@ -514,7 +514,7 @@
 - 毕业去向：[上海] 中信证券股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文7篇，在审学术论文1篇。
-1. Shu Man, Lü Shuai*, **Gong Xiaoyu**, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
+1. Shu Man, Lü Shuai*, **Gong Xiaoyu**, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
 2. Shen Chun, Zhu Sheng, Han Shuai, **Gong Xiaoyu**, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
 3. **Gong Xiaoyu**, Lü Shuai*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 4. Han Shuai, Zhou Wenbo, Lü Shuai*, Zhu Sheng, **Gong Xiaoyu**. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
@@ -555,7 +555,7 @@
 - 毕业去向：[北京] 北京蓝色创想网络科技有限责任公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
-1. **Zhu Sheng**, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
+1. **Zhu Sheng**, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
 2. Zhang Junwei, Han Shuai, Xiong Xi, **Zhu Sheng**, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 3. **Zhu Sheng**, Shen Chun, Lü Shuai*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 4. Shen Chun, **Zhu Sheng**, Han Shuai, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
@@ -675,7 +675,7 @@
 - 毕业去向：[广东深圳] 哈尔滨工业大学（深圳）博士生
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
-1. **Li Junjie**, Lü Shuai, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2021. (Submitted)
+1. **Li Junjie**, Lü Shuai, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
 2. **Li Junjie**, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
 
 ## 【学位论文】
@@ -730,10 +730,10 @@
 - 毕业去向：[荷兰] Utrecht University（乌特列支大学）国家公派博士生（导师：Mehdi Dastani教授）
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文11篇，在审学术论文4篇。
-1. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
-2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
+1. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
+2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
 3. Zhou Ruikai, Zhu Wenbo, **Han Shuai**, Kang Meng, Lü Shuai*. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
-4. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
+4. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
 5. Yu Jiayu, Li Jingyao, Lü Shuai*, **Han Shuai**. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 6. Zhang Junwei, **Han Shuai**, Xiong Xi, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 7. Shen Chun, Zhu Sheng, **Han Shuai**, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
