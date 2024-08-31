@@ -196,7 +196,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. Ma Qiang, Lü Shuai*, **Zhang Shaojie**, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
+1. Ma Qiang, Lü Shuai*, **Zhang Shaojie**, Wu Junhong, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2024. (Submitted)
 2. Zhang Zeyu, Shen Chun, Lü Shuai*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
 3. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
@@ -226,9 +226,9 @@
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇，授权发明专利1项。
 1. **Zhong Taihong**, Lü Shuai*, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 2. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
-3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2023. (Submitted)
-4. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
-5. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
+3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
+4. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
+5. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
 6. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【荣誉奖励】
