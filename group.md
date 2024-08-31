@@ -256,13 +256,13 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文8篇。
 1. **Wu Junhong**, Liu Jie, Lü Shuai*. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
-2. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
-3. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
-4. Zhang Yushu, Shen Chun, An Daolong, **Wu Junhong**, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2023. (Submitted) 
+2. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2024. (Submitted)
+3. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
+4. Zhang Yushu, Shen Chun, An Daolong, **Wu Junhong**, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
 5. Zhu Wenbo, Lü Shuai*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-6. Ma Qiang, Lü Shuai*, Zhang Shaojie, **Wu Junhong**, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2023. (Submitted)
-7. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2023. (Submitted)
-8. Long Zehong, Zhu Wenbo, Lü Shuai*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2023. (Submitted)
+6. Ma Qiang, Lü Shuai*, Zhang Shaojie, **Wu Junhong**, Zhou Wenbo. Contrastive label self-correction for unsupervised domain adaption. 2024. (Submitted)
+7. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
+8. Long Zehong, Zhu Wenbo, Lü Shuai*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
 9. Zhu Sheng, Shen Chun, Lü Shuai*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
@@ -293,9 +293,9 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文4篇。
 1. Zhong Taihong, Lü Shuai*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
-2. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2023. (Submitted)
-3. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2023. (Submitted) 
-4. Shu Man, Lü Shuai*, Gong Xiaoyu, **An Daolong**, Li Songlin. Double actor-critic with episodic memory. 2023. (Submitted)
+2. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
+3. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
+4. Shu Man, Lü Shuai*, Gong Xiaoyu, **An Daolong**, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
 5. Zhu Sheng, Shen Chun, Lü Shuai*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
@@ -323,7 +323,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
 1. Zhou Ruikai, **Li Songlin**, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 2. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
-3. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, **Li Songlin**. Double actor-critic with episodic memory. 2023. (Submitted)
+3. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, **Li Songlin**. Double actor-critic with episodic memory. 2024. (Submitted)
 
 ## 【荣誉奖励】
 - 2019-2020学年，一等奖学金、院优秀学生
@@ -420,7 +420,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2022. (Submitted)
+1. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，三等奖学金
@@ -468,7 +468,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Xiong Xi, Shen Chun, Wu Junhong, Lü Shuai*, **Zhang Xiaodan**. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2023. (Submitted)
+1. Xiong Xi, Shen Chun, Wu Junhong, Lü Shuai*, **Zhang Xiaodan**. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2024. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生
