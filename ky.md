@@ -20,25 +20,25 @@
 
 序|期刊名称|CCF分类（2022）|CAAI分类（2024）|中科院大类分区<BR>（2023）|中科院小类分区<BR>（2023）|ESI学科<BR>（2023）
 :-:|:-|:-:|:-:|:-:|:-:|:-:
-1|ACM Transactions on Information Systems|数据挖掘A类|智能基础A类|计算机科学2区|信息系统2区|计算机科学
-2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|数据挖掘B类|计算机科学3区|信息系统3区<BR>软件工程3区|计算机科学
-3|ACM Transactions on Multimedia Computing, Communications, and Applications|计算机图形学与多媒体B类<BR>计算机网络B类|媒体智能B类|计算机科学3区|信息系统3区<BR>理论方法3区<BR>软件工程3区|计算机科学
-4|Applied Soft Computing||智能基础C类|计算机科学1区|人工智能2区<BR>跨学科应用1区|计算机科学
-5|Artificial Intelligence|人工智能A类|智能基础A类|计算机科学2区|人工智能2区|计算机科学
-6|Autonomous Agents and Multi-Agent Systems|人工智能B类|智能系统B类|计算机科学3区|人工智能3区|计算机科学
-7|Computer Vision and Image Understanding|人工智能B类|机器视觉B类|计算机科学3区|人工智能3区|计算机科学
-8|Data & Knowledge Engineering|人工智能B类<BR>数据挖掘B类|数据挖掘B类|计算机科学3区|人工智能4区<BR>信息系统4区|计算机科学
-9|Data Mining and Knowledge Discovery|数据挖掘B类|数据挖掘B类|计算机科学3区|人工智能3区<BR>信息系统3区|计算机科学
-10|Decision Support Systems|人工智能C类|智能基础B类|计算机科学1区|人工智能1区<BR>信息系统1区|计算机科学
-11|Evolutionary Computation|人工智能B类|智能基础B类|计算机科学2区|人工智能3区<BR>理论方法2区|计算机科学
-12|Expert Systems with Applications|人工智能C类|数据挖掘C类|计算机科学1区|人工智能2区|工程
-13|IEEE Transactions on Cybernetics|人工智能B类|智能基础A类|计算机科学1区|人工智能1区<BR>控制论1区|计算机科学
-14|IEEE Transactions on Evolutionary Computation|人工智能B类|智能系统A类|计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学
-15|IEEE Transactions on Fuzzy Systems|人工智能B类|智能基础B类|计算机科学1区|人工智能1区|工程
-16|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|机器视觉A类|计算机科学1区|人工智能1区|工程
-17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|数据挖掘A类|计算机科学2区|人工智能2区<BR>信息系统2区|工程
-18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|媒体智能A类|计算机科学1区|信息系统1区<BR>软件工程1区|计算机科学
-19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|智能基础A类|计算机科学1区|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学
+1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区|计算机科学
+2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区<BR>软件工程3区|计算机科学
+3|ACM Transactions on Multimedia Computing, Communications, and Applications|计算机图形学与多媒体B类<BR>计算机网络B类|计算机科学3区|信息系统3区<BR>理论方法3区<BR>软件工程3区|计算机科学
+4|Applied Soft Computing||计算机科学1区|人工智能2区<BR>跨学科应用1区|计算机科学
+5|Artificial Intelligence|人工智能A类|计算机科学2区|人工智能2区|计算机科学
+6|Autonomous Agents and Multi-Agent Systems|人工智能B类|计算机科学3区|人工智能3区|计算机科学
+7|Computer Vision and Image Understanding|人工智能B类|计算机科学3区|人工智能3区|计算机科学
+8|Data & Knowledge Engineering|人工智能B类<BR>数据挖掘B类|计算机科学3区|人工智能4区<BR>信息系统4区|计算机科学
+9|Data Mining and Knowledge Discovery|数据挖掘B类|计算机科学3区|人工智能3区<BR>信息系统3区|计算机科学
+10|Decision Support Systems|人工智能C类|计算机科学1区|人工智能1区<BR>信息系统1区|计算机科学
+11|Evolutionary Computation|人工智能B类|计算机科学2区|人工智能3区<BR>理论方法2区|计算机科学
+12|Expert Systems with Applications|人工智能C类|计算机科学1区|人工智能2区|工程
+13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区<BR>控制论1区|计算机科学
+14|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学
+15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|工程
+16|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区|人工智能1区|工程
+17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学2区|人工智能2区<BR>信息系统2区|工程
+18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区|信息系统1区<BR>软件工程1区|计算机科学
+19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学
 20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|机器视觉A类|计算机科学1区|人工智能1区|工程
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|智能系统B类|计算机科学1区|控制论1区|工程
 22|Information Fusion||智能基础A类|计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学
