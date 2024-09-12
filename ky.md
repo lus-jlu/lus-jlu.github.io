@@ -60,17 +60,17 @@
 
 ## 3. 研究领域顶级会议
 
-序|会议缩写|会议全称|CCF分类<BR>（2022）|CAAI分类（2024）
+序|会议缩写|会议全称|CCF分类<BR>（2022）
 :-:|:-:|:-|:-:|:-:
-1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类|智能基础A类
-2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类|机器视觉A类
-3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类|机器视觉A类
-4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类|数据挖掘A类
-5|ICML|International Conference on Machine Learning|人工智能A类|机器学习A类
-6|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类|智能基础A类
-7|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类|数据挖掘A类
-8|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|媒体智能A类
-9|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类|机器学习A类
+1|AAAI|Annual AAAI Conference on Artificial Intelligence|人工智能A类
+2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类
+3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类
+4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类
+5|ICML|International Conference on Machine Learning|人工智能A类
+6|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类
+7|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类
+8|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类
+9|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类
 
 ### 近期会议投稿信息（更新于2024.07）
 
