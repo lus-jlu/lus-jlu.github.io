@@ -13,13 +13,10 @@
 
 + 【影响因子】影响因子（Impact Factor，IF）是Thomson Reuters出品的期刊引证报告（Journal Citation Reports，JCR）中的一项数据，即某期刊前2年发表的论文在报告年份被引用总次数除以该期刊在这2年内发表的论文总数，是国际上通行的期刊评价指标。
 
-+ 【CAAI推荐分类】中国人工智能学会推荐国际学术会议和国际/国内期刊目录（2024年第1版，发布时间2024年8月24日），详见[<A href="https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html" target="_blank">原文链接</A>]。
-注：官方计划定期更新（2024年8月第1版）。
-
 ## 2. 研究领域顶级或著名期刊
 
-序|期刊名称|CCF分类（2022）|CAAI分类（2024）|中科院大类分区<BR>（2023）|中科院小类分区<BR>（2023）|ESI学科<BR>（2023）
-:-:|:-|:-:|:-:|:-:|:-:|:-:
+序|期刊名称|CCF分类（2022）|中科院大类分区<BR>（2023）|中科院小类分区<BR>（2023）|ESI学科<BR>（2023）
+:-:|:-|:-:|:-:|:-:|:-:
 1|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统2区|计算机科学
 2|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区<BR>软件工程3区|计算机科学
 3|ACM Transactions on Multimedia Computing, Communications, and Applications|计算机图形学与多媒体B类<BR>计算机网络B类|计算机科学3区|信息系统3区<BR>理论方法3区<BR>软件工程3区|计算机科学
