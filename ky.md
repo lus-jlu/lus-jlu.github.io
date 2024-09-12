@@ -39,24 +39,24 @@
 17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学2区|人工智能2区<BR>信息系统2区|工程
 18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区|信息系统1区<BR>软件工程1区|计算机科学
 19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学
-20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|机器视觉A类|计算机科学1区|人工智能1区|工程
-21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|智能系统B类|计算机科学1区|控制论1区|工程
-22|Information Fusion||智能基础A类|计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学
-23|Information Processing and Management|数据挖掘B类|数据挖掘B类|管理学1区|信息系统1区|社会科学
-24|Information Sciences|数据挖掘B类|待定|计算机科学1区|信息系统1区|计算机科学
-25|Information Systems|数据挖掘B类|数据挖掘B类|计算机科学2区|信息系统3区|计算机科学
-26|International Journal of Approximate Reasoning|人工智能B类|智能基础B类|计算机科学3区|人工智能3区|计算机科学
-27|International Journal of Computer Vision|人工智能A类|机器视觉A类|计算机科学2区|人工智能2区|工程
-28|Journal of Artificial Intelligence Research|人工智能B类|智能基础B类|计算机科学3区|人工智能3区|计算机科学
-29|Journal of Automated Reasoning|人工智能B类||计算机科学3区|人工智能3区|计算机科学
-30|Journal of Machine Learning Research|人工智能A类|机器学习A类|计算机科学3区|人工智能3区|计算机科学
-31|Knowledge and Information Systems|数据挖掘B类|数据挖掘B类|计算机科学4区|人工智能4区<BR>信息系统4区|计算机科学
-32|Knowledge-Based Systems|人工智能C类|数据挖掘B类|计算机科学1区|人工智能2区|计算机科学
-33|Machine Learning|人工智能B类|机器学习B类|计算机科学3区|人工智能3区|工程
-34|Nature Machine Intelligence||智能基础A类|计算机科学1区|人工智能1区<BR>跨学科应用1区|计算机科学
-35|Neural Computation|人工智能B类|智能基础B类|计算机科学4区|人工智能4区|计算机科学
-36|Neural Networks|人工智能B类|智能基础B类|计算机科学1区|人工智能2区|计算机科学
-37|Pattern Recognition|人工智能B类|机器视觉B类|计算机科学1区|人工智能1区|工程
+20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|工程
+21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|工程
+22|Information Fusion||计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学
+23|Information Processing and Management|数据挖掘B类|管理学1区|信息系统1区|社会科学
+24|Information Sciences|数据挖掘B类|计算机科学1区|信息系统1区|计算机科学
+25|Information Systems|数据挖掘B类|计算机科学2区|信息系统3区|计算机科学
+26|International Journal of Approximate Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学
+27|International Journal of Computer Vision|人工智能A类|计算机科学2区|人工智能2区|工程
+28|Journal of Artificial Intelligence Research|人工智能B类|计算机科学3区|人工智能3区|计算机科学
+29|Journal of Automated Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学
+30|Journal of Machine Learning Research|人工智能A类|计算机科学3区|人工智能3区|计算机科学
+31|Knowledge and Information Systems|数据挖掘B类|计算机科学4区|人工智能4区<BR>信息系统4区|计算机科学
+32|Knowledge-Based Systems|人工智能C类|计算机科学1区|人工智能2区|计算机科学
+33|Machine Learning|人工智能B类|计算机科学3区|人工智能3区|工程
+34|Nature Machine Intelligence||计算机科学1区|人工智能1区<BR>跨学科应用1区|计算机科学
+35|Neural Computation|人工智能B类|计算机科学4区|人工智能4区|计算机科学
+36|Neural Networks|人工智能B类|计算机科学1区|人工智能2区|计算机科学
+37|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|工程
 
 ## 3. 研究领域顶级会议
 
