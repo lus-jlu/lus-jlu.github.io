@@ -27,7 +27,7 @@
 8|Data & Knowledge Engineering|人工智能B类<BR>数据挖掘B类|计算机科学3区|人工智能4区<BR>信息系统4区|计算机科学|Elsevier
 9|Data Mining and Knowledge Discovery|数据挖掘B类|计算机科学3区|人工智能3区<BR>信息系统3区|计算机科学|Springer
 10|Decision Support Systems|人工智能C类|计算机科学1区|人工智能1区<BR>信息系统1区|计算机科学|Elsevier
-11|Evolutionary Computation|人工智能B类|计算机科学2区|人工智能3区<BR>理论方法2区|计算机科学|MIT
+11|Evolutionary Computation|人工智能B类|计算机科学2区|人工智能3区<BR>理论方法2区|计算机科学|MIT Press
 12|Expert Systems with Applications|人工智能C类|计算机科学1区|人工智能2区|工程|Elsevier
 13|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区<BR>控制论1区|计算机科学|IEEE
 14|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学|IEEE
@@ -44,14 +44,14 @@
 25|Information Systems|数据挖掘B类|计算机科学2区|信息系统3区|计算机科学|Elsevier
 26|International Journal of Approximate Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学|Elsevier
 27|International Journal of Computer Vision|人工智能A类|计算机科学2区|人工智能2区|工程|Springer
-28|Journal of Artificial Intelligence Research|人工智能B类|计算机科学3区|人工智能3区|计算机科学|AI Access
+28|Journal of Artificial Intelligence Research|人工智能B类|计算机科学3区|人工智能3区|计算机科学|AI Access Foundation
 29|Journal of Automated Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学|Springer
 30|Journal of Machine Learning Research|人工智能A类|计算机科学3区|人工智能3区|计算机科学|Microtome Publishing
 31|Knowledge and Information Systems|数据挖掘B类|计算机科学4区|人工智能4区<BR>信息系统4区|计算机科学|Springer
 32|Knowledge-Based Systems|人工智能C类|计算机科学1区|人工智能2区|计算机科学|Elsevier
 33|Machine Learning|人工智能B类|计算机科学3区|人工智能3区|工程|Springer
 34|Nature Machine Intelligence||计算机科学1区|人工智能1区<BR>跨学科应用1区|计算机科学|Springer
-35|Neural Computation|人工智能B类|计算机科学4区|人工智能4区|计算机科学|MIT
+35|Neural Computation|人工智能B类|计算机科学4区|人工智能4区|计算机科学|MIT Press
 36|Neural Networks|人工智能B类|计算机科学1区|人工智能2区|计算机科学|Elsevier
 37|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|工程|Elsevier
 
@@ -63,11 +63,11 @@
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类|IEEE
 3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类|IEEE
 4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类|IEEE
-5|ICML|International Conference on Machine Learning|人工智能A类|ML Research
+5|ICML|International Conference on Machine Learning|人工智能A类|ML Research Press
 6|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类|IJCAI
 7|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类|ACM
 8|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
-9|NeurIPS|Conference on Neural Information Processing Systems|人工智能A类|NeurIPS
+9|NeurIPS|Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
 
 ### 近期会议投稿信息（更新于2024.07）
 
