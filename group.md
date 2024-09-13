@@ -109,7 +109,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. Lü Shuai, **Zhang Xinyu**, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
-2. **Zhang Xinyu**, Kang Meng, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
+2. **Zhang Xinyu**, Kang Meng, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
 3. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 
 ## 【荣誉奖励】
@@ -140,7 +140,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
 2. **Zhang Zeyu**, Shen Chun, Lü Shuai*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
-3. Zhang Shaojie, Shen Chun, Lü Shuai*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
+3. Zhang Shaojie, Shen Chun, Lü Shuai*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2019.04，中国高校计算机大赛团体程序设计天梯赛，团队省级特等奖
@@ -198,7 +198,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. Ma Qiang, Lü Shuai, **Zhang Shaojie**, Wu Junhong, Zhou Wenbo*. Contrastive label self-correction for unsupervised domain adaption. 2024. (Submitted)
 2. Zhang Zeyu, Shen Chun, Lü Shuai*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
-3. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
+3. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、二等奖学金
@@ -263,7 +263,7 @@
 6. Ma Qiang, Lü Shuai, Zhang Shaojie, **Wu Junhong**, Zhou Wenbo*. Contrastive label self-correction for unsupervised domain adaption. 2024. (Submitted)
 7. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
 8. Long Zehong, Zhu Wenbo, Lü Shuai*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
-9. Zhu Sheng, Shen Chun, Lü Shuai*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+9. Zhu Sheng, Shen Chun, Lü Shuai*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，一等奖学金、校优秀学生
@@ -296,7 +296,7 @@
 2. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
 3. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
 4. Shu Man, Lü Shuai*, Gong Xiaoyu, **An Daolong**, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
-5. Zhu Sheng, Shen Chun, Lü Shuai*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+5. Zhu Sheng, Shen Chun, Lü Shuai*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2019.07，全国大学生水利创新设计大赛，国家级二等奖
