@@ -62,7 +62,7 @@
 1|AAAI|AAAI Conference on Artificial Intelligence|人工智能A类|AAAI
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类|IEEE
 3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类|IEEE
-4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类
+4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类|IEEE
 5|ICML|International Conference on Machine Learning|人工智能A类
 6|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类
 7|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类
