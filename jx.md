@@ -35,7 +35,7 @@
     <TD>1-2节<BR>08:00-09:40</TD>
     <TD></TD>
     <TD rowspan="2"></TD>
-    <TD rowspan="2">程序设计基础实验<BR>11-13+15-17周<BR>王A108</TD>
+    <TD rowspan="2">程序设计基础<BR>实验<BR>11-13+15-17周<BR>王A108</TD>
     <TD></TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
@@ -48,7 +48,7 @@
   </TR>
   <TR align="center" veralign="center">
     <TD>5-6节<BR>13:30-15:10</TD>
-    <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王B212</TD>
+    <TD rowspan="2">程序设计基础<BR>实验<BR>7-17单周<BR>王B212</TD>
     <TD rowspan="2"></TD>
     <TD>程序设计基础<BR>7-15周<BR>逸10阶</TD>
     <TD rowspan="2"></TD>
@@ -63,7 +63,7 @@
   </TR>
   <TR align="center" veralign="center">
     <TD>9-10节<BR>18:20-19:50</TD>
-    <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王A209</TD>
+    <TD rowspan="2">程序设计基础<BR>实验<BR>7-17单周<BR>王A209</TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
