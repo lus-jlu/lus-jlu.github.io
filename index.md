@@ -180,7 +180,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 15. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
 16. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (Submitted)
 17. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
-18. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. Online reinforcement learning exploration method based on visitation count of state-action pairs. 2023. (Submitted)
+18. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. 2024. (Submitted)
 19. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
 20. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
 21. Li Junjie, **Lü Shuai**, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
