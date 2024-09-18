@@ -20,7 +20,7 @@
 
 ## 2. 吕帅的日程安排（2024-2025学年第1学期）【随时更新】
 
-<TABLE align="center" veralign="center">
+<TABLE width="100%" align="center" veralign="center">
   <TR align="center" veralign="center">
     <TH>节</TH>
     <TH>一</TH>
