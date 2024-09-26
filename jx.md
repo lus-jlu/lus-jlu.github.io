@@ -42,12 +42,13 @@
     <TD></TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
-    <TD rowspan="2"></TD>
+    <TD></TD>
   </TR>
   <TR align="center" veralign="center">
     <TD>3-4节<BR>10:00-11:40</TD>
     <TD>程序设计基础<BR>4-15周<BR>敬E407</TD>
     <TD>程序设计基础<BR>4-15周<BR>敬E407</TD>
+    <TD>人工智能引论<BR>17-18周<BR>南岭逸B110</TD>
   </TR>
   <TR align="center" veralign="center">
     <TD>5-6节<BR>13:30-15:10</TD>
