@@ -58,7 +58,7 @@
     <TD rowspan="2"></TD>
     <TD>程序设计基础<BR>4-9+11-15周<BR>逸10阶</TD>
     <TD rowspan="2">计算理论<BR>3-9+11-15周<BR>敬E103</TD>
-    <TD rowspan="2">新生研讨课<BR>9+12周<BR>王B417</TD>
+    <TD rowspan="2">新生研讨课<BR>11+14周<BR>王B417</TD>
   </TR>
   <TR align="center" veralign="center">
     <TD>7-8节<BR>15:30-17:10</TD>
@@ -73,7 +73,7 @@
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
-    <TD rowspan="2">新生研讨课<BR>9+12周<BR>王B417</TD>
+    <TD rowspan="2">新生研讨课<BR>11+14周<BR>王B417</TD>
   </TR>
   <TR align="center" veralign="center">
     <TD>11-12节<BR>20:00-21:30</TD>
