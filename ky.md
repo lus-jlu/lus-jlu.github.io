@@ -76,7 +76,7 @@
 1|<A href="https://ieee-icde.org/2025" target="_blank">ICDE 2025</A>||2024.08.02 AOE<BR>2024.11.28 AOE|2025.05.19-05.23|Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_blank">投稿系统</A>
 2|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
 3|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
-4|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>||2024.11.14<BR>01:59 AM CST|2025.06.10-06.17|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
+4|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.10-06.17|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
 5|<A href="" target="_blank">IJCAI 2025</A>|预计2025.01|预计2025.01|预计2025.08|Montreal, Canada|
 6|<A href="" target="_blank">ICML 2025</A>||预计2025.02|预计2025.07|Vancouver, Canada|
 7|<A href="" target="_blank">ICCV 2025</A>||预计2025.03|2025.10.19-10.25|Honolulu, USA|
