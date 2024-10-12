@@ -67,10 +67,10 @@
   </TR>
   <TR align="center" veralign="center">
     <TD>9-10节<BR>18:20-19:50</TD>
-    <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王A209</TD>
+    <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王A209<BR><BR>研讨</TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
-    <TD rowspan="2"></TD>
+    <TD rowspan="2">研讨</TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2">新生研讨课<BR>11+14周<BR>王B417</TD>
