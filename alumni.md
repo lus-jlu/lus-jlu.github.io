@@ -16,7 +16,7 @@
 
 ***
 
-<div align=center><img src="lijy2018.jpg" width="150"></div>
+<div align=center><img src="figures/lijy2018.jpg" width="150"></div>
 
 ## 李静瑶，女，1994年10月生，吉林省松原市人。
 - 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -57,7 +57,7 @@
 
 ***
 
-<div align=center><img src="zhouwb2017.jpg" width="150"></div>
+<div align=center><img src="figures/zhouwb2017.jpg" width="150"></div>
 
 ## 周文博，男，1991年05月生，吉林省四平市人。
 - 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -116,7 +116,7 @@
 
 ***
 
-<div align=center><img src="niudd2012.png" width="150"></div>
+<div align=center><img src="figures/niudd2012.png" width="150"></div>
 
 ## 牛当当，男，1990年02月生，陕西省西安市人。
 - 2008.09-2012.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -160,7 +160,7 @@
 
 ***
 
-<div align=center><img src="liz2012.jpg" width="150"></div>
+<div align=center><img src="figures/liz2012.jpg" width="150"></div>
 
 ## 李壮，男，1988年11月生，吉林省白城市人。
 - 2012.09-2015.06，吉林大学软件学院软件工程专业，硕士生
@@ -188,7 +188,7 @@
 
 ***
 
-<div align=center><img src="weiw2010.jpg" width="150"></div>
+<div align=center><img src="figures/weiw2010.jpg" width="150"></div>
 
 ## 魏唯，女，1984年12月生，吉林省长春市人。
 - 2007.09-2010.06，吉林大学计算机科学与技术学院计算机软件与理论专业，推免硕士生
@@ -226,7 +226,7 @@
 
 ***
 
-<div align=center><img src="zoutt2010.jpg" width="150"></div>
+<div align=center><img src="figures/zoutt2010.jpg" width="150"></div>
 
 ## 邹婷婷，女，1984年11月生，吉林省集安市人。
 - 2010.09-2013.06，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生
@@ -245,7 +245,7 @@
 
 ***
 
-<div align=center><img src="xiongx2021.jpg" width="150"></div>
+<div align=center><img src="figures/xiongx2021.jpg" width="150"></div>
 
 ## 熊玺，男，1997年05月生，山西省运城市人。
 - 2017.09-2021.06，山西大学数学科学学院信息与计算科学专业，本科生
@@ -274,7 +274,7 @@
 
 ***
 
-<div align=center><img src="longzh2021.jpg" width="150"></div>
+<div align=center><img src="figures/longzh2021.jpg" width="150"></div>
 
 ## 龙泽泓，男，1999年06月生，山西省大同市人。
 - 2017.09-2021.06，山西大学数学科学学院信息与计算科学专业，本科生
@@ -297,7 +297,7 @@
 
 ***
 
-<div align=center><img src="shum2021.png" width="150"></div>
+<div align=center><img src="figures/shum2021.png" width="150"></div>
 
 ## 舒曼，女，1999年10月生，吉林省长春市人。
 - 2017.09-2021.06，吉林大学软件学院软件工程专业，本科生
@@ -325,7 +325,7 @@
 
 ***
 
-<div align=center><img src="zhangys2021.jpg" width="150"></div>
+<div align=center><img src="figures/zhangys2021.jpg" width="150"></div>
 
 ## 张玉树，男，1999年06月生，河北省辛集市人。
 - 2017.09-2021.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -346,7 +346,7 @@
 
 ***
 
-<div align=center><img src="maq2021.jpg" width="150"></div>
+<div align=center><img src="figures/maq2021.jpg" width="150"></div>
 
 ## 马强，男，1996年01月生，山西省阳泉市人。
 - 2014.09-2018.06，上海电机学院电子信息学院物联网工程专业，本科生
@@ -373,7 +373,7 @@
 
 ***
 
-<div align=center><img src="luoj2021.jpg" width="150"></div>
+<div align=center><img src="figures/luoj2021.jpg" width="150"></div>
 
 ## 罗敬，男，1999年07月生，四川省自贡市人。
 - 2017.09-2021.06，成都信息工程大学计算机学院计算机科学与技术专业，本科生
@@ -395,7 +395,7 @@
 
 ***
 
-<div align=center><img src="zhangjw2020.jpg" width="150"></div>
+<div align=center><img src="figures/zhangjw2020.jpg" width="150"></div>
 
 ## 张峻伟，男，1998年12月生，吉林省通化市人。
 - 2016.09-2020.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -443,7 +443,7 @@
 
 ***
 
-<div align=center><img src="lizz2020.jpg" width="150"></div>
+<div align=center><img src="figures/lizz2020.jpg" width="150"></div>
 
 ## 李宗泽，男，1998年08月生，河南省焦作市人。
 - 2016.09-2020.06，吉林大学软件学院软件工程专业，本科生
@@ -474,7 +474,7 @@
 
 ***
 
-<div align=center><img src="kangm2020.jpg" width="150"></div>
+<div align=center><img src="figures/kangm2020.jpg" width="150"></div>
 
 ## 康勐，男，1998年06月生，陕西省西安市人。
 - 2016.09-2020.06，吉林大学软件学院软件工程专业，本科生
@@ -505,7 +505,7 @@
 
 ***
 
-<div align=center><img src="gongxy2020.jpg" width="150"></div>
+<div align=center><img src="figures/gongxy2020.jpg" width="150"></div>
 
 ## 龚晓宇，男，1997年12月生，湖北省十堰市人。
 - 2016.09-2020.06，吉林大学计算机科学与技术学院物联网工程专业，本科生
@@ -546,7 +546,7 @@
 
 ***
 
-<div align=center><img src="zhus2020.jpg" width="150"></div>
+<div align=center><img src="figures/zhus2020.jpg" width="150"></div>
 
 ## 朱盛，男，1999年04月生，江西省赣州市人。
 - 2016.09-2020.06，南昌航空大学软件学院软件工程专业，本科生
@@ -578,7 +578,7 @@
 
 ***
 
-<div align=center><img src="yujy2019.jpg" width="150"></div>
+<div align=center><img src="figures/yujy2019.jpg" width="150"></div>
 
 ## 于佳玉，男，1997年04月生，河北省沧州市人。
 - 2015.09-2019.06，吉林大学软件学院软件工程专业，本科生
@@ -610,7 +610,7 @@
 
 ***
 
-<div align=center><img src="zhangzh2019.jpg" width="150"></div>
+<div align=center><img src="figures/zhangzh2019.jpg" width="150"></div>
 
 ## 张正昊，男，1996年07月生，河南省安阳市人。
 - 2015.09-2019.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -639,7 +639,7 @@
 
 ***
 
-<div align=center><img src="lujy2019.jpg" width="150"></div>
+<div align=center><img src="figures/lujy2019.jpg" width="150"></div>
 
 ## 路笳艺，女，1997年03月生，吉林省四平市人。
 - 2015.09-2019.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -666,7 +666,7 @@
 
 ***
 
-<div align=center><img src="lijj2018.jpg" width="150"></div>
+<div align=center><img src="figures/lijj2018.jpg" width="150"></div>
 
 ## 李俊劼，男，1995年10月生，安徽省黄山市人。
 - 2013.09-2018.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -693,7 +693,7 @@
 
 ***
 
-<div align=center><img src="liuj2018.jpg" width="150"></div>
+<div align=center><img src="figures/liuj2018.jpg" width="150"></div>
 
 ## 刘京，男，1995年11月生，河南省灵宝市人。
 - 2014.09-2018.06，吉林大学软件学院软件工程专业，本科生
@@ -721,7 +721,7 @@
 
 ***
 
-<div align=center><img src="hans2018.jpg" width="150"></div>
+<div align=center><img src="figures/hans2018.jpg" width="150"></div>
 
 ## 韩帅，男，1996年07月生，河北省廊坊市人。
 - 2014.09-2018.06，吉林大学软件学院软件工程专业，本科生
@@ -766,7 +766,7 @@
 
 ***
 
-<div align=center><img src="zhangtb2017.jpg" width="150"></div>
+<div align=center><img src="figures/zhangtb2017.jpg" width="150"></div>
 
 ## 张桐搏，男，1995年01月生，吉林省长春市人。
 - 2013.09-2017.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -809,7 +809,7 @@
 
 ***
 
-<div align=center><img src="xuy2017.jpg" width="150"></div>
+<div align=center><img src="figures/xuy2017.jpg" width="150"></div>
 
 ## 徐玥，女，1994年08月生，吉林省长春市人。
 - 2013.09-2017.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -843,7 +843,7 @@
 
 ***
 
-<div align=center><img src="hefl2016.jpg" width="150"></div>
+<div align=center><img src="figures/hefl2016.jpg" width="150"></div>
 
 ## 贺甫霖，男，1993年05月生，吉林省吉林市人。
 - 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -866,7 +866,7 @@
 
 ***
 
-<div align=center><img src="zoulk2016.jpg" width="150"></div>
+<div align=center><img src="figures/zoulk2016.jpg" width="150"></div>
 
 ## 邹璐琨，男，1994年01月生，河南省三门峡市人。
 - 2012.09-2016.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -879,7 +879,7 @@
 
 ***
 
-<div align=center><img src="wangq2015.jpg" width="150"></div>
+<div align=center><img src="figures/wangq2015.jpg" width="150"></div>
 
 ## 王强，男，1994年07月生，山西省霍州市人。
 - 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -914,7 +914,7 @@
 
 ***
 
-<div align=center><img src="ligl2015.jpg" width="150"></div>
+<div align=center><img src="figures/ligl2015.jpg" width="150"></div>
 
 ## 李广力，男，1992年03月生，吉林省长春市人。
 - 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -964,7 +964,7 @@
 
 ***
 
-<div align=center><img src="wanggc2015.jpg" width="150"></div>
+<div align=center><img src="figures/wanggc2015.jpg" width="150"></div>
 
 ## 王冠成，男，1993年07月生，江苏省连云港市人。
 - 2011.09-2015.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -995,7 +995,7 @@
 
 ***
 
-<div align=center><img src="yangy2014.jpg" width="150"></div>
+<div align=center><img src="figures/yangy2014.jpg" width="150"></div>
 
 ## 杨洋，男，1992年01月生，江苏省南京市人。
 - 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -1032,7 +1032,7 @@
 
 ***
 
-<div align=center><img src="liuf2014.jpg" width="150"></div>
+<div align=center><img src="figures/liuf2014.jpg" width="150"></div>
 
 ## 刘丰，男，1992年07月生，湖北省天门市人。
 - 2010.09-2014.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -1059,7 +1059,7 @@
 
 ***
 
-<div align=center><img src="zhangx2011.jpg" width="150"></div>
+<div align=center><img src="figures/zhangx2011.jpg" width="150"></div>
 
 ## 张鑫，女，1988年10月生，北京市人。
 - 2007.09-2011.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
@@ -1081,7 +1081,7 @@
 
 ***
 
-<div align=center><img src="liudq2011.jpg" width="150"></div>
+<div align=center><img src="figures/liudq2011.jpg" width="150"></div>
 
 ## 刘冬清，男，1989年01月生，山东省威海市人。
 - 2007.09-2011.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
