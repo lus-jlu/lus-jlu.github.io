@@ -9,7 +9,7 @@
 
 ***
 
-<div align=center><img src="zhourk2020.png" width="150"></div>
+<div align=center><img src="figures/zhourk2020.png" width="150"></div>
 
 ## 周瑞凯，男，瑶族，1992年07月生，广西壮族自治区桂林市人。
 - 2012.09-2016.06，武汉轻工大学机械工程学院机械设计制造及其自动化专业，本科生
