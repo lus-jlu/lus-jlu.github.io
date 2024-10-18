@@ -68,7 +68,7 @@
 8|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
 9|NeurIPS|Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
 
-### 近期会议投稿信息（更新于2024.07）
+### 近期会议投稿信息（更新于2024.10）
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
