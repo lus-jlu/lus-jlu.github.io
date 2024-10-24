@@ -195,7 +195,7 @@
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文0篇。
 1. Zhang Zeyu, Shen Chun, Lü Shuai*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
 2. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
@@ -395,7 +395,7 @@
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
 1. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
