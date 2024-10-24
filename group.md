@@ -195,10 +195,9 @@
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. Ma Qiang, Lü Shuai, **Zhang Shaojie**, Wu Junhong, Zhou Wenbo*. Contrastive label self-correction for unsupervised domain adaption. 2024. (Submitted)
-2. Zhang Zeyu, Shen Chun, Lü Shuai*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
-3. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇。
+1. Zhang Zeyu, Shen Chun, Lü Shuai*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
+2. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、二等奖学金
@@ -254,16 +253,15 @@
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、刘杰副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文8篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文7篇。
 1. **Wu Junhong**, Liu Jie, Lü Shuai*. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
 2. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. 2024. (Submitted)
 3. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
 4. Zhang Yushu, Shen Chun, An Daolong, **Wu Junhong**, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
 5. Zhu Wenbo, Lü Shuai*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-6. Ma Qiang, Lü Shuai, Zhang Shaojie, **Wu Junhong**, Zhou Wenbo*. Contrastive label self-correction for unsupervised domain adaption. 2024. (Submitted)
-7. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
-8. Long Zehong, Zhu Wenbo, Lü Shuai*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
-9. Zhu Sheng, Shen Chun, Lü Shuai*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+6. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
+7. Long Zehong, Zhu Wenbo, Lü Shuai*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
+8. Zhu Sheng, Shen Chun, Lü Shuai*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，一等奖学金、校优秀学生
