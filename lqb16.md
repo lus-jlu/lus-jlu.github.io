@@ -1,4 +1,4 @@
-https://lus-jlu.github.io/lqb
+#include <https://lus-jlu.github.io/lqb>
 
 ### 第16届蓝桥杯大赛的赛项主要包括：
 + 软件赛（个人赛）：C/C++程序设计、Java软件开发、Python程序设计、Web应用开发、网络安全
