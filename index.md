@@ -182,7 +182,7 @@ DBLP: <A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai L
 ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002-8081-4498</A>
 
 目前处于评审阶段的学术论文：
-1. Lin Dajun, **Lü Shuai\***, Zhou Wenbo*. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2024. (Submitted)
+1. Lin Dajun, Li Songlin, **Lü Shuai\***, Zhou Wenbo*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2024. (Submitted)
 2. Zhong Taihong, **Lü Shuai\***, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 3. Wu Junhong, Liu Jie, **Lü Shuai\***. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
 4. Zhu Wenbo, Xiao Wei, **Lü Shuai\***. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
