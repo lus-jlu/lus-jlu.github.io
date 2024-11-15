@@ -211,7 +211,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 4. Zhang Xinyu, Kang Meng, **Lü Shuai\***. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29630" target="_blank">【原文链接】</A>
 5. Zhang Shaojie, Shen Chun, **Lü Shuai\***, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29624" target="_blank">【原文链接】</A>
 6. Gong Xiaoyu, **Lü Shuai\***, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)** <A href="https://doi.org/10.24963/ijcai.2023/417" target="_blank">【原文链接】</A>
-7. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2024. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+7. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 8. **Lü Shuai**, Zhang Tongbo, Xu Yue, Zhou Wenbo, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024, 36(7): 1075-1088. **(中科院4区期刊, CCF推荐C类期刊, SCI, 目前IF: 1.7)**
 9. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 10. **Lü Shuai**, Li Zongze, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
@@ -327,7 +327,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 + **康勐**，2020级硕士生，**获吉林大学优秀本科毕业论文、中国研究生数学建模竞赛国家级三等奖，在IJCAI 2024发表学术论文1篇**，毕业去向：[北京] 北京京东世纪贸易有限公司
 + **龚晓宇**，2020级创新人才推免硕士生，**获研究生新生奖学金、吉林银行王湘浩奖学金、研究生国家奖学金、研究生学术业绩二等奖学金、吉林大学优秀毕业研究生、研究生学术业绩一等奖学金，在IJCAI 2023、Information Sciences、计算机学报发表学术论文3篇**，毕业去向：[上海] 中信证券股份有限公司
 + **朱盛**，2020级硕士生，**获研究生学术业绩二等奖学金，在AAAI 2024、Expert Systems with Applications发表学术论文2篇**，毕业去向：[北京] 北京蓝色创想网络科技有限责任公司
-+ **熊玺**，2021级硕士生，毕业去向：[山东青岛] 青岛市工业和信息化局
++ **熊玺**，2021级硕士生，**在Expert Systems with Applications发表学术论文1篇**，毕业去向：[山东青岛] 青岛市工业和信息化局
 + **龙泽泓**，2021级硕士生，毕业去向：[XX] XXXX大学教师
 + **舒曼**，2021级硕士生，毕业去向：[长春] 中国科学院长春光学精密机械与物理研究所
 + **张玉树**，2021级硕士生，毕业去向：[济南] 神思电子技术股份有限公司
