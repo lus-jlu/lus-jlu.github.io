@@ -922,7 +922,7 @@
 - 研究方向：人工智能、深度学习、程序优化
 - 毕业去向：[北京] 中国科学院计算技术研究所博士生，现为中国科学院计算技术研究所助理研究员
 
-## 【学术论文】在国内外期刊和会议上发表学术论文12篇，第一完成人获得国家实用新型专利授权1项。
+## 【学术论文】在国内外期刊和会议上发表学术论文12篇，授权实用新型专利1项。
 1. 吕帅, 徐玥, 张桐搏, **李广力**, 池策. 云环境下网络感知的虚拟机分配问题的求解方法. **吉林大学学报(工学版)**, 2020, 50(4): 1455-1464.
 2. **Li Guangli**, Liu Lei, Zhang Tongbo, Yu Hang, Xu Yue, Lü Shuai*. Visual field movement detection model based on low-resolution images. **International Journal of Embedded Systems**, 2020, 12(1): 93-105.
 3. Yu Boyang, Shao Jiejing, Cheng Quan, Yu Hang, **Li Guangli**, Lü Shuai*. Multi-source news recommender system based on convolutional neural networks. In: **Proceedings of the 3rd International Conference on Intelligent Information Processing (ICIIP 2018)**, Guilin, China, May 19-20, 2018, ACM ICPS 140156, 17-23.
