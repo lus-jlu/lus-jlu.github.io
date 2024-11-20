@@ -61,23 +61,21 @@
 1|AAAI|AAAI Conference on Artificial Intelligence|人工智能A类|AAAI
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类|IEEE
 3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类|IEEE
-4|ICDE|IEEE International Conference on Data Engineering|数据挖掘A类|IEEE
-5|ICML|International Conference on Machine Learning|人工智能A类|ML Research Press
-6|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类|IJCAI
-7|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类|ACM
-8|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
-9|NeurIPS|Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
+4|ICML|International Conference on Machine Learning|人工智能A类|ML Research Press
+5|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类|IJCAI
+6|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类|ACM
+7|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
+8|NeurIPS|Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
 
 ### 近期会议投稿信息（更新于2024.10）
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-1|<A href="https://ieee-icde.org/2025" target="_blank">ICDE 2025</A>||2024.08.02 AOE<BR>2024.11.28 AOE|2025.05.19-05.23|Hong Kong, China|<A href="https://cmt3.research.microsoft.com/ICDE2025" target="_blank">投稿系统</A>
-2|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
-3|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
-4|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.11-06.15|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
-5|<A href="https://2025.ijcai.org/" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-08.22|Montreal, Canada|
-6|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23<BR>AOE|2025.01.31<BR>11:59 AM UTC|2025.07.11-07.19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
-7|<A href="" target="_blank">ICCV 2025</A>||预计2025.03|2025.10.19-10.25|Honolulu, USA|
-8|<A href="" target="_blank">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10||
-9|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12||
+1|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
+2|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
+3|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.11-06.15|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
+4|<A href="https://2025.ijcai.org/" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-08.22|Montreal, Canada|
+5|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23<BR>AOE|2025.01.31<BR>11:59 AM UTC|2025.07.11-07.19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
+6|<A href="" target="_blank">ICCV 2025</A>||预计2025.03|2025.10.19-10.25|Honolulu, USA|
+7|<A href="" target="_blank">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10||
+8|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12||
