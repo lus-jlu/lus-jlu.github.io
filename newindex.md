@@ -125,29 +125,6 @@ DBLP: <A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai L
 
 ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002-8081-4498</A>
 
-目前处于评审阶段的学术论文：
-1. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
-2. Lin Dajun, Li Songlin, **Lü Shuai\***, Zhou Wenbo*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2024. (Submitted)
-3. Zhong Taihong, **Lü Shuai\***, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
-4. Wu Junhong, Liu Jie, **Lü Shuai\***. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
-5. Zhu Wenbo, Xiao Wei, **Lü Shuai\***. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
-6. Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
-7. Zhou Ruikai, Li Songlin, **Lü Shuai\***. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
-8. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
-9. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
-10. Zhang Yushu, Shen Chun, An Daolong, Wu Junhong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2024. (Submitted)
-11. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
-12. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-13. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
-14. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
-15. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
-16. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (Submitted)
-17. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
-18. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. 2024. (Submitted)
-19. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
-20. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
-21. Li Junjie, **Lü Shuai**, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
-
 主要代表性学术论文：
 1. Zhang Zeyu, Shen Chun, **Lü Shuai\***, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation.  In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)** <A href="https://doi.org/10.24963/ijcai.2024/613" target="_blank">【原文链接】</A>
 2. **Lü Shuai**, Kang Meng, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 4669-4677. **(CCF推荐A类会议)** <A href="https://doi.org/10.24963/ijcai.2024/516" target="_blank">【原文链接】</A>
@@ -189,6 +166,29 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 38. **吕帅**, 刘磊*, 江鸿, 史晶晶. 一种约简动作变元的命题规划编码方式. **计算机研究与发展**, 2010, 47(10): 1756-1763. **(CCF推荐中文A类期刊)**
 39. **吕帅**, 刘磊, 李莹, 石莲. 基于模态逻辑D公理系统的Conformant规划方法. **计算机研究与发展**, 2009, 46(7): 1160-1168. **(CCF推荐中文A类期刊)**
 40. **吕帅**, 刘磊*, 石莲, 李莹. 基于自动推理技术的智能规划方法. **软件学报**, 2009, 20(5): 1226-1240. **(CCF推荐中文A类期刊)**
+
+目前处于评审阶段的学术论文：
+1. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
+2. Lin Dajun, Li Songlin, **Lü Shuai\***, Zhou Wenbo*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2024. (Submitted)
+3. Zhong Taihong, **Lü Shuai\***, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
+4. Wu Junhong, Liu Jie, **Lü Shuai\***. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
+5. Zhu Wenbo, Xiao Wei, **Lü Shuai\***. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
+6. Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
+7. Zhou Ruikai, Li Songlin, **Lü Shuai\***. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
+8. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
+9. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
+10. Zhang Yushu, Shen Chun, An Daolong, Wu Junhong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2024. (Submitted)
+11. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
+12. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
+13. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
+14. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
+15. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
+16. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (Submitted)
+17. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
+18. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. 2024. (Submitted)
+19. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
+20. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
+21. Li Junjie, **Lü Shuai**, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
 
 注：按照国际惯例，*表示通讯作者。
 
