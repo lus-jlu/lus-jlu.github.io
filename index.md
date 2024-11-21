@@ -163,7 +163,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 39. **吕帅**, 刘磊, 李莹, 石莲. 基于模态逻辑D公理系统的Conformant规划方法. **计算机研究与发展**, 2009, 46(7): 1160-1168. **(CCF推荐中文A类期刊)**
 40. **吕帅**, 刘磊*, 石莲, 李莹. 基于自动推理技术的智能规划方法. **软件学报**, 2009, 20(5): 1226-1240. **(CCF推荐中文A类期刊)**
 
-目前处于评审阶段的学术论文：
+目前尚处于评审阶段的学术论文：
 1. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
 2. Lin Dajun, Li Songlin, **Lü Shuai\***, Zhou Wenbo*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2024. (Submitted)
 3. Zhong Taihong, **Lü Shuai\***, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
