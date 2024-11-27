@@ -35,7 +35,7 @@
     <TH>日</TH>
   </TR>
   <TR align="center" veralign="center">
-    <TD>1-2节<BR>08:00-09:40</TD>
+    <TD>1-2节</TD>
     <TD></TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2">程序设计基础实验<BR>11-13+15-17周<BR>王A108</TD>
@@ -45,13 +45,13 @@
     <TD></TD>
   </TR>
   <TR align="center" veralign="center">
-    <TD>3-4节<BR>10:00-11:40</TD>
+    <TD>3-4节</TD>
     <TD>程序设计基础<BR>4-15周<BR>敬E407</TD>
     <TD>程序设计基础<BR>4-15周<BR>敬E407</TD>
     <TD>人工智能引论<BR>17-18周<BR>南岭逸B110</TD>
   </TR>
   <TR align="center" veralign="center">
-    <TD>5-6节<BR>13:30-15:10</TD>
+    <TD>5-6节</TD>
     <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王B212</TD>
     <TD rowspan="2"></TD>
     <TD>程序设计基础<BR>7-15周<BR>逸10阶</TD>
@@ -61,12 +61,12 @@
     <TD rowspan="2">新生研讨课<BR>11+14周<BR>王B417</TD>
   </TR>
   <TR align="center" veralign="center">
-    <TD>7-8节<BR>15:30-17:10</TD>
+    <TD>7-8节</TD>
     <TD></TD>
     <TD></TD>
   </TR>
   <TR align="center" veralign="center">
-    <TD>9-10节<BR>18:20-19:50</TD>
+    <TD>9-10节</TD>
     <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王A209<BR><BR>研讨</TD>
     <TD rowspan="2"></TD>
     <TD rowspan="2"></TD>
@@ -76,7 +76,7 @@
     <TD rowspan="2">新生研讨课<BR>11+14周<BR>王B417</TD>
   </TR>
   <TR align="center" veralign="center">
-    <TD>11-12节<BR>20:00-21:30</TD>
+    <TD>11-12节</TD>
   </TR>  
 </TABLE>
 
