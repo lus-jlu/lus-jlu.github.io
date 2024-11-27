@@ -32,63 +32,6 @@
 9-10节|程序设计基础实验<BR>7-17单周<BR>王A209<BR><BR>研讨|||研讨|||新生研讨课<BR>11+14周<BR>王B417
 11-12节|同上|||同上|||同上
 
-<TABLE width="100%">
-  <TR align="center" veralign="center">
-    <TH>节</TH>
-    <TH>一</TH>
-    <TH>二</TH>
-    <TH>三</TH>
-    <TH>四</TH>
-    <TH>五</TH>
-    <TH>六</TH>
-    <TH>日</TH>
-  </TR>
-  <TR align="center" veralign="center">
-    <TD>1-2节</TD>
-    <TD></TD>
-    <TD rowspan="2"></TD>
-    <TD rowspan="2">程序设计基础实验<BR>11-13+15-17周<BR>王A108</TD>
-    <TD></TD>
-    <TD rowspan="2"></TD>
-    <TD rowspan="2"></TD>
-    <TD></TD>
-  </TR>
-  <TR align="center" veralign="center">
-    <TD>3-4节</TD>
-    <TD>程序设计基础<BR>4-15周<BR>敬E407</TD>
-    <TD>程序设计基础<BR>4-15周<BR>敬E407</TD>
-    <TD>人工智能引论<BR>17-18周<BR>南岭逸B110</TD>
-  </TR>
-  <TR align="center" veralign="center">
-    <TD>5-6节</TD>
-    <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王B212</TD>
-    <TD rowspan="2"></TD>
-    <TD>程序设计基础<BR>7-15周<BR>逸10阶</TD>
-    <TD rowspan="2"></TD>
-    <TD>程序设计基础<BR>4-9+11-15周<BR>逸10阶</TD>
-    <TD rowspan="2">计算理论<BR>3-9+11-15周<BR>敬E103</TD>
-    <TD rowspan="2">新生研讨课<BR>11+14周<BR>王B417</TD>
-  </TR>
-  <TR align="center" veralign="center">
-    <TD>7-8节</TD>
-    <TD></TD>
-    <TD></TD>
-  </TR>
-  <TR align="center" veralign="center">
-    <TD>9-10节</TD>
-    <TD rowspan="2">程序设计基础实验<BR>7-17单周<BR>王A209<BR><BR>研讨</TD>
-    <TD rowspan="2"></TD>
-    <TD rowspan="2"></TD>
-    <TD rowspan="2">研讨</TD>
-    <TD rowspan="2"></TD>
-    <TD rowspan="2"></TD>
-    <TD rowspan="2">新生研讨课<BR>11+14周<BR>王B417</TD>
-  </TR>
-  <TR align="center" veralign="center">
-    <TD>11-12节</TD>
-  </TR>  
-</TABLE>
-
 ## 3. 团队成员的日程安排（2024-2025学年第1学期）【随时更新】
 
 节|一|二|三|四|五|六|日
@@ -96,7 +39,6 @@
 1-4节|||英语<BR>4-20周<BR>孙耕浩/张涛/檀磊|公共选修<BR>3-16周<BR>张顺浩|英语<BR>4-20周<BR>孙耕浩/张涛/檀磊|政治<BR>3-16周<BR>吴昊/章晓丹/张顺浩|
 5-8节||||软件需求分析与规范<BR>3-14周<BR>李贵祥/孙耕浩/陈黄洋/张涛/檀磊/侯志斌|高级机器学习<BR>7-18周<BR>李贵祥/孙耕浩/陈黄洋/张涛/檀磊/侯志斌|计算理论<BR>3-9+11-15周<BR>张顺浩|
 9-12节|研讨|政治<BR>3-16周<BR>李贵祥/孙耕浩/陈黄洋/张涛/檀磊/侯志斌||研讨|||
-
 
 ## 4. 吕帅的日程安排（2024-2025学年第2学期）【随时更新】
 
