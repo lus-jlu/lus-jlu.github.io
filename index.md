@@ -53,6 +53,7 @@
 + 中国计算机学会教育专业委员会，执行委员
 + 吉林省计算机学会，理事
 + 国家自然科学基金，评审
++ 吴文俊人工智能科学技术奖，评审
 + 学术期刊论文评审
   - Applied Soft Computing
   - Expert Systems with Applications
