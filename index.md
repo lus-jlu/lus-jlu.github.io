@@ -8,7 +8,7 @@
 
 现任中国计算机学会理论计算机科学专业委员会执行委员、中国计算机学会形式化方法专业委员会执行委员、中国计算机学会教育专业委员会执行委员、中国计算机学会高级会员、吉林省计算机学会理事。曾任中国人工智能学会机器博弈专业委员会委员。现任吉林大学软件工程专业负责人、吉林大学研究生培养指导委员会软件学院分委员会委员、蓝桥杯全国软件和信息技术专业人才大赛吉林大学竞赛项目负责人。曾任吉林大学软件学院教学委员会委员、吉林大学计算机科学与技术学院学术委员会秘书、吉林大学2015级理科试验班（唐敖庆计算机班）学业导师/班主任、吉林大学2020级工科试验班（软件工程）学业导师/班主任。
 
-主要研究领域为人工智能、机器学习与自动推理。主持国家自然科学基金项目等科研项目13项，参加科研项目28项。在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文134篇，其中：SCI和EI检索学术论文103篇。获得全国商业科技进步一等奖3项、二等奖1项，吉林省自然科学二等奖1项，吉林省科学技术进步三等奖2项。
+主要研究领域为人工智能、机器学习与自动推理。主持国家自然科学基金项目等科研项目13项，参加科研项目28项。在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文135篇，其中：SCI和EI检索学术论文104篇。获得全国商业科技进步一等奖3项、二等奖1项，吉林省自然科学二等奖1项，吉林省科学技术进步三等奖2项。
 
 现任国家精品课程、国家级精品资源共享课、国家精品在线开放课程、国家级一流本科课程《高级语言程序设计》和国家级一流本科课程《程序设计基础》教学团队实践负责人，《人工智能引论》教学团队负责人，《计算理论》和《高级分布计算理论》课程负责人，主要承担《程序设计基础》（原名：高级语言程序设计）、《人工智能引论》/《人工智能基础》、《计算理论》和《高级分布计算理论》等课程的教学工作。参加国家级教学改革项目4项，省部级教学改革项目2项，校级教学改革项目10项。在计算机教育上发表教研论文8篇。获得校级教学成果一等奖1项、二等奖1项。获得吉林大学“三育人”先进个人荣誉称号、吉林大学本科课堂教学质量优秀奖2次。
 
@@ -116,7 +116,7 @@
 33. 技术开发项目：无线电管理领域知识库数据录入及测试
 34. 技术开发项目：山西省监测站管理与覆盖分析系统
 
-## 【科研论文】在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文134篇，其中：SCI和EI检索学术论文103篇。
+## 【科研论文】在AAAI、IJCAI、Information Sciences、Expert Systems with Applications、计算机学报、软件学报等国内外期刊和会议上发表学术论文135篇，其中：SCI和EI检索学术论文104篇。
 
 DBLP: <A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai Lv 0001 (aka: Shuai Lü 0001, Shuai Lu 0001)</A>
 
@@ -129,40 +129,41 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 4. Zhang Xinyu, Kang Meng, **Lü Shuai\***. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29630" target="_blank">【原文链接】</A>
 5. Zhang Shaojie, Shen Chun, **Lü Shuai\***, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)** <A href="https://doi.org/10.1609/aaai.v38i15.29624" target="_blank">【原文链接】</A>
 6. Gong Xiaoyu, **Lü Shuai\***, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)** <A href="https://doi.org/10.24963/ijcai.2023/417" target="_blank">【原文链接】</A>
-7. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-8. **Lü Shuai**, Zhang Tongbo, Xu Yue, Zhou Wenbo, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024, 36(7): 1075-1088. **(中科院4区期刊, CCF推荐C类期刊, SCI, 目前IF: 1.7)**
-9. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-10. **Lü Shuai**, Li Zongze, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-11. Zhang Junwei, Han Shuai, Xiong Xi, Zhu Sheng, **Lü Shuai\***. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
-12. Shen Chun, Zhu Sheng, Han Shuai, Gong Xiaoyu, **Lü Shuai\***. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
-13. Han Shuai, Zhou Wenbo, **Lü Shuai\***, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
-14. 张峻伟, **吕帅\***, 张正昊, 于佳玉, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
-15. Lu Jiayi, Han Shuai, **Lü Shuai\***, Kang Meng, Zhang Junwei. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
-16. Han Shuai, Zhou Wenbo, Lu Jiayi, Liu Jing, **Lü Shuai\***. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
-17. Zhang Junwei, Zhang Zhenghao, Han Shuai, **Lü Shuai\***. Proximal policy optimization via enhanced exploration efficiency. **Information Sciences**, 2022, 609: 750-765. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
-18. Li Jingyao, **Lü Shuai**, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
-19. **吕帅**, 龚晓宇, 张正昊, 韩帅, 张峻伟. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
-20. Li Jingyao, **Lü Shuai**, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
-21. Gong Xiaoyu, Yu Jiayu, **Lü Shuai\***, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. **Information Sciences**, 2022, 582: 633-647. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
-22. 李壮, 刘磊, 张桐搏, 周文博, **吕帅\***. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
-23. Li Junjie, Zhang Junwei, Gong Xiaoyu, **Lü Shuai\***. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
-24. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
-25. **Lü Shuai\***, Han Shuai, Zhou Wenbo, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
-26. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
-27. Han Shuai, Zhou Wenbo, **Lü Shuai\***, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
-28. Zhang Lei, Han Shuai, Zhang Zhiruo, Li Lefan, **Lü Shuai\***. Deep recurrent deterministic policy gradient for physical control. In: **Proceedings of the 29th International Conference on Artificial Neural Networks (ICANN 2020)**, Bratislava, Slovakia, September 15-18, 2020, LNCS 12397, 257-268. **(CCF推荐C类会议)**
-29. 贺甫霖, 刘磊, **吕帅\***, 牛当当, 王强. 基于格局检测的模型计数方法. **软件学报**, 2020, 31(2): 395-405. **(CCF推荐中文A类期刊)**
-30. 王强, 刘磊, **吕帅\***. 基于扩展规则的启发式#SAT求解算法. **软件学报**, 2018, 29(11): 3517-3527. **(CCF推荐中文A类期刊)**
-31. 杨洋, 刘磊, 李广力, 张桐搏, **吕帅\***. 一种新的基于局部搜索的扩展规则推理方法. **计算机学报**, 2018, 41(4): 825-839. **(CCF推荐中文A类期刊)**
-32. 牛当当, 刘磊, **吕帅\***. EPCCL理论的并行知识编译算法. **电子学报**, 2018, 46(3): 537-543. **(CCF推荐中文A类期刊)**
-33. 牛当当, 刘磊, **吕帅\***. EPCCL理论的求交知识编译算法. **软件学报**, 2017, 28(8): 2096-2112. **(CCF推荐中文A类期刊)**
-34. Liu Lei, Yang Yang, Li Guangli, Wang Qi, **Lü Shuai\***. Redundancy checking algorithms based on parallel novel extension rule. **Journal of Experimental & Theoretical Artificial Intelligence**, 2017, 29(3): 629-647. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 1.011)**
-35. 刘磊, 牛当当, **吕帅\***. 基于超扩展规则的知识编译方法. **计算机学报**, 2016, 39(8): 1681-1696. **(CCF推荐中文A类期刊)**
-36. **吕帅**, 刘磊*, 魏唯, 高冰冰. 智能规划的逻辑编码方式研究. **计算机研究与发展**, 2012, 49(3): 607-619. **(CCF推荐中文A类期刊)**
-37. **吕帅**, 刘磊*, 石莲, 魏唯, 杨超. 依赖公理约简的经典规划方法. **电子学报**, 2011, 39(2): 322-328. **(CCF推荐中文A类期刊)**
-38. **吕帅**, 刘磊*, 江鸿, 史晶晶. 一种约简动作变元的命题规划编码方式. **计算机研究与发展**, 2010, 47(10): 1756-1763. **(CCF推荐中文A类期刊)**
-39. **吕帅**, 刘磊, 李莹, 石莲. 基于模态逻辑D公理系统的Conformant规划方法. **计算机研究与发展**, 2009, 46(7): 1160-1168. **(CCF推荐中文A类期刊)**
-40. **吕帅**, 刘磊*, 石莲, 李莹. 基于自动推理技术的智能规划方法. **软件学报**, 2009, 20(5): 1226-1240. **(CCF推荐中文A类期刊)**
+7. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+8. Xiong Xi, Shen Chun, Wu Junhong, **Lü Shuai\***, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+9. **Lü Shuai**, Zhang Tongbo, Xu Yue, Zhou Wenbo, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024, 36(7): 1075-1088. **(中科院4区期刊, CCF推荐C类期刊, SCI, 目前IF: 1.7)**
+10. Yu Jiayu, Li Jingyao, **Lü Shuai\***, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+11. **Lü Shuai**, Li Zongze, Zhang Xinyu, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+12. Zhang Junwei, Han Shuai, Xiong Xi, Zhu Sheng, **Lü Shuai\***. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+13. Shen Chun, Zhu Sheng, Han Shuai, Gong Xiaoyu, **Lü Shuai\***. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
+14. Han Shuai, Zhou Wenbo, **Lü Shuai\***, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+15. 张峻伟, **吕帅\***, 张正昊, 于佳玉, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
+16. Lu Jiayi, Han Shuai, **Lü Shuai\***, Kang Meng, Zhang Junwei. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+17. Han Shuai, Zhou Wenbo, Lu Jiayi, Liu Jing, **Lü Shuai\***. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+18. Zhang Junwei, Zhang Zhenghao, Han Shuai, **Lü Shuai\***. Proximal policy optimization via enhanced exploration efficiency. **Information Sciences**, 2022, 609: 750-765. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+19. Li Jingyao, **Lü Shuai**, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+20. **吕帅**, 龚晓宇, 张正昊, 韩帅, 张峻伟. 结合进化算法的深度强化学习方法研究综述. **计算机学报**, 2022, 45(7): 1478-1499. **(CCF推荐中文A类期刊)**
+21. Li Jingyao, **Lü Shuai**, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
+22. Gong Xiaoyu, Yu Jiayu, **Lü Shuai\***, Lu Hengwei. Actor-critic with familiarity-based trajectory experience replay. **Information Sciences**, 2022, 582: 633-647. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+23. 李壮, 刘磊, 张桐搏, 周文博, **吕帅\***. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
+24. Li Junjie, Zhang Junwei, Gong Xiaoyu, **Lü Shuai\***. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
+25. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
+26. **Lü Shuai\***, Han Shuai, Zhou Wenbo, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
+27. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
+28. Han Shuai, Zhou Wenbo, **Lü Shuai\***, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
+29. Zhang Lei, Han Shuai, Zhang Zhiruo, Li Lefan, **Lü Shuai\***. Deep recurrent deterministic policy gradient for physical control. In: **Proceedings of the 29th International Conference on Artificial Neural Networks (ICANN 2020)**, Bratislava, Slovakia, September 15-18, 2020, LNCS 12397, 257-268. **(CCF推荐C类会议)**
+30. 贺甫霖, 刘磊, **吕帅\***, 牛当当, 王强. 基于格局检测的模型计数方法. **软件学报**, 2020, 31(2): 395-405. **(CCF推荐中文A类期刊)**
+31. 王强, 刘磊, **吕帅\***. 基于扩展规则的启发式#SAT求解算法. **软件学报**, 2018, 29(11): 3517-3527. **(CCF推荐中文A类期刊)**
+32. 杨洋, 刘磊, 李广力, 张桐搏, **吕帅\***. 一种新的基于局部搜索的扩展规则推理方法. **计算机学报**, 2018, 41(4): 825-839. **(CCF推荐中文A类期刊)**
+33. 牛当当, 刘磊, **吕帅\***. EPCCL理论的并行知识编译算法. **电子学报**, 2018, 46(3): 537-543. **(CCF推荐中文A类期刊)**
+34. 牛当当, 刘磊, **吕帅\***. EPCCL理论的求交知识编译算法. **软件学报**, 2017, 28(8): 2096-2112. **(CCF推荐中文A类期刊)**
+35. Liu Lei, Yang Yang, Li Guangli, Wang Qi, **Lü Shuai\***. Redundancy checking algorithms based on parallel novel extension rule. **Journal of Experimental & Theoretical Artificial Intelligence**, 2017, 29(3): 629-647. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 1.011)**
+36. 刘磊, 牛当当, **吕帅\***. 基于超扩展规则的知识编译方法. **计算机学报**, 2016, 39(8): 1681-1696. **(CCF推荐中文A类期刊)**
+37. **吕帅**, 刘磊*, 魏唯, 高冰冰. 智能规划的逻辑编码方式研究. **计算机研究与发展**, 2012, 49(3): 607-619. **(CCF推荐中文A类期刊)**
+38. **吕帅**, 刘磊*, 石莲, 魏唯, 杨超. 依赖公理约简的经典规划方法. **电子学报**, 2011, 39(2): 322-328. **(CCF推荐中文A类期刊)**
+39. **吕帅**, 刘磊*, 江鸿, 史晶晶. 一种约简动作变元的命题规划编码方式. **计算机研究与发展**, 2010, 47(10): 1756-1763. **(CCF推荐中文A类期刊)**
+40. **吕帅**, 刘磊, 李莹, 石莲. 基于模态逻辑D公理系统的Conformant规划方法. **计算机研究与发展**, 2009, 46(7): 1160-1168. **(CCF推荐中文A类期刊)**
+41. **吕帅**, 刘磊*, 石莲, 李莹. 基于自动推理技术的智能规划方法. **软件学报**, 2009, 20(5): 1226-1240. **(CCF推荐中文A类期刊)**
 
 目前尚处于评审阶段的学术论文：
 1. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
@@ -182,10 +183,9 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 15. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
 16. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (Submitted)
 17. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
-18. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. 2024. (Submitted)
-19. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
-20. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
-21. Li Junjie, **Lü Shuai**, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
+18. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
+19. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
+20. Li Junjie, **Lü Shuai**, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
 
 注：按照国际惯例，*表示通讯作者。
 
