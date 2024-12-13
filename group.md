@@ -17,11 +17,11 @@
 - 2020.09至今，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
 1. **Zhou Ruikai**, Li Songlin, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
 3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
-4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. 2024. (Submitted)
+4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，研究生学业奖学金
@@ -73,14 +73,14 @@
 - 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文7篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
 1. **Zhu Wenbo**, Xiao Wei, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
 2. Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 3. **Zhu Wenbo**, Lü Shuai*, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 4. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
 5. Long Zehong, **Zhu Wenbo**, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
-6. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. 2024. (Submitted)
-7. Zhu Sheng, Wu Hao, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
+6. Zhu Sheng, Wu Hao, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
+7. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 8. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
 
 ## 【荣誉奖励】
