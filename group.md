@@ -66,6 +66,32 @@
 
 ***
 
+<div align=center><img src="figures/lianxy2025" width="150"></div>
+
+## 廉筱峪，男，满族，2001年07月生，辽宁省抚顺市人。
+- 2018.09-2022.06，大连工业大学信息科学与工程学院电子信息工程专业，本科生
+- 2022.09至今，大连工业大学信息科学与工程学院控制科学与工程专业，硕士生（导师：夏楠副教授）
+- 预计2025.09开始，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生（导师：吕帅教授）
+- 研究方向：人工智能、机器学习
+
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
+1. **Lian Xiaoyu**, Xia Nan, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. 2024. (Submitted)
+2. **Lian Xiaoyu**, Xia Nan, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.4)**
+3. **廉筱峪**, 夏楠, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
+
+## 【荣誉奖励】
+- 2022-2023学年，研究生一等学业奖学金
+- 2023-2024学年，研究生二等学业奖学金
+- 2024-2025学年，研究生二等学业奖学金
+- 2024-2025学年，校三好学生
+
+## 【联系方式】
+- 邮箱：待学校分配
+- 办公：吉林大学王湘浩楼B2XX室
+- 地址：长春市前进大街2699号，130012
+
+***
+
 <div align=center><img src="figures/zhuwb2022.jpg" width="150"></div>
 
 ## 朱文博，女，2000年08月生，吉林省长春市人。
