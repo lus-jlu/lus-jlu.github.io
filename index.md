@@ -185,7 +185,6 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 17. Zhang Zeyu, Shen Chun, Ma Qiang, Kang Meng, **Lü Shuai\***. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
 18. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
 19. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
-20. Li Junjie, **Lü Shuai**, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
 
 注：按照国际惯例，*表示通讯作者。
 
