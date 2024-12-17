@@ -672,9 +672,8 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[广东深圳] 哈尔滨工业大学（深圳）博士生
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
-1. **Li Junjie**, Lü Shuai, Li Jingyao, Zhou Wenbo*. IE-GAN: An improved evolutionary generative adversarial network using a new fitness function and a generic crossover operator. 2024. (Submitted)
-2. **Li Junjie**, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇。
+1. **Li Junjie**, Zhang Junwei, Gong Xiaoyu, Lü Shuai*. Evolutionary generative adversarial networks with crossover based knowledge distillation. In: **Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)**, Virtual Event, July 18-22, 2021, 1-8. **(CCF推荐C类会议)**
 
 ## 【学位论文】
 1. **李俊劼**. 含有通用交叉算子的进化生成对抗网络[硕士学位论文]. 长春: 吉林大学, 2021.
@@ -685,9 +684,6 @@
 - 2018年度，研究生新生奖学金
 - 2018-2019学年，研究生学业奖学金
 - 2019-2020学年，研究生学业奖学金
-
-## 【联系方式】
-- 邮箱：junjiel18@mails.jlu.edu.cn
 
 ***
 
