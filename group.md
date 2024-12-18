@@ -335,7 +335,7 @@
 1. Zhong Taihong, Lü Shuai*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 2. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
 3. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
-4. Shu Man, Lü Shuai*, Gong Xiaoyu, **An Daolong**, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
+4. Shu Man, Lü Shuai*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
 5. Zhu Sheng, Shen Chun, Lü Shuai*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
@@ -365,7 +365,7 @@
 1. Lin Dajun, **Li Songlin**, Lü Shuai*, Zhou Wenbo*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2024. (Submitted)
 2. Zhou Ruikai, **Li Songlin**, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 3. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
-4. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, **Li Songlin**. Double actor-critic with episodic memory. 2024. (Submitted)
+4. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
 
 ## 【荣誉奖励】
 - 2019-2020学年，一等奖学金、院优秀学生
