@@ -176,7 +176,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 8. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
 9. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
 10. Zhang Yushu, Shen Chun, An Daolong, Wu Junhong, **Lü Shuai\***. Reinforcement learning with extreme minimum distribution. 2024. (Submitted)
-11. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Double actor-critic with episodic memory. 2024. (Submitted)
+11. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
 12. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 13. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
 14. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
