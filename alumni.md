@@ -68,8 +68,8 @@
 - 毕业去向：[长春] 东北师范大学教师，现为东北师范大学讲师
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文2篇。
-1. An Daolong, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai*, **Zhou Wenbo\***. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
-2. Lin Dajun, Li Songlin, Lü Shuai*, **Zhou Wenbo\***, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
+1. An Daolong, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, **Zhou Wenbo\***. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+2. Lin Dajun, Li Songlin, Lü Shuai\*, **Zhou Wenbo\***, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
 3. Lü Shuai, Zhang Tongbo, Xu Yue, **Zhou Wenbo**, Lai Yong*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024, 36(7): 1075-1088. **(中科院4区期刊, CCF推荐C类期刊, SCI, 目前IF: 1.7)**
 4. Han Shuai, **Zhou Wenbo**, Lü Shuai*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 5. Han Shuai, **Zhou Wenbo**, Lu Jiayi, Liu Jing, Lü Shuai*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
