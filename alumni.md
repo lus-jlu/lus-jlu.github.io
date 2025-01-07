@@ -254,7 +254,7 @@
 - 毕业去向：[山东青岛] 青岛市工业和信息化局
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
+1. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
 2. **Xiong Xi**, Shen Chun, Wu Junhong, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels.  **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 
@@ -285,7 +285,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇，授权发明专利1项。
 1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 2. Zhu Wenbo, Lü Shuai*, **Long Zehong**, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-3. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
+3. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
 4. **Long Zehong**, Zhu Wenbo, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
 5. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
@@ -336,7 +336,7 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
 1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 2. **Zhang Yushu**, Shen Chun, An Daolong, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
-3. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
+3. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
 
 ## 【学位论文】
 1. **张玉树**. 基于极值理论的强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -355,7 +355,7 @@
 - 毕业去向：[杭州] 浙江大华技术股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
+1. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
 
 ## 【学位论文】
 1. **马强**. 结合自监督学习的无监督领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -482,7 +482,7 @@
 - 毕业去向：[北京] 北京京东世纪贸易有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文2篇。
-1. Zhang Zeyu, Shen Chun, Ma Qiang, **Kang Meng**, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2024. (Submitted)
+1. Zhang Zeyu, Shen Chun, Ma Qiang, **Kang Meng**, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
 2. Lü Shuai, Zhang Xinyu, Li Zongze, Li Jingyao*, **Kang Meng**. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
 3. Zhou Ruikai, Zhu Wenbo, Han Shuai, **Kang Meng**, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 4. Lü Shuai, **Kang Meng**, Li Ximing*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence.  In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 4669-4677. **(CCF推荐A类会议)**
@@ -554,7 +554,7 @@
 - 毕业去向：[北京] 北京蓝色创想网络科技有限责任公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
-1. **Zhu Sheng**, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
+1. **Zhu Sheng**, Wu Hao, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
 2. Zhang Junwei, Han Shuai, Xiong Xi, **Zhu Sheng**, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 3. **Zhu Sheng**, Shen Chun, Lü Shuai*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 4. Shen Chun, **Zhu Sheng**, Han Shuai, Gong Xiaoyu, Lü Shuai*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
@@ -725,9 +725,9 @@
 - 毕业去向：[荷兰] Utrecht University（乌特列支大学）国家公派博士生（导师：Mehdi Dastani教授）
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文3篇。
-1. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
-2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2024. (Submitted)
-3. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2024. (Submitted)
+1. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
+2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
+3. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, **Han Shuai**, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
 4. Zhou Ruikai, Zhu Wenbo, **Han Shuai**, Kang Meng, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 5. Yu Jiayu, Li Jingyao, Lü Shuai*, **Han Shuai**. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 6. Zhang Junwei, **Han Shuai**, Xiong Xi, Zhu Sheng, Lü Shuai*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
