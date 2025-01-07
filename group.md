@@ -204,7 +204,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇，授权发明专利1项。
-1. **Lin Dajun**, Li Songlin, Lü Shuai*, Zhou Wenbo*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
+1. **Lin Dajun**, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
 2. Zhong Taihong, Lü Shuai*, **Lin Dajun**, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 3. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 4. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
@@ -263,7 +263,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇，授权发明专利1项。
-1. Lin Dajun, Li Songlin, Lü Shuai*, Zhou Wenbo*, **Zhong Taihong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
+1. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, **Zhong Taihong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
 2. **Zhong Taihong**, Lü Shuai*, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 3. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
 4. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2024. (Submitted)
