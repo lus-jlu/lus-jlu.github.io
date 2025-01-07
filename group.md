@@ -425,7 +425,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai*, Zhou Wenbo*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+1. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 2. Zhu Wenbo, **Xiao Wei**, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
 
 ## 【荣誉奖励】
