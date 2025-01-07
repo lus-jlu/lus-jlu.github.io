@@ -336,7 +336,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇。
-1. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+1. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai*, Zhou Wenbo*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 2. Zhong Taihong, Lü Shuai*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 3. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
 4. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
@@ -367,7 +367,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇。
-1. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+1. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai*, Zhou Wenbo*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 2. Lin Dajun, **Li Songlin**, Lü Shuai*, Zhou Wenbo*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
 3. Zhou Ruikai, **Li Songlin**, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2024. (Submitted)
 4. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods. 2024. (Submitted)
@@ -425,7 +425,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+1. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai*, Zhou Wenbo*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 2. Zhu Wenbo, **Xiao Wei**, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2024. (Submitted)
 
 ## 【荣誉奖励】
