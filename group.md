@@ -336,7 +336,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇。
-1. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai*, Zhou Wenbo*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+1. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 2. Zhong Taihong, Lü Shuai*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2024. (Submitted)
 3. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2024. (Submitted)
 4. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
