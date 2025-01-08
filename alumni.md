@@ -25,18 +25,19 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
 
-## 【学术论文】在国内外期刊和会议上发表学术论文9篇，在审学术论文2篇。
-1. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
-2. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao\***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
-3. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-4. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao\***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-5. **Li Jingyao**, Lü Shuai, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
-6. **Li Jingyao**, Lü Shuai, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
-7. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
-8. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
-9. **Li Jingyao**, Liu Lei, Zhang Peng*. Tabular-expression-based method for constructing metamorphic relations. **Software: Practice and Experience**, 2020, 50(8): 1345-1380. **(中科院3区期刊, CCF推荐B类期刊, SCI, IF: 2.028)**
-10. Hou Yun, **Li Jingyao**, Yu Haihong, Li Zhanshan*. BIFFOA: A novel binary improved fruit fly algorithm for feature selection. **IEEE Access**, 2019, 7: 81177-81194. **(中科院2区期刊, SCI, IF: 3.745)**
-11. Zhou Wenbo, Liu Lei, Zhang Peng*, Lü Shuai, **Li Jingyao**. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
+## 【学术论文】在国内外期刊和会议上发表学术论文9篇，在审学术论文3篇。
+1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
+2. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
+3. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao\***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
+4. Yu Jiayu, **Li Jingyao**, Lü Shuai*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+5. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao\***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+6. **Li Jingyao**, Lü Shuai, Li Zhanshan*. Unsupervised domain adaptation via softmax-based prototype construction and adaptation. **Information Sciences**, 2022, 609: 257-275. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.1)**
+7. **Li Jingyao**, Lü Shuai, Zhu Wenbo, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
+8. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Feature concatenation for adversarial domain adaptation. **Expert Systems with Applications**, 2021, 169: 114490. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.665)**
+9. **Li Jingyao**, Li Zhanshan, Lü Shuai*. Unsupervised double weighted domain adaptation. **Neural Computing and Applications**, 2021, 33(8): 3545-3566. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 5.102)**
+10. **Li Jingyao**, Liu Lei, Zhang Peng*. Tabular-expression-based method for constructing metamorphic relations. **Software: Practice and Experience**, 2020, 50(8): 1345-1380. **(中科院3区期刊, CCF推荐B类期刊, SCI, IF: 2.028)**
+11. Hou Yun, **Li Jingyao**, Yu Haihong, Li Zhanshan*. BIFFOA: A novel binary improved fruit fly algorithm for feature selection. **IEEE Access**, 2019, 7: 81177-81194. **(中科院2区期刊, SCI, IF: 3.745)**
+12. Zhou Wenbo, Liu Lei, Zhang Peng*, Lü Shuai, **Li Jingyao**. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
 
 ## 【学位论文】
 1. **李静瑶**. 无监督领域适配方法研究[博士学位论文]. 长春: 吉林大学, 2022.
