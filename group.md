@@ -18,10 +18,10 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
-1. **Zhou Ruikai**, Li Songlin, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
-2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
-3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
-4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+1. **Zhou Ruikai**, Li Songlin, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
+2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
+3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
+4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，研究生学业奖学金
@@ -45,11 +45,11 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文3篇。
 1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
-2. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
-3. Li Ying, **Fang Wensi**, Zhao Jianing, Yang Xiao, Sun Hang, Du Wei*. Training an end-to-end moonlighting long non-coding RNAs deep learning model based on reinforcement learning. 2023. (Submitted)
-4. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei*, Yu Qiong*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
-5. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
-6. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
+2. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
+3. Li Ying, **Fang Wensi**, Zhao Jianing, Yang Xiao, Sun Hang, Du Wei\*. Training an end-to-end moonlighting long non-coding RNAs deep learning model based on reinforcement learning. 2023. (Submitted)
+4. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei\*, Yu Qiong\*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+5. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian\*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
+6. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying\*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
 
 ## 【学位论文】
 1. **方文思**. 基于强化学习的政府留言板标签更正与识别算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
@@ -76,9 +76,9 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. **Lian Xiaoyu**, Xia Nan*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. 2024. (Submitted)
-2. **Lian Xiaoyu**, Xia Nan*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.4)**
-3. **廉筱峪**, 夏楠*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
+1. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. 2024. (Submitted)
+2. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.4)**
+3. **廉筱峪**, 夏楠\*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金
@@ -103,14 +103,14 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
-1. **Zhu Wenbo**, Xiao Wei, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
-2. Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
-3. **Zhu Wenbo**, Lü Shuai*, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-4. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
-5. Long Zehong, **Zhu Wenbo**, Lü Shuai*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
-6. Zhu Sheng, Wu Hao, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
-7. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
-8. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
+1. **Zhu Wenbo**, Xiao Wei, Lü Shuai\*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
+2. Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
+3. **Zhu Wenbo**, Lü Shuai\*, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
+4. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
+5. Long Zehong, **Zhu Wenbo**, Lü Shuai\*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
+6. Zhu Sheng, Wu Hao, Shen Chun, **Zhu Wenbo**, Han Shuai, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
+7. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+8. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan\*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，二等奖学金
@@ -139,9 +139,9 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文2篇。
 1. Lü Shuai, Yuan Jianhui, **Zhang Xinyu**, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
-2. Lü Shuai, **Zhang Xinyu**, Li Zongze, Li Jingyao*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
-3. **Zhang Xinyu**, Kang Meng, Lü Shuai*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
-4. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+2. Lü Shuai, **Zhang Xinyu**, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
+3. **Zhang Xinyu**, Kang Meng, Lü Shuai\*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
+4. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao\*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，二等奖学金、院优秀学生
@@ -172,9 +172,9 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
-2. **Zhang Zeyu**, Shen Chun, Lü Shuai*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
-3. Zhang Shaojie, Shen Chun, Lü Shuai*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
+1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
+2. **Zhang Zeyu**, Shen Chun, Lü Shuai\*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
+3. Zhang Shaojie, Shen Chun, Lü Shuai\*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2019.04，中国高校计算机大赛团体程序设计天梯赛，团队省级特等奖
@@ -207,8 +207,8 @@
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇，授权发明专利1项。
 1. **Lin Dajun**, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-2. Zhong Taihong, Lü Shuai*, **Lin Dajun**, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
-3. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
+2. Zhong Taihong, Lü Shuai\*, **Lin Dajun**, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
+3. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 4. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【荣誉奖励】
@@ -236,8 +236,8 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, **Zhang Shaojie**, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
-2. Zhang Zeyu, Shen Chun, Lü Shuai*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
-3. **Zhang Shaojie**, Shen Chun, Lü Shuai*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
+2. Zhang Zeyu, Shen Chun, Lü Shuai\*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
+3. **Zhang Shaojie**, Shen Chun, Lü Shuai\*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、二等奖学金
@@ -266,13 +266,13 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文7篇，授权发明专利1项。
-1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
 2. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, **Zhong Taihong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-3. **Zhong Taihong**, Lü Shuai*, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
-4. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
-5. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
-6. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
-7. Long Zehong, Zhu Wenbo, Lü Shuai*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
+3. **Zhong Taihong**, Lü Shuai\*, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
+4. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
+5. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
+6. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
+7. Long Zehong, Zhu Wenbo, Lü Shuai\*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
 8. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【荣誉奖励】
@@ -300,14 +300,14 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
-1. **Wu Junhong**, Liu Jie, Lü Shuai*. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
-2. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
-3. Zhang Yushu, Shen Chun, An Daolong, **Wu Junhong**, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
-4. Zhu Wenbo, Lü Shuai*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-5. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
-6. Long Zehong, Zhu Wenbo, Lü Shuai*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
-7. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-8. Zhu Sheng, Shen Chun, Lü Shuai*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+1. **Wu Junhong**, Liu Jie, Lü Shuai\*. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
+2. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
+3. Zhang Yushu, Shen Chun, An Daolong, **Wu Junhong**, Lü Shuai\*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
+4. Zhu Wenbo, Lü Shuai\*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
+5. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
+6. Long Zehong, Zhu Wenbo, Lü Shuai\*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2024. (Submitted)
+7. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai\*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+8. Zhu Sheng, Shen Chun, Lü Shuai\*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，一等奖学金、校优秀学生
@@ -341,11 +341,11 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇。
 1. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
-2. Zhong Taihong, Lü Shuai*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
-3. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
-4. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
-5. Shu Man, Lü Shuai*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
-6. Zhu Sheng, Shen Chun, Lü Shuai*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+2. Zhong Taihong, Lü Shuai\*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
+3. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
+4. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai\*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
+5. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
+6. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2019.07，全国大学生水利创新设计大赛，国家级二等奖
@@ -371,12 +371,12 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇。
-1. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+1. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
 2. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 3. Lin Dajun, **Li Songlin**, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-4. Zhou Ruikai, **Li Songlin**, Lü Shuai*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
-5. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
-6. Shu Man, Lü Shuai*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
+4. Zhou Ruikai, **Li Songlin**, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
+5. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
+6. Shu Man, Lü Shuai\*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
 
 ## 【荣誉奖励】
 - 2019-2020学年，一等奖学金、院优秀学生
@@ -404,7 +404,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
 1. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
-2. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
+2. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，国家励志奖学金、三等奖学金
@@ -431,7 +431,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+1. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
 2. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 3. Zhu Wenbo, **Xiao Wei**, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
 
@@ -459,8 +459,8 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
-1. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua*. An efficient and dynamic framework for multi-scale target detection of underwater organisms: EVD-YOLO. 2024. (Submitted)
-2. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
+1. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. An efficient and dynamic framework for multi-scale target detection of underwater organisms: EVD-YOLO. 2024. (Submitted)
+2. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生
@@ -486,8 +486,8 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
-2. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
+1. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+2. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，三等奖学金
@@ -538,7 +538,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文0篇。
-1. Xiong Xi, Shen Chun, Wu Junhong, Lü Shuai*, **Zhang Xiaodan**. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+1. Xiong Xi, Shen Chun, Wu Junhong, Lü Shuai\*, **Zhang Xiaodan**. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生
@@ -622,7 +622,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，申请发明专利（目前实质审查）1项。
-1. 马慧敏*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
+1. 马慧敏\*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
 2. **檀磊**, 马慧敏, 王小申, 戴明宇, 代腾辉, 焦俊, 刘倩, 辜丽川. 基于多尺度生成对抗网络的大气湍流图像复原方法及系统. (申请号: CN2023 1 1725750.0, 申请日: 2023.12.14, 目前实质审查)
 
 ## 【荣誉奖励】
