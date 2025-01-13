@@ -73,6 +73,7 @@
   - AAAI (PC, Reviewer)
   - ICLR (Reviewer)
   - ICML (Reviewer)
+  - IJCAI (PC, Reviewer)
   - KDD (Reviewer)
   - NeurIPS (Reviewer)
 
