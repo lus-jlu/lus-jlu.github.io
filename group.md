@@ -339,13 +339,15 @@
 - 2022.09至今，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇。
-1. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
-2. Zhong Taihong, Lü Shuai\*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
-3. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
-4. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai\*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
-5. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
-6. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文7篇。
+1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Chen Huangyang, Lü Shuai\*. Amended critic and adaptive constraints for offline-to-online reinforcement learning. 2025. (Submitted)
+2. Li Songlin, Xiao Wei, Wu Hao, **An Daolong**, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
+3. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+4. Zhong Taihong, Lü Shuai\*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
+5. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
+6. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai\*. Reinforcement learning with extreme minimum distribution. 2024. (Submitted) 
+7. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
+8. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2019.07，全国大学生水利创新设计大赛，国家级二等奖
@@ -370,13 +372,15 @@
 - 2023.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇。
-1. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
-2. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
-3. Lin Dajun, **Li Songlin**, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-4. Zhou Ruikai, **Li Songlin**, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
-5. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
-6. Shu Man, Lü Shuai\*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文8篇。
+1. Xiao Wei, **Li Songlin**, An Daolong, Wu Hao, Chen Huangyang, Lü Shuai\*. Amended critic and adaptive constraints for offline-to-online reinforcement learning. 2025. (Submitted)
+2. **Li Songlin**, Xiao Wei, Wu Hao, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
+3. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+4. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+5. Lin Dajun, **Li Songlin**, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
+6. Zhou Ruikai, **Li Songlin**, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
+7. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
+8. Shu Man, Lü Shuai\*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
 
 ## 【荣誉奖励】
 - 2019-2020学年，一等奖学金、院优秀学生
@@ -430,10 +434,12 @@
 - 2023.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
-2. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
-3. Zhu Wenbo, **Xiao Wei**, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇。
+1. **Xiao Wei**, Li Songlin, An Daolong, Wu Hao, Chen Huangyang, Lü Shuai\*. Amended critic and adaptive constraints for offline-to-online reinforcement learning. 2025. (Submitted)
+2. Li Songlin, **Xiao Wei**, Wu Hao, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
+3. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+4. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
+5. Zhu Wenbo, **Xiao Wei**, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2019-2020学年，三等奖学金、校优秀学生、校优秀学生干部
@@ -485,9 +491,11 @@
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
-2. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+1. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Chen Huangyang, Lü Shuai\*. Amended critic and adaptive constraints for offline-to-online reinforcement learning. 2025. (Submitted)
+2. Li Songlin, Xiao Wei, **Wu Hao**, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
+3. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+4. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，三等奖学金
@@ -513,7 +521,8 @@
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文0篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*. Reward remodeling based on trajectory returns from offline datasets in offline reinforcement learning. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、校三好学生、校优秀学生干部
@@ -570,7 +579,9 @@
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、陈娟教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文0篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
+1. Xiao Wei, Li Songlin, An Daolong, Wu Hao, **Chen Huangyang**, Lü Shuai\*. Amended critic and adaptive constraints for offline-to-online reinforcement learning. 2025. (Submitted)
+2. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*. Reward remodeling based on trajectory returns from offline datasets in offline reinforcement learning. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生标兵
@@ -600,7 +611,8 @@
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、朱允刚副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文0篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward remodeling based on trajectory returns from offline datasets in offline reinforcement learning. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、二等奖学金、校三好学生
