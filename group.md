@@ -112,6 +112,9 @@
 7. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 8. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan\*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
 
+## 【学位论文】
+1. **朱文博**. 基于特征蒸馏和软惩罚引导的强化学习探索方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
+
 ## 【荣誉奖励】
 - 2018-2019学年，二等奖学金
 - 2019.11，全国大学生数学建模竞赛，省级一等奖
@@ -142,6 +145,9 @@
 2. Lü Shuai, **Zhang Xinyu**, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
 3. **Zhang Xinyu**, Kang Meng, Lü Shuai\*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
 4. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao\*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+
+## 【学位论文】
+1. **张鑫宇**. 基于自监督学习的无监督领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
 
 ## 【荣誉奖励】
 - 2018-2019学年，二等奖学金、院优秀学生
@@ -175,6 +181,9 @@
 1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
 2. **Zhang Zeyu**, Shen Chun, Lü Shuai\*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
 3. Zhang Shaojie, Shen Chun, Lü Shuai\*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
+
+## 【学位论文】
+1. **张泽宇**. 基于主动学习的领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
 
 ## 【荣誉奖励】
 - 2019.04，中国高校计算机大赛团体程序设计天梯赛，团队省级特等奖
@@ -211,6 +220,9 @@
 3. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
 4. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
+## 【学位论文】
+1. **林炟君**. 基于策略约束的离线强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
+
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、院优秀学生会干部
 - 2019-2020学年，二等奖学金
@@ -238,6 +250,9 @@
 1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, **Zhang Shaojie**, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
 2. Zhang Zeyu, Shen Chun, Lü Shuai\*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju Island, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
 3. **Zhang Shaojie**, Shen Chun, Lü Shuai\*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
+
+## 【学位论文】
+1. **张少杰**. 基于黑盒模型的无源领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
 
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金、二等奖学金
@@ -275,6 +290,9 @@
 7. Long Zehong, Zhu Wenbo, Lü Shuai\*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
 8. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
+## 【学位论文】
+1. **钟太鸿**. 基于分布偏移的深度强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
+
 ## 【荣誉奖励】
 - 2018-2019学年，辽宁省政府奖学金、一等奖学金、三好学生标兵
 - 2019-2020学年，国家奖学金、特等奖学金、校三好学生
@@ -308,6 +326,9 @@
 6. Long Zehong, Zhu Wenbo, Lü Shuai\*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
 7. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai\*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 8. Zhu Sheng, Shen Chun, Lü Shuai\*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+
+## 【学位论文】
+1. **吴珺泓**. [硕士学位论文]. 长春: 吉林大学, 2025.
 
 ## 【荣誉奖励】
 - 2018-2019学年，一等奖学金、校优秀学生
@@ -349,6 +370,9 @@
 7. Zhang Yushu, Shen Chun, **An Daolong**, Wu Junhong, Lü Shuai\*. Reinforcement learning with extreme minimum distribution. 2025. (Submitted) 
 8. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. 2024. (Submitted)
 9. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+
+## 【学位论文】
+1. **安道龙**. 基于结果约束的离线强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
 
 ## 【荣誉奖励】
 - 2019.07，全国大学生水利创新设计大赛，国家级二等奖
