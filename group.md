@@ -101,6 +101,7 @@
 - 2018.09-2022.06，吉林大学软件学院软件工程专业，本科生
 - 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
 1. **Zhu Wenbo**, Xiao Wei, Lü Shuai\*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
@@ -139,6 +140,7 @@
 - 2018.09-2022.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
 - 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文2篇。
 1. Lü Shuai, Yuan Jianhui, **Zhang Xinyu**, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
@@ -176,6 +178,7 @@
 - 2018.09-2022.06，内蒙古大学计算机学院（软件学院）计算机科学与技术专业，本科生（学业排名和综合排名均为第1/38名）
 - 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
@@ -213,6 +216,7 @@
 - 2018.09-2022.06，海南大学计算机科学与技术学院软件工程专业，本科生
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、刘磊教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇，授权发明专利1项。
 1. **Lin Dajun**, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
@@ -245,6 +249,7 @@
 - 2018.09-2022.06，哈尔滨工程大学软件学院软件工程专业，本科生
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, **Zhang Shaojie**, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
@@ -279,6 +284,7 @@
 - 2018.09-2022.06，沈阳工业大学软件学院软件工程专业，本科生（学业排名和综合排名均为第1/296名）
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文7篇，授权发明专利1项。
 1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
@@ -316,6 +322,7 @@
 - 2018.09-2022.06，成都理工大学计算机与网络安全学院（牛津布鲁克斯学院）软件工程专业，本科生
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、刘杰副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
 1. **Wu Junhong**, Liu Jie, Lü Shuai\*. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
@@ -359,6 +366,7 @@
 - 2017.09-2021.06，吉林大学计算机科学与技术学院物联网工程专业，本科生
 - 2022.09至今，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文8篇。
 1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Amended critic and adaptive constraints for offline-to-online reinforcement learning. 2025. (Submitted)
