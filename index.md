@@ -170,8 +170,8 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 41. **吕帅**, 刘磊\*, 石莲, 李莹. 基于自动推理技术的智能规划方法. **软件学报**, 2009, 20(5): 1226-1240. **(CCF推荐中文A类期刊)**
 
 目前尚处于评审阶段的学术论文：
-1. Xiao Wei, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, **Lü Shuai\***. Amended critic and adaptive constraints for offline-to-online reinforcement learning. 2025. (Submitted)
-2. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward remodeling based on trajectory returns from offline datasets in offline reinforcement learning. 2025. (Submitted)
+1. Xiao Wei, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, **Lü Shuai\***. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
+2. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward remodeling based on trajectory return from offline dataset in offline reinforcement learning. 2025. (Submitted)
 3. Li Songlin, Xiao Wei, Wu Hao, Zhang Xiaodan, An Daolong, **Lü Shuai\***. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
 4. **Lü Shuai**, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
 5. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
