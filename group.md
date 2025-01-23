@@ -325,7 +325,7 @@
 - 毕业去向：待更新
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
-1. **Wu Junhong**, Liu Jie, Lü Shuai\*. Alternate data augmentation for generalization in reinforcement learning. 2024. (Submitted)
+1. **Wu Junhong**, Liu Jie, Lü Shuai\*. Alternate data augmentation for generalization in reinforcement learning. 2025. (Submitted)
 2. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
 3. Zhang Yushu, Shen Chun, An Daolong, **Wu Junhong**, Lü Shuai\*. Reinforcement learning with extreme minimum distribution. 2025. (Submitted) 
 4. Zhu Wenbo, Lü Shuai\*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
