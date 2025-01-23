@@ -27,7 +27,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文9篇，在审学术论文3篇。
 1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
-2. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
+2. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2025. (Submitted)
 3. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao\***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. 2024. (Submitted)
 4. Yu Jiayu, **Li Jingyao**, Lü Shuai\*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 5. Lü Shuai, Li Zongze, Zhang Xinyu, **Li Jingyao\***. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
