@@ -177,7 +177,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 5. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
 6. An Daolong, Shen Chun, Li Songlin, Xiao Wei, **Lü Shuai\***, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 7. Lin Dajun, Li Songlin, **Lü Shuai\***, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-8. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2024. (Submitted)
+8. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided adaptation: A simple framework for unsupervised domain adaptation. 2025. (Submitted)
 9. Zhong Taihong, **Lü Shuai\***, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
 10. Wu Junhong, Liu Jie, **Lü Shuai\***. Alternate data augmentation for generalization in reinforcement learning. 2025. (Submitted)
 11. Zhu Wenbo, Xiao Wei, **Lü Shuai\***. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
