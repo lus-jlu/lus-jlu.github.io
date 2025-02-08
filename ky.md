@@ -74,8 +74,8 @@
 1|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.01 AOE|2024.08.08 AOE<BR>2025.02.08 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
 2|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
 3|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.11-06.15|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
-4|<A href="https://2025.ijcai.org/" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-08.22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
+4|<A href="https://2025.ijcai.org" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-08.22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
 5|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23<BR>AOE|2025.01.30<BR>11:59 AM UTC|2025.07.13-07.19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
 6|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>AOE|2025.03.07<BR>AOE|2025.10.20-10.24|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025/Conference" target="_blank">投稿系统</A>
-7|<A href="https://acmmm2025.org/" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-10.31|Dublin, Ireland|<A href="" target="_blank">投稿系统</A>
+7|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-10.31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
 8|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12||
