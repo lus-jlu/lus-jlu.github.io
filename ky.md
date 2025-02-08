@@ -77,5 +77,5 @@
 4|<A href="https://2025.ijcai.org/" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-08.22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
 5|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23<BR>AOE|2025.01.30<BR>11:59 AM UTC|2025.07.13-07.19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
 6|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>AOE|2025.03.07<BR>AOE|2025.10.20-10.24|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025/Conference" target="_blank">投稿系统</A>
-7|<A href="" target="_blank">MM 2025</A>|预计2025.04|预计2025.04|预计2025.10||
+7|<A href="https://acmmm2025.org/" target="_blank">MM 2025</A>|预计2025.04|预计2025.04|2025.10.27-10.31||
 8|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12||
