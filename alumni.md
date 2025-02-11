@@ -284,7 +284,7 @@
 - 毕业去向：[XX] XXXX大学教师
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇，授权发明专利1项。
-1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
+1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
 2. Zhu Wenbo, Lü Shuai\*, **Long Zehong**, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 3. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
 4. **Long Zehong**, Zhu Wenbo, Lü Shuai\*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
@@ -335,7 +335,7 @@
 - 毕业去向：[济南] 神思电子技术股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2024. (Submitted)
+1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
 2. **Zhang Yushu**, Shen Chun, An Daolong, Wu Junhong, Lü Shuai\*. Reinforcement learning with extreme minimum distribution. 2025. (Submitted) 
 3. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
 
