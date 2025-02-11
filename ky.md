@@ -79,4 +79,4 @@
 6|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>11:59 PM HST|2025.03.07<BR>11:59 PM HST|2025.10.19-10.23|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025" target="_blank">投稿系统</A>
 7|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-10.31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
 8|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12|待定|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
-9|KDD 2026|2025.07.24|2024.07.31|预计2026.08|待定|待定
+9|KDD 2026|2025.07.24|2025.07.31|预计2026.08|待定|待定
