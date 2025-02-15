@@ -80,3 +80,23 @@
 7|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-10.31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
 8|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12|待定|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
 9|KDD 2026|2025.07.24 AOE|2025.07.31 AOE|预计2026.08|待定|待定
+
+## 4. 中文作者信息和致谢
+
+吕帅（Shuai Lü，Shuai Lyu）
+1. 符号计算与知识工程教育部重点实验室（吉林大学），长春 130012，中国
+2. 吉林大学计算机科学与技术学院，长春 130012，中国
+3. 吉林大学软件学院，长春 130012，中国
+
+致谢：由吉林省自然科学基金（20220101106JC，YDZJ202201ZYTS423，20240602108RC）、国家自然科学基金（61300049，62407010）、中央高校基本科研业务费（吉林大学93K172022K10，东北师范大学2412022QD040，东北师范大学2412022ZD018）、国家重点研发计划（2017YFB1003103）资助。
+
+## 5. 英文作者信息和致谢
+
+Shuai Lü
+1. Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China
+2. College of Computer Science and Technology, Jilin University, Changchun 130012, China
+3. College of Software, Jilin University, Changchun 130012, China
+
+Acknowledgments: This work was supported by the Natural Science Research Foundation of Jilin Province of China under Grant Nos. 20220101106JC, YDZJ202201ZYTS423 and 20240602108RC, the National Natural Science Foundation of China under Grant Nos. 61300049 and 62407010, the Fundamental Research Funds for the Central Universities (Jilin University) under Grant No. 93K172022K10, the Fundamental Research Funds for the Central Universities (Northeast Normal University) under Grant Nos. 2412022QD040 and 2412022ZD018, and the National Key R&D Program of China under Grant No. 2017YFB1003103.
+
+
