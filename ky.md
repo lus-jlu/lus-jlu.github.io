@@ -93,6 +93,6 @@ Shuai Lü
 2. College of Computer Science and Technology, Jilin University, Changchun 130012, China
 3. College of Software, Jilin University, Changchun 130012, China
 
-致谢：由吉林省自然科学基金（20220101106JC，YDZJ202201ZYTS423，20240602108RC）、国家自然科学基金（61300049，62407010）、中央高校基本科研业务费（吉林大学93K172022K10，东北师范大学2412022QD040，东北师范大学2412022ZD018）、国家重点研发计划（2017YFB1003103）资助。
+致谢：由吉林省自然科学基金（20220101106JC、YDZJ202201ZYTS423、20240602108RC）、国家自然科学基金（62407010）、中央高校基本科研业务费（93K172022K10、2412022QD040、2412022ZD018）资助。
 
-Acknowledgments: This work was supported by the Natural Science Research Foundation of Jilin Province of China under Grant Nos. 20220101106JC, YDZJ202201ZYTS423 and 20240602108RC, the National Natural Science Foundation of China under Grant Nos. 61300049 and 62407010, the Fundamental Research Funds for the Central Universities (Jilin University) under Grant No. 93K172022K10, the Fundamental Research Funds for the Central Universities (Northeast Normal University) under Grant Nos. 2412022QD040 and 2412022ZD018, and the National Key R&D Program of China under Grant No. 2017YFB1003103.
+Acknowledgments: This work was supported by the Natural Science Research Foundation of Jilin Province of China under Grant Nos. 20220101106JC, YDZJ202201ZYTS423 and 20240602108RC, the National Natural Science Foundation of China under Grant No. 62407010, and the Fundamental Research Funds for the Central Universities under Grant Nos. 93K172022K10, 2412022QD040 and 2412022ZD018.
