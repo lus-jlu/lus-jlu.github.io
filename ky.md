@@ -88,11 +88,11 @@
 2. 吉林大学计算机科学与技术学院, 长春 130012, 中国
 3. 吉林大学软件学院, 长春 130012, 中国
 
+致谢: 由吉林省自然科学基金(20220101106JC, YDZJ202201ZYTS423, 20240602108RC), 国家自然科学基金(62407010), 中央高校基本科研业务费(2412022QD040, 2412022ZD018)资助.
+
 Shuai Lü
 1. Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China
 2. College of Computer Science and Technology, Jilin University, Changchun 130012, China
 3. College of Software, Jilin University, Changchun 130012, China
-
-致谢: 由吉林省自然科学基金(20220101106JC, YDZJ202201ZYTS423, 20240602108RC), 国家自然科学基金(62407010), 中央高校基本科研业务费(2412022QD040, 2412022ZD018)资助.
 
 Acknowledgments: This work was supported by the Natural Science Research Foundation of Jilin Province of China under Grant Nos. 20220101106JC, YDZJ202201ZYTS423 and 20240602108RC, the National Natural Science Foundation of China under Grant No. 62407010, and the Fundamental Research Funds for the Central Universities under Grant Nos. 2412022QD040 and 2412022ZD018.
