@@ -1,20 +1,6 @@
 # 科研相关文档（仅供参考）
 
-## 1. 近期会议投稿信息（更新于2025.02）
-
-序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
-:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|1|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.03 AOE|2024.08.08 AOE<BR>2025.02.10 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
-||KDD 2026|2025.07.24 AOE|2025.07.31 AOE|预计2026.08|待定|待定
-|2|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
-|3|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.11-06.15|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
-|4|<A href="https://2025.ijcai.org" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-08.22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
-|5|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23 AOE|2025.01.30 AOE|2025.07.13-07.19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
-|6|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>11:59 PM HST|2025.03.07<BR>11:59 PM HST|2025.10.19-10.23|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025" target="_blank">投稿系统</A>
-|7|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-10.31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
-|8|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12|待定|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
-
-## 2. 期刊或会议的各种评价
+## 1. 期刊或会议的各种评价
 
 + 【中科院分区】中国科学院文献情报中心期刊分区表（2023年，发布时间2023年12月27日），详见[<A href="https://www.fenqubiao.com/" target="_blank">官方查询系统</A>]或[<A href="https://www.letpub.com.cn/index.php?page=journalapp" target="_blank">LetPub期刊信息查询系统</A>]。
 注：官方计划每年更新一次，一般为12月。
@@ -27,7 +13,7 @@
 + 【CCF推荐中文分类】中国计算机学会推荐中文科技期刊目录（2019年第1版，发布时间2019年7月31日），详见[<A href="https://www.ccf.org.cn/Focus/2019-07-31/667609.shtml" target="_blank">原文链接</A>]。
 注：官方计划每2-3年更新一次（2019年1月第1版）。
 
-## 3. 研究领域顶级或著名期刊
+## 2. 研究领域顶级或著名期刊
 
 序|期刊名称|CCF分类（2022）|中科院大类分区<BR>（2023）|中科院小类分区<BR>（2023）|ESI学科<BR>（2023）|出版商
 :-:|:-|:-:|:-:|:-:|:-:|:-:
@@ -68,7 +54,7 @@
 35|Neural Networks|人工智能B类|计算机科学1区|人工智能2区|计算机科学|Elsevier
 36|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|工程|Elsevier
 
-## 4. 研究领域顶级会议
+## 3. 研究领域顶级会议
 
 序|会议缩写|会议全称|CCF分类<BR>（2022）|出版商
 :-:|:-:|:-|:-:|:-:
@@ -81,7 +67,21 @@
 7|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
 8|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
 
-## 5. 作者信息和致谢
+### 近期会议投稿信息（更新于2025.02）
+
+序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
+:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|1|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.03 AOE|2024.08.08 AOE<BR>2025.02.10 AOE|2025.08.03-08.07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
+||KDD 2026|2025.07.24 AOE|2025.07.31 AOE|预计2026.08|待定|待定
+|2|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
+|3|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.11-06.15|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
+|4|<A href="https://2025.ijcai.org" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-08.22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
+|5|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23 AOE|2025.01.30 AOE|2025.07.13-07.19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
+|6|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>11:59 PM HST|2025.03.07<BR>11:59 PM HST|2025.10.19-10.23|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025" target="_blank">投稿系统</A>
+|7|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-10.31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
+|8|<A href="" target="_blank">NeurIPS 2025</A>|预计2025.05|预计2025.05|预计2025.12|待定|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
+
+## 4. 作者信息和致谢
 
 吕帅（Shuai Lü，Shuai Lyu）
 1. 符号计算与知识工程教育部重点实验室（吉林大学），长春 130012，中国
