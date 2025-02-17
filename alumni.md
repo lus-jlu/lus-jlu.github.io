@@ -725,7 +725,7 @@
 - 毕业去向：[荷兰] Utrecht University（乌特列支大学）国家公派博士生（导师：Mehdi Dastani教授）
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文3篇。
-1. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
+1. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. 2025. (Submitted)
 2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
 3. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, **Han Shuai**, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
 4. Zhou Ruikai, Zhu Wenbo, **Han Shuai**, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
