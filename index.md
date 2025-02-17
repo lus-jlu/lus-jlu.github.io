@@ -187,7 +187,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 14. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
 15. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
 16. Zhu Wenbo, **Lü Shuai\***, Long Zehong, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-17. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning: A case study. 2025. (Submitted)
+17. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. 2025. (Submitted)
 18. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
 19. Long Zehong, Zhu Wenbo, **Lü Shuai\***, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
 20. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. 2023. (Submitted)
