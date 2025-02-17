@@ -3,7 +3,7 @@
 ## 1. 期刊或会议的各种评价
 
 + 【中科院分区】中国科学院文献情报中心期刊分区表（2023年，发布时间2023年12月27日），详见[<A href="https://www.fenqubiao.com/" target="_blank">官方查询系统</A>]或[<A href="https://www.letpub.com.cn/index.php?page=journalapp" target="_blank">LetPub期刊信息查询系统</A>]。
-注：官方计划每年更新一次，一般为12月。
+注：官方计划每年更新一次，2024年期刊分区表未发布，2025年期刊分区表将于2025年2月分布。
 
 + 【影响因子】影响因子（Impact Factor，IF）是Thomson Reuters出品的期刊引证报告（Journal Citation Reports，JCR）中的一项数据，即某期刊前2年发表的论文在报告年份被引用总次数除以该期刊在这2年内发表的论文总数，是国际上通行的期刊评价指标。
 
