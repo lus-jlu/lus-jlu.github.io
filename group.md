@@ -18,7 +18,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
-1. **Zhou Ruikai**, Li Songlin, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
+1. **Zhou Ruikai**, Li Songlin, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2025. (Submitted)
 2. **Zhou Ruikai**, Zhong Taihong, Li Songlin, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
 3. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. 2025. (Submitted)
 4. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
@@ -409,7 +409,7 @@
 3. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
 4. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 5. Lin Dajun, **Li Songlin**, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-6. Zhou Ruikai, **Li Songlin**, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent. 2025. (Submitted)
+6. Zhou Ruikai, **Li Songlin**, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2025. (Submitted)
 7. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
 8. Shu Man, Lü Shuai\*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 107286. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 
