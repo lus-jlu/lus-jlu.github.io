@@ -58,6 +58,7 @@
 + 全国大学生软件创新大赛，评审
 + 学术期刊论文评审
   - Applied Soft Computing
+  - Engineering Applications of Artificial Intelligence
   - Expert Systems with Applications
   - Frontiers of Computer Science
   - IEEE Transactions on Neural Networks and Learning Systems
