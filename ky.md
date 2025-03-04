@@ -80,8 +80,8 @@
 7|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-10.31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
 8|<A href="" target="_blank">NeurIPS 2025</A>|2025.05.11 AOE|2025.05.15 AOE|2025.12.02-12.07|San Diego, USA|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
 1|KDD 2026|2025.07.24 AOE|2025.07.31 AOE|预计2026.08|待定|待定
-2|AAAI 2026|待定|待定|预计2026.02|待定|待定
-3|CVPR 2026|待定|待定|预计2026.06|待定|待定
+2|AAAI 2026|待定|预计2025.08|预计2026.02|待定|待定
+3|CVPR 2026|待定|预计2025.11|预计2026.06|待定|待定
 
 ## 4. 作者信息和致谢
 
