@@ -374,7 +374,7 @@
 4. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, **An Daolong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
 5. Zhong Taihong, Lü Shuai\*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
 6. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
-7. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 107286. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+7. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 8. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【学位论文】
@@ -411,7 +411,7 @@
 5. Lin Dajun, **Li Songlin**, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
 6. Zhou Ruikai, **Li Songlin**, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2025. (Submitted)
 7. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
-8. Shu Man, Lü Shuai\*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 107286. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+8. Shu Man, Lü Shuai\*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 
 ## 【荣誉奖励】
 - 2019-2020学年，一等奖学金、院优秀学生
