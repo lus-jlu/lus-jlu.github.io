@@ -378,7 +378,7 @@
 8. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【学位论文】
-1. **安道龙**. 基于结果约束的离线强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
+1. **安道龙**. 基于结果约束和梯度权重的离线强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
 
 ## 【荣誉奖励】
 - 2019.07，全国大学生水利创新设计大赛，国家级二等奖
