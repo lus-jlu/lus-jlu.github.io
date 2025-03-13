@@ -365,7 +365,7 @@
 - 2017.09-2021.06，吉林大学计算机科学与技术学院物联网工程专业，本科生
 - 2022.09至今，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[上海] 华为技术有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
 1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
