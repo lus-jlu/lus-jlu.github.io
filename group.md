@@ -101,7 +101,7 @@
 - 2018.09-2022.06，吉林大学软件学院软件工程专业，本科生
 - 2022.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[上海] 华为技术有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
 1. **Zhu Wenbo**, Xiao Wei, Lü Shuai\*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
@@ -249,7 +249,7 @@
 - 2018.09-2022.06，哈尔滨工程大学软件学院软件工程专业，本科生
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、申春副教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[上海] 华为技术有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
 1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, **Zhang Shaojie**, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
