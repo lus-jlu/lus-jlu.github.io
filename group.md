@@ -284,7 +284,7 @@
 - 2018.09-2022.06，沈阳工业大学软件学院软件工程专业，本科生（学业排名和综合排名均为第1/296名）
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[北京] 国家电网有限公司
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文7篇，授权发明专利1项。
 1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
