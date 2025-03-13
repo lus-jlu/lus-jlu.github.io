@@ -216,7 +216,7 @@
 - 2018.09-2022.06，海南大学计算机科学与技术学院软件工程专业，本科生
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、刘磊教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[广东深圳] 比亚迪股份有限公司
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇，授权发明专利1项。
 1. **Lin Dajun**, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
