@@ -322,7 +322,7 @@
 - 2018.09-2022.06，成都理工大学计算机与网络安全学院（牛津布鲁克斯学院）软件工程专业，本科生
 - 2022.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、刘杰副教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：待更新
+- 毕业去向：[北京] 北京京东世纪贸易有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文5篇。
 1. **Wu Junhong**, Liu Jie, Lü Shuai\*. Alternate data augmentation for generalization in reinforcement learning. 2025. (Submitted)
