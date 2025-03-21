@@ -26,18 +26,18 @@
 8|Data & Knowledge Engineering|人工智能B类<BR>数据挖掘B类|计算机科学3区|人工智能3区<BR>信息系统3区|计算机科学|Elsevier
 9|Data Mining and Knowledge Discovery|数据挖掘B类|计算机科学3区|人工智能3区<BR>信息系统4区|计算机科学|Springer
 10|Evolutionary Computation|人工智能B类|计算机科学3区|人工智能3区<BR>理论方法3区|计算机科学|MIT Press
-11|Expert Systems with Applications|人工智能C类|计算机科学1区|人工智能2区|工程|Elsevier
-12|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区|人工智能1区<BR>控制论1区|计算机科学|IEEE
-13|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学|IEEE
-14|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区|工程|IEEE
-15|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区|人工智能1区|工程|IEEE
-16|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学1区|人工智能2区<BR>信息系统1区|工程|IEEE
-17|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区|信息系统1区<BR>软件工程1区|计算机科学|IEEE
-18|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学|IEEE
-19|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区|人工智能1区|工程|IEEE
-20|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区|控制论1区|工程|IEEE
-21|Information Fusion||计算机科学1区|人工智能1区<BR>理论方法1区|计算机科学|Elsevier
-22|Information Processing and Management|数据挖掘B类|计算机科学1区|信息系统1区|社会科学|Elsevier
+11|Expert Systems with Applications|人工智能C类|计算机科学1区TOP|人工智能2区|工程|Elsevier
+12|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区TOP|人工智能1区<BR>控制论1区|计算机科学|IEEE
+13|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区TOP|人工智能1区<BR>理论方法1区|计算机科学|IEEE
+14|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区TOP|工程|IEEE
+15|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区TOP|人工智能1区|工程|IEEE
+16|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学1区TOP|人工智能2区<BR>信息系统1区|工程|IEEE
+17|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区TOP|信息系统1区<BR>软件工程1区|计算机科学|IEEE
+18|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区TOP|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学|IEEE
+19|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区TOP|人工智能1区|工程|IEEE
+20|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区TOP|控制论1区|工程|IEEE
+21|Information Fusion||计算机科学1区TOP|人工智能1区<BR>理论方法1区|计算机科学|Elsevier
+22|Information Processing and Management|数据挖掘B类|计算机科学1区TOP|信息系统1区|社会科学|Elsevier
 23|Information Sciences|数据挖掘B类|-|-|计算机科学|Elsevier
 24|Information Systems|数据挖掘B类|计算机科学3区|信息系统3区|计算机科学|Elsevier
 25|International Journal of Approximate Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学|Elsevier
@@ -46,12 +46,12 @@
 28|Journal of Automated Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学|Springer
 29|Journal of Machine Learning Research|人工智能A类|计算机科学4区|人工智能4区|计算机科学|Microtome Publishing
 30|Knowledge and Information Systems|数据挖掘B类|计算机科学4区|人工智能4区<BR>信息系统4区|计算机科学|Springer
-31|Knowledge-Based Systems|人工智能C类|计算机科学1区|人工智能2区|计算机科学|Elsevier
+31|Knowledge-Based Systems|人工智能C类|计算机科学1区TOP|人工智能2区|计算机科学|Elsevier
 32|Machine Learning|人工智能B类|计算机科学4区|人工智能4区|工程|Springer
-33|Nature Machine Intelligence||计算机科学1区|人工智能1区<BR>跨学科应用1区|计算机科学|Springer
+33|Nature Machine Intelligence||计算机科学1区TOP|人工智能1区<BR>跨学科应用1区|计算机科学|Springer
 34|Neural Computation|人工智能B类|计算机科学4区|人工智能4区|计算机科学|MIT Press
-35|Neural Networks|人工智能B类|计算机科学2区|人工智能2区|计算机科学|Elsevier
-36|Pattern Recognition|人工智能B类|计算机科学1区|人工智能1区|工程|Elsevier
+35|Neural Networks|人工智能B类|计算机科学2区TOP|人工智能2区|计算机科学|Elsevier
+36|Pattern Recognition|人工智能B类|计算机科学1区TOP|人工智能1区|工程|Elsevier
 
 ## 3. 研究领域顶级会议
 
