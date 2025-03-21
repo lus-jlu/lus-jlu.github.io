@@ -29,7 +29,7 @@
 11|Expert Systems with Applications|人工智能C类|计算机科学1区TOP|人工智能2区|工程|Elsevier
 12|IEEE Transactions on Cybernetics|人工智能B类|计算机科学1区TOP|人工智能1区<BR>控制论1区|计算机科学|IEEE
 13|IEEE Transactions on Evolutionary Computation|人工智能B类|计算机科学1区TOP|人工智能1区<BR>理论方法1区|计算机科学|IEEE
-14|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区|人工智能1区TOP|工程|IEEE
+14|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区TOP|人工智能1区|工程|IEEE
 15|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区TOP|人工智能1区|工程|IEEE
 16|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学1区TOP|人工智能2区<BR>信息系统1区|工程|IEEE
 17|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区TOP|信息系统1区<BR>软件工程1区|计算机科学|IEEE
