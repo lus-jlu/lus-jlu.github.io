@@ -61,7 +61,6 @@
 + 高校计算机专业优秀教师奖励计划，评审
 + 全国大学生软件创新大赛，评审
 + 学术期刊论文评审
-  - Applied Soft Computing (中科院1区TOP期刊)
   - Engineering Applications of Artificial Intelligence (中科院1区TOP期刊, CCF推荐C类期刊)
   - Expert Systems with Applications (中科院1区TOP期刊, CCF推荐C类期刊)
   - Frontiers of Computer Science (CCF推荐B类期刊)
@@ -69,7 +68,7 @@
   - Information Processing and Management (中科院1区TOP期刊, CCF推荐B类期刊)
   - Information Sciences (中科院1区TOP期刊, CCF推荐B类期刊)
   - Knowledge-Based Systems (中科院1区TOP期刊, CCF推荐C类期刊)
-  - Science China Information Sciences (CCF推荐A类期刊)
+  - Science China Information Sciences (中科院1区TOP期刊, CCF推荐A类期刊)
   - 计算机学报 (CCF推荐中文A类期刊)
   - 软件学报 (CCF推荐中文A类期刊)
   - 电子学报 (CCF推荐中文A类期刊)
