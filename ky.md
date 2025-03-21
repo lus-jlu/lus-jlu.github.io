@@ -38,7 +38,7 @@
 19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区TOP|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学|IEEE
 20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区TOP|人工智能1区|工程|IEEE
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区TOP|控制论1区|工程|IEEE
-22|Information Fusion||计算机科学1区TOP|人工智能1区<BR>理论方法1区|计算机科学|Elsevier
+22|Information Fusion|-|计算机科学1区TOP|人工智能1区<BR>理论方法1区|计算机科学|Elsevier
 23|Information Processing and Management|数据挖掘B类|计算机科学1区TOP|信息系统1区|社会科学|Elsevier
 24|Information Sciences|数据挖掘B类|-|-|计算机科学|Elsevier
 25|Information Systems|数据挖掘B类|计算机科学3区|信息系统3区|计算机科学|Elsevier
@@ -51,7 +51,7 @@
 32|Knowledge and Information Systems|数据挖掘B类|计算机科学4区|人工智能4区<BR>信息系统4区|计算机科学|Springer
 33|Knowledge-Based Systems|人工智能C类|计算机科学1区TOP|人工智能2区|计算机科学|Elsevier
 34|Machine Learning|人工智能B类|计算机科学4区|人工智能4区|工程|Springer
-35|Nature Machine Intelligence||计算机科学1区TOP|人工智能1区<BR>跨学科应用1区|计算机科学|Springer
+35|Nature Machine Intelligence|-|计算机科学1区TOP|人工智能1区<BR>跨学科应用1区|计算机科学|Springer
 36|Neural Computation|人工智能B类|计算机科学4区|人工智能4区|计算机科学|MIT Press
 37|Neural Networks|人工智能B类|计算机科学2区TOP|人工智能2区|计算机科学|Elsevier
 38|Pattern Recognition|人工智能B类|计算机科学1区TOP|人工智能1区|工程|Elsevier
