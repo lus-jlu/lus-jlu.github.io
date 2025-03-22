@@ -496,7 +496,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文0篇。
-1. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. EVD-YOLO: An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2025. **(中科院2区期刊, SCI, IF: 1.4)**
+1. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. EVD-YOLO: An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2025. **(中科院2区期刊, SCI, 目前IF: 1.4)**
 2. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
