@@ -40,7 +40,7 @@
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区TOP|控制论1区|工程|IEEE
 22|Information Fusion|-|计算机科学1区TOP|人工智能1区<BR>理论方法1区|计算机科学|Elsevier
 23|Information Processing and Management|数据挖掘B类|计算机科学1区TOP|信息系统1区|社会科学|Elsevier
-24|Information Sciences|数据挖掘B类|-|-|计算机科学|Elsevier
+24|Information Sciences|数据挖掘B类|计算机科学2区|信息系统2区|计算机科学|Elsevier
 25|Information Systems|数据挖掘B类|计算机科学3区|信息系统3区|计算机科学|Elsevier
 26|International Journal of Approximate Reasoning|人工智能B类|计算机科学3区|人工智能3区|计算机科学|Elsevier
 27|International Journal of Computer Vision|人工智能A类|计算机科学2区|人工智能2区|工程|Springer
