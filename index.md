@@ -70,10 +70,10 @@
   - Information Sciences
   - Knowledge-Based Systems
   - Science China Information Sciences
-  - 计算机学报 (CCF推荐中文A类期刊)
-  - 软件学报 (CCF推荐中文A类期刊)
-  - 电子学报 (CCF推荐中文A类期刊)
-  - 自动化学报 (CCF推荐中文A类期刊)
+  - 计算机学报
+  - 软件学报
+  - 电子学报
+  - 自动化学报
 + 学术会议论文评审
   - AAAI (PC, Reviewer)
   - ICCV (Reviewer)
