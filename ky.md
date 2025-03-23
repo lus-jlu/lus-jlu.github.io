@@ -3,9 +3,10 @@
 ## 1. 期刊或会议的各种评价
 
 + 【中科院分区】中国科学院文献情报中心期刊分区表（2025年，发布时间2025年03月20日），详见[<A href="https://www.fenqubiao.com/" target="_blank">官方查询系统</A>]或[<A href="https://www.letpub.com.cn/index.php?page=journalapp" target="_blank">LetPub期刊信息查询系统</A>]。
-注：官方计划每年更新一次（通常每年12月发布，2024年取消发布，2025年改为3月发布）。
+注：官方计划每年更新一次（2024至2023年每年12月发布，2025年改为3月发布）。
 
-+ 【影响因子】影响因子（Impact Factor，IF）是Thomson Reuters出品的期刊引证报告（Journal Citation Reports，JCR）中的一项数据，即某期刊前2年发表的论文在报告年份被引用总次数除以该期刊在这2年内发表的论文总数，是国际上通行的期刊评价指标。
++ 【影响因子】影响因子（Impact Factor，IF）是科睿唯安（Clarivate，原名汤森路透Thomson Reuters）出品的期刊引证报告（Journal Citation Reports，JCR）中的一项数据，即某期刊前2年发表的论文在报告年份被引用总次数除以该期刊在这2年内发表的论文总数，是国际上通行的期刊评价指标。
+注：官方计划每年更新一次（每年6月发布）。
 
 + 【CCF推荐分类】中国计算机学会推荐国际学术会议和期刊目录（2022年第6版，发布时间2023年3月8日，更新时间2024年6月28日），详见[<A href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" target="_blank">原文链接</A>]。
 注：官方计划每2-3年更新一次（2010年8月第1版，2011年8月第2版，2013年1月第3版，2015年12月第4版，2019年4月第5版，2023年3月第6版，2024年6月第6版更名版）。
