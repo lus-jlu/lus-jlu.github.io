@@ -20,7 +20,7 @@
 
 ## 中国大学生程序设计竞赛（China Collegiate Programming Contest，CCPC）是由中国大学生程序设计竞赛组委会组织举办的年度性赛事。赛事主要由网络选拔赛、分站赛、女生专场赛、总决赛。
 
-## 官方网站：<A href="https://ccpc.io/" target="_blank">待更新</A>
+## 官方网站：<A href="https://ccpc.io/" target="_blank">ccpc.io</A>
 
 ## 第10届CCPC参赛日程：
 + CCPC网络选拔赛，2024年9月7日-9月8日，北京邮电大学命题
