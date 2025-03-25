@@ -2,8 +2,7 @@
 
 ## 国际大学生程序设计竞赛（International Collegiate Programming Contest，ICPC）是世界上规模最大、水平最高的国际大学生程序设计竞赛之一。赛事主要由各大洲区域赛（Regional Contests）和全球总决赛（World Finals）两个主要阶段组成。
 
-## 官方网站：<A href="http://icpc.global" target="_blank">icpc.global</A>
-## ICPC北京总部官方网站：<A href="http://icpc.pku.edu.cn" target="_blank">icpc.pku.edu.cn</A>
+## 官方网站：<A href="http://icpc.global" target="_blank">icpc.global</A>，北京总部：<A href="http://icpc.pku.edu.cn" target="_blank">icpc.pku.edu.cn</A>
 
 ## 第49届ICPC参赛日程：
 + ICPC亚洲区网络预选赛（第1场），2024年9月15日13:00-18:00
