@@ -5,6 +5,7 @@
 ## 官方网站：<A href="http://icpc.global" target="_blank">icpc.global</A>，北京总部：<A href="http://icpc.pku.edu.cn" target="_blank">icpc.pku.edu.cn</A>
 
 ## 第50届ICPC的参赛日程
+
 |赛事|时间|承办单位
 |:-:|:-:|:-:
 |ICPC亚洲区网络预选赛（第1场）|待定|
@@ -20,6 +21,7 @@
 |ICPC全球总决赛（待定）|待定|待定
 
 ## 第49届ICPC的参赛日程
+
 |赛事|时间|承办单位
 |:-:|:-:|:-:
 |ICPC亚洲区网络预选赛（第1场）|2024年9月15日|
@@ -43,6 +45,7 @@
 ## 官方网站：<A href="https://ccpc.io/" target="_blank">ccpc.io</A>
 
 ## 第10届CCPC的参赛日程
+
 |赛事|时间|承办单位
 |:-:|:-:|:-:
 |CCPC网络选拔赛|2024年9月7-8日|
