@@ -1,4 +1,4 @@
-# ACM-ICPC国际大学生程序设计竞赛
+# ICPC国际大学生程序设计竞赛
 
 ## 国际大学生程序设计竞赛（International Collegiate Programming Contest，ICPC）是世界上规模最大、水平最高的国际大学生程序设计竞赛之一。赛事主要包括：各大洲区域赛（Regional Contests）和全球总决赛（World Finals）。
 
