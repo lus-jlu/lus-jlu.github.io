@@ -1,4 +1,4 @@
-[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作相关文档)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作相关文档)-<A href="xcpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="rc" target="_blank">【日程】</A>
+[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作相关文档)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作相关文档)-<A href="xcpc" target="_blank">【ICPC+CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="rc" target="_blank">【日程】</A>
 
 <div align=center><img src="lus-white.jpg" width="150"></div>
 
