@@ -1,6 +1,6 @@
 # ICPC国际大学生程序设计竞赛
 
-## 国际大学生程序设计竞赛（International Collegiate Programming Contest，ICPC）是世界上规模最大、水平最高的国际大学生程序设计竞赛之一。赛事主要包括：网络预选赛、各大洲区域赛（Regional Contests）和全球总决赛（World Finals）。
+## 国际大学生程序设计竞赛（International Collegiate Programming Contest，ICPC）。赛事主要包括：网络预选赛、各大洲区域赛（Regional Contests）和全球总决赛（World Finals）。
 
 ## 官方网站：<A href="http://icpc.global" target="_blank">icpc.global</A>，北京总部：<A href="http://icpc.pku.edu.cn" target="_blank">icpc.pku.edu.cn</A>
 
@@ -40,7 +40,7 @@
 
 # CCPC中国大学生程序设计竞赛
 
-## 中国大学生程序设计竞赛（China Collegiate Programming Contest，CCPC）由中国大学生程序设计竞赛组委会主办。赛事主要包括：网络选拔赛、分站赛（含女生专场赛）、总决赛。
+## 中国大学生程序设计竞赛（China Collegiate Programming Contest，CCPC）。赛事主要包括：网络选拔赛、分站赛（含女生专场赛）、总决赛。
 
 ## 官方网站：<A href="https://ccpc.io/" target="_blank">ccpc.io</A>
 
