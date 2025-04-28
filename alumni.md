@@ -401,7 +401,7 @@
 - 毕业去向：[北京] 天翼云科技有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文8篇。
-1. Zheng Mingsheng, **Zhang Junwei**, Zhan Changshuai, Ren Xinyu, Lü Shuai\*. Proximal policy optimization with reward-based prioritization. **Expert Systems with Applications**, 2025, 127659. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+1. Zheng Mingsheng, **Zhang Junwei**, Zhan Changshuai, Ren Xinyu, Lü Shuai\*. Proximal policy optimization with reward-based prioritization. **Expert Systems with Applications**, 2025, 283: 127659. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 2. **Zhang Junwei**, Han Shuai, Xiong Xi, Zhu Sheng, Lü Shuai\*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院2区期刊, CCF推荐B类期刊, SCI)**
 3. **张峻伟**, 吕帅\*, 张正昊, 于佳玉, 龚晓宇. 基于样本效率优化的深度强化学习方法综述. **软件学报**, 2022, 33(11): 4217-4238. **(CCF推荐中文A类期刊)**
 4. Lu Jiayi, Han Shuai, Lü Shuai\*, Kang Meng, **Zhang Junwei**. Sampling diversity driven exploration with state difference guidance. **Expert Systems with Applications**, 2022, 203: 117418. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
@@ -434,9 +434,6 @@
 - 2022-2023学年，研究生学业奖学金
 - 2023.06，吉林大学优秀硕士学位论文：基于过估计控制与探索增强的强化学习优化方法
 - 2023.06，吉林大学优秀毕业研究生
-
-## 【联系方式】
-- 邮箱：junwei20@mails.jlu.edu.cn
 
 ***
 
