@@ -81,6 +81,9 @@
 3. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.4)**
 4. **廉筱峪**, 夏楠\*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
 
+## 【学位论文】
+1. **廉筱峪**. 基于深度学习的高效去混响噪声语音识别算法研究[硕士学位论文]. 辽宁大连: 大连工业大学, 2025.
+
 ## 【荣誉奖励】
 - 2018-2019学年，三等奖学金
 - 2020-2021学年，二等奖学金
