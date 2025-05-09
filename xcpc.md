@@ -138,6 +138,8 @@
 
 ### 往届XCPC竞赛榜单：<A href="https://board.xcpcio.com/" target="_blank">board.xcpcio.com</A>
 
+### 往届XCPC竞赛榜单：<A href="https://pintia.cn/rankings/" target="_blank">pintia.cn/rankings</A>
+
 ### 第49届ICPC亚洲区域赛（2024年9-12月）、亚洲区决赛（2024年12月）
 
 序|队名|队员|预选赛<BR>第1场|预选赛<BR>第2场|亚洲区域赛
