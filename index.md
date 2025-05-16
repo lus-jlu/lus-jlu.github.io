@@ -56,6 +56,7 @@
 + 2025.02至今，吉林大学2024级工科试验班（软件工程），学业导师和班主任
 + 2025.03至今，<A href="xcpc" target="_blank">ICPC国际大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
 + 2025.03至今，<A href="xcpc" target="_blank">CCPC中国大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
++ 2025.05至今，<A href="astar" target="_blank">百度之星程序设计大赛（吉林大学）</A>，竞赛负责人
 
 ## 【专业评审】
 + 国家自然科学基金，评审
@@ -415,6 +416,7 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 + <A href="xcpc" target="_blank">ICPC国际大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
 + <A href="lqb" target="_blank">蓝桥杯全国软件和信息技术专业人才大赛（吉林大学）</A>，竞赛负责人
 + <A href="xcpc" target="_blank">CCPC中国大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
++ <A href="astar" target="_blank">百度之星程序设计大赛（吉林大学）</A>，竞赛负责人
 
 ***
 
