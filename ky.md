@@ -1,6 +1,6 @@
 # 期刊和会议评价
 
-## 1. 期刊或会议的各种评价
+## 1. 期刊和会议的各种评价
 
 + 【中科院分区】中国科学院文献情报中心期刊分区表（2025年，发布时间2025年03月20日），详见[<A href="https://www.fenqubiao.com/" target="_blank">官方查询系统</A>]或[<A href="https://www.letpub.com.cn/index.php?page=journalapp" target="_blank">LetPub期刊信息查询系统</A>]。
 注：官方计划每年更新一次（2024至2023年通常每年12月发布，2025年改为3月发布）。
