@@ -1,4 +1,4 @@
-[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作相关文档)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作相关文档)-<A href="icpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="astar" target="_blank">【百度之星】</A>-<A href="rc" target="_blank">【日程安排】</A>
+[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作相关文档)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作)-<A href="icpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="astar" target="_blank">【百度之星】</A>-<A href="rc" target="_blank">【日程安排】</A>
 
 <div align=center><img src="lus-white.jpg" width="150"></div>
 
@@ -423,9 +423,9 @@ ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002
 
 ***
 
-# 教学工作<A href="jx" target="_blank">（相关文档）</A>
+# 教学工作
 
-## 【主讲课程】
+## 【主讲课程】<A href="jx" target="_blank">（教学资源和联系方式）</A>
 + 《程序设计基础》（原名：高级语言程序设计）、《程序设计基础课程设计》（2010.07至今，现为教学团队实践负责人）
   - 课程性质：学科基础必修课
   - 授课对象：计算机科学与技术学院、软件学院，本科生
