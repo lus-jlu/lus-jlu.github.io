@@ -137,7 +137,7 @@ DBLP: <A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai L
 
 ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002-8081-4498</A>
 
-科研评价：<A href="ky" target="_blank">（期刊和会议评价信息）</A>
+科研评价：<A href="ky" target="_blank">期刊和会议评价</A>
 
 主要代表性学术论文：
 1. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. **Expert Systems with Applications**, 2025, 283: 127659. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5, 第1作者郑茗升为2020级本科生, 2023年5月投稿, 2025年4月录用)**
