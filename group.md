@@ -330,14 +330,13 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 北京京东世纪贸易有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文5篇。
-1. **Wu Junhong**, Liu Jie, Lü Shuai\*. Alternate data augmentation for generalization in reinforcement learning. 2025. (Submitted)
-2. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
-3. Zhu Wenbo, Lü Shuai\*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-4. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
-5. Long Zehong, Zhu Wenbo, Lü Shuai\*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
-6. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai\*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
-7. Zhu Sheng, Shen Chun, Lü Shuai\*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文4篇。
+1. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
+2. Zhu Wenbo, Lü Shuai\*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
+3. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
+4. Long Zehong, Zhu Wenbo, Lü Shuai\*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
+5. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai\*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+6. Zhu Sheng, Shen Chun, Lü Shuai\*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【学位论文】
 1. **吴珺泓**. 基于数据增强的可泛化视觉强化学习研究[硕士学位论文]. 长春: 吉林大学, 2025.
