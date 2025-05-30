@@ -1,4 +1,4 @@
-[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作相关文档)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作)-<A href="icpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="astar" target="_blank">【百度之星】</A>-<A href="rc" target="_blank">【日程安排】</A>
+[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作)-<A href="icpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="astar" target="_blank">【百度之星】</A>-<A href="rc" target="_blank">【日程安排】</A>
 
 <div align=center><img src="lus-white.jpg" width="150"></div>
 
@@ -90,7 +90,7 @@
 
 ***
 
-# 科研工作<A href="ky" target="_blank">（相关文档）</A>
+# 科研工作
 
 ## 【研究方向】人工智能、机器学习与自动推理
 
@@ -131,7 +131,7 @@
 34. 技术开发项目：无线电管理领域知识库数据录入及测试
 35. 技术开发项目：山西省监测站管理与覆盖分析系统
 
-## 【科研论文】在AAAI、IJCAI、Information Sciences、Neural Networks、Expert Systems with Applications、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文137篇，其中：SCI和EI检索学术论文106篇。
+## 【科研论文】在AAAI、IJCAI、Information Sciences、Neural Networks、Expert Systems with Applications、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文137篇，其中：SCI和EI检索学术论文106篇。<A href="ky" target="_blank">（期刊和会议信息）</A>
 
 DBLP: <A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai Lü 0001 (aka: Shuai Lu 0001, Shuai Lv 0001)</A>
 
