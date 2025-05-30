@@ -225,11 +225,10 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[广东深圳] 比亚迪股份有限公司
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇，授权发明专利1项。
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇，授权发明专利1项。
 1. **Lin Dajun**, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-2. Zhong Taihong, Lü Shuai\*, **Lin Dajun**, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
-3. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-4. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
+2. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
+3. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
 1. **林炟君**. 基于策略约束和反探索的离线强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
@@ -294,15 +293,14 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 国家电网有限公司
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文7篇，授权发明专利1项。
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇，授权发明专利1项。
 1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
 2. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, **Zhong Taihong**, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-3. **Zhong Taihong**, Lü Shuai\*, Lin Dajun, An Daolong. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
-4. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
-5. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. 2025. (Submitted)
-6. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
-7. Long Zehong, Zhu Wenbo, Lü Shuai\*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
-8. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
+3. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
+4. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. 2025. (Submitted)
+5. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. 2025. (Submitted)
+6. Long Zehong, Zhu Wenbo, Lü Shuai\*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
+7. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
 1. **钟太鸿**. 基于分布偏移的深度强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
@@ -376,15 +374,14 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[上海] 华为技术有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文6篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文5篇。
 1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
 2. Li Songlin, Xiao Wei, Wu Hao, Zhang Xiaodan, **An Daolong**, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
 3. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 4. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, **An Daolong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-5. Zhong Taihong, Lü Shuai\*, Lin Dajun, **An Daolong**. Mild conservatism Q-learning with adaptive Q-ensemble. 2025. (Submitted)
-6. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
-7. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
-8. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+5. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
+6. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+7. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
 ## 【学位论文】
 1. **安道龙**. 基于结果约束和梯度权重的离线强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
