@@ -75,7 +75,6 @@
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 1|<A href="https://kdd2025.kdd.org" target="_blank">KDD 2025</A>|2024.08.01 AOE<BR>2025.02.03 AOE|2024.08.08 AOE<BR>2025.02.10 AOE|2025.08.03-07|Toronto, Canada|<A href="https://openreview.net/group?id=KDD.org/2025" target="_blank">投稿系统</A>
-2|<A href="https://aaai.org/conference/aaai/aaai-25" target="_blank">AAAI 2025</A>|2024.08.07<BR>11:59 PM UTC-12|2024.08.15<BR>11:59 PM UTC-12|2025.02.25-03.04|Philadelphia, USA|<A href="https://openreview.net/group?id=AAAI.org/2025" target="_blank">投稿系统</A>
 3|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.11-15|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
 4|<A href="https://2025.ijcai.org" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
 5|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23 AOE|2025.01.30 AOE|2025.07.13-19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
