@@ -133,9 +133,9 @@
 
 ## 【科研论文】在AAAI、IJCAI、Information Sciences、Neural Networks、Expert Systems with Applications、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文137篇，其中：SCI和EI检索学术论文106篇。
 
-DBLP: <A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai Lü 0001 (aka: Shuai Lu 0001, Shuai Lv 0001)</A>
+DBLP：<A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai Lü 0001 (aka: Shuai Lu 0001, Shuai Lv 0001)</A>
 
-ORCID: <A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002-8081-4498</A>
+ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002-8081-4498</A>
 
 科研评价：<A href="ky" target="_blank">期刊和会议评价</A>
 
