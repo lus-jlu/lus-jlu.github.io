@@ -140,7 +140,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 科研评价：<A href="ky" target="_blank">期刊和会议评价</A>
 
 主要代表性学术论文：
-1. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025. **(中科院2区期刊, CCF推荐B类期刊, SCI)**
+1. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI)**
 2. Zheng Mingsheng, Zhang Junwei, Zhan Changshuai, Ren Xinyu, **Lü Shuai\***. Proximal policy optimization with reward-based prioritization. **Expert Systems with Applications**, 2025, 283: 127659. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5, 第1作者郑茗升为2020级本科生, 2023年5月投稿, 2025年4月录用)**
 3. Shu Man, **Lü Shuai\***, Gong Xiaoyu, An Daolong, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
 4. Zhou Ruikai, Zhu Wenbo, Han Shuai, Kang Meng, **Lü Shuai\***. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
