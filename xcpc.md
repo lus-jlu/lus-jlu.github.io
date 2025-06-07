@@ -95,7 +95,7 @@
 
 ## 官方网站：<A href="https://ccpc.io/" target="_blank">ccpc.io</A>
 
-## 第10届CCPC的参赛日程
+## 第11届CCPC的参赛日程
 
 |参赛日程|赛事|承办单位
 |:-:|:-:|:-:
