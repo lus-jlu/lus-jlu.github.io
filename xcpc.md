@@ -73,16 +73,16 @@
 
 |中文队名/英文队名|学号/姓名|学院/专业|2023-2024赛季|2024-2025赛季
 |:-:|:-:|:-:|:-:|:-:
-|故障吉奇人|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇秦皇岛<BR>🥈南京<BR>🥇深圳<BR>🥇杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛
-|The Defect|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇秦皇岛<BR>🥈西安<BR>🥈合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛
-||23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇秦皇岛<BR>🥈西安<BR>🥈合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛
-|久世浮倾|13220531<BR>孔泉智|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉深圳<BR>🥉杭州|🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明
-|Eons Adrift|55220505<BR>邱天（女）|软件学院<BR>工科试验班（软件工程）|🥉杭州|🥈CCPC哈尔滨<BR>🥇CCPC女生专场<BR>🥉ICPC昆明<BR>🥈ICPC香港
-||21221327<BR>赵星宇|计算机科学与技术学院<BR>网络空间安全|🥉秦皇岛|🥈ICPC南京
-|星掠影|21220716<BR>武锦旗|计算机科学与技术学院<BR>计算机科学与技术|🥉秦皇岛|🥈ICPC南京
+|故障吉奇人|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛
+|The Defect|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛
+||23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛
+|久世浮倾|13220531<BR>孔泉智|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC深圳<BR>🥉ICPC杭州|🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明
+|Eons Adrift|55220505<BR>邱天（女）|软件学院<BR>工科试验班（软件工程）|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥇CCPC女生专场<BR>🥉ICPC昆明<BR>🥈ICPC香港
+||21221327<BR>赵星宇|计算机科学与技术学院<BR>网络空间安全|🥉CCPC秦皇岛|🥈ICPC南京
+|星掠影|21220716<BR>武锦旗|计算机科学与技术学院<BR>计算机科学与技术|🥉CCPC秦皇岛|🥈ICPC南京
 |Star Strike|21241416<BR>欧阳承风|计算机科学与技术学院<BR>物联网工程||
 ||55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）||🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明
-|未来路|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港
+|未来路|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港
 |The Trail of Future Dreams|06240722<BR>王宗凡|经济学院<BR>经济学类||🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明
 |一发猜对|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术||🥉ICPC成都<BR>🥉CCPC郑州
 |One-shot Guess|17240426<BR>张健哲|软件学院<BR>软件工程||
