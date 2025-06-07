@@ -1,4 +1,4 @@
-[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作)-<A href="icpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="astar" target="_blank">【百度之星】</A>-<A href="rc" target="_blank">【日程安排】</A>
+[【个人介绍】](#index.md)-[【教学经历】](#教学经历)-[【科研工作】](#科研工作)-[【人才培养】](#人才培养)-[【教学工作】](#教学工作)-<A href="xcpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="astar" target="_blank">【百度之星】</A>-<A href="rc" target="_blank">【日程安排】</A>
 
 <div align=center><img src="lus-white.jpg" width="150"></div>
 
@@ -54,9 +54,9 @@
 + 2021.10-2024.06，吉林大学2020级工科试验班（软件工程），学业导师和班主任
 + 2022.06至今，<A href="lqb" target="_blank">蓝桥杯全国软件和信息技术专业人才大赛（吉林大学）</A>，竞赛负责人
 + 2025.02至今，吉林大学2024级工科试验班（软件工程），学业导师和班主任
-+ 2025.03至今，<A href="icpc" target="_blank">吉林大学XCPC集训队</A>，总教练
-+ 2025.03至今，<A href="icpc" target="_blank">ICPC国际大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
-+ 2025.03至今，<A href="icpc" target="_blank">CCPC中国大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
++ 2025.03至今，<A href="xcpc" target="_blank">吉林大学XCPC集训队</A>，总教练
++ 2025.03至今，<A href="xcpc" target="_blank">ICPC国际大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
++ 2025.03至今，<A href="xcpc" target="_blank">CCPC中国大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
 + 2025.05至今，<A href="astar" target="_blank">百度之星程序设计大赛（吉林大学）</A>，竞赛负责人
 
 ## 【专业评审】
@@ -417,9 +417,9 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 + 2024.12，章晓丹、肖威、李松霖，中国研究生数学建模竞赛，国家级三等奖
 + 2024.12，檀磊、孙耕浩、侯志斌，中国研究生数学建模竞赛，国家级三等奖
 + 2024.12，李贵祥、袁健会、陈黄洋，中国研究生数学建模竞赛，国家级三等奖
-+ <A href="icpc" target="_blank">ICPC国际大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
++ <A href="xcpc" target="_blank">ICPC国际大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
 + <A href="lqb" target="_blank">蓝桥杯全国软件和信息技术专业人才大赛（吉林大学）</A>，竞赛负责人
-+ <A href="icpc" target="_blank">CCPC中国大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
++ <A href="xcpc" target="_blank">CCPC中国大学生程序设计竞赛（吉林大学）</A>，竞赛负责人
 + <A href="astar" target="_blank">百度之星程序设计大赛（吉林大学）</A>，竞赛负责人
 
 ***
