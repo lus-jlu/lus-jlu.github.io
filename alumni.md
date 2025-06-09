@@ -306,7 +306,7 @@
 - 2017.09-2021.06，吉林大学软件学院软件工程专业，本科生
 - 2021.09-2024.06，吉林大学计算机科学与技术学院计算机技术专业，硕士生（导师：吕帅副教授）
 - 研究方向：人工智能、机器学习
-- 毕业去向：[长春] 中国科学院长春光学精密机械与物理研究所
+- 毕业去向：[长春] 中国科学院长春光学精密机械与物理研究所，现为吉林大学博士生
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇。
 1. **Shu Man**, Lü Shuai\*, Gong Xiaoyu, An Daolong, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
