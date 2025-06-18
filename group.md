@@ -77,9 +77,9 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文0篇。
-1. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. **Neurocomputing**, 2025, 643: 130412. **(中科院2区期刊，CCF推荐C类期刊, SCI, 目前IF: 5.5)**
+1. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. **Neurocomputing**, 2025, 643: 130412. **(中科院2区期刊，CCF推荐C类期刊, SCI, 目前IF: 6.5)**
 2. 顾磊, 夏楠\*, 江佳鸿, **廉筱峪**. 基于时空特征增强的单目标跟踪算法. **浙江大学学报(工学版)**, 2025.
-3. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.4)**
+3. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.6)**
 4. **廉筱峪**, 夏楠\*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
 
 ## 【学位论文】
