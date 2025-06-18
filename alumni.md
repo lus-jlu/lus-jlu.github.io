@@ -309,7 +309,7 @@
 - 毕业去向：[长春] 吉林大学博士生
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇。
-1. **Shu Man**, Lü Shuai\*, Gong Xiaoyu, An Daolong, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+1. **Shu Man**, Lü Shuai\*, Gong Xiaoyu, An Daolong, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
 
 ## 【学位论文】
 1. **舒曼**. 基于情节记忆的深度强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -506,7 +506,7 @@
 - 毕业去向：[上海] 中信证券股份有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文8篇。
-1. Shu Man, Lü Shuai\*, **Gong Xiaoyu**, An Daolong, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.0)**
+1. Shu Man, Lü Shuai\*, **Gong Xiaoyu**, An Daolong, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
 2. Shen Chun, Zhu Sheng, Han Shuai, **Gong Xiaoyu**, Lü Shuai\*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
 3. **Gong Xiaoyu**, Lü Shuai\*, Yu Jiayu, Zhu Sheng, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
 4. Han Shuai, Zhou Wenbo, Lü Shuai\*, Zhu Sheng, **Gong Xiaoyu**. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
