@@ -18,7 +18,7 @@
 
 序|期刊名称|CCF分类（2022）|中科院大类分区<BR>（2025）|中科院小类分区<BR>（2025）|ESI学科<BR>（2025）|出版商
 :-:|:-|:-:|:-:|:-:|:-:|:-:
-1|ACM Transactions on Autonomous and Adaptive Systems|体系结构A类|计算机科学4区|人工智能4区<BR>信息系统4区<BR>理论方法3区|计算机科学|ACM
+1|ACM Transactions on Autonomous and Adaptive Systems|体系结构B类|计算机科学4区|人工智能4区<BR>信息系统4区<BR>理论方法3区|计算机科学|ACM
 2|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统1区|计算机科学|ACM
 3|ACM Transactions on Knowledge Discovery from Data|数据挖掘B类|计算机科学3区|信息系统3区<BR>软件工程3区|计算机科学|ACM
 4|ACM Transactions on Multimedia Computing, Communications, and Applications|计算机图形学与多媒体B类<BR>计算机网络B类|计算机科学3区|信息系统3区<BR>理论方法2区<BR>软件工程3区|计算机科学|ACM
