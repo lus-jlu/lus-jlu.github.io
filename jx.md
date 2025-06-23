@@ -1,4 +1,6 @@
-***
+[【个人介绍】](index.md)-[【教学经历】](index.md/#教学经历)-[【科研工作】](index.md/#科研工作)-[【人才培养】](index.md/#人才培养)-[【教学工作】](#jx.md)-<A href="xcpc" target="_blank">【ICPC和CCPC】</A>-<A href="lqb" target="_blank">【蓝桥杯大赛】</A>-<A href="astar" target="_blank">【百度之星】</A>-<A href="rc" target="_blank">【日程安排】</A>
+
+<div align=center><img src="lus-white.jpg" width="150"></div>
 
 # 教学工作
 
