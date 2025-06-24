@@ -137,7 +137,7 @@ DBLP：<A href="https://dblp.uni-trier.de/pid/27/10828-1" target="_blank">Shuai 
 
 ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-0002-8081-4498</A>
 
-科研评价：<A href="ky" target="_blank">期刊和会议评价</A>
+<A href="ky" target="_blank">整理的期刊和会议评价</A>
 
 主要代表性学术论文：
 1. **Lü Shuai**, Zhang Xinyu, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, 目前IF: 6.8)**
