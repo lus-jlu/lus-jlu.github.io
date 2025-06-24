@@ -64,13 +64,13 @@
 4|未来路<BR>The Trail of Future Dreams|刘昱，王宗凡
 5|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
 6|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
-7|无名之辈<BR>Nullptr|李一航，唐德睿，陆广阳
-8|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博
-9|星云<BR>Nebula|钟姝伶，鞠学深，李雨隆
-10|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
-11|幻影旋转哈基米<BR>Spinjitzu Hachimi|刘鑫宇，蒋硕阳，龙麒旭
-12|至冬战车镇魂曲<BR>Snezhnaya Requiem: Tell Me Why|柳湛博，高珺
-13|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
+7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
+8|无名之辈<BR>Nullptr|李一航，唐德睿，陆广阳
+9|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博
+10|星云<BR>Nebula|钟姝伶，鞠学深，李雨隆
+11|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
+12|幻影旋转哈基米<BR>Spinjitzu Hachimi|刘鑫宇，蒋硕阳，龙麒旭
+13|至冬战车镇魂曲<BR>Snezhnaya Requiem: Tell Me Why|柳湛博，高珺
 14|-|徐梓博
 15|-|吕浩然
 16|-|梁家铭
