@@ -64,6 +64,7 @@
 + 吴文俊人工智能科学技术奖，评审
 + 高校计算机专业优秀教师奖励计划，评审
 + 全国大学生软件创新大赛，评审
++ 中国高校计算机大赛-网络技术挑战赛，评审
 + 学术期刊论文评审
   - Applied Soft Computing
   - Engineering Applications of Artificial Intelligence
