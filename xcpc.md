@@ -184,7 +184,7 @@
 
 ### 往届XCPC竞赛榜单：<A href="https://pintia.cn/rankings/" target="_blank">pintia.cn/rankings</A>
 
-### 2025年ICPC全国邀请赛、CCPC全国邀请赛
+### 2025年ICPC全国邀请赛、CCPC全国邀请赛（2025年4-6月）
 
 序|队名|队员|全国邀请赛
 :-:|:-:|:-:|:-:
