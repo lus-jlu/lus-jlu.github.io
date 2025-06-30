@@ -69,11 +69,11 @@
 9|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博
 10|星云<BR>Nebula|钟姝伶，鞠学深，李雨隆
 11|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
-12|幻影旋转哈基米<BR>Spinjitzu Hachimi|刘鑫宇，蒋硕阳，龙麒旭
-13|至冬战车镇魂曲<BR>Snezhnaya Requiem: Tell Me Why|柳湛博，高珺
+12|幻影旋转哈基米<BR>Spinjitzu Hachimi|刘鑫宇，龙麒旭
+13|至冬战车镇魂曲<BR>Snezhnaya Requiem: Tell Me Why|柳湛博，高珺，梁家铭
 14|-|徐梓博
 15|-|吕浩然
-16|-|梁家铭
+16|-|蒋硕阳
 
 ## 【日常训练】
 
