@@ -66,7 +66,7 @@
 6|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
 7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
 8|无名之辈<BR>Nullptr|李一航，唐德睿，陆广阳
-9|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博|队名拟修改
+9|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博|队名待定
 10|星云<BR>Nebula|钟姝伶，鞠学深，李雨隆|待定
 11|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
 12|幻影旋转哈基米<BR>Spinjitzu Hachimi|刘鑫宇，龙麒旭|待定
