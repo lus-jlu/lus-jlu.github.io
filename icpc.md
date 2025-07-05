@@ -70,6 +70,12 @@
 
 ***
 
+### 往届XCPC竞赛榜单：<A href="https://board.xcpcio.com/" target="_blank">board.xcpcio.com</A>
+
+### 往届XCPC竞赛榜单：<A href="https://pintia.cn/rankings/" target="_blank">pintia.cn/rankings</A>
+
+***
+
 # XCPC@吉林大学
 
 ## 【组织管理】
@@ -96,9 +102,7 @@
 国家级二等奖|0.1 GPA|0.1 GPA|0.05 GPA
 国家级三等奖|0.05 GPA|0.05 GPA|0.02 GPA
 
-### 往届XCPC竞赛榜单：<A href="https://board.xcpcio.com/" target="_blank">board.xcpcio.com</A>
-
-### 往届XCPC竞赛榜单：<A href="https://pintia.cn/rankings/" target="_blank">pintia.cn/rankings</A>
+***
 
 ## 【2025-2026赛季获奖情况】
 
