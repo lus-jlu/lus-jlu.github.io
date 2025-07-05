@@ -96,13 +96,11 @@
 国家级二等奖|0.1 GPA|0.1 GPA|0.05 GPA
 国家级三等奖|0.05 GPA|0.05 GPA|0.02 GPA
 
-## 【获奖情况】
-
 ### 往届XCPC竞赛榜单：<A href="https://board.xcpcio.com/" target="_blank">board.xcpcio.com</A>
 
 ### 往届XCPC竞赛榜单：<A href="https://pintia.cn/rankings/" target="_blank">pintia.cn/rankings</A>
 
-## 2025-2026赛季
+## 【2025-2026赛季获奖情况】
 
 ### 2025年ICPC国际大学生程序设计竞赛全国邀请赛（2025年4-5月）
 
@@ -135,7 +133,7 @@
 
 ***
 
-## 2024-2025年赛季
+## 【2024-2025年赛季获奖情况】
 
 ### 第49届ICPC国际大学生程序设计竞赛（2024年10-12月亚洲区域赛，2024年12月亚洲区决赛）
 
