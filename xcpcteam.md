@@ -67,12 +67,13 @@
 7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪|队名待定
 8|无名之辈<BR>Nullptr|李一航，唐德睿，陆广阳
 9|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博|队名待定
-10|星云<BR>Nebula|钟姝伶，鞠学深，李雨隆|待定
+10|星云<BR>Nebula|钟姝伶，鞠学深|分组待定
 11|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
-12|幻影旋转哈基米<BR>Spinjitzu Hachimi|刘鑫宇，龙麒旭|待定
+12|幻影旋转哈基米<BR>Spinjitzu Hachimi|刘鑫宇，龙麒旭|分组待定
 13|至冬战车镇魂曲<BR>Snezhnaya Requiem: Tell Me Why|柳湛博，高珺，梁家铭|队名待定
 14|-|吕浩然
-15|-|蒋硕阳
+15|-|李雨隆
+16|-|蒋硕阳
 
 ## 【日常训练】
 
