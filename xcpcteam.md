@@ -60,8 +60,8 @@
 :-:|:-:|:-:|:-:
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，王天泽
 2|久世浮倾<BR>Eons Adrift|孔泉智，邱天，赵星宇
-3|星掠影<BR>Star Strike|武锦旗，欧阳承风，席乐媛
-4|划船不用桨<BR>Rowing Without Oars|刘昱，王宗凡，徐梓博
+3|划船不用桨<BR>Rowing Without Oars|刘昱，王宗凡，徐梓博
+4|星掠影<BR>Star Strike|武锦旗，欧阳承风，席乐媛
 5|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
 6|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
 7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪|队名待定
