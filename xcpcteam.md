@@ -64,7 +64,7 @@
 4|划船不用桨<BR>Rowing Without Oars|刘昱，王宗凡，徐梓博
 5|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
 6|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
-7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
+7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪|队名待定
 8|无名之辈<BR>Nullptr|李一航，唐德睿，陆广阳
 9|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博|队名待定
 10|星云<BR>Nebula|钟姝伶，鞠学深，李雨隆|待定
