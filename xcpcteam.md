@@ -69,7 +69,7 @@
 10|罚时天王<BR>Penalty King|钟姝伶，鞠学深
 11|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
 12|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭
-13|至冬战车镇魂曲<BR>Snezhnaya Requiem: Tell Me Why|柳湛博，高珺，梁家铭|队名待定
+13|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
 14|-|吕浩然
 15|-|李雨隆
 16|-|蒋硕阳
