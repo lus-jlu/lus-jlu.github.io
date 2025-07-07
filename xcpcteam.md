@@ -68,8 +68,8 @@
 10|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
 11|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭
 12|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
--|-|唐德睿
 -|-|吕浩然
+-|-|唐德睿
 -|-|李雨隆
 -|-|蒋硕阳
 
