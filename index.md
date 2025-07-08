@@ -189,7 +189,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 4. Xiao Wei, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, **Lü Shuai\***. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
 5. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward remodeling based on trajectory return from offline dataset in offline reinforcement learning. 2025. (Submitted)
 6. Li Songlin, Xiao Wei, Wu Hao, Zhang Xiaodan, An Daolong, **Lü Shuai\***. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
-7. **Lü Shuai**, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
+7. Yuan Jianhui, **Lü Shuai**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*, Zhou Wenbo\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
 8. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
 9. An Daolong, Shen Chun, Li Songlin, Xiao Wei, **Lü Shuai\***, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
 10. Lin Dajun, Li Songlin, **Lü Shuai\***, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
