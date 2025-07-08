@@ -145,11 +145,12 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 北京字节跳动科技有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文1篇。
-1. Lü Shuai, Yuan Jianhui, **Zhang Xinyu**, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
-2. Lü Shuai, **Zhang Xinyu**, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, 目前IF: 6.8)**
-3. **Zhang Xinyu**, Kang Meng, Lü Shuai\*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
-4. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao\*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
+## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文2篇。
+1. Yuan Jianhui, **Zhang Xinyu**, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
+2. Lü Shuai, Yuan Jianhui, **Zhang Xinyu**, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
+3. Lü Shuai, **Zhang Xinyu**, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, 目前IF: 6.8)**
+4. **Zhang Xinyu**, Kang Meng, Lü Shuai\*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
+5. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao\*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
 
 ## 【学位论文】
 1. **张鑫宇**. 基于自监督学习的无监督领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
@@ -431,9 +432,10 @@ reinforcement learning. 2025. (Submitted)
 - 2023.09至今，吉林大学软件学院软件工程专业，硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
-1. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted).
-2. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
+1. **Yuan Jianhui**, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
+2. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted).
+3. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，国家励志奖学金、三等奖学金
@@ -489,9 +491,10 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文0篇。
-1. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. EVD-YOLO: An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2025. **(中科院2区期刊, SCI, 目前IF: 1.2)**
-2. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
+1. Yuan Jianhui, Zhang Xinyu, **Li Guixiang**, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
+2. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. EVD-YOLO: An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2025. **(中科院2区期刊, SCI, 目前IF: 1.2)**
+3. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生
@@ -669,9 +672,10 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、郭东教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文0篇，申请发明专利（目前实质审查）1项。
-1. 马慧敏\*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
-2. **檀磊**, 马慧敏, 王小申, 戴明宇, 代腾辉, 焦俊, 刘倩, 辜丽川. 基于多尺度生成对抗网络的大气湍流图像复原方法及系统. (申请号: CN2023 1 1725750.0, 申请日: 2023.12.14, 目前实质审查)
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇，申请发明专利（目前实质审查）1项。
+1. Yuan Jianhui, Zhang Xinyu, Li Guixiang, **Tan Lei**, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
+2. 马慧敏\*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
+3. **檀磊**, 马慧敏, 王小申, 戴明宇, 代腾辉, 焦俊, 刘倩, 辜丽川. 基于多尺度生成对抗网络的大气湍流图像复原方法及系统. (申请号: CN2023 1 1725750.0, 申请日: 2023.12.14, 目前实质审查)
 
 ## 【荣誉奖励】
 - 2020-2021学年，特等奖学金、校三好学生
