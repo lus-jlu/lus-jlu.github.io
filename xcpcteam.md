@@ -30,8 +30,8 @@
 4|星掠影<BR>Star Strike|武锦旗，欧阳承风，席乐媛
 5|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
 6|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
-7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪|队名待定
-8|==点击查看队名==<BR>CLick_To_Show_More|何旭，林辰旭，林钰博|队名待定
+7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪|
+8|点击查看队名<BR>CLick_To_Show_More|何旭，林辰旭，林钰博|队名待定
 9|罚时天王<BR>The King of Penalty|钟姝伶，鞠学深，唐德睿
 10|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
 11|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭
