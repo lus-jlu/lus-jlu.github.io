@@ -1,4 +1,4 @@
-<img width="742" height="31" alt="image" src="https://github.com/user-attachments/assets/53b117d8-267e-4490-9973-8a6fd02ec388" /><img width="742" height="31" alt="image" src="https://github.com/user-attachments/assets/75fed9c4-f284-428a-b34c-8ab503f98f1a" /><img width="742" height="31" alt="image" src="https://github.com/user-attachments/assets/ef443ecf-a58a-4f3a-81ff-201bdb071d8c" />## 第17届蓝桥杯大赛的学科竞赛奖励名单（尚未更新完毕）
+## 第17届蓝桥杯大赛的学科竞赛奖励名单（尚未更新完毕）
 
 1、再次参赛的国奖选手名单（指导教师发放奖励）
 
