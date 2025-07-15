@@ -1,7 +1,5 @@
 # ICPC国际大学生程序设计竞赛
 
-<div align=center><img src="figures/icpc_logo1.png" width="300"></div>
-
 ## 国际大学生程序设计竞赛（International Collegiate Programming Contest，ICPC）。赛事主要包括：网络预选赛、各大洲区域赛（Regional Contests）和全球总决赛（World Finals）。
 
 ## 官方网站：<A href="http://icpc.global" target="_blank">icpc.global</A>，北京总部：<A href="http://icpc.pku.edu.cn" target="_blank">icpc.pku.edu.cn</A>
