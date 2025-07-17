@@ -45,13 +45,14 @@
 - 2024.09至今，吉林大学计算机科学与技术学院计算机系统结构专业，博士生（导师：李强教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文3篇。
-1. Zhang Xiaodan, **Fang Wensi**, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2025. (Submitted)
-2. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
-3. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
-4. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei\*, Yu Qiong\*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
-5. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian\*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
-6. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying\*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
+## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文4篇。
+1. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+2. Zhang Xiaodan, **Fang Wensi**, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2025. (Submitted)
+3. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
+4. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
+5. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei\*, Yu Qiong\*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+6. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian\*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
+7. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying\*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
 
 ## 【学位论文】
 1. **方文思**. 基于强化学习的政府留言板标签更正与识别算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
@@ -433,10 +434,11 @@ reinforcement learning. 2025. (Submitted)
 - 2023.09至今，吉林大学软件学院软件工程专业，硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇。
-1. **Yuan Jianhui**, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
-2. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted).
-3. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
+1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+2. **Yuan Jianhui**, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
+3. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted).
+4. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
 - 2018-2019学年，国家励志奖学金、三等奖学金
@@ -493,10 +495,11 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. Yuan Jianhui, Zhang Xinyu, **Li Guixiang**, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
-2. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. EVD-YOLO: An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2025. **(中科院2区期刊, SCI, 目前IF: 1.2)**
-3. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文2篇。
+1. Tan Lei, Guo Dong, Fang Wensi, **Li Guixiang**, Yuan Jianhui, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+2. Yuan Jianhui, Zhang Xinyu, **Li Guixiang**, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
+3. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. EVD-YOLO: An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2025. **(中科院2区期刊, SCI, 目前IF: 1.2)**
+4. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生
@@ -680,10 +683,11 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、郭东教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇，申请发明专利（目前实质审查）1项。
-1. Yuan Jianhui, Zhang Xinyu, Li Guixiang, **Tan Lei**, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
-2. 马慧敏\*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
-3. **檀磊**, 马慧敏, 王小申, 戴明宇, 代腾辉, 焦俊, 刘倩, 辜丽川. 基于多尺度生成对抗网络的大气湍流图像复原方法及系统. (申请号: CN2023 1 1725750.0, 申请日: 2023.12.14, 目前实质审查)
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文2篇，申请发明专利（目前实质审查）1项。
+1. **Tan Lei**, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+2. Yuan Jianhui, Zhang Xinyu, Li Guixiang, **Tan Lei**, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
+3. 马慧敏\*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
+4. **檀磊**, 马慧敏, 王小申, 戴明宇, 代腾辉, 焦俊, 刘倩, 辜丽川. 基于多尺度生成对抗网络的大气湍流图像复原方法及系统. (申请号: CN2023 1 1725750.0, 申请日: 2023.12.14, 目前实质审查)
 
 ## 【荣誉奖励】
 - 2020-2021学年，特等奖学金、校三好学生
