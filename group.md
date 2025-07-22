@@ -46,7 +46,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文4篇。
-1. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+1. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
 2. Zhang Xiaodan, **Fang Wensi**, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2025. (Submitted)
 3. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
 4. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
@@ -435,7 +435,7 @@ reinforcement learning. 2025. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
-1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Zhang Xiaodan, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
 2. **Yuan Jianhui**, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
 3. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted).
 4. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
@@ -496,7 +496,7 @@ reinforcement learning. 2025. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文2篇。
-1. Tan Lei, Guo Dong, Fang Wensi, **Li Guixiang**, Yuan Jianhui, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+1. Tan Lei, Guo Dong, Fang Wensi, **Li Guixiang**, Yuan Jianhui, Zhang Xiaodan, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
 2. Yuan Jianhui, Zhang Xinyu, **Li Guixiang**, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
 3. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. EVD-YOLO: An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2025. **(中科院2区期刊, SCI, 目前IF: 1.2)**
 4. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
@@ -584,11 +584,12 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
-1. **Zhang Xiaodan**, Fang Wensi, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2025. (Submitted)
-2. Xiao Wei, Li Songlin, An Daolong, Wu Hao, **Zhang Xiaodan**, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
-3. Li Songlin, Xiao Wei, Wu Hao, **Zhang Xiaodan**, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
-4. Xiong Xi, Shen Chun, Wu Junhong, Lü Shuai\*, **Zhang Xiaodan**. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文4篇。
+1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, **Zhang Xiaodan**, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2025. (Submitted)
+2. **Zhang Xiaodan**, Fang Wensi, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2025. (Submitted)
+3. Xiao Wei, Li Songlin, An Daolong, Wu Hao, **Zhang Xiaodan**, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
+4. Li Songlin, Xiao Wei, Wu Hao, **Zhang Xiaodan**, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
+5. Xiong Xi, Shen Chun, Wu Junhong, Lü Shuai\*, **Zhang Xiaodan**. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生
@@ -684,7 +685,7 @@ reinforcement learning. 2025. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇，申请发明专利（目前实质审查）1项。
-1. **Tan Lei**, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Lü Shuai\*. Divide and correct: Alternating normalization and prototype-aware alignment for continual test-time adaptation. 2025. (Submitted)
+1. **Tan Lei**, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2025. (Submitted)
 2. Zhang Xiaodan, Fang Wensi, **Tan Lei**, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2025. (Submitted)
 3. Yuan Jianhui, Zhang Xinyu, Li Guixiang, **Tan Lei**, Li Jingyao\*, Zhou Wenbo\*. Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted).
 4. 马慧敏\*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
