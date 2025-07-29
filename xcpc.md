@@ -4,7 +4,7 @@
 
 ## 官方网站：<A href="http://icpc.global" target="_blank">icpc.global</A>，北京总部：<A href="http://icpc.pku.edu.cn" target="_blank">icpc.pku.edu.cn</A>
 
-## 第50届ICPC的参赛日程
+## 第50届ICPC的参赛日程（随时更新）
 
 |参赛日程|赛事|承办单位
 |:-:|:-:|:-:
@@ -28,7 +28,7 @@
 
 ## 官方网站：<A href="https://ccpc.io/" target="_blank">ccpc.io</A>
 
-## 第11届CCPC的参赛日程
+## 第11届CCPC的参赛日程（随时更新）
 
 |参赛日程|赛事|承办单位
 |:-:|:-:|:-:
