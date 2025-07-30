@@ -9,7 +9,7 @@
 |3|陈铭豪||🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
 |4|李光赫||🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
 |5|剧若菲||/|🥈ICPC沈阳<BR>🥉CCPC广州|🥇CCPC秦皇岛<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|/|1🥇3🥈1🥉|
-|6|陈瀚||||||3🥈1🥉|
+|6|陈瀚||🥈CCPC广州<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈1🥉|
 |7|高钧||||||3🥈1🥉|
 |8|陈鹏宇||||||2🥈4🥉|
 |9|侯德亮||||||2🥈2🥉|
@@ -40,6 +40,10 @@
 |1|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|||7🥇3🥈0🥉|现役队员
 |2|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|现役队员<BR>2023ICPC西安？
 |3|23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|现役队员<BR>2023ICPC西安？
+|4|乔彦博|
+|5|王恕|
+|6|张智祺|
+|
 
 ## 2024级
 
@@ -54,5 +58,8 @@
 |:-:|:-:|:-:
 |1|王一丁|
 |2|陈俊甫|
+|3|王鹏一
+|4|郑翔曦
+|5|郭冠男
 
 
