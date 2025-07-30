@@ -10,7 +10,7 @@
 |4|李光赫||🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
 |5|剧若菲||/|🥈ICPC沈阳<BR>🥉CCPC广州|🥇CCPC秦皇岛<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|/|1🥇3🥈1🥉|
 |6|陈瀚||🥈CCPC广州<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈1🥉|
-|7|高钧||||||3🥈1🥉|
+|7|高钧||🥈CCPC广州<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈1🥉|
 |8|陈鹏宇||||||2🥈4🥉|
 |9|侯德亮||||||2🥈2🥉|
 |10|张浩天||||||2🥈1🥉|
