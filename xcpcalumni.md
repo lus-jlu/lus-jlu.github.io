@@ -44,8 +44,8 @@
 |序|学号/姓名|学院/专业|2023-2024<BR>赛季|2024-2025<BR>赛季|2025-2026<BR>赛季|2026-2027<BR>赛季|历史战绩|备注
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |1|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|||7🥇3🥈0🥉|
-|2|陈俊甫||🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈0🥉|
-|3|王一丁||🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈0🥉|
+|2|陈俊甫||🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈|
+|3|王一丁||🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈|
 |2|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|2023ICPC西安？
 |3|23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|2023ICPC西安？
 |4|乔彦博||||/|/|
