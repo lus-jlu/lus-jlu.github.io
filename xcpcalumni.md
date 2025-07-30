@@ -49,8 +49,8 @@
 |4|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|2023ICPC西安？
 |5|23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|2023ICPC西安？
 |6|乔彦博||🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
-|7|王恕||||/|/|
-|8|张智祺||||/|/|
+|7|王恕||🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
+|8|张智祺||🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
 |9|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港|||0🥇2🥈2🥉|
 |10|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术|/|🥉ICPC成都<BR>🥉CCPC郑州|||0🥇0🥈2🥉|
 |11|21230708<BR>吕浩然|计算机科学与技术学院<BR>计算机科学与技术|/|🥉ICPC成都<BR>🥉CCPC郑州|||0🥇0🥈2🥉|
