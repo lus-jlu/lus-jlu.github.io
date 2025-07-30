@@ -5,10 +5,10 @@
 |序|学号/姓名|学院/专业|2021-2022<BR>赛季|2022-2023<BR>赛季|2023-2024<BR>赛季|2024-2025<BR>赛季|历史战绩|毕业去向
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |1|55210916<BR>周宇恒|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥈CCPC哈尔滨<BR>🥉CCPC总决赛|🥇CCPC威海<BR>🥇ICPC西安<BR>🥈CCPC绵阳<BR>🥉ICPC济南<BR>🥉ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥈ICPC济南<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇11🥈4🥉|南京大学<BR>推免硕士生
-|2|黄昌盛||CCPC广州<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇8🥈2🥉|
+|2|黄昌盛||🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇8🥈2🥉|
 |3|陈铭豪||CCPC广州<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
 |4|李光赫||CCPC广州<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
-|5|剧若菲||||||1🥇3🥈1🥉|
+|5|剧若菲|||🥈ICPC沈阳<BR>🥉CCPC广州|||1🥇3🥈1🥉|
 |6|陈瀚||||||3🥈1🥉|
 |7|高钧||||||3🥈1🥉|
 |8|陈鹏宇||||||2🥈4🥉|
