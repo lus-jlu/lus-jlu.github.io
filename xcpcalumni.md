@@ -5,12 +5,12 @@
 |序|学号/姓名|学院/专业|2021-2022<BR>赛季|2022-2023<BR>赛季|2023-2024<BR>赛季|2024-2025<BR>赛季|历史战绩|毕业去向
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |1|55210916<BR>周宇恒|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥈CCPC哈尔滨<BR>🥉CCPC总决赛|🥇CCPC威海<BR>🥇ICPC西安<BR>🥈CCPC绵阳<BR>🥉ICPC济南<BR>🥉ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥈ICPC济南<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇11🥈4🥉|南京大学<BR>推免硕士生
-|2|黄昌盛||🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇8🥈2🥉|
-|3|陈铭豪||🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
-|4|李光赫||🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
+|2|黄昌盛|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇8🥈2🥉|
+|3|陈铭豪|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
+|4|李光赫|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇6🥈1🥉|
 |5|剧若菲||/|🥈ICPC沈阳<BR>🥉CCPC广州|🥇CCPC秦皇岛<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|/|1🥇3🥈1🥉|
-|6|陈瀚||🥈CCPC广州<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈1🥉|
-|7|高钧||🥈CCPC广州<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈1🥉|
+|6|陈瀚|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈1🥉|
+|7|高钧|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈1🥉|
 |8|陈鹏宇||||||2🥈4🥉|
 |9|侯德亮||||||2🥈2🥉|
 |10|张浩天||||||2🥈1🥉|
@@ -21,11 +21,12 @@
 |15|蒋佳轩||||||1🥈|
 |16|史镇宁||||||1🥈|
 |17|郑修远||||||1🥈|
-|18|李玉海||||||3🥉|
+|18|李玉海|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|||||3🥉|
 |19|吴浩钟||||||2🥉|
 |20|付李想||||||1🥉|
 |21|李昊桐||||||1🥉|
 |22|马维龙||||||1🥉|
+|23|祝永祺|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）
 
 ## 2022级
 
