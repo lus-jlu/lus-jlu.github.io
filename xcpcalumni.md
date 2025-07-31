@@ -4,7 +4,7 @@
 
 |序|学号/姓名|学院/专业|2021-2022<BR>赛季|2022-2023<BR>赛季|2023-2024<BR>赛季|2024-2025<BR>赛季|历史战绩|毕业去向/备注
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|1|55210916<BR>周宇恒|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥉ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥉ICPC亚洲区决赛<BR>🥉CCPC总决赛|🥇CCPC威海<BR>🥇ICPC西安<BR>🥈CCPC绵阳<BR>🥉ICPC济南<BR>🥉ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥈ICPC济南<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇11🥈6🥉|2021ICPC沈阳铜牌？<BR>2021ICPC亚洲区决赛铜牌？
+|1|55210916<BR>周宇恒|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥉ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥉ICPC亚洲区决赛<BR>🥉CCPC总决赛|🥇CCPC威海<BR>🥇ICPC西安<BR>🥈CCPC绵阳<BR>🥉ICPC济南<BR>🥉ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥈ICPC济南<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇11🥈6🥉|南京大学<BR>推免硕士生<BR>2021ICPC沈阳铜牌？<BR>2021ICPC亚洲区决赛铜牌？
 |2|21210719<BR>黄昌盛|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇10🥈2🥉|
 |3|19210121<BR>陈铭豪|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇8🥈1🥉|
 |4|21210713<BR>李光赫|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇8🥈1🥉|
