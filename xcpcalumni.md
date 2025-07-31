@@ -8,7 +8,7 @@
 |2|21210719<BR>黄昌盛|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|🥈ICPC杭州<BR>🥈ICPC上海<BR>🥉ICPC亚洲区决赛|3🥇10🥈2🥉|2021ICPC沈阳银牌？<BR>2021ICPC亚洲区决赛银牌？
 |3|19210121<BR>陈铭豪|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇8🥈1🥉|2021ICPC沈阳银牌？<BR>2021ICPC亚洲区决赛银牌？
 |4|21210713<BR>李光赫|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈ICPC沈阳<BR>🥈CCPC哈尔滨<BR>🥈ICPC昆明<BR>🥈ICPC亚洲区决赛<BR>🥈CCPC总决赛|🥈CCPC桂林<BR>🥇ICPC沈阳<BR>🥇CCPC广州<BR>🥇ICPC合肥<BR>🥉ICPC亚洲区决赛|🥈CCPC哈尔滨<BR>🥈ICPC沈阳|/|3🥇8🥈1🥉|2021ICPC沈阳银牌？<BR>2021ICPC亚洲区决赛银牌？
-|5|21210701<BR>剧若菲（女）|计算机科学与技术学院<BR>计算机科学与技术|🥇CCPC女生专场|🥈ICPC沈阳<BR>🥉CCPC广州|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|/|2🥇4🥈1🥉|2023ICPC西安银牌？
+|5|21210701<BR>剧若菲（女）|计算机科学与技术学院<BR>计算机科学与技术|🥇CCPC女生专场|🥈ICPC沈阳<BR>🥉CCPC广州|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|/|2🥇4🥈1🥉|
 |6|20211206<BR>陈颂琳（女）|通信工程学院<BR>空间信息与数字技术|🥇CCPC女生专场|/|/|/|1🥇|
 |7|20212224<BR>陈瀚|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥉ICPC沈阳<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈2🥉|2021ICPC沈阳铜牌？
 |8|55211227<BR>高钧|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC广州<BR>🥉ICPC沈阳<BR>🥈CCPC哈尔滨|🥈ICPC西安<BR>🥉ICPC合肥|/|/|3🥈2🥉|2021ICPC沈阳铜牌？
@@ -40,8 +40,8 @@
 |1|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|||7🥇3🥈0🥉|
 |2|55230617<BR>陈俊甫|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈|
 |3|13230320<BR>王一丁|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈|
-|4|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|2023ICPC西安？
-|5|23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|2023ICPC西安？
+|4|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|
+|5|23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|
 |6|21230111<BR>乔彦博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
 |7|35232116<BR>王恕|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
 |8|20232116<BR>张智祺|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
