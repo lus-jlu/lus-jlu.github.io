@@ -42,7 +42,7 @@
 |3|13230320<BR>王一丁|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC亚洲区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈|待核实
 |4|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|
 |5|23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC亚洲区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|||3🥇4🥈1🥉|
-|6|21230111<BR>乔彦博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|待核实
+|6|21230111<BR>乔彦博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
 |7|35232116<BR>王恕|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
 |8|20232116<BR>张智祺|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉|
 |9|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港|||0🥇2🥈2🥉|
