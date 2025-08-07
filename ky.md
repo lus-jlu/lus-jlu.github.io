@@ -82,7 +82,7 @@
 8|<A href="https://neurips.cc/" target="_blank">NeurIPS 2025</A>|2025.05.11 AOE|2025.05.15 AOE|2025.12.02-07|San Diego, USA|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
 1|<A href="https://kdd2026.kdd.org" target="_">KDD 2026</A>|2025.07.24 AOE<BR>2026.02.01 AOE|2025.07.31 AOE<BR>2026.02.08 AOE|2026.08.09-13|Jeju, South Korea|<A href="https://openreview.net/group?id=KDD.org/2026" target="_blank">投稿系统</A>
 2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.07.25<BR>11:59 PM UTC-12|2025.08.01<BR>11:59 PM UTC-12|2026.01.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
-3|CVPR 2026|待定|预计2025.11|预计2026.06|待定|待定
+3|CVPR 2026|预计2025.11.07|预计2025.11.14|预计2026.06|Denver, USA|待定
 
 ## 4. 作者信息和致谢
 
