@@ -66,6 +66,7 @@
   - Engineering Applications of Artificial Intelligence
   - Expert Systems with Applications
   - Frontiers of Computer Science
+  - IEEE Transactions on Circuits and Systems for Video Technology
   - IEEE Transactions on Neural Networks and Learning Systems
   - Information Processing and Management
   - Information Sciences
