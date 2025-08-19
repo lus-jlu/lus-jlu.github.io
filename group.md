@@ -234,14 +234,15 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇。
-1. **Wu Hao**, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
-2. Li Songlin, **Wu Hao**, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文7篇。
+1. Liu Xuejie, Zhang Shunhao, **Wu Hao**, Hou Zhibin. Non-parametric behavior policy density estimation for offline reinforcement learning. 2025. (Submitted)
+2. **Wu Hao**, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
+3. Li Songlin, **Wu Hao**, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2025. (Submitted)
-3. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
-4. Li Songlin, Xiao Wei, **Wu Hao**, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
-5. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
-6. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
+4. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
+5. Li Songlin, Xiao Wei, **Wu Hao**, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. 2025. (Submitted)
+6. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
+7. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，三等奖学金
@@ -425,7 +426,8 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，硕士生（导师：刘雪洁副教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文0篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. Liu Xuejie, Zhang Shunhao, Wu Hao, **Hou Zhibin**. Non-parametric behavior policy density estimation for offline reinforcement learning. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020.10，蓝桥杯全国软件和信息技术专业人才大赛，省级一等奖
@@ -450,8 +452,9 @@ reinforcement learning. 2025. (Submitted)
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：刘雪洁副教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Wu Hao, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
+1. Liu Xuejie, **Zhang Shunhao**, Wu Hao, Hou Zhibin. Non-parametric behavior policy density estimation for offline reinforcement learning. 2025. (Submitted)
+2. Wu Hao, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、综合甲等奖学金
@@ -469,7 +472,7 @@ reinforcement learning. 2025. (Submitted)
 
 ## 巩锦程，男，2002年09月生，山东省淄博市人。
 -	2021.09-2025.06，华北电力大学（保定）计算机系计算机科学与技术专业，本科生
--	预计2025.09开始，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
+-	2025.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 -	研究方向：人工智能、机器学习
 
 ## 【荣誉奖励】
@@ -488,7 +491,7 @@ reinforcement learning. 2025. (Submitted)
 
 ## 甄德杰，男，2003年05月生，河北省邢台市人。
 -	2021.09-2025.06，河北大学数学与信息科学学院软件工程专业，本科生（学业排名和综合排名均为第1/86名）
--	预计2025.09开始，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
+-	2025.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 -	研究方向：人工智能、机器学习
 
 ## 【荣誉奖励】
@@ -509,7 +512,7 @@ reinforcement learning. 2025. (Submitted)
 
 ## 钟金运，男，2003年06月生，江西省瑞金市人。
 -	2021.09-2025.06，西南科技大学国防科技学院信息对抗技术专业，本科生（学业排名和综合排名均为第2/79名）
--	预计2025.09开始，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
+-	2025.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 -	研究方向：人工智能、机器学习
 
 ## 【荣誉奖励】
@@ -533,7 +536,7 @@ reinforcement learning. 2025. (Submitted)
 
 ## 常钰，女，2003年01月生，辽宁省大连市人。
 - 2021.09-2025.06，东北师范大学信息科学与技术学院计算机科学与技术专业，本科生
-- 预计2025.09开始，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
+- 2025.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
 ## 【荣誉奖励】
@@ -554,7 +557,7 @@ reinforcement learning. 2025. (Submitted)
 
 ## 姜文康，男，2003年07月生，山东省德州市人。
 - 2021.09-2025.06，新疆大学软件学院软件工程专业，本科生
-- 预计2025.09开始，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
+- 2025.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
 ## 【荣誉奖励】
