@@ -24,7 +24,7 @@
 
 序|队名|队员|状态备注
 :-:|:-:|:-:|:-:
-1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|队名待定
+1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
 2|久世浮倾<BR>Eons Adrift|孔泉智，邱天，赵星宇
 3|星掠影<BR>Star Strike|武锦旗，欧阳承风，席乐媛
 4|渐进性润化<BR>Progressive Moisturization|刘昱，王宗凡
