@@ -32,12 +32,11 @@
 6|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
 7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
 8|白毛红瞳小萝莉<BR>Shiro|何旭，林辰旭，林钰博
-9|罚时天王<BR>The King of Penalty|钟姝伶，鞠学深|队员待定
+9|罚时天王<BR>The King of Penalty|钟姝伶，鞠学深，李雨隆
 10|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
 11|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
 12|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
 -|-|吕浩然
--|-|李雨隆
 -|-|佘嘉雄
 -|-|蒋硕阳
 -|-|李佳析
