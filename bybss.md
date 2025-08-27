@@ -64,7 +64,7 @@ reinforcement learning. 2025. (Submitted)
 - 2017.09-2021.06，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生
 - 2019.09-2021.03，[法国] Paris-Saclay University（巴黎萨克雷大学），国家公派联合培养博士生（合作导师：Dague Philippe教授，Ye Lina副教授，Zaidi Fatiha副教授）
 - 研究方向：形式化方法与云计算
-- 毕业去向：[长春] 东北师范大学教师，现为东北师范大学讲师
+- 毕业去向：[长春] 东北师范大学教师，现为东北师范大学讲师、硕士生导师
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文6篇。
 1. Wu Hao, Zhang Shunhao, Chen Huangyang, Zhang Tao, **Zhou Wenbo\***, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
