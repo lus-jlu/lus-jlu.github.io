@@ -498,7 +498,7 @@ reinforcement learning. 2025. (Submitted)
 
 ***
 
-<div align=center><img src="figures/qiut2026.png" width="150"></div>
+<div align=center><img src="figures/qiut2026.jpg" width="150"></div>
 
 ## 邱天，女，2004年07月生，黑龙江省齐齐哈尔市人。
 - 2022.09至今，吉林大学软件学院工科试验班（软件工程），本科生
