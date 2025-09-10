@@ -500,7 +500,7 @@ reinforcement learning. 2025. (Submitted)
 
 <div align=center><img src="figures/qiut2026.png" width="150"></div>
 
-## 邱天，女，XXXX年XX月生，XXXXXX人。
+## 邱天，女，2004年07月生，黑龙江省齐齐哈尔市人。
 - 2022.09至今，吉林大学软件学院工科试验班（软件工程），本科生
 - 预计2026.09开始，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
