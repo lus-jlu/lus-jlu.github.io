@@ -25,16 +25,16 @@
 序|队名|队员|状态备注
 :-:|:-:|:-:|:-:
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
-2|久世浮倾<BR>Eons Adrift|孔泉智，邱天，赵星宇
-3|终焉夜雨<BR>Ending Rain|席乐媛，欧阳承风，唐德睿
-4|未来纵澜<BR>Surging Into The Future|刘昱，王宗凡，张力文
-5|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
-6|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
-7|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
-8|白毛红瞳小萝莉<BR>Shiro|何旭，林辰旭，林钰博
+2|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
+3|未来纵澜<BR>Surging Into The Future|刘昱，王宗凡，张力文
+4|久世浮倾<BR>Eons Adrift|孔泉智，邱天，赵星宇
+5|终焉夜雨<BR>Ending Rain|席乐媛，欧阳承风，唐德睿
+6|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
+7|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
+8|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
 9|罚时天王<BR>The King of Penalty|钟姝伶，鞠学深，李雨隆
-10|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
-11|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
+10|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
+11|白毛红瞳小萝莉<BR>Shiro|何旭，林辰旭，林钰博
 12|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
 -|-|吕浩然
 -|-|佘嘉雄
