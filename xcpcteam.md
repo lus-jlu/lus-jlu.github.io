@@ -36,7 +36,7 @@
 10|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
 11|白毛红瞳小萝莉<BR>Shiro|何旭，林辰旭，林钰博
 12|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
-13|火柴人与仙人掌与小树苗友谊联盟<BR>及东北东南友好联合会驻喆森大学<BR>第一分会兼程序设计竞赛第一大队<BR>Lovely Tiantian Lele Lingling in Chengdu|邱天，席乐媛，钟姝伶
+13|喆森大学程序设计竞赛第一大队<BR>Lovely Tiantian Lele Lingling in Chengdu|邱天，席乐媛，钟姝伶
 14|所谓算无遗策<BR>Faultless Strategy|栗铭远，李佳析，于翔
 -|-|吕浩然
 -|-|佘嘉雄
