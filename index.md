@@ -260,7 +260,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 + **李静瑶**，2018级推免博士生，**获研究生学术业绩二等奖学金、研究生学术业绩二等奖学金，在Information Sciences、Expert Systems with Applications、Knowledge-Based Systems发表学术论文3篇**，毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
 
 ### <A href="zdbss" target="_blank">在读博士生（查看详细情况）</A>
-+ **周瑞凯**，2020级博士生，**在Neural Networks发表学术论文1篇**
++ **周瑞凯**，2020级博士生，**在Information Processing and Management、Neural Networks发表学术论文2篇**
 + **方文思**，2024级博士生
 + **廉筱峪**，2025级博士生
 
