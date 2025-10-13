@@ -74,14 +74,13 @@
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-3|<A href="https://cvpr.thecvf.com/Conferences/2025" target="_blank">CVPR 2025</A>|2024.11.08<BR>07:59 AM UTC|2024.11.15<BR>07:59 AM UTC|2025.06.11-15|Nashville, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2025" target="_blank">投稿系统</A>
-4|<A href="https://2025.ijcai.org" target="_blank">IJCAI 2025</A>|2025.01.16<BR>23:59 AOE UTC-12|2025.01.23<BR>23:59 AOE UTC-12|2025.08.16-22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
+4|<A href="https://2025.ijcai.org" target="_blank">IJCAI 2025</A>|2025.01.16 AOE|2025.01.23 AOE|2025.08.16-22|Montreal, Canada|<A href="https://cmt3.research.microsoft.com/IJCAI2025" target="_blank">投稿系统</A>
 5|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23 AOE|2025.01.30 AOE|2025.07.13-19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
 6|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>11:59 PM HST|2025.03.07<BR>11:59 PM HST|2025.10.19-23|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025" target="_blank">投稿系统</A>
 7|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04|2025.04.11|2025.10.27-31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
 8|<A href="https://neurips.cc/" target="_blank">NeurIPS 2025</A>|2025.05.11 AOE|2025.05.15 AOE|2025.12.02-07|San Diego, USA|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
 1|<A href="https://kdd2026.kdd.org" target="_">KDD 2026</A>|2025.07.24 AOE<BR>2026.02.01 AOE|2025.07.31 AOE<BR>2026.02.08 AOE|2026.08.09-13|Jeju, South Korea|<A href="https://openreview.net/group?id=KDD.org/2026" target="_blank">投稿系统</A>
-2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.07.25<BR>11:59 PM UTC-12|2025.08.01<BR>11:59 PM UTC-12|2026.01.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
+2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.07.25 AOE|2025.08.01 AOE|2026.01.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
 3|<A href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR 2026</A>|2025.11.06 AOE|2025.11.13 AOE|2026.06.03-07|Denver, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2026" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
