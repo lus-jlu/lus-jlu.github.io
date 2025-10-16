@@ -345,8 +345,8 @@
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇，授权发明专利1项。
 1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
 2. Zhu Wenbo, Lü Shuai\*, **Long Zehong**, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
-3. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): XXXXXX. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
-4. **Long Zehong**, Zhu Wenbo, Lü Shuai\*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
+3. **Long Zehong**, Zhu Wenbo, Lü Shuai\*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
+4. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): XXXXXX. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 5. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
