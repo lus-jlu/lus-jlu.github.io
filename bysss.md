@@ -208,7 +208,7 @@
 2. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, **Zhong Taihong**, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
 3. Zhou Ruikai, **Zhong Taihong**, Li Songlin, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2025. (Submitted)
 4. Long Zehong, Zhu Wenbo, Lü Shuai\*, Wu Junhong, **Zhong Taihong**. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
-5. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): XXXXXX. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+5. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 6. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 7. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
@@ -242,7 +242,7 @@
 1. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
 2. Zhu Wenbo, Lü Shuai\*, Long Zehong, **Wu Junhong**. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 3. Long Zehong, Zhu Wenbo, Lü Shuai\*, **Wu Junhong**, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
-4. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): XXXXXX. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+4. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 5. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai\*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 6. Zhu Sheng, Shen Chun, Lü Shuai\*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
 
@@ -346,7 +346,7 @@
 1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
 2. Zhu Wenbo, Lü Shuai\*, **Long Zehong**, Wu Junhong. Feature distillation for exploration in reinforcement learning. 2023. (Submitted)
 3. **Long Zehong**, Zhu Wenbo, Lü Shuai\*, Wu Junhong, Zhong Taihong. Breaking the sample efficiency barrier by rethinking experience replay. 2025. (Submitted)
-4. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): XXXXXX. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+4. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 5. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
@@ -392,7 +392,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
 1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-2. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): XXXXXX. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+2. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 
 ## 【学位论文】
 1. **张玉树**. 基于极值理论的强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2024.
@@ -775,7 +775,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文14篇，在审学术论文1篇。
 1. Zhu Sheng, Wu Hao, Shen Chun, Zhu Wenbo, **Han Shuai**, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
-2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): XXXXXX. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+2. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 3. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 4. Zhou Ruikai, Zhu Wenbo, **Han Shuai**, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
 5. Yu Jiayu, Li Jingyao, Lü Shuai\*, **Han Shuai**. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
