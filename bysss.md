@@ -410,8 +410,8 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[杭州] 浙江大华技术股份有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇。
+1. Zhang Zeyu, Shen Chun, **Ma Qiang**, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 
 ## 【学位论文】
 1. **马强**. 结合自监督学习的无监督领域自适应方法研究[硕士学位论文]. 长春: 吉林大学, 2024.
