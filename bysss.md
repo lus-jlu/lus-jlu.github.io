@@ -98,8 +98,8 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[山东滨州] 滨州魏桥国科高等技术研究院
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. 2025. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文3篇。
+1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 2. **Zhang Zeyu**, Shen Chun, Lü Shuai\*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
 3. Zhang Shaojie, Shen Chun, Lü Shuai\*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
