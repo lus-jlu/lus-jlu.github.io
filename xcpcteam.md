@@ -42,7 +42,7 @@
 |4|55220505<BR>邱天（女）|软件学院<BR>工科试验班（软件工程）|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥇CCPC女生专场<BR>🥉ICPC昆明<BR>🥈ICPC香港|🥇ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨|3🥇2🥈3🥉
 |5|13220531<BR>孔泉智|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC深圳<BR>🥉ICPC杭州|🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥇ICPC西安<BR>🥉CCPC哈尔滨|2🥇3🥈3🥉
 |6|21241614<BR>徐梓博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）||🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥇ICPC武汉<BR>🥇CCPC济南|3🥇3🥈0🥉
-|7|06240722<BR>王宗凡|经济学院<BR>金融学||🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC哈尔滨|1🥇3🥈1🥉
+|7|06240722<BR>王宗凡|经济学院<BR>金融学||🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南|1🥇3🥈1🥉
 |8|21221327<BR>赵星宇|计算机科学与技术学院<BR>网络空间安全|🥉CCPC秦皇岛|🥈ICPC南京|🥇ICPC西安<BR>🥉CCPC哈尔滨|1🥇1🥈2🥉
 |9|55231008<BR>钟姝伶（女）|软件学院<BR>软件工程|||🥇CCPC女生专场<BR>🥉ICPC沈阳|1🥇0🥈1🥉
 |10|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港|🥈ICPC南京<BR>🥈CCPC哈尔滨|0🥇4🥈2🥉
