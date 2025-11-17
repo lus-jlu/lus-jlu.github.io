@@ -147,7 +147,7 @@ reinforcement learning. 2025. (Submitted)
 reinforcement learning. 2025. (Submitted)
 4. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
 5. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
-6. Zhu Sheng, **Wu Hao**, Shen Chun, Zhu Wenbo, Han Shuai, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
+6. **Wu Hao**, Zhu Sheng, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
 7. Li Songlin, Xiao Wei, **Wu Hao**, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
