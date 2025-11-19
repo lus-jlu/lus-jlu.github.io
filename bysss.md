@@ -276,11 +276,11 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[上海] 华为技术有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文4篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文3篇。
 1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
-2. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. 2025. (Submitted)
-3. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, **An Daolong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
-4. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
+2. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, **An Daolong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
+3. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
+4. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 195: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
 5. Li Songlin, Xiao Wei, Wu Hao, Zhang Xiaodan, **An Daolong**, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 6. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
 7. Zhu Sheng, Shen Chun, Lü Shuai\*, Wu Junhong, **An Daolong**. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
