@@ -78,6 +78,7 @@
   - 自动化学报
 + 学术会议论文评审
   - AAAI (PC, Reviewer)
+  - CVPR (Reviewer)
   - ICCV (Reviewer)
   - ICLR (Reviewer)
   - ICML (Reviewer)
