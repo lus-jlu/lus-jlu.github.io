@@ -71,7 +71,7 @@
 8|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
 9|SIGIR|International ACM SIGIR Conference on Research and Development in Information Retrieval|数据挖掘A类|ACM
 
-### 近期会议投稿信息（更新于2025.06）
+### 近期会议投稿信息（更新于2025.12）
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
