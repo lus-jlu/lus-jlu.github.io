@@ -83,7 +83,7 @@
 2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.07.25 AOE|2025.08.01 AOE|2026.01.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
 3|<A href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR 2026</A>|2025.11.06 AOE|2025.11.13 AOE|2026.06.03-07|Denver, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2026" target="_blank">投稿系统</A>
 4|<A href="https://2026.ijcai.org" target="_blank">IJCAI 2026</A>|2026.01.12 AOE|2026.01.19 AOE|2026.08.15-21|Bremen, Germany|<A href="https://cmt3.research.microsoft.com/IJCAI2026" target="_blank">投稿系统</A>
--|SIGIR 2026|||2026.07.20-24|Melbourne, Australia|<A href="https://easychair.org/conferences/?conf=sigir2026" target="_blank">投稿系统</A>
+-|SIGIR 2026|2026.01.15 AOE|2026.01.22 AOE|2026.07.20-24|Melbourne, Australia|<A href="https://easychair.org/conferences/?conf=sigir2026" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
 
