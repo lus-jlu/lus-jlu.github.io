@@ -69,6 +69,7 @@
 6|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类|ACM
 7|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
 8|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
+9|SIGIR|||
 
 ### 近期会议投稿信息（更新于2025.06）
 
@@ -82,6 +83,7 @@
 2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.07.25 AOE|2025.08.01 AOE|2026.01.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
 3|<A href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR 2026</A>|2025.11.06 AOE|2025.11.13 AOE|2026.06.03-07|Denver, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2026" target="_blank">投稿系统</A>
 4|<A href="https://2026.ijcai.org" target="_blank">IJCAI 2026</A>|2026.01.12 AOE|2026.01.19 AOE|2026.08.15-21|Bremen, Germany|<A href="https://cmt3.research.microsoft.com/IJCAI2026" target="_blank">投稿系统</A>
+-|SIGIR 2026|||||<A href="https://easychair.org/conferences/?conf=sigir2026" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
 
