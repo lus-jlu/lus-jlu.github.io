@@ -75,7 +75,6 @@
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-6|<A href="https://icml.cc/Conferences/2025" target="_blank">ICML 2025</A>|2025.01.23 AOE|2025.01.30 AOE|2025.07.13-19|Vancouver, Canada|<A href="https://openreview.net/group?id=ICML.cc/2025" target="_blank">投稿系统</A>
 7|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>23:59 HST|2025.03.07<BR>23:59 HST|2025.10.19-23|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025" target="_blank">投稿系统</A>
 8|<A href="https://acmmm2025.org" target="_blank">MM 2025</A>|2025.04.04 AOE|2025.04.11 AOE|2025.10.27-31|Dublin, Ireland|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2025" target="_blank">投稿系统</A>
 9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2025</A>|2025.05.11 AOE|2025.05.15 AOE|2025.12.02-07|San Diego, USA|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
