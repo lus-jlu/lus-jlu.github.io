@@ -69,7 +69,7 @@
 6|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类|ACM
 7|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
 8|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
-9|SIGIR|||
+9|SIGIR|International ACM SIGIR Conference on Research and Development in Information Retrieval||
 
 ### 近期会议投稿信息（更新于2025.06）
 
