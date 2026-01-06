@@ -80,13 +80,14 @@ reinforcement learning. 2026. (Submitted)
 - 2023.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文4篇。
-1. **Xiao Wei**, Zhang Tao, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-2. **Xiao Wei**, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
-3. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. (Submitted)
-4. Zhu Wenbo, **Xiao Wei**, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
-5. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
-6. Li Songlin, **Xiao Wei**, Wu Hao, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文5篇。
+1. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, **Xiao Wei**, Lü Shuai\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
+2. **Xiao Wei**, Zhang Tao, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
+3. **Xiao Wei**, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
+4. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. (Submitted)
+5. Zhu Wenbo, **Xiao Wei**, Lü Shuai*. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
+6. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
+7. Li Songlin, **Xiao Wei**, Wu Hao, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2019-2020学年，三等奖学金、校优秀学生、校优秀学生干部
@@ -140,14 +141,15 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇。
-1. Liu Xuejie, Zhang Shunhao, **Wu Hao**, Hou Zhibin. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
-2. **Wu Hao**, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
-3. Li Songlin, **Wu Hao**, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文6篇。
+1. Zhang Tao, Zhu Yungang, Chen Huangyang, **Wu Hao**, Xiao Wei, Lü Shuai\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
+2. Liu Xuejie, Zhang Shunhao, **Wu Hao**, Hou Zhibin. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
+3. **Wu Hao**, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
+4. Li Songlin, **Wu Hao**, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2026. (Submitted)
-4. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
-5. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. (Submitted)
-6. Li Songlin, Xiao Wei, **Wu Hao**, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
+5. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
+6. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. (Submitted)
+7. Li Songlin, Xiao Wei, **Wu Hao**, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，三等奖学金
@@ -237,12 +239,13 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、陈娟教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
-1. Wu Hao, Zhang Shunhao, **Chen Huangyang**, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
-2. Xiao Wei, Zhang Tao, **Chen Huangyang**, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-3. Li Songlin, Wu Hao, **Chen Huangyang**, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文5篇。
+1. Zhang Tao, Zhu Yungang, **Chen Huangyang**, Wu Hao, Xiao Wei, Lü Shuai\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
+2. Wu Hao, Zhang Shunhao, **Chen Huangyang**, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
+3. Xiao Wei, Zhang Tao, **Chen Huangyang**, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
+4. Li Songlin, Wu Hao, **Chen Huangyang**, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2026. (Submitted)
-4. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
+5. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生标兵
@@ -273,10 +276,11 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、朱允刚副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Wu Hao, Zhang Shunhao, Chen Huangyang, **Zhang Tao**, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
-2. Xiao Wei, **Zhang Tao**, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-3. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+1. **Zhang Tao**, Zhu Yungang, Chen Huangyang, Wu Hao, Xiao Wei, Lü Shuai\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
+2. Wu Hao, Zhang Shunhao, Chen Huangyang, **Zhang Tao**, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
+3. Xiao Wei, **Zhang Tao**, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
+4. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、二等奖学金、校三好学生
