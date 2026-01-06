@@ -57,7 +57,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文2篇。
 1. Yuan Jianhui, **Zhang Xinyu**, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted)
-2. Lü Shuai, Yuan Jianhui, **Zhang Xinyu**, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
+2. Lü Shuai, Yuan Jianhui, **Zhang Xinyu**, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 3. Lü Shuai, **Zhang Xinyu**, Li Zongze, Li Jingyao\*, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, 目前IF: 6.8)**
 4. **Zhang Xinyu**, Kang Meng, Lü Shuai\*. Low category uncertainty and high training potential instance learning for unsupervised domain adaptation. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16881-16889. **(CCF推荐A类会议)**
 5. Lü Shuai, Li Zongze, **Zhang Xinyu**, Li Jingyao\*. Consistency regularization-based mutual alignment for source-free domain adaptation. **Expert Systems with Applications**, 2024, 241: 122577. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
@@ -163,7 +163,7 @@
 - 毕业去向：[上海] 华为技术有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇。
-1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, **Zhang Shaojie**, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
+1. Lü Shuai, Yuan Jianhui, Zhang Xinyu, **Zhang Shaojie**, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 2. Zhang Zeyu, Shen Chun, Lü Shuai\*, **Zhang Shaojie**. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
 3. **Zhang Shaojie**, Shen Chun, Lü Shuai\*, Zhang Zeyu. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
