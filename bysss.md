@@ -123,9 +123,6 @@
 - 2025.06，吉林大学优秀毕业研究生
 - 2025年度，王湘浩奖学金
 
-## 【联系方式】
-- 邮箱：zeyuz22@mails.jlu.edu.cn
-
 ***
 
 <div align=center><img src="figures/lindj2022.jpg" width="150"></div>
@@ -420,9 +417,6 @@
 - 2017.08，全国大学生物联网设计竞赛（华为杯），华东赛区二等奖
 - 2018.06，上海电机学院优秀本科毕业生
 
-## 【联系方式】
-- 邮箱：maqiang21@mails.jlu.edu.cn
-
 ***
 
 <div align=center><img src="figures/luoj2021.jpg" width="150"></div>
@@ -598,13 +592,12 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 北京蓝色创想网络科技有限责任公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
-1. Wu Hao, **Zhu Sheng**, Lü Shuai\*. Actor-critic of multi-agent collaboration on single-agent task. 2025. (Submitted)
-2. Zhang Junwei, Han Shuai, Xiong Xi, **Zhu Sheng**, Lü Shuai\*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院2区期刊, CCF推荐B类期刊, SCI, IF: 6.8)**
-3. **Zhu Sheng**, Shen Chun, Lü Shuai\*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
-4. Shen Chun, **Zhu Sheng**, Han Shuai, Gong Xiaoyu, Lü Shuai\*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
-5. Gong Xiaoyu, Lü Shuai\*, Yu Jiayu, **Zhu Sheng**, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
-6. Han Shuai, Zhou Wenbo, Lü Shuai\*, **Zhu Sheng**, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+## 【学术论文】在国内外期刊和会议上发表学术论文5篇。
+1. Zhang Junwei, Han Shuai, Xiong Xi, **Zhu Sheng**, Lü Shuai\*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院2区期刊, CCF推荐B类期刊, SCI, IF: 6.8)**
+2. **Zhu Sheng**, Shen Chun, Lü Shuai\*, Wu Junhong, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
+3. Shen Chun, **Zhu Sheng**, Han Shuai, Gong Xiaoyu, Lü Shuai\*. Guided deterministic policy optimization with gradient-free policy parameters information. **Expert Systems with Applications**, 2023, 231: 120693. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
+4. Gong Xiaoyu, Lü Shuai\*, Yu Jiayu, **Zhu Sheng**, Li Zongze. Adaptive estimation Q-learning with uncertainty and familiarity. In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)**, Macao, China, August 19-25, 2023, 3750-3758. **(CCF推荐A类会议)**
+5. Han Shuai, Zhou Wenbo, Lü Shuai\*, **Zhu Sheng**, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 
 ## 【学位论文】
 1. **朱盛**. 双智能体协作的深度强化学习算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
@@ -617,9 +610,6 @@
 - 2021-2022学年，研究生学业奖学金
 - 2023年度，研究生学术业绩二等奖学金
 - 2024年度，研究生学术业绩一等奖学金
-
-## 【联系方式】
-- 邮箱：zhusheng20@mails.jlu.edu.cn
 
 ***
 
