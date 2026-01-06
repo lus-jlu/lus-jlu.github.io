@@ -23,7 +23,7 @@
 reinforcement learning. 2025. (Submitted)
 5. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive image retrieval via frequency-aware mixup and augmentation. 2025. (Submitted)
 6. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2025. (Submitted)
-7. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2025. (Submitted)
+7. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 8. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided framework for unsupervised domain adaptation. 2025. (Submitted)
 9. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via VLM assisted pseudo-labeling and dual space adaptation. In: **Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**, San Diego, USA, December 2-7, 2025. **(CCF推荐A类会议)**
 10. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao\***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, 目前IF: 6.8)**
