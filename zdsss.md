@@ -175,7 +175,7 @@ reinforcement learning. 2025. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2025. (Submitted)
+1. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、校三好学生、校优秀学生干部
@@ -242,7 +242,7 @@ reinforcement learning. 2025. (Submitted)
 2. Xiao Wei, Zhang Tao, **Chen Huangyang**, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2025. (Submitted)
 3. Li Songlin, Wu Hao, **Chen Huangyang**, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2025. (Submitted)
-4. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2025. (Submitted)
+4. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生标兵
@@ -276,7 +276,7 @@ reinforcement learning. 2025. (Submitted)
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
 1. Wu Hao, Zhang Shunhao, Chen Huangyang, **Zhang Tao**, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
 2. Xiao Wei, **Zhang Tao**, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2025. (Submitted)
-3. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2025. (Submitted)
+3. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、二等奖学金、校三好学生
