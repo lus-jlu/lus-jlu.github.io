@@ -191,7 +191,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 50. **吕帅**, 刘磊\*, 石莲, 李莹. 基于自动推理技术的智能规划方法. **软件学报**, 2009, 20(5): 1226-1240. **(CCF推荐中文A类期刊)**
 
 目前尚处于评审阶段的学术论文：
-1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, **Lü Shuai\***. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2025. (Submitted)
+1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, **Lü Shuai\***. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
 2. Zhang Xiaodan, Fang Wensi, Tan Lei, **Lü Shuai\***. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2026. (Submitted)
 3. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2025. (Submitted)
 4. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
