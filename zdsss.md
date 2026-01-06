@@ -18,7 +18,7 @@
 reinforcement learning. 2025. (Submitted)
 2. Xiao Wei, **Li Songlin**, An Daolong, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
 3. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2025. (Submitted)
-4. Lin Dajun, **Li Songlin**, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2025. (Submitted)
+4. Lin Dajun, **Li Songlin**, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2026. (Submitted)
 5. Zhou Ruikai, **Li Songlin**, Lü Shuai\*. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2026. (Submitted)
 6. Zhou Ruikai, Zhong Taihong, **Li Songlin**, Lü Shuai\*. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2026. (Submitted)
 7. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
