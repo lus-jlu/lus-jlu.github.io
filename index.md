@@ -193,8 +193,8 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 目前尚处于评审阶段的学术论文：
 1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, **Lü Shuai\***. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2025. (Submitted)
 2. Zhang Xiaodan, Fang Wensi, Tan Lei, **Lü Shuai\***. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2025. (Submitted)
-3. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Domain adaptive image retrieval via frequency-aware mixup and augmentation. 2025. (Submitted)
-4. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2025. (Submitted)
+3. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2025. (Submitted)
+4. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
 5. Xiao Wei, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, **Lü Shuai\***. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
 6. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 7. **Lü Shuai**, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
