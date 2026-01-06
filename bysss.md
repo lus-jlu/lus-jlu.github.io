@@ -272,7 +272,7 @@
 - 毕业去向：[上海] 华为技术有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文3篇。
-1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2025. (Submitted)
+1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Lin Dajun, Li Songlin, Lü Shuai\*, Zhou Wenbo\*, Zhong Taihong, **An Daolong**. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2026. (Submitted)
 3. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
 4. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
