@@ -142,7 +142,7 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇。
 1. Liu Xuejie, Zhang Shunhao, **Wu Hao**, Hou Zhibin. Non-parametric behavior policy density estimation for offline reinforcement learning. 2025. (Submitted)
-2. **Wu Hao**, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
+2. **Wu Hao**, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 3. Li Songlin, **Wu Hao**, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2026. (Submitted)
 4. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
@@ -238,7 +238,7 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
-1. Wu Hao, Zhang Shunhao, **Chen Huangyang**, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
+1. Wu Hao, Zhang Shunhao, **Chen Huangyang**, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Xiao Wei, Zhang Tao, **Chen Huangyang**, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 3. Li Songlin, Wu Hao, **Chen Huangyang**, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2026. (Submitted)
@@ -274,7 +274,7 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Wu Hao, Zhang Shunhao, Chen Huangyang, **Zhang Tao**, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
+1. Wu Hao, Zhang Shunhao, Chen Huangyang, **Zhang Tao**, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Xiao Wei, **Zhang Tao**, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 3. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 
@@ -365,7 +365,7 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
 1. Liu Xuejie, **Zhang Shunhao**, Wu Hao, Hou Zhibin. Non-parametric behavior policy density estimation for offline reinforcement learning. 2025. (Submitted)
-2. Wu Hao, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
+2. Wu Hao, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、综合甲等奖学金
