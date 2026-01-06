@@ -18,9 +18,9 @@
 ## 【学术论文】在国内外期刊和会议上发表学术论文11篇，在审学术论文8篇。
 1. Wu Hao, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, **Li Jingyao\***. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
 2. Xiao Wei, Zhang Tao, Chen Huangyang, **Li Jingyao\***, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2025. (Submitted)
-3. Yuan Jianhui, Zhang Xinyu, Li Guixiang, Tan Lei, **Li Jingyao\***, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted)
+3. Yuan Jianhui, Zhang Xinyu, Li Guixiang, Tan Lei, **Li Jingyao\***, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
 4. Li Songlin, Wu Hao, Chen Huangyang, Zhou Wenbo\*, **Li Jingyao\***. Anchor-based perturbation-driven exploration for offline-to-online
-reinforcement learning. 2025. (Submitted)
+reinforcement learning. 2026. (Submitted)
 5. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2025. (Submitted)
 6. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
 7. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
@@ -69,8 +69,8 @@ reinforcement learning. 2025. (Submitted)
 ## 【学术论文】在国内外期刊和会议上发表学术论文13篇，在审学术论文5篇。
 1. Wu Hao, Zhang Shunhao, Chen Huangyang, Zhang Tao, **Zhou Wenbo\***, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2025. (Submitted)
 2. Xiao Wei, Zhang Tao, Chen Huangyang, Li Jingyao\*, **Zhou Wenbo\***. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2025. (Submitted)
-3. Yuan Jianhui, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, **Zhou Wenbo\***. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2025. (Submitted)
-4. Li Songlin, Wu Hao, Chen Huangyang, **Zhou Wenbo\***, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2025. (Submitted)
+3. Yuan Jianhui, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, **Zhou Wenbo\***. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+4. Li Songlin, Wu Hao, Chen Huangyang, **Zhou Wenbo\***, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2026. (Submitted)
 5. Lin Dajun, Li Songlin, Lü Shuai\*, **Zhou Wenbo\***, Zhong Taihong, An Daolong. WCPC-TD3: Weighted contrastive policy constraint for offline reinforcement learning. 2026. (Submitted)
 6. An Daolong, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, **Zhou Wenbo\***. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
 7. Lü Shuai, Zhang Tongbo, Xu Yue, **Zhou Wenbo**, Lai Yong\*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024, 36(7): 1075-1088. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 1.7)**
