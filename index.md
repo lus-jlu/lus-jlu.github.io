@@ -203,7 +203,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 10. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided framework for unsupervised domain adaptation. 2025. (Submitted)
 11. Zhu Wenbo, Xiao Wei, **Lü Shuai\***. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
 12. Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-13. Zhou Ruikai, Li Songlin, **Lü Shuai\***. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2025. (Submitted)
+13. Zhou Ruikai, Li Songlin, **Lü Shuai\***. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2026. (Submitted)
 14. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2026. (Submitted)
 15. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. 2025. (Submitted)
 
