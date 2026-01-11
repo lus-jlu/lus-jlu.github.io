@@ -41,7 +41,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文4篇。
-1. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
+1. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
 2. Zhang Xiaodan, **Fang Wensi**, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2026. (Submitted)
 3. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 4. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
