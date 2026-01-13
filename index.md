@@ -193,7 +193,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 目前尚处于评审阶段的学术论文：
 1. Wu Hao, Zhang Shunhao, **Lü Shuai\***. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
-3. Sun Genghao, Chen Huangyang, **Lü Shuai\***, Zhou Wenbo\*. AQHA: Accurate Q-value estimation and high-quality action imitating in offline reinforcement learning. 2026. (Submitted)
+3. Sun Genghao, Chen Huangyang, **Lü Shuai\***, Zhou Wenbo\*. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
 4. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, Xiao Wei, **Lü Shuai\***, Zhou Wenbo\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
 5. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Increment-decrement identification and dual-order cross-modal fusion for composed image retrieval. 2025. (Submitted)
 6. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, **Lü Shuai\***. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
