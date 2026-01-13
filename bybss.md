@@ -71,7 +71,7 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文13篇，在审学术论文9篇。
 1. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*, **Zhou Wenbo\***. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
-2. Sun Genghao, Chen Huangyang, Lü Shuai\*, **Zhou Wenbo\***. AQHA: Accurate Q-value estimation and high-quality action imitating in offline reinforcement learning. 2026. (Submitted)
+2. Sun Genghao, Chen Huangyang, Lü Shuai\*, **Zhou Wenbo\***. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
 3. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, Xiao Wei, Lü Shuai\*, **Zhou Wenbo\***. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
 4. Liu Xuejie, Zhang Shunhao, Wu Hao, Hou Zhibin, **Zhou Wenbo\***. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
 5. Wu Hao, Lü Shuai, Zhang Shunhao, Chen Huangyang, Zhang Tao, **Zhou Wenbo\***, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
