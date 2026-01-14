@@ -139,7 +139,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 <A href="ky" target="_blank">整理的期刊和会议评价</A>
 
 主要代表性学术论文：
-1. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+1. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
 2. An Daolong, Shen Chun, Li Songlin, Xiao Wei, **Lü Shuai\***, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
 3. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, **Lü Shuai\***, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 4. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, Han Shuai, **Lü Shuai\***. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
