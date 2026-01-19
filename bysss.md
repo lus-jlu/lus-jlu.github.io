@@ -531,9 +531,6 @@
 - 2020.12，中国研究生数学建模竞赛，国家级三等奖
 - 2024年度，研究生学术业绩三等奖学金
 
-## 【联系方式】
-- 邮箱：kangmeng20@mails.jlu.edu.cn
-
 ***
 
 <div align=center><img src="figures/gongxy2020.jpg" width="150"></div>
