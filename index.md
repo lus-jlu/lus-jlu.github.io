@@ -192,7 +192,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 51. **吕帅**, 刘磊\*, 石莲, 李莹. 基于自动推理技术的智能规划方法. **软件学报**, 2009, 20(5): 1226-1240. **(CCF推荐中文A类期刊)**
 
 目前尚处于评审阶段的学术论文：
-1. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Dual-granularity queries for training-free zero-shot composed image retrieval. 2026. (Submitted)
+1. Zhang Tao, Zhu Yungang, Zhang Shunhao, Chen Huangyang, Zhou Wenbo, **Lü Shuai\***. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Fang Wensi, Zhang Xiaodan, Lian Xiaoyu, Li Qiang, **Lü Shuai\***. Selective constraint learning for unsupervised cross-domain image retrieval. 2026. (Submitted)
 3. Wu Hao, Zhang Shunhao, **Lü Shuai\***. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
 4. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
