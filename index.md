@@ -88,6 +88,7 @@
   - KDD (Reviewer)
   - MM (Reviewer)
   - NeurIPS (Reviewer)
+  - SIGIR (PC, Reviewer)
 
 ***
 
