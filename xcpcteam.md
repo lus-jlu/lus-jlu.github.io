@@ -36,7 +36,7 @@
 
 |序|学号/姓名|学院/专业|2023-2024赛季|2024-2025赛季|2025-2026赛季|历史战绩
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|1|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区总决赛|14🥇3🥈0🥉
+|1|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区总决赛|12🥇3🥈0🥉
 |2|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC东亚区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区总决赛|8🥇4🥈1🥉
 |3|21241614<BR>徐梓博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）||🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区总决赛|6🥇3🥈0🥉
 |4|55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）||🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥉ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|3🥇4🥈3🥉
