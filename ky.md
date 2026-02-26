@@ -86,7 +86,7 @@
 6|<A href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</A>|2026.01.23 AOE|2026.01.28 AOE|2026.07.06-12|Seoul, South Korea|<A href="https://openreview.net/group?id=ICML.cc/2026" target="_blank">投稿系统</A>
 7|——|
 8|MM 2026|待更新
-9|NeurIPS 2026|待定|待定|2026.12.06-12|Sydney, Australia|待更新
+9|NeurIPS 2026|待定|待定|2026.12.06-12|Sydney, Australia|<A href="https://openreview.net/group?id=NeurIPS.cc/2026" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
 
