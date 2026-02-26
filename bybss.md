@@ -15,7 +15,7 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
 
-## 【学术论文】在国内外期刊和会议上发表学术论文11篇，在审学术论文12篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文11篇。
 1. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Dual-granularity queries for training-free zero-shot composed image retrieval. 2026. (Submitted)
 2. Liu Xuejie, Hou Zhibin, **Li Jingyao\***, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
 3. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Increment-decrement identification and dual-order cross-modal fusion for composed image retrieval. 2025. (Submitted)
@@ -28,7 +28,7 @@ reinforcement learning. 2026. (Submitted)
 9. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2025. (Submitted)
 10. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
 11. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
-12. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided framework for unsupervised domain adaptation. 2025. (Submitted)
+12. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided framework for unsupervised domain adaptation. **Pattern Recognition**, 2026, 113390. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 7.6)**
 13. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via VLM assisted pseudo-labeling and dual space adaptation. In: **Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**, San Diego, USA, December 2-7, 2025. **(CCF推荐A类会议)**
 14. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao\***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, 目前IF: 6.8)**
 15. Yu Jiayu, **Li Jingyao**, Lü Shuai\*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
