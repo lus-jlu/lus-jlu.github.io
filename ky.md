@@ -85,7 +85,7 @@
 5|<A href="https://sigir2026.org" target="_blank">SIGIR 2026</A>|2026.01.15 AOE|2026.01.22 AOE|2026.07.20-24|Melbourne, Australia|<A href="https://openreview.net/group?id=ACM.org/SIGIR/2026" target="_blank">投稿系统</A>
 6|<A href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</A>|2026.01.23 AOE|2026.01.28 AOE|2026.07.06-12|Seoul, South Korea|<A href="https://openreview.net/group?id=ICML.cc/2026" target="_blank">投稿系统</A>
 7|——|
-8|<A href="https://www.acmmm.org/" target="_blank">MM 2026</A>|待定|待定|2026.11.10-14|Rio de Janeiro, Brazil|待定
+8|<A href="https://2026.acmmm.org/" target="_blank">MM 2026</A>|待定|2026.04.01 AOE|2026.11.10-14|Rio de Janeiro, Brazil|待定
 9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2026</A>|待定|待定|2026.12.06-12|Sydney, Australia|<A href="https://openreview.net/group?id=NeurIPS.cc/2026" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
