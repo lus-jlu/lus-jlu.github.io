@@ -118,8 +118,6 @@
 |7|06240722<BR>王宗凡|经济学院<BR>金融学||🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|1🥇5🥈1🥉
 |8|21221327<BR>赵星宇|计算机科学与技术学院<BR>网络空间安全|🥉CCPC秦皇岛|🥈ICPC南京|🥇ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC上海<BR>🥉CCPC重庆<BR>🥉ICPC东亚区决赛|1🥇2🥈4🥉
 |11|55250714<BR>张力文|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|||🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|0🥇4🥈0🥉
-|12|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术||🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|0🥇2🥈4🥉
-|13|55231029<BR>袁英麒|软件学院<BR>工科试验班（软件工程）||🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|0🥇2🥈4🥉
 |14|17240426<BR>张健哲|软件学院<BR>软件工程|||🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|0🥇2🥈2🥉
 |15|21241416<BR>欧阳承风|计算机科学与技术学院<BR>物联网工程|||🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|0🥇1🥈3🥉
 |16|55230218<BR>唐德睿|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|||🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|0🥇1🥈3🥉
