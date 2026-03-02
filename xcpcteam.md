@@ -113,8 +113,6 @@
 
 |序|学号/姓名|学院/专业|2023-2024<BR>赛季|2024-2025<BR>赛季|2025-2026<BR>赛季|历史战绩
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|3|21241614<BR>徐梓博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）||🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛|6🥇3🥈0🥉
-|4|55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）||🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥉ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|3🥇4🥈3🥉
 |7|06240722<BR>王宗凡|经济学院<BR>金融学||🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|1🥇5🥈1🥉
 |8|21221327<BR>赵星宇|计算机科学与技术学院<BR>网络空间安全|🥉CCPC秦皇岛|🥈ICPC南京|🥇ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC上海<BR>🥉CCPC重庆<BR>🥉ICPC东亚区决赛|1🥇2🥈4🥉
 |11|55250714<BR>张力文|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|||🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|0🥇4🥈0🥉
