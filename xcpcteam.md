@@ -10,14 +10,30 @@
 + 副队长+候任队长：拱垲（计算机科学与技术学院，计算机科学与技术专业2023级本科生）
 + 训练场地：吉林大学王湘浩楼A102-103室
 
-# 2026-2027赛季的参赛队伍与队员
+## 【2025-2026赛季的参赛队伍】
 
-## 【参赛队伍（待重组）】
+序|队名|队员|备注
+:-:|:-:|:-:|:-:
+1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
+2|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
+3|未来纵澜<BR>Surging Into The Future|刘昱，王宗凡，张力文
+4|久世浮倾<BR>Eons Adrift|孔泉智，邱天，赵星宇
+5|终焉夜雨<BR>Ending Rain|席乐媛，欧阳承风，唐德睿
+6|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
+7|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
+8|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
+9|罚时天王<BR>The King of Penalty|钟姝伶，鞠学深，李雨隆
+10|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
+11|白毛红瞳小萝莉<BR>Shiro|何旭，林辰旭，林钰博
+12|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
+13|所谓算无遗策<BR>Faultless Strategy|栗铭远，李佳析，于翔
+14|喆森大学程序设计竞赛第一大队<BR>Lovely Tiantian Lele Lingling in Chengdu|邱天，席乐媛，钟姝伶|女队
+
+## 【2026-2027赛季的参赛队伍（待重组）】
 
 序|队名|队员|状态备注
 :-:|:-:|:-:|:-:
 1|
-
 
 ## 【现役队员】
 
@@ -86,25 +102,6 @@
 |10|24250816<BR>戚家浩|建设工程学院<BR>土木类|/|
 |11|10250425<BR>申名扬|数学学院<BR>数学类|/|待核实
 |12|55250615<BR>徐睦轩|软件学院<BR>软件工程|/|
-
-# 2025-2026赛季的参赛队伍
-
-序|队名|队员|状态备注
-:-:|:-:|:-:|:-:
-1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
-2|一发猜对<BR>One-shot Guess|拱垲，张健哲，袁英麒
-3|未来纵澜<BR>Surging Into The Future|刘昱，王宗凡，张力文
-4|久世浮倾<BR>Eons Adrift|孔泉智，邱天，赵星宇
-5|终焉夜雨<BR>Ending Rain|席乐媛，欧阳承风，唐德睿
-6|栈深不知处<BR>Bottomless Stack|毛胜超，王星皓，石津豪
-7|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，程宇星
-8|夏日空调幻想时刻<BR>Final Fantasy: Summer Aircondition|周浩宇，朱明昊，王福峥
-9|罚时天王<BR>The King of Penalty|钟姝伶，鞠学深，李雨隆
-10|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
-11|白毛红瞳小萝莉<BR>Shiro|何旭，林辰旭，林钰博
-12|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
-13|所谓算无遗策<BR>Faultless Strategy|栗铭远，李佳析，于翔
-14|喆森大学程序设计竞赛第一大队<BR>Lovely Tiantian Lele Lingling in Chengdu|邱天，席乐媛，钟姝伶|女队
 
 ## 【日常训练和[参赛报销](xcpcbx)】
 
