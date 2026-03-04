@@ -217,10 +217,9 @@ reinforcement learning. 2026. (Submitted)
 18. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 19. **Lü Shuai**, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 20. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. (Submitted)
-21. Zhu Wenbo, Xiao Wei, **Lü Shuai\***. Soft-penalty guided exploration in reinforcement learning. 2025. (Submitted)
-22. Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-23. Zhou Ruikai, Li Songlin, **Lü Shuai\***. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2026. (Submitted)
-24. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2026. (Submitted)
+21. Long Zehong, Zhu Wenbo, Zhang Yushu, **Lü Shuai\***, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
+22. Zhou Ruikai, Li Songlin, **Lü Shuai\***. From simple to complex: Mitigating the impact of critic accuracy fluctuations by multi-agent reinforcement learning. 2026. (Submitted)
+23. Zhou Ruikai, Zhong Taihong, Li Songlin, **Lü Shuai\***. A Kullback-Leibler divergence perspective on policy gradient methods in reinforcement learning. 2026. (Submitted)
 
 注：按照国际惯例，*表示通讯作者。
 
