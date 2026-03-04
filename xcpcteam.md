@@ -74,7 +74,7 @@
 |序|学号/姓名|学院/专业|2024-2025<BR>赛季|2025-2026<BR>赛季|2026-2027<BR>赛季|2027-2028<BR>赛季|历史战绩
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |1|21241614<BR>徐梓博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛|||6🥇3🥈0🥉
-|2|55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥉ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|待核实||3🥇4🥈3🥉
+|2|55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥉ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|||3🥇4🥈3🥉
 |3|06240722<BR>王宗凡|经济学院<BR>金融学|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|待核实||1🥇5🥈1🥉
 |4|17240426<BR>张健哲|软件学院<BR>软件工程|/|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|||0🥇2🥈2🥉
 |5|21241416<BR>欧阳承风|计算机科学与技术学院<BR>物联网工程|/|🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|||0🥇1🥈3🥉
