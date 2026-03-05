@@ -2,7 +2,7 @@
 
 ## 1. 期刊和会议的各种评价
 
-+ 【中科院分区】中国科学院文献情报中心期刊分区表（2025年，发布时间2025年03月20日），详见[<A href="https://www.fenqubiao.com/" target="_blank">官方查询系统</A>]或[<A href="https://www.letpub.com.cn/index.php?page=journalapp" target="_blank">LetPub期刊信息查询系统</A>]。
++ 【中科院分区】中国科学院文献情报中心期刊分区表（2025年，发布时间2025年3月20日），详见[<A href="https://www.fenqubiao.com/" target="_blank">官方查询系统</A>]或[<A href="https://www.letpub.com.cn/index.php?page=journalapp" target="_blank">LetPub期刊信息查询系统</A>]。
 注：官方计划每年更新一次（2024至2023年通常每年12月发布，2025年改为3月发布）。
 
 + 【影响因子】影响因子（Impact Factor，IF）是科睿唯安（Clarivate Analytics）出品的期刊引证报告（Journal Citation Reports，JCR）中的一项数据，即某期刊前2年发表的论文在报告年份被引用总次数除以该期刊在这2年内发表的论文总数，是国际上通行的期刊评价指标。
@@ -72,7 +72,7 @@
 8|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
 9|SIGIR|International ACM SIGIR Conference on Research and Development in Information Retrieval|数据挖掘A类|ACM
 
-### 近期会议投稿信息（更新于2025.12）
+### 近期会议投稿信息（更新于2026.3）
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
