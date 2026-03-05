@@ -76,17 +76,17 @@
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-7|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.03.03<BR>23:59 HST|2025.03.07<BR>23:59 HST|2025.10.19-23|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025" target="_blank">投稿系统</A>
-9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2025</A>|2025.05.11 AOE|2025.05.15 AOE|2025.12.02-07|San Diego, USA|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
-1|<A href="https://kdd2026.kdd.org" target="_">KDD 2026</A>|2025.07.24 AOE<BR>2026.02.01 AOE|2025.07.31 AOE<BR>2026.02.08 AOE|2026.08.09-13|Jeju, South Korea|<A href="https://openreview.net/group?id=KDD.org/2026" target="_blank">投稿系统</A>
-2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.07.25 AOE|2025.08.01 AOE|2026.01.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
-3|<A href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR 2026</A>|2025.11.06 AOE|2025.11.13 AOE|2026.06.03-07|Denver, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2026" target="_blank">投稿系统</A>
-4|<A href="https://2026.ijcai.org" target="_blank">IJCAI 2026</A>|2026.01.12 AOE|2026.01.19 AOE|2026.08.15-21|Bremen, Germany|<A href="https://chairingtool.com/conferences/IJCAIECAI2026/main-track?role=author" target="_blank">投稿系统</A>
-5|<A href="https://sigir2026.org" target="_blank">SIGIR 2026</A>|2026.01.15 AOE|2026.01.22 AOE|2026.07.20-24|Melbourne, Australia|<A href="https://openreview.net/group?id=ACM.org/SIGIR/2026" target="_blank">投稿系统</A>
-6|<A href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</A>|2026.01.23 AOE|2026.01.28 AOE|2026.07.06-12|Seoul, South Korea|<A href="https://openreview.net/group?id=ICML.cc/2026" target="_blank">投稿系统</A>
+7|<A href="https://iccv.thecvf.com/Conferences/2025" target="_blank">ICCV 2025</A>|2025.3.3<BR>23:59 HST|2025.3.7<BR>23:59 HST|2025.10.19-23|Honolulu, USA|<A href="https://openreview.net/group?id=thecvf.com/ICCV/2025" target="_blank">投稿系统</A>
+9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2025</A>|2025.05.11 AOE|2025.5.15 AOE|2025.12.2-7|San Diego, USA|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
+1|<A href="https://kdd2026.kdd.org" target="_">KDD 2026</A>|2025.7.24 AOE<BR>2026.2.1 AOE|2025.7.31 AOE<BR>2026.2.8 AOE|2026.8.9-13|Jeju, South Korea|<A href="https://openreview.net/group?id=KDD.org/2026" target="_blank">投稿系统</A>
+2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.7.25 AOE|2025.8.1 AOE|2026.1.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
+3|<A href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR 2026</A>|2025.11.6 AOE|2025.11.13 AOE|2026.6.3-7|Denver, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2026" target="_blank">投稿系统</A>
+4|<A href="https://2026.ijcai.org" target="_blank">IJCAI 2026</A>|2026.1.12 AOE|2026.1.19 AOE|2026.8.15-21|Bremen, Germany|<A href="https://chairingtool.com/conferences/IJCAIECAI2026/main-track?role=author" target="_blank">投稿系统</A>
+5|<A href="https://sigir2026.org" target="_blank">SIGIR 2026</A>|2026.1.15 AOE|2026.1.22 AOE|2026.7.20-24|Melbourne, Australia|<A href="https://openreview.net/group?id=ACM.org/SIGIR/2026" target="_blank">投稿系统</A>
+6|<A href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</A>|2026.1.23 AOE|2026.1.28 AOE|2026.7.6-12|Seoul, South Korea|<A href="https://openreview.net/group?id=ICML.cc/2026" target="_blank">投稿系统</A>
 7|——|
-8|<A href="https://2026.acmmm.org/" target="_blank">MM 2026</A>|2026.03.25 AOE|2026.04.01 AOE|2026.11.10-14|Rio de Janeiro, Brazil|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2026" target="_blank">投稿系统</A>
-9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2026</A>|待定|待定|2026.12.06-12|Sydney, Australia|<A href="https://openreview.net/group?id=NeurIPS.cc/2026" target="_blank">投稿系统</A>
+8|<A href="https://2026.acmmm.org/" target="_blank">MM 2026</A>|2026.3.25 AOE|2026.4.1 AOE|2026.11.10-14|Rio de Janeiro, Brazil|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2026" target="_blank">投稿系统</A>
+9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2026</A>|待定|待定|2026.12.6-12|Sydney, Australia|<A href="https://openreview.net/group?id=NeurIPS.cc/2026" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
 
@@ -95,11 +95,11 @@
 2. 吉林大学计算机科学与技术学院, 长春 130012, 中国
 3. 吉林大学软件学院, 长春 130012, 中国
 
-致谢: 由吉林省自然科学基金(20220101106JC, 20240602108RC), 国家自然科学基金(62407010)资助.
+致谢: 由吉林省自然科学基金(20240602108RC), 国家自然科学基金(62407010)资助.
 
 Shuai Lü
 1. Key Laboratory of Symbolic Computation and Knowledge Engineering (Jilin University), Ministry of Education, Changchun 130012, China
 2. College of Computer Science and Technology, Jilin University, Changchun 130012, China
 3. College of Software, Jilin University, Changchun 130012, China
 
-Acknowledgments: This work was supported by the Natural Science Research Foundation of Jilin Province of China under Grant Nos. 20220101106JC and 20240602108RC, and the National Natural Science Foundation of China under Grant No. 62407010.
+Acknowledgments: This work was supported by the Natural Science Research Foundation of Jilin Province of China under Grant No. 20240602108RC, and the National Natural Science Foundation of China under Grant No. 62407010.
