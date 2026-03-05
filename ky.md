@@ -80,8 +80,9 @@
 9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2025</A>|2025.5.11 AOE|2025.5.15 AOE|2025.12.2-7|San Diego, USA|<A href="https://openreview.net/group?id=NeurIPS.cc/2025" target="_blank">投稿系统</A>
 1|<A href="https://kdd2026.kdd.org" target="_">KDD 2026</A>|2025.7.24 AOE<BR>2026.2.1 AOE|2025.7.31 AOE<BR>2026.2.8 AOE|2026.8.9-13|Jeju, South Korea|<A href="https://openreview.net/group?id=KDD.org/2026" target="_blank">投稿系统</A>
 2|<A href="https://aaai.org/conference/aaai/aaai-26" target="_blank">AAAI 2026</A>|2025.7.25 AOE|2025.8.1 AOE|2026.1.20-27|Singapore|<A href="https://openreview.net/group?id=AAAI.org/2026" target="_blank">投稿系统</A>
-3|<A href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR 2026</A>|2025.11.6 AOE|2025.11.13 AOE|2026.6.3-7|Denver, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2026" target="_blank">投稿系统</A>
-4|<A href="https://2026.ijcai.org" target="_blank">IJCAI 2026</A>|2026.1.12 AOE|2026.1.19 AOE|2026.8.15-21|Bremen, Germany|<A href="https://chairingtool.com/conferences/IJCAIECAI2026/main-track?role=author" target="_blank">投稿系统</A>
+3|<A href="https://iclr.cc/Conferences/2026" target="_blank">ICLR 2026</A>|2025.9.19 AOE|2025.9.24 AOE|2026.4.23-27|Rio de Janeiro, Brazil|<A href="https://openreview.net/group?id=ICLR.org/2026" target="_blank">投稿系统</A>
+4|<A href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR 2026</A>|2025.11.6 AOE|2025.11.13 AOE|2026.6.3-7|Denver, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2026" target="_blank">投稿系统</A>
+-|<A href="https://2026.ijcai.org" target="_blank">IJCAI 2026</A>|2026.1.12 AOE|2026.1.19 AOE|2026.8.15-21|Bremen, Germany|<A href="https://chairingtool.com/conferences/IJCAIECAI2026/main-track?role=author" target="_blank">投稿系统</A>
 5|<A href="https://sigir2026.org" target="_blank">SIGIR 2026</A>|2026.1.15 AOE|2026.1.22 AOE|2026.7.20-24|Melbourne, Australia|<A href="https://openreview.net/group?id=ACM.org/SIGIR/2026" target="_blank">投稿系统</A>
 6|<A href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</A>|2026.1.23 AOE|2026.1.28 AOE|2026.7.6-12|Seoul, South Korea|<A href="https://openreview.net/group?id=ICML.cc/2026" target="_blank">投稿系统</A>
 7|——|
