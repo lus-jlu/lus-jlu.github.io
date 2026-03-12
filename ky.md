@@ -9,14 +9,14 @@
 注：官方计划每年更新一次（通常每年6月发布）。
 
 + 【CCF推荐分类】中国计算机学会推荐国际学术会议和期刊目录（2022年第6版，发布时间2023年3月8日，更新时间2024年6月28日），详见[<A href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" target="_blank">原文链接</A>]。
-注：官方计划每2-3年更新一次（2010年8月第1版，2011年8月第2版，2013年1月第3版，2015年12月第4版，2019年4月第5版，2023年3月第6版，2024年6月第6版更名版）。
+注：官方计划每2-3年更新一次（2010年8月第1版，2011年8月第2版，2013年1月第3版，2015年12月第4版，2019年4月第5版，2023年3月第6版，2024年6月第6版更名版，2026年3月第7版公示）。
 
 + 【CCF推荐中文分类】中国计算机学会推荐中文科技期刊目录（2019年第1版，发布时间2019年7月31日），详见[<A href="https://www.ccf.org.cn/Focus/2019-07-31/667609.shtml" target="_blank">原文链接</A>]。
 注：官方计划每2-3年更新一次（2019年1月第1版）。
 
 ## 2. 研究领域顶级或著名期刊
 
-序|期刊名称|CCF分类（2022）|中科院大类分区<BR>（2025）|中科院小类分区<BR>（2025）|ESI学科<BR>（2025）|出版商
+序|期刊名称|CCF分类（2022/2026）|中科院大类分区<BR>（2025）|中科院小类分区<BR>（2025）|ESI学科<BR>（2025）|出版商
 :-:|:-|:-:|:-:|:-:|:-:|:-:
 1|ACM Transactions on Autonomous and Adaptive Systems|体系结构B类|计算机科学4区|人工智能4区<BR>信息系统4区<BR>理论方法3区|计算机科学|ACM
 2|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统1区|计算机科学|ACM
@@ -35,7 +35,7 @@
 15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区TOP|人工智能1区|工程|IEEE
 16|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区TOP|人工智能1区|工程|IEEE
 17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学1区TOP|人工智能2区<BR>信息系统1区|工程|IEEE
-18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类|计算机科学1区TOP|信息系统1区<BR>软件工程1区|计算机科学|IEEE
+18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类/A类|计算机科学1区TOP|信息系统1区<BR>软件工程1区|计算机科学|IEEE
 19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区TOP|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学|IEEE
 20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区TOP|人工智能1区|工程|IEEE
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区TOP|控制论1区|工程|IEEE
