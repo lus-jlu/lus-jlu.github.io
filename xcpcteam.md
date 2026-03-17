@@ -31,9 +31,8 @@
 9|罚时天王<BR>The King of Penalty|钟姝伶，鞠学深，李雨隆
 10|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
 11|白毛红瞳小萝莉<BR>Shiro|何旭，林辰旭，林钰博
-12|酒笙清栀<BR>AC Without Pain|柳湛博，高珺，梁家铭
-13|所谓算无遗策<BR>Faultless Strategy|栗铭远，李佳析，于翔
-14|喆森大学程序设计竞赛第一大队<BR>Lovely Tiantian Lele Lingling in Chengdu|邱天，席乐媛，钟姝伶|女队
+12|所谓算无遗策<BR>Faultless Strategy|栗铭远，李佳析，于翔
+13|喆森大学程序设计竞赛第一大队<BR>Lovely Tiantian Lele Lingling in Chengdu|邱天，席乐媛，钟姝伶|女队
 
 ## 【2026-2027赛季的参赛队伍（待重组）】
 + 队长：拱垲（计算机科学与技术学院，计算机科学与技术专业2023级本科生）
