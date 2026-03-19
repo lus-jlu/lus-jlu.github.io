@@ -99,7 +99,7 @@
 - 办公：吉林大学王湘浩楼B230室
 - 地址：长春市前进大街2699号，130012
 
-<div align=center><img src="figures/lianxy2025.jpg" width="150"></div>
+<div align=center><img src="figures/wuyl2026.jpg" width="150"></div>
 
 ## 吴玉龙，男，汉族，2000年02月生，新疆维吾尔自治区石河子市人。
 - 2018.09-2022.06，南京邮电大学通达学院电子工程学院电子科学与技术专业，本科生
