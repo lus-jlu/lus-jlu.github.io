@@ -15,10 +15,9 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
 
-## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文11篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文12篇，在审学术论文10篇。
 1. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Dual-granularity queries for training-free zero-shot composed image retrieval. 2026. (Submitted)
-2. Liu Xuejie, Hou Zhibin, **Li Jingyao\***, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
-3. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Increment-decrement identification and dual-order cross-modal fusion for composed image retrieval. 2025. (Submitted)
+2. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Increment-decrement identification and dual-order cross-modal fusion for composed image retrieval. 2025. (Submitted)
 4. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, **Li Jingyao\***, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
 5. Wu Hao, Lü Shuai, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, **Li Jingyao\***. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 6. Xiao Wei, Lü Shuai, Zhang Tao, Chen Huangyang, **Li Jingyao\***, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
