@@ -1,4 +1,4 @@
-<img width="125" height="59" alt="image" src="https://github.com/user-attachments/assets/865164d1-fabe-4572-95f7-6d1c7199fedc" /><img width="198" height="59" alt="image" src="https://github.com/user-attachments/assets/0ba5c93d-9681-46ab-b85a-347214f8edc2" />
+
 |序|学号/姓名|学院/专业|2025-2026<BR>赛季|2026-2027<BR>赛季|2027-2028<BR>赛季|2028-2029<BR>赛季|历史战绩
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |1|21250303<BR>郭欣慧（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|
