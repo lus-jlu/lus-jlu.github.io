@@ -41,9 +41,11 @@
 序|队名|队员|备注
 :-:|:-:|:-:|:-:
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
-2|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风
-3|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒
-4|||女队
+2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远
+3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风
+4|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒
+5|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航
+6|||女队
 
 ## 【现役队员】 +【了解[退役队员（2021级至今）的获奖情况和毕业去向](xcpcalumni)】
 
