@@ -38,7 +38,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：lisl23@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -69,7 +68,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：jhyuan23@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -100,7 +98,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：weixiao23@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -129,7 +126,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：guixiang24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -166,7 +162,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：haowu24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B230室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -195,7 +190,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：sungh24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -233,7 +227,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：xdzhang24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -273,7 +266,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：hychen24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -307,7 +299,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：zhangtao24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -339,7 +330,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：tanlei24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B227室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -366,7 +356,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：houzb24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B226室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -396,7 +385,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 - 邮箱：shunhao24@mails.jlu.edu.cn
 - 办公：吉林大学王湘浩楼B226室
-- 地址：长春市前进大街2699号，130012
 
 ***
 
@@ -418,7 +406,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 -	邮箱：gongjc25@mails.jlu.edu.cn
 -	办公：吉林大学王湘浩楼B230室
--	地址：长春市前进大街2699号，130012
 
 ***
 
@@ -443,7 +430,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 -	邮箱：zhendj25@mails.jlu.edu.cn
 -	办公：吉林大学王湘浩楼B230室
--	地址：长春市前进大街2699号，130012
 
 ***
 
@@ -471,7 +457,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 -	邮箱：zhongjy25@mails.jlu.edu.cn
 -	办公：吉林大学王湘浩楼B230室
--	地址：长春市前进大街2699号，130012
 
 ***
 
@@ -495,7 +480,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 -	邮箱：changyu25@mails.jlu.edu.cn
 -	办公：吉林大学王湘浩楼B230室
--	地址：长春市前进大街2699号，130012
 
 ***
 
@@ -520,7 +504,6 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 -	邮箱：jiangwk25@mails.jlu.edu.cn
 -	办公：吉林大学王湘浩楼B230室
--	地址：长春市前进大街2699号，130012
 
 ***
 
@@ -564,8 +547,7 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【联系方式】
 -	邮箱：待学校分配
--	办公：吉林大学王湘浩楼B2XX室
--	地址：长春市前进大街2699号，130012
+-	办公：吉林大学王湘浩楼B230室
 
 ***
 
@@ -592,4 +574,3 @@ reinforcement learning. 2026. (Submitted)
 ## 【联系方式】
 -	邮箱：待学校分配
 -	办公：吉林大学王湘浩楼B2XX室
--	地址：长春市前进大街2699号，130012
