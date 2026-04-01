@@ -75,12 +75,13 @@
 - 2025.09至今，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文1篇。
-1. Fang Wensi, Zhang Xiaodan, **Lian Xiaoyu**, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. 2026. (Submitted)
-2. 顾磊, 夏楠\*, 江佳鸿, **廉筱峪**. 基于时空特征增强的单目标跟踪算法. **浙江大学学报(工学版)**, 2025, 59(11): 2418-2429.
-3. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. **Neurocomputing**, 2025, 643: 130412. **(中科院2区期刊, CCF推荐C类期刊, SCI, 目前IF: 6.5)**
-4. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.6)**
-5. **廉筱峪**, 夏楠\*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
+## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文2篇。
+1. **Lian Xiaoyu**, Fang Wensi, Jiang Wenkang, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
+2. Fang Wensi, Zhang Xiaodan, **Lian Xiaoyu**, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. 2026. (Submitted)
+3. 顾磊, 夏楠\*, 江佳鸿, **廉筱峪**. 基于时空特征增强的单目标跟踪算法. **浙江大学学报(工学版)**, 2025, 59(11): 2418-2429.
+4. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. **Neurocomputing**, 2025, 643: 130412. **(中科院2区期刊, CCF推荐C类期刊, SCI, 目前IF: 6.5)**
+5. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, 目前IF: 3.6)**
+6. **廉筱峪**, 夏楠\*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
 
 ## 【学位论文】
 1. **廉筱峪**. 基于深度学习的高效去混响噪声语音识别算法研究[硕士学位论文]. 辽宁大连: 大连工业大学, 2025.
