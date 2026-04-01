@@ -197,7 +197,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 
 目前尚处于评审阶段的学术论文：
 1. Lian Xiaoyu, Fang Wensi, Jiang Wenkang, **Lü Shuai\***. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
-2. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Dual-granularity queries for training-free zero-shot composed image retrieval. 2026. (Submitted)
+2. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Dual-granularity queries: A simple yet effective framework for zero-shot composed image retrieval. 2026. (Submitted)
 3. Zhang Tao, Zhu Yungang, Zhang Shunhao, Chen Huangyang, Zhou Wenbo, **Lü Shuai\***. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 4. Fang Wensi, Zhang Xiaodan, Lian Xiaoyu, Li Qiang, **Lü Shuai\***. Selective constraint learning for unsupervised cross-domain image retrieval. 2026. (Submitted)
 5. Wu Hao, Zhang Shunhao, **Lü Shuai\***. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
