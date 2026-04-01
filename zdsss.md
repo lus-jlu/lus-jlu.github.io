@@ -350,7 +350,7 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. Liu Xuejie, **Hou Zhibin**, Li Jingyao\*, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
+1. Liu Xuejie, **Hou Zhibin**, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
 2. Liu Xuejie, Zhang Shunhao, Wu Hao, **Hou Zhibin**, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
@@ -380,7 +380,7 @@ reinforcement learning. 2026. (Submitted)
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇。
 1. Zhang Tao, Zhu Yungang, **Zhang Shunhao**, Chen Huangyang, Zhou Wenbo, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Wu Hao, **Zhang Shunhao**, Lü Shuai\*. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
-3. Liu Xuejie, Hou Zhibin, Li Jingyao\*, **Zhang Shunhao**. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
+3. Liu Xuejie, Hou Zhibin, **Zhang Shunhao**. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
 4. Liu Xuejie, **Zhang Shunhao\***, Wu Hao, Zhong Jinyun. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
 5. Liu Xuejie, **Zhang Shunhao**, Wu Hao, Hou Zhibin, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
 6. Wu Hao, Lü Shuai, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
