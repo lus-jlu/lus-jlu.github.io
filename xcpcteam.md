@@ -46,7 +46,7 @@
 4|擅长AK的高木同学<BR>The Teasing AK Pro|钟姝伶，庄锦浩，韩洋
 5|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒
 6|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航
-7|<BR>|唐德睿，毛胜超，石津豪|队名待定
+7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪
 8|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，王星皓
 9|猎鹰<BR>Falcons|于翔，李佳析，范俊廷
 10|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋
