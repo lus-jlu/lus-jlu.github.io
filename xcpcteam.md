@@ -46,14 +46,15 @@
 4|擅长AK的高木同学<BR>The Teasing AK Pro|钟姝伶，庄锦浩，韩洋
 5|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒
 6|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航
-7|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，王星皓
-8|猎鹰<BR>Falcons|于翔，李佳析，范俊廷
-9|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋
-10|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
-11|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
-12|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
-13|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
-14|||女队
+7|<BR>|唐德睿，毛胜超，石津豪|队名待定
+8|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，王星皓
+9|猎鹰<BR>Falcons|于翔，李佳析，范俊廷
+10|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋
+11|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
+12|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
+13|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
+14|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
+15|||女队
 
 ## 【现役队员】 +【了解[退役队员（2021级至今）的获奖情况和毕业去向](xcpcalumni)】
 
