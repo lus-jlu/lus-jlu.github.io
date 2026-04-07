@@ -110,7 +110,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文0篇。
-1. Fang Zhenyu\#, **Wu Yulong\#**, Ren Jinchang\*, Zheng Jiangbin, Yan Yijun, Zhang Lixiang. Cas-OVD: Cascaded open-vocabulary detection of small objects using multi-refined region proposal network in autonomous driving. IEEE Transactions on Multimedia, 2026, 28: 757-771. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 9.7)**
+1. Fang Zhenyu\#, **Wu Yulong\#**, Ren Jinchang\*, Zheng Jiangbin, Yan Yijun, Zhang Lixiang. Cas-OVD: Cascaded open-vocabulary detection of small objects using multi-refined region proposal network in autonomous driving. **IEEE Transactions on Multimedia**, 2026, 28: 757-771. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 9.7)**
 
 ## 【学位论文】
 1. **吴玉龙**. 面向开放词汇的小目标检测研究[硕士学位论文]. 西安: 西北工业大学, 2025.
