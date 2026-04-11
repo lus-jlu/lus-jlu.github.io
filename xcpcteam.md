@@ -52,11 +52,12 @@
 10|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博
-13|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
-14|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
-15|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
-16|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
-17|||女队
+13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
+14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
+15|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
+16|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
+17|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
+18|||女队
 
 ## 【现役队员】 +【了解[退役队员（2021级至今）的获奖情况和毕业去向](xcpcalumni)】
 
