@@ -54,12 +54,13 @@
 12|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
 13|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博
 14|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
-15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
-16|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
-17|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
-18|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋
-19|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
-20|||女队
+15|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，樊陆旭|待定
+16|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
+17|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
+18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
+19|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋
+20|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
+21|||女队
 
 ## 【现役队员】 +【了解[退役队员（2021级至今）的获奖情况和毕业去向](xcpcalumni)】
 
