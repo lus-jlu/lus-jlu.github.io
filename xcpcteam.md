@@ -50,7 +50,7 @@
 8|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，王星皓
 9|猎鹰<BR>Falcons|于翔，李佳析，范俊廷
 10|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋
-11|这题做不对<BR>404 not found|陈子鸣，裴政哲|队伍不全
+11|这题做不对<BR>404 not found|陈子鸣，裴政哲|待定
 12|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
 13|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博
 14|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
