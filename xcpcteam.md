@@ -54,7 +54,7 @@
 12|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
 13|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博
 14|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
-15|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，樊陆旭|队员3待核实
+15|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，樊陆旭
 16|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
 17|<BR>|李丞尉，戴嘉浩，张耘赫|队名待定
 18|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
