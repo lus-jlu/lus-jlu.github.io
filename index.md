@@ -64,31 +64,10 @@
 + 全国大学生软件创新大赛，评审
 + 中国高校计算机大赛-网络技术挑战赛，评审
 + 学术期刊论文评审
-  - Applied Soft Computing
-  - Engineering Applications of Artificial Intelligence
-  - Expert Systems with Applications
-  - Frontiers of Computer Science
-  - IEEE Transactions on Circuits and Systems for Video Technology
-  - IEEE Transactions on Neural Networks and Learning Systems
-  - Information Processing and Management
-  - Information Sciences
-  - Knowledge-Based Systems
-  - Science China Information Sciences
-  - 计算机学报
-  - 软件学报
-  - 电子学报
-  - 自动化学报
+  - Applied Soft Computing、Engineering Applications of Artificial Intelligence、Expert Systems with Applications、Frontiers of Computer Science、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Transactions on Neural Networks and Learning Systems、Information Processing and Management、Information Sciences、Knowledge-Based Systems、Science China Information Sciences
+  - 计算机学报、软件学报、电子学报、自动化学报
 + 学术会议论文评审
-  - AAAI
-  - CVPR
-  - ICCV
-  - ICLR
-  - ICML
-  - IJCAI
-  - KDD
-  - MM
-  - NeurIPS
-  - SIGIR
+  - AAAI、CVPR、ICCV、ICLR、ICML、IJCAI、KDD、MM、NeurIPS、SIGIR
 
 ***
 
