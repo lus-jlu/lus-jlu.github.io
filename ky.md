@@ -87,7 +87,7 @@
 6|<A href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</A>|2026.1.23 AOE|2026.1.28 AOE|2026.7.6-12|Seoul, South Korea|<A href="https://openreview.net/group?id=ICML.cc/2026" target="_blank">投稿系统</A>
 7|——|
 8|<A href="https://2026.acmmm.org/" target="_blank">MM 2026</A>|2026.3.25 AOE|2026.4.1 AOE|2026.11.10-14|Rio de Janeiro, Brazil|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2026" target="_blank">投稿系统</A>
-9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2026</A>|待定|待定|2026.12.6-12|Sydney, Australia|<A href="https://openreview.net/group?id=NeurIPS.cc/2026" target="_blank">投稿系统</A>
+9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2026</A>|2026.5.4 AOE|2026.5.6 AOE|2026.12.6-12|Sydney, Australia|<A href="https://openreview.net/group?id=NeurIPS.cc/2026" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
 
