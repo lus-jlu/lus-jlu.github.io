@@ -41,7 +41,7 @@
 
 # CCPC中国大学生程序设计竞赛
 
-## 中国大学生程序设计竞赛（China Collegiate Programming Contest，CCPC）。赛事主要包括：网络预选赛、分站赛、女生专场赛、总决赛。
+## 中国大学生程序设计竞赛（China Collegiate Programming Contest，CCPC）。赛事主要包括：网络预选赛、分站赛和总决赛。
 
 ## 官方网站：<A href="https://ccpc.io/" target="_blank">ccpc.io</A>
 
