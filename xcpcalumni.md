@@ -29,7 +29,7 @@
 
 |序|学号/姓名|学院/专业|2023-2024|2024-2025|2025-2026|2026-2027|历史战绩|备注
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|1|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛||12🥇3🥈0🥉|
+|1|17231020<BR>于之航<BR>12🥇3🥈0🥉|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛||12🥇3🥈0🥉|
 |2|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC东亚区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛||8🥇4🥈1🥉|
 |3|55230617<BR>陈俊甫|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈|
 |4|13230320<BR>王一丁|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈|
