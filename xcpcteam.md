@@ -57,7 +57,7 @@
 15|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮|吉林9队
 16|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
 17|<BR>|李丞尉，戴嘉浩，张耘赫|队名待定
-18|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|吉林8队<BR>队员顺序待定
+18|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|吉林8队
 19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋
 21|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪|吉林10队
