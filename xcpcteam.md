@@ -40,28 +40,28 @@
 
 序|队名|队员|备注
 :-:|:-:|:-:|:-:
-1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
-2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远
-3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风
-4|擅长AK的高木同学<BR>The Teasing AK Pro|钟姝伶，庄锦浩，韩洋
-5|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒
-6|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航
-7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪
-8|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇|队员待定
-9|猎鹰<BR>Falcons|于翔，范俊廷|队员待定
-10|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋
+1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|吉林+东北
+2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|吉林+东北
+3|猎鹰<BR>Falcons|孔泉智，于翔，范俊廷|吉林+东北<BR>队名待定、队员顺序待定
+4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|吉林+东北
+5|擅长AK的高木同学<BR>The Teasing AK Pro|钟姝伶，庄锦浩，韩洋|吉林
+6|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒|吉林+东北
+7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|吉林+东北
+8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|吉林+东北
+9|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊|东北<BR>队名待定、队员顺序待定
+10|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋|东北
 11|这题做不对<BR>404 not found|陈子鸣，裴政哲|队员待定
 12|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
-13|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博
+13|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|东北
 14|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
-15|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，樊陆旭
+15|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮|吉林
 16|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
 17|<BR>|李丞尉，戴嘉浩，张耘赫|队名待定
-18|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
+18|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|吉林<BR>队员顺序待定
 19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋
-21|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
--|-|王福峥，朱明昊，李九思，陈莹柯，郭欣慧<BR>戚家浩，申名扬，徐睦轩，张天琦，曹硕<BR>陈思潮，李明宇，袁正扬，张海鹏|尚未组队
+21|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪|吉林
+-|-|王福峥，朱明昊，李九思，陈莹柯，郭欣慧<BR>戚家浩，申名扬，徐睦轩，张天琦，曹硕<BR>樊陆旭陈思潮，李明宇，袁正扬，张海鹏|尚未组队
 -|-|邱天，钟姝伶，席乐媛，陈莹柯，郭欣慧<BR>何睿倩，张天琦|女队<BR>尚未组队
 
 ## 【现役队员】 +【了解[退役队员（2021级至今）的获奖情况和毕业去向](xcpcalumni)】
