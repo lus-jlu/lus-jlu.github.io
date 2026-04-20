@@ -42,7 +42,7 @@
 :-:|:-:|:-:|:-:
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|吉林1队+东北1队
 2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|吉林2队+东北2队
-3|猎鹰<BR>Falcons|孔泉智，于翔，范俊廷|吉林3队+东北3队<BR>队名待定、队员顺序待定
+3|哈基米南北绿队<BR>Team Hachimi: North & South Green|于翔，孔泉智，范俊廷|吉林3队+东北3队
 4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|吉林4队+东北4队
 5|擅长AK的高木同学<BR>The Teasing AK Pro|钟姝伶，庄锦浩，韩洋|吉林11队
 6|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒|吉林5队+东北5队
