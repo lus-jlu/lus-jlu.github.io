@@ -52,10 +52,10 @@
 10|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|东北9队
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|吉林打星+东北10队
-13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
-14|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮|吉林10队
-15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
-16|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|吉林8队
+13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|秦皇岛3队
+14|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮|吉林10队+秦皇岛2队
+15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|秦皇岛4队
+16|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|吉林8队+秦皇岛1队
 17|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
 18|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏|吉林打星
 19|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|吉林打星+东北打星
