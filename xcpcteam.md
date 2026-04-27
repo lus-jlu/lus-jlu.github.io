@@ -49,7 +49,7 @@
 7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|吉林6队+东北6队
 8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|吉林7队+东北7队
 9|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊|吉林9队+东北8队
-10|码力男孩<BR>CFboys|鞠学深，李雨隆，刘勋|东北9队
+10|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|东北9队
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|东北10队
 13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
