@@ -184,7 +184,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 6. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
 7. Sun Genghao, Chen Huangyang, **Lü Shuai\***, Zhou Wenbo\*. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
 8. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, Xiao Wei, **Lü Shuai\***, Zhou Wenbo\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
-9. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Increment-decrement identification and dual-order cross-modal fusion for composed image retrieval. 2026. (Submitted)
+9. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Dual-order cross-modal fusion with increment-decrement guidance for composed image retrieval. 2026. (Submitted)
 10. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, **Lü Shuai\***. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
 11. Wu Hao, **Lü Shuai**, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 12. Xiao Wei, **Lü Shuai**, Zhang Tao, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
