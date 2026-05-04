@@ -23,7 +23,7 @@
 6. Xiao Wei, Lü Shuai, Zhang Tao, Chen Huangyang, **Li Jingyao\***, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 7. Yuan Jianhui, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, **Li Jingyao\***, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
 8. Li Songlin, Lü Shuai, Wu Hao, Chen Huangyang, Zhou Wenbo\*, **Li Jingyao\***. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2026. (Submitted)
-9. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2025. (Submitted)
+9. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2026. (Submitted)
 10. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
 11. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 12. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided framework for unsupervised domain adaptation. **Pattern Recognition**, 2026, 177: 113390. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 7.6)**
