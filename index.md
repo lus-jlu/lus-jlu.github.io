@@ -190,9 +190,8 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 12. Xiao Wei, **Lü Shuai**, Zhang Tao, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 13. Zhang Xiaodan, Fang Wensi, Tan Lei, **Lü Shuai\***. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2026. (Submitted)
 14. Yuan Jianhui, **Lü Shuai**, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
-15. Li Songlin, **Lü Shuai**, Wu Hao, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
-reinforcement learning. 2026. (Submitted)
-16. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2025. (Submitted)
+15. Li Songlin, **Lü Shuai**, Wu Hao, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2026. (Submitted)
+16. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2026. (Submitted)
 17. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
 18. Xiao Wei, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, **Lü Shuai\***. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
 19. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
