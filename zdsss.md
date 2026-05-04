@@ -371,13 +371,14 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：刘雪洁副教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇。
-1. Zhang Tao, Zhu Yungang, **Zhang Shunhao**, Chen Huangyang, Zhou Wenbo, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-2. Wu Hao, **Zhang Shunhao**, Lü Shuai\*. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
-3. Liu Xuejie, Hou Zhibin, **Zhang Shunhao**. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
-4. Liu Xuejie, **Zhang Shunhao\***, Wu Hao, Zhong Jinyun. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
-5. Liu Xuejie, **Zhang Shunhao**, Wu Hao, Hou Zhibin, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
-6. Wu Hao, Lü Shuai, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文7篇。
+1. Zhong Jinyun, **Zhang Shunhao**, Li Qianlong, Lü Shuai\*. Selective out-of-distribution state correction via behavior density in offline reinforcement learning. 2026. (Submitted)
+2. Zhang Tao, Zhu Yungang, **Zhang Shunhao**, Chen Huangyang, Zhou Wenbo, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
+3. Wu Hao, **Zhang Shunhao**, Lü Shuai\*. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
+4. Liu Xuejie, Hou Zhibin, **Zhang Shunhao**. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
+5. Liu Xuejie, **Zhang Shunhao\***, Wu Hao, Zhong Jinyun. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
+6. Liu Xuejie, **Zhang Shunhao**, Wu Hao, Hou Zhibin, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
+7. Wu Hao, Lü Shuai, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、综合甲等奖学金
@@ -444,8 +445,9 @@ reinforcement learning. 2026. (Submitted)
 -	2025.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 -	研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Liu Xuejie, Zhang Shunhao\*, Wu Hao, **Zhong Jinyun**. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
+1. **Zhong Jinyun**, Zhang Shunhao, Li Qianlong, Lü Shuai\*. Selective out-of-distribution state correction via behavior density in offline reinforcement learning. 2026. (Submitted)
+2. Liu Xuejie, Zhang Shunhao\*, Wu Hao, **Zhong Jinyun**. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 -	2022-2023学年，国家励志奖学金
