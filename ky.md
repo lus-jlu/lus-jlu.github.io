@@ -16,7 +16,7 @@
 
 ## 2. 研究领域顶级或著名期刊
 
-序|期刊名称|CCF分类（2022/2026）|中科院大类分区<BR>（2025）|中科院小类分区<BR>（2025）|ESI学科<BR>（2025）|出版商
+序|期刊名称|CCF分类（2026）|中科院大类分区<BR>（2025）|中科院小类分区<BR>（2025）|ESI学科<BR>（2025）|出版商
 :-:|:-|:-:|:-:|:-:|:-:|:-:
 1|ACM Transactions on Autonomous and Adaptive Systems|体系结构B类|计算机科学4区|人工智能4区<BR>信息系统4区<BR>理论方法3区|计算机科学|ACM
 2|ACM Transactions on Information Systems|数据挖掘A类|计算机科学2区|信息系统1区|计算机科学|ACM
@@ -35,7 +35,7 @@
 15|IEEE Transactions on Fuzzy Systems|人工智能B类|计算机科学1区TOP|人工智能1区|工程|IEEE
 16|IEEE Transactions on Image Processing|计算机图形学与多媒体A类|计算机科学1区TOP|人工智能1区|工程|IEEE
 17|IEEE Transactions on Knowledge and Data Engineering|数据挖掘A类|计算机科学1区TOP|人工智能2区<BR>信息系统1区|工程|IEEE
-18|IEEE Transactions on Multimedia|计算机图形学与多媒体B类/A类|计算机科学1区TOP|信息系统1区<BR>软件工程1区|计算机科学|IEEE
+18|IEEE Transactions on Multimedia|计算机图形学与多媒体A类|计算机科学1区TOP|信息系统1区<BR>软件工程1区|计算机科学|IEEE
 19|IEEE Transactions on Neural Networks and Learning Systems|人工智能B类|计算机科学1区TOP|人工智能2区<BR>理论方法1区<BR>硬件1区|计算机科学|IEEE
 20|IEEE Transactions on Pattern Analysis and Machine Intelligence|人工智能A类|计算机科学1区TOP|人工智能1区|工程|IEEE
 21|IEEE Transactions on Systems, Man, and Cybernetics: Systems|人机交互B类|计算机科学1区TOP|控制论1区|工程|IEEE
@@ -59,20 +59,19 @@
 
 ## 3. 研究领域顶级会议
 
-序|会议缩写|会议全称|CCF分类<BR>（2022/2026）|出版商
+序|会议缩写|会议全称|CCF分类<BR>（2026）|出版商
 :-:|:-:|:-|:-:|:-:
 1|AAAI|AAAI Conference on Artificial Intelligence|人工智能A类|AAAI
 2|CVPR|IEEE/CVF Conference on Computer Vision and Pattern Recognition|人工智能A类|IEEE
 3|ICCV|IEEE/CVF International Conference on Computer Vision|人工智能A类|IEEE
 4|ICML|International Conference on Machine Learning|人工智能A类|ML Research Press
 5|ICLR|International Conference on Learning Representations|人工智能A类|OpenReview.net
--|IJCAI|International Joint Conference on Artificial Intelligence|人工智能A类|IJCAI
 6|KDD|ACM SIGKDD Conference on Knowledge Discovery and Data Mining|数据挖掘A类|ACM
 7|MM|ACM International Conference on Multimedia|计算机图形学与多媒体A类|ACM
 8|NeurIPS|Annual Conference on Neural Information Processing Systems|人工智能A类|NeurIPS Foundation
 9|SIGIR|International ACM SIGIR Conference on Research and Development in Information Retrieval|数据挖掘A类|ACM
 
-### 近期会议投稿信息（更新于2026.3）
+### 近期会议投稿信息（更新于2026.5）
 
 序|会议主页|摘要截止时间|全文截止时间|会议时间|会议地点|投稿系统
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
