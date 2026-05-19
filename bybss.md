@@ -68,29 +68,30 @@
 - 研究方向：形式化方法与云计算
 - 毕业去向：[长春] 东北师范大学教师，现为东北师范大学讲师、硕士生导师
 
-## 【学术论文】在国内外期刊和会议上发表学术论文13篇，在审学术论文9篇。
-1. Zhang Tao, Zhu Yungang, Zhang Shunhao, Chen Huangyang, **Zhou Wenbo**, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-2. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*, **Zhou Wenbo\***. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
-3. Sun Genghao, Chen Huangyang, Lü Shuai\*, **Zhou Wenbo\***. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
-4. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, Xiao Wei, Lü Shuai\*, **Zhou Wenbo\***. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
-5. Liu Xuejie, Zhang Shunhao, Wu Hao, Hou Zhibin, **Zhou Wenbo\***. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
-6. Wu Hao, Lü Shuai, Zhang Shunhao, Chen Huangyang, Zhang Tao, **Zhou Wenbo\***, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
-7. Xiao Wei, Lü Shuai, Zhang Tao, Chen Huangyang, Li Jingyao\*, **Zhou Wenbo\***. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-8. Yuan Jianhui, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, **Zhou Wenbo\***. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
-9. Li Songlin, Lü Shuai, Wu Hao, Chen Huangyang, **Zhou Wenbo\***, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2026. (Submitted)
-10. An Daolong, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, **Zhou Wenbo\***. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
-11. Lü Shuai, Zhang Tongbo, Xu Yue, **Zhou Wenbo**, Lai Yong\*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024, 36(7): 1075-1088. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 1.7)**
-12. Han Shuai, **Zhou Wenbo**, Lü Shuai\*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
-13. Han Shuai, **Zhou Wenbo**, Lu Jiayi, Liu Jing, Lü Shuai\*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
-14. 李壮, 刘磊, 张桐搏, **周文博**, 吕帅\*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
-15. Lü Shuai\*, Han Shuai, **Zhou Wenbo**, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
-16. Han Shuai, **Zhou Wenbo**, Lü Shuai\*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
-17. **Zhou Wenbo**, Dague Philippe, Liu Lei\*, Ye Lina, Zaidi Fatiha. A coloured Petri nets based attack tolerance framework. In: **Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC 2020)**, Singapore, December 1-4, 2020, 159-168. **(CCF推荐C类会议)**
-18. **Zhou Wenbo**, Liu Lei, Lü Shuai, Zhang Peng\*. Toward formal modeling and verification of resource provisioning as a service in cloud. **IEEE Access**, 2019, 7: 26721-26730. **(中科院2区期刊, SCI, IF: 3.745)**
-19. **周文博**, 刘磊, 张鹏\*, 吕帅. Tabular表达式中正规函数表操作的形式语义. **华南理工大学学报(自然科学版)**, 2019, 47(2): 85-91.
-20. Ren Junqi, Liu Lei, Liu Feng, **Zhou Wenbo**, Lü Shuai\*. An executable specification of Map-Join-Reduce using Haskell. **IEEE Access**, 2019, 7: 10892-10904. **(中科院2区期刊, SCI, IF: 3.745)**
-21. **Zhou Wenbo**, Liu Lei, Zhang Peng\*, Lü Shuai, Li Jingyao. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
-22. **周文博**, 刘洪佳, 刘磊, 张鹏\*, 吕帅. 一种服务消息交互行为的元建模方法. **计算机科学**, 2017, 44(4): 24-29. **(CCF推荐中文B类期刊)**
+## 【学术论文】在国内外期刊和会议上发表学术论文13篇，在审学术论文10篇。
+1. Sun Genghao, Lü Shuai\*, **Zhou Wenbo\***. Meta-balanced state correction: A bi-level optimization framework for adaptive offline reinforcement learning. 2026. (Submitted)
+2. Zhang Tao, Zhu Yungang, Zhang Shunhao, Chen Huangyang, **Zhou Wenbo**, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
+3. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*, **Zhou Wenbo\***. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
+4. Sun Genghao, Chen Huangyang, Lü Shuai\*, **Zhou Wenbo\***. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
+5. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, Xiao Wei, Lü Shuai\*, **Zhou Wenbo\***. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
+6. Liu Xuejie, Zhang Shunhao, Wu Hao, Hou Zhibin, **Zhou Wenbo\***. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
+7. Wu Hao, Lü Shuai, Zhang Shunhao, Chen Huangyang, Zhang Tao, **Zhou Wenbo\***, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
+8. Xiao Wei, Lü Shuai, Zhang Tao, Chen Huangyang, Li Jingyao\*, **Zhou Wenbo\***. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
+9. Yuan Jianhui, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, **Zhou Wenbo\***. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+10. Li Songlin, Lü Shuai, Wu Hao, Chen Huangyang, **Zhou Wenbo\***, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2026. (Submitted)
+11. An Daolong, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, **Zhou Wenbo\***. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.3)**
+12. Lü Shuai, Zhang Tongbo, Xu Yue, **Zhou Wenbo**, Lai Yong\*. Combining bounded solving and controllable randomization for approximate model counting. **Journal of Experimental & Theoretical Artificial Intelligence**, 2024, 36(7): 1075-1088. **(中科院4区期刊, CCF推荐C类期刊, SCI, IF: 1.7)**
+13. Han Shuai, **Zhou Wenbo**, Lü Shuai\*, Zhu Sheng, Gong Xiaoyu. Entropy regularization methods for parameter space exploration. **Information Sciences**, 2023, 622: 476-489. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+14. Han Shuai, **Zhou Wenbo**, Lu Jiayi, Liu Jing, Lü Shuai\*. NROWAN-DQN: A stable noisy network with noise reduction and online weight adjustment for exploration. **Expert Systems with Applications**, 2022, 203: 117343. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.5)**
+15. 李壮, 刘磊, 张桐搏, **周文博**, 吕帅\*. 基于局部搜索的并行扩展规则推理方法. **软件学报**, 2021, 32(9): 2744-2754. **(CCF推荐中文A类期刊)**
+16. Lü Shuai\*, Han Shuai, **Zhou Wenbo**, Zhang Junwei. Recruitment-imitation mechanism for evolutionary reinforcement learning. **Information Sciences**, 2021, 553: 172-188. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 8.233)**
+17. Han Shuai, **Zhou Wenbo**, Lü Shuai\*, Yu Jiayu. Regularly updated deterministic policy gradient algorithm. **Knowledge-Based Systems**, 2021, 214: 106736. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.139)**
+18. **Zhou Wenbo**, Dague Philippe, Liu Lei\*, Ye Lina, Zaidi Fatiha. A coloured Petri nets based attack tolerance framework. In: **Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC 2020)**, Singapore, December 1-4, 2020, 159-168. **(CCF推荐C类会议)**
+19. **Zhou Wenbo**, Liu Lei, Lü Shuai, Zhang Peng\*. Toward formal modeling and verification of resource provisioning as a service in cloud. **IEEE Access**, 2019, 7: 26721-26730. **(中科院2区期刊, SCI, IF: 3.745)**
+20. **周文博**, 刘磊, 张鹏\*, 吕帅. Tabular表达式中正规函数表操作的形式语义. **华南理工大学学报(自然科学版)**, 2019, 47(2): 85-91.
+21. Ren Junqi, Liu Lei, Liu Feng, **Zhou Wenbo**, Lü Shuai\*. An executable specification of Map-Join-Reduce using Haskell. **IEEE Access**, 2019, 7: 10892-10904. **(中科院2区期刊, SCI, IF: 3.745)**
+22. **Zhou Wenbo**, Liu Lei, Zhang Peng\*, Lü Shuai, Li Jingyao. SDAC: A model for analysis of the execution semantics of data processing framework in cloud. **Computer Languages, Systems & Structures**, 2018, 54: 406-426. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 1.714)**
+23. **周文博**, 刘洪佳, 刘磊, 张鹏\*, 吕帅. 一种服务消息交互行为的元建模方法. **计算机科学**, 2017, 44(4): 24-29. **(CCF推荐中文B类期刊)**
 
 ## 【学位论文】
 1. **周文博**. 云计算系统的形式化建模与验证方法研究[博士学位论文]. 长春: 吉林大学, 2021.
