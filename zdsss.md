@@ -175,10 +175,11 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
-2. **Sun Genghao**, Chen Huangyang, Lü Shuai\*, Zhou Wenbo\*. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
-3. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+1. **Sun Genghao**, Lü Shuai\*, Zhou Wenbo\*. Meta-balanced state correction: A bi-level optimization framework for adaptive offline reinforcement learning. 2026. (Submitted)
+2. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
+3. **Sun Genghao**, Chen Huangyang, Lü Shuai\*, Zhou Wenbo\*. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
+4. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、校三好学生、校优秀学生干部
