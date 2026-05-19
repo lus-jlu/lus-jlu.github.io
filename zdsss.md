@@ -346,9 +346,10 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，硕士生（导师：刘雪洁副教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. Liu Xuejie, **Hou Zhibin**, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
-2. Liu Xuejie, Zhang Shunhao, Wu Hao, **Hou Zhibin**, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
+1. Liu Xuejie, **Hou Zhibin**, Lü Shuai\*. When Gaussian cache heads distort confidence: A mechanistic diagnosis of calibration collapse in vision-language test-time adaptation. 2026. (Submitted)
+2. Liu Xuejie, **Hou Zhibin**, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
+3. Liu Xuejie, Zhang Shunhao, Wu Hao, **Hou Zhibin**, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020.10，蓝桥杯全国软件和信息技术专业人才大赛，省级一等奖
