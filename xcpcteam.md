@@ -20,25 +20,25 @@
 
 序|队名|队员|近期报名顺序+备注
 :-:|:-:|:-:|:-:
-1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|东北1队
-2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|东北2队
-3|哈基米南北绿队<BR>Team Hachimi: North & South Green|于翔，孔泉智，范俊廷|东北3队
-4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|东北4队
-5|擅长AK的高木同学<BR>The Teasing AK Pro|钟姝伶，庄锦浩，韩洋|东北11队
-6|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒|东北5队
-7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|东北6队
-8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|东北7队
-9|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊|东北8队
-10|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|东北9队
+1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
+2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远
+3|哈基米南北绿队<BR>Team Hachimi: North & South Green|于翔，孔泉智，范俊廷
+4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风
+5|擅长AK的高木同学<BR>The Teasing AK Pro|钟姝伶，庄锦浩，韩洋
+6|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒
+7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航
+8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪
+9|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊
+10|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
-12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|东北10队
-13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|秦皇岛3队
-14|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮|秦皇岛2队
-15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|秦皇岛4队
-16|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|秦皇岛1队
+12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博
+13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
+14|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮
+15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
+16|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
 17|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
 18|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏
-19|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|东北打星
+19|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋
 20|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
 21|九尾黑白猫<BR>Nine-tailed Black White Cat|赵星宇，黄茁恒，李九思
 -|-|陈莹柯，郭欣慧，徐睦轩，张天琦，曹硕<BR>樊陆旭，李丞尉，李明宇，袁正扬，张耘赫|尚未组队
