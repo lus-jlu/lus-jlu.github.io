@@ -20,27 +20,27 @@
 
 序|队名|队员|备注
 :-:|:-:|:-:|:-:
-1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博
-2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远
-3|哈基米南北绿队<BR>Team Hachimi: North & South Green|于翔，孔泉智，范俊廷
-4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风
-5|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋
-6|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒
-7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航
-8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪
-9|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊
-10|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋
-11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博
-12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博
-13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖
-14|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮
-15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩
-16|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇
-17|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田
-18|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏
-19|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋
-20|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪
-21|九尾黑白猫<BR>Nine-tailed Black White Cat|赵星宇，黄茁恒，李九思
+1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|暑期队名待定
+2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|暑期队名待定
+3|哈基米南北绿队<BR>Team Hachimi: North & South Green|于翔，孔泉智，范俊廷|暑期队名待定
+4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|暑期队名待定
+5|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
+6|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒|暑期队名待定
+7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|暑期队名待定
+8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|暑期队名待定
+9|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊|暑期队名待定
+10|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|暑期队名待定
+11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|暑期队名待定
+12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|暑期队名待定
+13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|暑期队名待定
+14|超级省电模式<BR>Super Power Saving Mode|蒋硕阳，佘嘉雄，陈思潮|暑期队名待定
+15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
+16|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|暑期队名待定
+17|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|暑期队名待定
+18|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏|暑期队名待定
+19|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|暑期队名待定
+20|AC再快也还是86<BR>AC86|余赫，常易铭，肖子豪|暑期队名待定
+21|九尾黑白猫<BR>Nine-tailed Black White Cat|赵星宇，黄茁恒，李九思|暑期队名待定
 -|-|陈莹柯，郭欣慧，徐睦轩，张天琦，曹硕<BR>樊陆旭，李丞尉，李明宇，袁正扬，张耘赫|尚未组队
 -|-|戚家浩|保留训练资格
 
