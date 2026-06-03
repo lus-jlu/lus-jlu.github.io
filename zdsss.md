@@ -13,6 +13,7 @@
 - 2019.09-2023.06，吉林大学计算机科学与技术学院计算机科学与技术专业，本科生
 - 2023.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：[北京] 北京京东世纪贸易有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文5篇。
 1. **Li Songlin**, Lü Shuai, Wu Hao, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
@@ -49,6 +50,7 @@ reinforcement learning. 2026. (Submitted)
 - 2018.09-2022.06，东北电力大学计算机学院计算机科学与技术（卓越）专业，本科生（导师：李壮副教授）
 - 2023.09至今，吉林大学软件学院软件工程专业，硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：[北京] 北京三快在线科技有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
 1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
@@ -79,6 +81,7 @@ reinforcement learning. 2026. (Submitted)
 - 2019.09-2023.06，山东师范大学信息科学与工程学院计算机科学与技术专业，本科生
 - 2023.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：[北京] 北京嘀嘀无限科技发展有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文4篇。
 1. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
