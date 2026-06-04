@@ -23,10 +23,10 @@
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|暑期队名待定
 2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|暑期队名待定
 3|哈基米南北绿队<BR>Team Hachimi: North & South Green|于翔，范俊廷|暑期队名待定
-4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|暑期队名待定
+4|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|
 5|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
 6|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒|暑期队名待定
-7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|暑期队名待定
+7|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|
 8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|暑期队名待定
 9|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊|暑期队名待定
 10|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|暑期队名待定
