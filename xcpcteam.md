@@ -33,12 +33,12 @@
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|暑期队名待定
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|
 13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|暑期队名待定
-14|超级省电模式<BR>Super Power Saving Mode|佘嘉雄|暑期队名待定
-15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
-16|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
-17|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|
-18|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|暑期队名待定
-19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|暑期队名待定
+14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
+15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
+16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|
+17|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|暑期队名待定
+18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|暑期队名待定
+19|超级省电模式<BR>Super Power Saving Mode|佘嘉雄|暑期队名待定
 20|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏|暑期队名待定
 21|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|暑期队名待定
 22|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
