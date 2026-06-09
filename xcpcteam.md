@@ -24,7 +24,7 @@
 2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|暑期队名待定
 3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|
 4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
-5|未央星<BR>Unfading Star|拱垲，张健哲，袁英麒|暑期队名待定
+5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
 6|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|
 7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|暑期队名待定
 8|火箭毛毛虫<BR>RocketWorm|朱明昊|暑期队名待定
