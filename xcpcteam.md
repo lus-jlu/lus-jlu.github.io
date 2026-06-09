@@ -30,7 +30,7 @@
 8|火箭毛毛虫<BR>RocketWorm|康德润，刘雅奇，朱明昊|暑期队名待定
 9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
 10|抉择，抉择<BR>Indecision, Indecision|于翔，范俊廷，陈思潮|
-11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|暑期队名待定
+11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|
 13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
 14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
