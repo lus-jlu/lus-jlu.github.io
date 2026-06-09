@@ -39,7 +39,7 @@
 17|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|暑期队名待定
 18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|暑期队名待定
 19|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏|暑期队名待定
-20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|暑期队名待定
+20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
 21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 -|-|陈莹柯，郭欣慧，张天琦，樊陆旭，袁正扬|尚未组队
 -|-|戚家浩|保留资格
