@@ -26,7 +26,7 @@
 4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
 5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
 6|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|
-7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|暑期队名待定
+7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
 8|抉择，抉择<BR>Indecision, Indecision|于翔，范俊廷，陈思潮|
 9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
 10|火箭毛毛虫<BR>RocketWorm|朱明昊|暑期队名待定
