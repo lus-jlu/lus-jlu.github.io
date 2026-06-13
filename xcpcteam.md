@@ -36,7 +36,7 @@
 14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
 15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
 16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|
-17|幻日<BR>Die Nebensonnen|刘鑫宇，龙麒旭，杨翔宇|暑期队名待定
+17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
 18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|暑期队名待定
 19|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏|暑期队名待定
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
