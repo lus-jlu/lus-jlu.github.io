@@ -85,6 +85,7 @@
 7|——|
 8|<A href="https://2026.acmmm.org/" target="_blank">MM 2026</A>|2026.3.25 AOE|2026.4.1 AOE|2026.11.10-14|Rio de Janeiro, Brazil|<A href="https://openreview.net/group?id=acmmm.org/ACMMM/2026" target="_blank">投稿系统</A>
 9|<A href="https://neurips.cc/" target="_blank">NeurIPS 2026</A>|2026.5.4 AOE|2026.5.6 AOE|2026.12.6-12|Sydney, Australia|<A href="https://openreview.net/group?id=NeurIPS.cc/2026" target="_blank">投稿系统</A>
+2|<A href="https://aaai.org/conference/aaai/aaai-27" target="_blank">AAAI 2027</A>|2026.7.21 AOE|2025.7.28 AOE|2027.2.16-23|Montreal, Canada|<A href="https://openreview.net/group?id=AAAI.org/2027" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
 
