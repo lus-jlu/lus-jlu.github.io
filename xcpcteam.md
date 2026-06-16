@@ -38,7 +38,7 @@
 16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|
 17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
 18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|暑期队名待定
-19|从零开始<BR>re:0|申名扬，戴嘉浩，张海鹏|暑期队名待定
+19|前有绝景<BR>Mind Your Step|申名扬，张海鹏，戴嘉浩|
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
 21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
