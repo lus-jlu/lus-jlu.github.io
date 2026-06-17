@@ -29,7 +29,7 @@
 7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
 8|抉择，抉择<BR>Indecision, Indecision|于翔，范俊廷，陈思潮|
 9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
-10|火箭毛毛虫<BR>RocketWorm|朱明昊|暑期队名待定
+10|<BR>|朱明昊，樊陆旭，袁正扬|暑期队名待定
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|
 13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
@@ -37,12 +37,11 @@
 15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
 16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|
 17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
-18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|暑期队名待定
+18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
 19|前有绝景<BR>Mind Your Step|申名扬，张海鹏，戴嘉浩|
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
 21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
--|-|樊陆旭，袁正扬|尚未组队
 -|-|戚家浩|保留资格
 
 ## 【现役队员】 +【了解[集训队历任队长和队员（2021级至今）的获奖情况和毕业去向](xcpcalumni)】
