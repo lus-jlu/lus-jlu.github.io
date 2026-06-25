@@ -6,6 +6,8 @@
 
 ## 考试平台：<A href="https://matiji.net/astar" target="_blank">matiji.net/astar</A>
 
+## 第22届百度之星程序设计大赛的参赛日程（随时更新）
+
 ## 第21届百度之星程序设计大赛的参赛日程
   + 报名截止时间：开赛前2小时
   + 省赛时间：
