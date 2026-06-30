@@ -26,7 +26,7 @@
 9. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2026. (Submitted)
 10. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
 11. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
-12. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided framework for unsupervised domain adaptation. **Pattern Recognition**, 2026, 177: 113390. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 7.6)**
+12. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided framework for unsupervised domain adaptation. **Pattern Recognition**, 2026, 177: 113390. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 9.1)**
 13. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via VLM assisted pseudo-labeling and dual space adaptation. In: **Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**, San Diego, USA, December 2-7, 2025. **(CCF推荐A类会议)**
 14. Lü Shuai, Zhang Xinyu, Li Zongze, **Li Jingyao\***, Kang Meng. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, IF: 6.0)**
 15. Yu Jiayu, **Li Jingyao**, Lü Shuai\*, Han Shuai. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
