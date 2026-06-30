@@ -196,8 +196,8 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 国家电网有限公司
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文2篇，在审学术论文1篇，授权发明专利1项。
-1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. (Submitted)
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文3篇，授权发明专利1项。
+1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 2. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 4. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
@@ -214,9 +214,6 @@
 - 2022.06，沈阳工业大学优秀毕业生
 - 2023-2024学年，研究生学业奖学金
 - 2024-2025学年，研究生学业奖学金
-
-## 【联系方式】
-- 邮箱：zhongth22@mails.jlu.edu.cn
 
 ***
 
