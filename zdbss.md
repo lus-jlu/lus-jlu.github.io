@@ -36,7 +36,7 @@
 - 2024.09至今，吉林大学计算机科学与技术学院计算机系统结构专业，博士生（导师：李强教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文7篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文6篇。
 1. Zhang Xiaodan, **Fang Wensi**, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
 2. Lian Xiaoyu, **Fang Wensi**, Jiang Wenkang, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
 3. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
