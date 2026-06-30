@@ -19,7 +19,7 @@
 1. **Li Songlin**, Lü Shuai, Wu Hao, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2026. (Submitted)
 2. Xiao Wei, **Li Songlin**, An Daolong, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
-3. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+3. Wu Hao, **Li Songlin**, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 4. An Daolong, Shen Chun, **Li Songlin**, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 7.2)**
 5. **Li Songlin**, Xiao Wei, Wu Hao, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 6. Shu Man, Lü Shuai\*, Gong Xiaoyu, An Daolong, **Li Songlin**. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.2)**
@@ -85,7 +85,7 @@ reinforcement learning. 2026. (Submitted)
 1. Zhang Tao, Zhu Yungang, Chen Huangyang, Wu Hao, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
 2. **Xiao Wei**, Zhang Tao, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 3. **Xiao Wei**, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
-4. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+4. Wu Hao, Li Songlin, **Xiao Wei**, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 5. An Daolong, Shen Chun, Li Songlin, **Xiao Wei**, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 7.2)**
 6. Li Songlin, **Xiao Wei**, Wu Hao, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 
@@ -150,7 +150,7 @@ reinforcement learning. 2026. (Submitted)
 6. Li Songlin, Lü Shuai, **Wu Hao**, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2026. (Submitted)
 7. Xiao Wei, Li Songlin, An Daolong, **Wu Hao**, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
-8. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+8. **Wu Hao**, Li Songlin, Xiao Wei, Zhong Taihong, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 9. Li Songlin, Xiao Wei, **Wu Hao**, Zhang Xiaodan, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 
 ## 【荣誉奖励】
