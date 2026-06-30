@@ -226,7 +226,7 @@
 - 毕业去向：[北京] 北京京东世纪贸易有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文4篇。
-1. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 310: 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+1. **Wu Junhong**, Liu Jie, Xiong Xi, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 310: 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
 2. Zhong Taihong, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, **Wu Junhong**. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 3. Xiong Xi, Shen Chun, **Wu Junhong**, Lü Shuai\*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 9.4)**
 4. Zhu Sheng, Shen Chun, Lü Shuai\*, **Wu Junhong**, An Daolong. Double buffers CEM-TD3: More efficient evolution and richer exploration. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 17193-17201. **(CCF推荐A类会议)**
@@ -263,7 +263,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
 1. Xiao Wei, Li Songlin, **An Daolong**, Wu Hao, Zhang Xiaodan, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
-2. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 310: 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+2. Wu Junhong, Liu Jie, Xiong Xi, **An Daolong**, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 310: 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
 3. **An Daolong**, Shen Chun, Li Songlin, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Result constraint behavior clone for offline reinforcement learning. **Neural Networks**, 2026, 196: 108355. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 7.2)**
 4. Li Songlin, Xiao Wei, Wu Hao, Zhang Xiaodan, **An Daolong**, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
 5. Shu Man, Lü Shuai\*, Gong Xiaoyu, **An Daolong**, Li Songlin. Episodic memory-double actor-critic twin delayed deep deterministic policy gradient. **Neural Networks**, 2025, 187: 107286. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.2)**
@@ -295,7 +295,7 @@
 - 毕业去向：[山东青岛] 青岛市工业和信息化局
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇。
-1. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 310: 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 7.5)**
+1. Wu Junhong, Liu Jie, **Xiong Xi**, An Daolong, Lü Shuai\*. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 310: 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
 2. **Xiong Xi**, Shen Chun, Wu Junhong, Lü Shuai\*, Zhang Xiaodan. Combined data augmentation framework for generalizing deep reinforcement learning from pixels.  **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 9.4)**
 3. Zhang Junwei, Han Shuai, **Xiong Xi**, Zhu Sheng, Lü Shuai\*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院2区期刊, CCF推荐B类期刊, SCI, IF: 6.8)**
 
