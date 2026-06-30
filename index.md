@@ -121,7 +121,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 <A href="ky" target="_blank">整理的期刊和会议评价</A>
 
 主要代表性学术论文：
-1. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
+1. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2026, 105035. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 2. Fang Wensi, Zhang Xiaodan, Lian Xiaoyu, Li Qiang, **Lü Shuai\***. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026. **(CCF推荐A类会议)**
 3. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Target self-guided framework for unsupervised domain adaptation. **Pattern Recognition**, 2026, 177: 113390. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 9.1)**
 4. Wu Junhong, Liu Jie, Xiong Xi, An Daolong, **Lü Shuai\***. Focus on primary: Differential diverse data augmentation for generalization in visual reinforcement learning. **Expert Systems with Applications**, 2026, 310: 131231. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
