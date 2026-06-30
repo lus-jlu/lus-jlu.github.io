@@ -116,7 +116,7 @@ reinforcement learning. 2026. (Submitted)
 2. Tan Lei, Guo Dong, **Li Guixiang**, Lü Shuai\*. Learn from the recent: Test-time adaptation of vision-language models via distribution-aware calibration and temporal retrieval. 2026. (Submitted)
 3. Tan Lei, Guo Dong, Fang Wensi, **Li Guixiang**, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
 4. Yuan Jianhui, Lü Shuai, Zhang Xinyu, **Li Guixiang**, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
-5. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2026, 25(1): 150-160. **(中科院2区期刊, SCI, 目前IF: 1.2)**
+5. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2026, 25(1): 150-160. **(中科院2区期刊, SCI, 目前IF: 1.6)**
 6. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
