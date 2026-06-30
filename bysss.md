@@ -23,7 +23,7 @@
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文1篇。
 1. Long Zehong, **Zhu Wenbo**, Zhang Yushu, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-2. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+2. Zhou Ruikai, Zhong Taihong, **Zhu Wenbo**, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 3. Zhou Ruikai, **Zhu Wenbo**, Han Shuai, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.2)**
 4. Li Jingyao, Lü Shuai, **Zhu Wenbo**, Li Zhanshan\*. Enhancing transferability and discriminability simultaneously for unsupervised domain adaptation. **Knowledge-Based Systems**, 2022, 247: 108705. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 8.8)**
 
@@ -199,7 +199,7 @@
 ## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文3篇，授权发明专利1项。
 1. Wu Hao, Li Songlin, Xiao Wei, **Zhong Taihong**, Lü Shuai\*. Offline-to-online reinforcement learning with triple-intensity policy constraints. 2026. **Information Processing and Management**, 2026. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
 2. **Zhong Taihong**, Han Shuai, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
-3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+3. Zhou Ruikai, **Zhong Taihong**, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 4. 吕帅, 龙泽泓, **钟太鸿**, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
@@ -740,8 +740,8 @@
 - 毕业去向：[荷兰] Utrecht University（乌特列支大学）国家公派博士生（导师：Mehdi Dastani教授）
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文14篇。
-1. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
-2. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 6.9)**
+1. Zhong Taihong, **Han Shuai**, Zhang Yushu, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
+2. Zhou Ruikai, Zhong Taihong, Zhu Wenbo, **Han Shuai**, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 3. Zhou Ruikai, Zhu Wenbo, **Han Shuai**, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.2)**
 4. Yu Jiayu, Li Jingyao, Lü Shuai\*, **Han Shuai**. Mixed experience sampling for off-policy reinforcement learning. **Expert Systems with Applications**, 2024, 251: 124017. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 7.5)**
 5. Zhang Junwei, **Han Shuai**, Xiong Xi, Zhu Sheng, Lü Shuai\*. Explorer-Actor-Critic: Better actors for deep reinforcement learning. **Information Sciences**, 2024, 662: 120255. **(中科院2区期刊, CCF推荐B类期刊, SCI, IF: 6.8)**
