@@ -95,7 +95,7 @@
 - 毕业去向：[山东滨州] 滨州魏桥国科高等技术研究院
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇。
-1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
+1. **Zhang Zeyu**, Shen Chun, Ma Qiang, Kang Meng, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026, 28582-28590. **(CCF推荐A类会议)**
 2. **Zhang Zeyu**, Shen Chun, Lü Shuai\*, Zhang Shaojie. Reconfigurability-aware selection for contrastive active domain adaptation. In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, South Korea, August 3-9, 2024, 5545-5553. **(CCF推荐A类会议)**
 3. Zhang Shaojie, Shen Chun, Lü Shuai\*, **Zhang Zeyu**. Reviewing the forgotten classes for domain adaptation of black-box predictors. In: **Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)**, Vancouver, Canada, February 20-27, 2024, 16830-16837. **(CCF推荐A类会议)**
 
@@ -505,7 +505,7 @@
 - 毕业去向：[北京] 北京京东世纪贸易有限公司
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文6篇。
-1. Zhang Zeyu, Shen Chun, Ma Qiang, **Kang Meng**, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026. **(CCF推荐A类会议)**
+1. Zhang Zeyu, Shen Chun, Ma Qiang, **Kang Meng**, Lü Shuai\*. Prototype-driven active domain adaptation with density consideration. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026, 28582-28590. **(CCF推荐A类会议)**
 2. Lü Shuai, Zhang Xinyu, Li Zongze, Li Jingyao\*, **Kang Meng**. Bi-classifier with neighborhood aggregation for unsupervised domain adaptation. **Information Sciences**, 2025, 718: 122399. **(中科院2区期刊, CCF推荐B类期刊, SCI, IF: 6.0)**
 3. Zhou Ruikai, Zhu Wenbo, Han Shuai, **Kang Meng**, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.2)**
 4. Lü Shuai, **Kang Meng**, Li Ximing\*. Alleviating imbalanced pseudo-label distribution: Self-supervised multi-source domain adaptation with label-specific confidence.  In: **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, South Korea, August 3-9, 2024, 4669-4677. **(CCF推荐A类会议)**
