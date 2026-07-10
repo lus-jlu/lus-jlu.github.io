@@ -315,12 +315,12 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、郭东教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇，申请发明专利（目前实质审查）1项。
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文3篇，在审学术论文3篇，申请发明专利（目前实质审查）1项。
 1. Li Guixiang, Fang Wensi, **Tan Lei**, Lü Shuai\*. Mixed-probability guided instance contrastive learning for source-free domain adaptation. 2026. (Submitted)
 2. **Tan Lei**, Guo Dong, Li Guixiang, Lü Shuai\*. Learn from the recent: Test-time adaptation of vision-language models via distribution-aware calibration and temporal retrieval. 2026. (Submitted)
-3. **Tan Lei**, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
-4. Zhang Xiaodan, Fang Wensi, **Tan Lei**, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2026. (Submitted)
-5. Yuan Jianhui, Lü Shuai, Zhang Xinyu, Li Guixiang, **Tan Lei**, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+3. Yuan Jianhui, Lü Shuai, Zhang Xinyu, Li Guixiang, **Tan Lei**, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+4. Zhang Xiaodan, Fang Wensi, **Tan Lei**, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
+5. **Tan Lei**, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 6. 马慧敏\*, **檀磊**, 张京会, 张鹏飞, 宁孝梅, 刘海秋, 高彦伟. 基于深度学习的合成孔径成像系统共相误差检测研究综述. **量子电子学报**, 2022, 39(6): 927-941. (第一作者为指导教师)
 7. **檀磊**, 马慧敏, 王小申, 戴明宇, 代腾辉, 焦俊, 刘倩, 辜丽川. 基于多尺度生成对抗网络的大气湍流图像复原方法及系统. (申请号: CN2023 1 1725750.0, 申请日: 2023.12.14, 目前实质审查)
 
