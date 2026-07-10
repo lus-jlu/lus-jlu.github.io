@@ -15,16 +15,16 @@
 - 研究方向：人工智能、机器学习
 - 毕业去向：[长春] 吉林大学教师，现为吉林大学讲师
 
-## 【学术论文】在国内外期刊和会议上发表学术论文13篇，在审学术论文9篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文14篇，在审学术论文8篇。
 1. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Dual-granularity queries: A simple yet effective framework for zero-shot composed image retrieval. 2026. (Submitted)
-2. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, **Li Jingyao\***, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
-3. Wu Hao, Lü Shuai, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, **Li Jingyao\***. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
-4. Xiao Wei, Lü Shuai, Zhang Tao, Chen Huangyang, **Li Jingyao\***, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-5. Yuan Jianhui, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, **Li Jingyao\***, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
-6. Li Songlin, Lü Shuai, Wu Hao, Chen Huangyang, Zhou Wenbo\*, **Li Jingyao\***. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2026. (Submitted)
-7. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2026. (Submitted)
-8. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
-9. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
+2. Wu Hao, Lü Shuai, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, **Li Jingyao\***. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
+3. Xiao Wei, Lü Shuai, Zhang Tao, Chen Huangyang, **Li Jingyao\***, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
+4. Yuan Jianhui, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, **Li Jingyao\***, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+5. Li Songlin, Lü Shuai, Wu Hao, Chen Huangyang, Zhou Wenbo\*, **Li Jingyao\***. Anchor-based perturbation-driven exploration for offline-to-online reinforcement learning. 2026. (Submitted)
+6. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2026. (Submitted)
+7. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
+8. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, **Li Jingyao\***. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
+9. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, **Li Jingyao\***, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 10. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Dual-order cross-modal fusion with increment-decrement guidance for composed image retrieval. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 11. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Target self-guided framework for unsupervised domain adaptation. **Pattern Recognition**, 2026, 177: 113390. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 9.1)**
 12. **Li Jingyao**, Li Zhanshan, Lü Shuai\*. Domain adaptive hashing retrieval via VLM assisted pseudo-labeling and dual space adaptation. In: **Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**, San Diego, USA, December 2-7, 2025. **(CCF推荐A类会议)**
