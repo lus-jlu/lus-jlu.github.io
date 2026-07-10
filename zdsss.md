@@ -50,10 +50,10 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 - 毕业去向：[北京] 北京三快在线科技有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
-1. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
-2. **Yuan Jianhui**, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
-3. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文2篇。
+1. **Yuan Jianhui**, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+2. Lü Shuai, **Yuan Jianhui**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
+3. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 4. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
@@ -111,11 +111,11 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文4篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文3篇。
 1. **Li Guixiang**, Fang Wensi, Tan Lei, Lü Shuai\*. Mixed-probability guided instance contrastive learning for source-free domain adaptation. 2026. (Submitted)
 2. Tan Lei, Guo Dong, **Li Guixiang**, Lü Shuai\*. Learn from the recent: Test-time adaptation of vision-language models via distribution-aware calibration and temporal retrieval. 2026. (Submitted)
-3. Tan Lei, Guo Dong, Fang Wensi, **Li Guixiang**, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
-4. Yuan Jianhui, Lü Shuai, Zhang Xinyu, **Li Guixiang**, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+3. Yuan Jianhui, Lü Shuai, Zhang Xinyu, **Li Guixiang**, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
+4. Tan Lei, Guo Dong, Fang Wensi, **Li Guixiang**, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 5. Li Zhuang, **Li Guixiang**, Song Xiangyang, Wang Xinhua\*. An efficient and dynamic framework for multi-scale target detection of underwater organisms. **Journal of Ocean University of China**, 2026, 25(1): 150-160. **(中科院2区期刊, SCI, 目前IF: 1.6)**
 6. Li Zhuang, Yuan Jianhui, **Li Guixiang**, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
@@ -206,11 +206,11 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学计算机科学与技术学院计算机科学与技术专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文4篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文2篇。
 1. **Zhang Xiaodan**, Fang Wensi, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
-2. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, **Zhang Xiaodan**, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
-3. **Zhang Xiaodan**, Fang Wensi, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2026. (Submitted)
-4. Xiao Wei, Li Songlin, An Daolong, Wu Hao, **Zhang Xiaodan**, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
+2. Xiao Wei, Li Songlin, An Daolong, Wu Hao, **Zhang Xiaodan**, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
+3. **Zhang Xiaodan**, Fang Wensi, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
+4. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, **Zhang Xiaodan**, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 5. Fang Wensi, **Zhang Xiaodan**, Lian Xiaoyu, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026. **(CCF推荐A类会议)**
 6. Li Songlin, Xiao Wei, Wu Hao, **Zhang Xiaodan**, An Daolong, Lü Shuai\*. State proficiency-based adaptive fine-tuning for offline-to-online reinforcement learning. In: **Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, January 20-27, 2026, 23169-23176. **(CCF推荐A类会议)**
 7. Xiong Xi, Shen Chun, Wu Junhong, Lü Shuai\*, **Zhang Xiaodan**. Combined data augmentation framework for generalizing deep reinforcement learning from pixels. **Expert Systems with Applications**, 2025, 264: 125810. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, IF: 9.4)**
