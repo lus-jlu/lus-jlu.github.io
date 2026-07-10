@@ -36,13 +36,13 @@
 - 2024.09至今，吉林大学计算机科学与技术学院计算机系统结构专业，博士生（导师：李强教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文4篇，在审学术论文6篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文6篇，在审学术论文4篇。
 1. Zhang Xiaodan, **Fang Wensi**, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
 2. Lian Xiaoyu, **Fang Wensi**, Jiang Wenkang, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
-3. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. 2026. (Submitted)
-4. Zhang Xiaodan, **Fang Wensi**, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. 2026. (Submitted)
-5. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
-6. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
+3. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
+4. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
+5. Zhang Xiaodan, **Fang Wensi**, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
+6. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 7. **Fang Wensi**, Zhang Xiaodan, Lian Xiaoyu, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026. **(CCF推荐A类会议)**
 8. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei\*, Yu Qiong\*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
 9. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian\*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
