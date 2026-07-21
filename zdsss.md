@@ -452,7 +452,7 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
 1. **Zhong Jinyun**, Zhang Shunhao, Li Qianlong, Lü Shuai\*. Selective out-of-distribution state correction via behavior density in offline reinforcement learning. 2026. (Submitted)
-2. Liu Xuejie, Zhang Shunhao\*, Wu Hao, **Zhong Jinyun**. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
+2. Liu Xuejie, Zhang Shunhao, **Zhong Jinyun**, Wu Hao, Lü Shuai\*. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 -	2022-2023学年，国家励志奖学金
