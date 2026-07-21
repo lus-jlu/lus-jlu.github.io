@@ -41,7 +41,7 @@
 2. Lian Xiaoyu, Jiang Wenkang, **Fang Wensi**, Lü Shuai\*. ProFuse: Probing modality dominance for directed feature infusion in domain generalizable cross-modal 3D semantic segmentation. 2026. (Submitted)
 3. **Fang Wensi**, Lian Xiaoyu, Zhang Xiaodan, Li Qiang, Lü Shuai\*. TADA: Text-anchored domain alignment for unsupervised cross-domain image retrieval. 2026. (Submitted)
 4. Zhang Xiaodan, Chang Yu, **Fang Wensi**, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
-5. Lian Xiaoyu, **Fang Wensi**, Jiang Wenkang, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
+5. Lian Xiaoyu, **Fang Wensi**, Jiang Wenkang, Lü Shuai\*. GReCon: Reconstructing geometric representations for generalizable 3D semantic segmentation. 2026. (Submitted)
 6. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 7. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
 8. Zhang Xiaodan, **Fang Wensi**, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
