@@ -251,10 +251,11 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，硕士生（导师：刘雪洁副教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
-1. Liu Xuejie, **Hou Zhibin**, Lü Shuai\*. When Gaussian cache heads distort confidence: A mechanistic diagnosis of calibration collapse in vision-language test-time adaptation. 2026. (Submitted)
-2. Liu Xuejie, **Hou Zhibin**, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
-3. Liu Xuejie, Zhang Shunhao, Wu Hao, **Hou Zhibin**, Lü Shuai\*, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+1. Gong Jincheng, **Hou Zhibin**, Jiang Wenkang, Lü Shuai\*. Divergence beacons: Neighborhood-aware active selection and propagation for active source-free domain adaptation. 2026. (Submitted)
+2. Liu Xuejie, **Hou Zhibin**, Lü Shuai\*. When Gaussian cache heads distort confidence: A mechanistic diagnosis of calibration collapse in vision-language test-time adaptation. 2026. (Submitted)
+3. Liu Xuejie, **Hou Zhibin**, Zhang Shunhao. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
+4. Liu Xuejie, Zhang Shunhao, Wu Hao, **Hou Zhibin**, Lü Shuai\*, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2020.10，蓝桥杯全国软件和信息技术专业人才大赛，省级一等奖
@@ -309,7 +310,7 @@ reinforcement learning. 2026. (Submitted)
 -	研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. **Gong Jincheng**, Lü Shuai\*. Divergence beacons: Neighborhood-aware active selection and propagation for source-free domain adaptation. 2026. (Submitted)
+1. **Gong Jincheng**, Hou Zhibin, Jiang Wenkang, Lü Shuai\*. Divergence beacons: Neighborhood-aware active selection and propagation for active source-free domain adaptation. 2026. (Submitted)
 
 ## 【荣誉奖励】
 -	2021-2022学年，国家励志奖学金、二等奖学金、校三好学生
@@ -406,9 +407,10 @@ reinforcement learning. 2026. (Submitted)
 - 2025.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文2篇。
-1. Lian Xiaoyu, **Jiang Wenkang**, Fang Wensi, Lü Shuai\*. ProFuse: Probing modality dominance for directed feature infusion in domain generalizable cross-modal 3D semantic segmentation. 2026. (Submitted)
-2. Lian Xiaoyu, **Jiang Wenkang**, Fang Wensi, Lü Shuai\*. GReCon: Reconstructing geometric representations for generalizable 3D semantic segmentation. 2026. (Submitted)
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文3篇。
+1. Gong Jincheng, Hou Zhibin, **Jiang Wenkang**, Lü Shuai\*. Divergence beacons: Neighborhood-aware active selection and propagation for active source-free domain adaptation. 2026. (Submitted)
+2. Lian Xiaoyu, **Jiang Wenkang**, Fang Wensi, Lü Shuai\*. ProFuse: Probing modality dominance for directed feature infusion in domain generalizable cross-modal 3D semantic segmentation. 2026. (Submitted)
+3. Lian Xiaoyu, **Jiang Wenkang**, Fang Wensi, Lü Shuai\*. GReCon: Reconstructing geometric representations for generalizable 3D semantic segmentation. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2021-2022学年，新疆维吾尔自治区人民政府励志奖学金
