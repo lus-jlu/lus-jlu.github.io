@@ -36,17 +36,19 @@
 - 2024.09至今，吉林大学计算机科学与技术学院计算机系统结构专业，博士生（导师：李强教授、吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文6篇，在审学术论文4篇。
-1. Zhang Xiaodan, Chang Yu, **Fang Wensi**, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
-2. Lian Xiaoyu, **Fang Wensi**, Jiang Wenkang, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
-3. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
-4. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
-5. Zhang Xiaodan, **Fang Wensi**, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
-6. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
-7. **Fang Wensi**, Zhang Xiaodan, Lian Xiaoyu, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026, 313-323. **(CCF推荐A类会议)**
-8. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei\*, Yu Qiong\*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
-9. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian\*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
-10. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying\*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
+## 【学术论文】在国内外期刊和会议上发表学术论文6篇，在审学术论文6篇。
+1. Lian Xiaoyu, Jiang Wenkang, **Fang Wensi**, Lü Shuai\*. ProFuse: Probing modality dominance for directed feature infusion in domain generalizable cross-modal 3D semantic segmentation. 2026. (Submitted)
+2. **Fang Wensi**, Lian Xiaoyu, Zhang Xiaodan, Li Qiang, Lü Shuai\*. TADA: Text-anchored domain alignment for unsupervised cross-domain image retrieval. 2026. (Submitted)
+3. Zhang Xiaodan, Chang Yu, **Fang Wensi**, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
+4. Lian Xiaoyu, **Fang Wensi**, Jiang Wenkang, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
+5. Lü Shuai, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, **Fang Wensi**, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
+6. Li Ying, **Fang Wensi**, Jiang Xuyang, Sun Hang, Li Linlin, Du Wei\*. MGRFE-web: A web server for molecular target identification of Alzheimer's disease based on feature selection. 2023. (Submitted)
+7. Zhang Xiaodan, **Fang Wensi**, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
+8. Tan Lei, Guo Dong, **Fang Wensi**, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
+9. **Fang Wensi**, Zhang Xiaodan, Lian Xiaoyu, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026, 313-323. **(CCF推荐A类会议)**
+10. Li Ying, Sun Hang, **Fang Wensi**, Ma Qin, Han Siyu, Rui Wang-Sattler, Du Wei\*, Yu Qiong\*. SURE: Screening unlabeled samples for reliable negative samples based on reinforcement learning. **Information Sciences**, 2023, 629: 299-312. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI)**
+11. Li Ying, **Fang Wensi**, Sun Hang, Liu Xiangyu, Du Wei, Liu Yijun, Li Qianqian\*. PecidRL: Petition expectation correction and identification based on deep reinforcement learning. **Information Processing and Management**, 2023, 60(3): 103285. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.4)**
+12. Han Siyu, Yang Xiao, Sun Hang, Yang Hu, Zhang Qi, Peng Cheng, **Fang Wensi**, Li Ying\*. LION: An integrated R package for effective prediction of ncRNA–protein interaction. **Briefings in Bioinformatics**, 2022, 23(6): bbac420. **(中科院1区期刊, CCF推荐B类期刊, SCI, IF: 9.5)**
 
 ## 【学位论文】
 1. **方文思**. 基于强化学习的政府留言板标签更正与识别算法研究[硕士学位论文]. 长春: 吉林大学, 2023.
@@ -72,13 +74,15 @@
 - 2025.09至今，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
-1. **Lian Xiaoyu**, Jiang Wenkang, Fang Wensi, Lü Shuai\*. GReCon: Reconstructing geometric representations for generalizable 3D semantic segmentation. 2026. (Submitted)
-2. Fang Wensi, Zhang Xiaodan, **Lian Xiaoyu**, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026, 313-323. **(CCF推荐A类会议)**
-3. 顾磊, 夏楠\*, 江佳鸿, **廉筱峪**. 基于时空特征增强的单目标跟踪算法. **浙江大学学报(工学版)**, 2025, 59(11): 2418-2429.
-4. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. **Neurocomputing**, 2025, 643: 130412. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 6.7)**
-5. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, IF: 4.3)**
-6. **廉筱峪**, 夏楠\*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
+## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文3篇。
+1. **Lian Xiaoyu**, Jiang Wenkang, Fang Wensi, Lü Shuai\*. ProFuse: Probing modality dominance for directed feature infusion in domain generalizable cross-modal 3D semantic segmentation. 2026. (Submitted)
+2. Fang Wensi, **Lian Xiaoyu**, Zhang Xiaodan, Li Qiang, Lü Shuai\*. TADA: Text-anchored domain alignment for unsupervised cross-domain image retrieval. 2026. (Submitted)
+3. **Lian Xiaoyu**, Jiang Wenkang, Fang Wensi, Lü Shuai\*. GReCon: Reconstructing geometric representations for generalizable 3D semantic segmentation. 2026. (Submitted)
+4. Fang Wensi, Zhang Xiaodan, **Lian Xiaoyu**, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026, 313-323. **(CCF推荐A类会议)**
+5. 顾磊, 夏楠\*, 江佳鸿, **廉筱峪**. 基于时空特征增强的单目标跟踪算法. **浙江大学学报(工学版)**, 2025, 59(11): 2418-2429.
+6. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. **Neurocomputing**, 2025, 643: 130412. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 6.7)**
+7. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. An efficient joint training model for monaural noisy-reverberant speech recognition. **Applied Acoustics**, 2025, 228: 110322. **(中科院2区期刊, SCI, IF: 4.3)**
+8. **廉筱峪**, 夏楠\*, 戴高乐, 杨红琴. 复杂噪声环境下基于轻量化模型的车内交互语音增强和识别方法. **电子学报**, 2024, 52(4): 1282-1287. **(CCF推荐中文A类期刊)**
 
 ## 【学位论文】
 1. **廉筱峪**. 基于深度学习的高效去混响噪声语音识别算法研究[硕士学位论文]. 辽宁大连: 大连工业大学, 2025.
