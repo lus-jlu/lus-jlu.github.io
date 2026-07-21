@@ -207,7 +207,7 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文2篇。
-1. **Zhang Xiaodan**, Fang Wensi, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
+1. **Zhang Xiaodan**, Chang Yu, Fang Wensi, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
 2. Xiao Wei, Li Songlin, An Daolong, Wu Hao, **Zhang Xiaodan**, Lü Shuai\*. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
 3. **Zhang Xiaodan**, Fang Wensi, Tan Lei, Lü Shuai\*. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 4. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, **Zhang Xiaodan**, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
@@ -478,7 +478,8 @@ reinforcement learning. 2026. (Submitted)
 - 2025.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文0篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. Zhang Xiaodan, **Chang Yu**, Fang Wensi, Lü Shuai\*. Dual use of active samples for stable test-time adaptation under dynamic shifts. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2021-2022学年，一等奖学金、校优秀学生
