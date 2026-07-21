@@ -308,7 +308,8 @@ reinforcement learning. 2026. (Submitted)
 -	2025.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 -	研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文0篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
+1. **Gong Jincheng**, Lü Shuai\*. Divergence beacons: Neighborhood-aware active selection and propagation for source-free domain adaptation. 2026. (Submitted)
 
 ## 【荣誉奖励】
 -	2021-2022学年，国家励志奖学金、二等奖学金、校三好学生
