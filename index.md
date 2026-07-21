@@ -181,7 +181,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 
 目前尚处于评审阶段的学术论文：
 1. Li Guixiang, Fang Wensi, Tan Lei, **Lü Shuai\***. Mixed-probability guided instance contrastive learning for source-free domain adaptation. 2026. (Submitted)
-2. Gong Jincheng, **Lü Shuai\***. Divergence beacons: Neighborhood-aware active selection and propagation for source-free domain adaptation. 2026. (Submitted)
+2. Gong Jincheng, Hou Zhibin, Jiang Wenkang, **Lü Shuai\***. Divergence beacons: Neighborhood-aware active selection and propagation for active source-free domain adaptation. 2026. (Submitted)
 3. Lian Xiaoyu, Jiang Wenkang, Fang Wensi, **Lü Shuai\***. ProFuse: Probing modality dominance for directed feature infusion in domain generalizable cross-modal 3D semantic segmentation. 2026. (Submitted)
 4. Fang Wensi, Lian Xiaoyu, Zhang Xiaodan, Li Qiang, **Lü Shuai\***. TADA: Text-anchored domain alignment for unsupervised cross-domain image retrieval. 2026. (Submitted)
 5. Liu Xuejie, Hou Zhibin, **Lü Shuai\***. When Gaussian cache heads distort confidence: A mechanistic diagnosis of calibration collapse in vision-language test-time adaptation. 2026. (Submitted)
