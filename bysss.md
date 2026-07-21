@@ -45,7 +45,6 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【联系方式】
 - 邮箱：lisl23@mails.jlu.edu.cn
-- 办公：吉林大学王湘浩楼B227室
 
 ***
 
@@ -76,7 +75,6 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【联系方式】
 - 邮箱：jhyuan23@mails.jlu.edu.cn
-- 办公：吉林大学王湘浩楼B227室
 
 ***
 
@@ -107,7 +105,6 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【联系方式】
 - 邮箱：weixiao23@mails.jlu.edu.cn
-- 办公：吉林大学王湘浩楼B227室
 
 ***
 
