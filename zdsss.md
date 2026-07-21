@@ -144,7 +144,7 @@ reinforcement learning. 2026. (Submitted)
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇，在审学术论文7篇。
 1. **Wu Hao**, Zhang Shunhao, Lü Shuai\*. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Zhang Tao, Zhu Yungang, Chen Huangyang, **Wu Hao**, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
-3. Liu Xuejie, Zhang Shunhao\*, **Wu Hao**, Zhong Jinyun. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
+3. Liu Xuejie, Zhang Shunhao, Zhong Jinyun, **Wu Hao**, Lü Shuai\*. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
 4. Liu Xuejie, Zhang Shunhao, **Wu Hao**, Hou Zhibin, Lü Shuai\*, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
 5. **Wu Hao**, Lü Shuai, Zhang Shunhao, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 6. Li Songlin, Lü Shuai, **Wu Hao**, Chen Huangyang, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
@@ -381,7 +381,7 @@ reinforcement learning. 2026. (Submitted)
 2. Zhang Tao, Zhu Yungang, **Zhang Shunhao**, Chen Huangyang, Zhou Wenbo, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 3. Wu Hao, **Zhang Shunhao**, Lü Shuai\*. Optimistic Q-value adaptation for offline-to-online reinforcement learning. 2026. (Submitted)
 4. Liu Xuejie, Hou Zhibin, **Zhang Shunhao**. Marginal calibration for vision-language model guided source-free domain adaptation. 2026. (Submitted)
-5. Liu Xuejie, **Zhang Shunhao\***, Wu Hao, Zhong Jinyun. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
+5. Liu Xuejie, **Zhang Shunhao**, Zhong Jinyun, Wu Hao, Lü Shuai\*. Dual uncertainty regularization for offline reinforcement learning. 2026. (Submitted)
 6. Liu Xuejie, **Zhang Shunhao**, Wu Hao, Hou Zhibin, Lü Shuai\*, Zhou Wenbo\*. Non-parametric behavior policy density estimation for offline reinforcement learning. 2026. (Submitted)
 7. Wu Hao, Lü Shuai, **Zhang Shunhao**, Chen Huangyang, Zhang Tao, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 
