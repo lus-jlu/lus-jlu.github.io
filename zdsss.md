@@ -502,7 +502,7 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇。
-1. Lian Xiaoyu, Fang Wensi, **Jiang Wenkang**, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
+1. Lian Xiaoyu, **Jiang Wenkang**, Fang Wensi, Lü Shuai\*. GReCon: Reconstructing geometric representations for generalizable 3D semantic segmentation. 2026. (Submitted)
 
 ## 【荣誉奖励】
 - 2021-2022学年，新疆维吾尔自治区人民政府励志奖学金
