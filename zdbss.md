@@ -73,7 +73,7 @@
 - 研究方向：人工智能、机器学习
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文5篇，在审学术论文1篇。
-1. **Lian Xiaoyu**, Fang Wensi, Jiang Wenkang, Lü Shuai\*. GeoSeg: Reconstructing geometric representations for unsupervised domain adaptation in 3D semantic segmentation. 2026. (Submitted)
+1. **Lian Xiaoyu**, Jiang Wenkang, Fang Wensi, Lü Shuai\*. GReCon: Reconstructing geometric representations for generalizable 3D semantic segmentation. 2026. (Submitted)
 2. Fang Wensi, Zhang Xiaodan, **Lian Xiaoyu**, Li Qiang, Lü Shuai\*. Selective constraint learning for unsupervised cross-domain image retrieval. In: **Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)**, Melbourne, Australia, July 20-24, 2026, 313-323. **(CCF推荐A类会议)**
 3. 顾磊, 夏楠\*, 江佳鸿, **廉筱峪**. 基于时空特征增强的单目标跟踪算法. **浙江大学学报(工学版)**, 2025, 59(11): 2418-2429.
 4. **Lian Xiaoyu**, Xia Nan\*, Dai Gaole, Yang Hongqin. A dual-branch deep interaction network for multi-channel speech enhancement. **Neurocomputing**, 2025, 643: 130412. **(中科院2区期刊, CCF推荐C类期刊, SCI, IF: 6.7)**
