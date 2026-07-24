@@ -415,16 +415,12 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 - 毕业去向：[西安] XXXX大学教师
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇，授权发明专利1项。
-1. **Long Zehong**, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-2. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
-3. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
+## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文1篇，授权发明专利1项。
+1. Zhong Taihong, Han Shuai, Zhang Yushu, **Long Zehong**, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
+2. 吕帅, **龙泽泓**, 钟太鸿, 林炟君. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
 1. **龙泽泓**. 基于高效经验回放与空间覆盖的深度强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2024.
-
-## 【联系方式】
-- 邮箱：longzh21@mails.jlu.edu.cn
 
 ***
 
