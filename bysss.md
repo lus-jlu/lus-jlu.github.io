@@ -453,15 +453,11 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 - 毕业去向：[济南] 神思电子技术股份有限公司
 
-## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文1篇。
-1. Long Zehong, Zhu Wenbo, **Zhang Yushu**, Lü Shuai\*, Lin Dajun. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-2. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇。
+1. Zhong Taihong, Han Shuai, **Zhang Yushu**, Long Zehong, Lü Shuai\*, Wu Junhong. TATRC: Triple actor-critic structure with regularization for better performance. **Information Processing and Management**, 2026, 63(2): 104452. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 
 ## 【学位论文】
 1. **张玉树**. 基于极值理论的强化学习优化算法研究[硕士学位论文]. 长春: 吉林大学, 2024.
-
-## 【联系方式】
-- 邮箱：yushu21@mails.jlu.edu.cn
 
 ***
 
