@@ -222,9 +222,8 @@ reinforcement learning. 2026. (Submitted)
 - 研究方向：人工智能、机器学习
 - 毕业去向：[长沙] 交通银行湖南省分行
 
-## 【学术论文和发明专利】在国内外期刊和会议上发表学术论文0篇，在审学术论文1篇，授权发明专利1项。
-1. Long Zehong, Zhu Wenbo, Zhang Yushu, Lü Shuai\*, **Lin Dajun**. Efficient exploration via state distribution discrepancy maximization in deep reinforcement learning. 2025. (Submitted)
-2. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
+## 【学术论文和发明专利】授权发明专利1项。
+1. 吕帅, 龙泽泓, 钟太鸿, **林炟君**. 一种基于SAC强化学习算法的智能运动控制方法. (专利号: ZL 2024 1 0726196.6, 授权公告日: 2024.08.13)
 
 ## 【学位论文】
 1. **林炟君**. 基于策略约束和反探索的离线强化学习方法研究[硕士学位论文]. 长春: 吉林大学, 2025.
@@ -237,9 +236,6 @@ reinforcement learning. 2026. (Submitted)
 - 2022-2023学年，研究生学业奖学金
 - 2023-2024学年，研究生学业奖学金
 - 2024-2025学年，研究生学业奖学金
-
-## 【联系方式】
-- 邮箱：lindj22@mails.jlu.edu.cn
 
 ***
 
