@@ -20,28 +20,28 @@
 
 序|队名|队员|备注
 :-:|:-:|:-:|:-:
-1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|
-2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|
-3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|
-4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
-5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
-6|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|
-7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
-8|抉择，抉择<BR>Indecision, Indecision|于翔，范俊廷，陈思潮|
-9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
-10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|
-11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|
-12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|
-13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
-14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
-15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
-16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|
-17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
-18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
-19|前有绝景<BR>Mind Your Step|申名扬，张海鹏，戴嘉浩|
-20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
-21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
-22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
+1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|队名和队员待定
+2|雪泥鸿爪<BR>To be or not to be|邱天，席乐媛，栗铭远|队名和队员待定
+3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|队名和队员待定
+4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|队名和队员待定
+5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|队名和队员待定
+6|请输入代码<BR>Code: Obstacle Destroy Exam|张力文，刘子涵，李书航|队名和队员待定
+7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|队名和队员待定
+8|抉择，抉择<BR>Indecision, Indecision|于翔，范俊廷，陈思潮|队名和队员待定
+9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|队名和队员待定
+10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|队名和队员待定
+11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|队名和队员待定
+12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|队名和队员待定
+13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|队名和队员待定
+14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|队名和队员待定
+15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|队名和队员待定
+16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|队名和队员待定
+17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|队名和队员待定
+18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|队名和队员待定
+19|前有绝景<BR>Mind Your Step|申名扬，张海鹏，戴嘉浩|队名和队员待定
+20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|队名和队员待定
+21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|队名和队员待定
+22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队，队名和队员待定
 -||才青卓，石俊祺，谭皓仁，<BR>谢雨轩，杨文轩，曾康睿，<BR>窄广昊，赵思翰|新生尚未组队
 -|-|戚家浩|保留资格
 
