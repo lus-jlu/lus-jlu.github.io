@@ -28,7 +28,7 @@
 6|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|
 7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|队名和队员待定
 8|抉择，抉择<BR>Indecision, Indecision|于翔，范俊廷，陈思潮|队名和队员待定
-9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|队名和队员待定
+9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
 10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|队名和队员待定
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|队名和队员待定
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|队名和队员待定
@@ -37,7 +37,7 @@
 15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|队名和队员待定
 16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|队名和队员待定
 17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|队名和队员待定
-18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|队名和队员待定
+18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
 19|前有绝景<BR>Mind Your Step|申名扬，张海鹏，戴嘉浩|队名和队员待定
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|队名和队员待定
 21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
