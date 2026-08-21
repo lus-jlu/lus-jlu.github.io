@@ -28,7 +28,8 @@
 5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|队名和队员待定
 6|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|
 7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|队名和队员待定
-8|抉择，抉择<BR>Indecision, Indecision|于翔，范俊廷，陈思潮|队名和队员待定
+8|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思瀚，李书航|ICPC队伍
+-|抉择，抉择<BR>Indecision, Indecision|范俊廷，陈思潮|队名和队员待定
 9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
 10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|队名和队员待定
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|队名和队员待定
@@ -45,7 +46,7 @@
 22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
 23|中国龙能飞<BR>Make Nailong Great Again|石俊祺，杨文轩，戴唐宸
 24|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
--||李书航|队名和队员待定
+-|||队名和队员待定
 -||谭皓仁，谢雨轩，赵思翰|新生尚未组队
 -|-|戚家浩|保留资格
 
