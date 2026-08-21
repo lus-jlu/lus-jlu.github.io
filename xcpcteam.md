@@ -33,7 +33,7 @@
 9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
 10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|
-12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|队名和队员待定
+12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|
 13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
 14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
 15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
