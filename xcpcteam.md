@@ -22,6 +22,7 @@
 :-:|:-:|:-:|:-:
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|队名和队员待定
 2|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC队伍
+-|踏痕<BR>Traces Endure|栗铭远，席乐媛，赵思翰|CCPC队伍
 3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|队名和队员待定
 4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|队名和队员待定
 5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|队名和队员待定
@@ -32,7 +33,7 @@
 10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|队名和队员待定
 11|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|队名和队员待定
 12|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|队名和队员待定
-13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|队名和队员待定
+13|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
 14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
 15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|队名和队员待定
 16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|队名和队员待定
