@@ -24,7 +24,7 @@
 2|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC队伍
 -|踏痕<BR>Traces Endure|栗铭远，席乐媛，赵思翰|CCPC队伍
 3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|
-4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|队名和队员待定
+4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
 5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
 6|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|
 7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
