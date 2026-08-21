@@ -41,7 +41,7 @@
 19|前有绝景<BR>Mind Your Step|申名扬，张海鹏|队名和队员待定
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|队名和队员待定
 21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
-22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队，队名和队员待定
+22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
 23|中国龙能飞<BR>Make Nailong Great Again|石俊祺，杨文轩，戴唐宸
 24|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
 -||李书航|队名和队员待定
