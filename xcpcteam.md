@@ -28,7 +28,7 @@
 5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
 6|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|
 7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
-8|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思瀚，李书航|ICPC队伍
+8|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思翰，李书航|ICPC队伍
 -|抉择，抉择<BR>Indecision, Indecision|范俊廷，陈思潮|队名和队员待定
 9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
 10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|
@@ -47,7 +47,7 @@
 23|中国龙能飞<BR>Make Nailong Great Again|石俊祺，杨文轩，戴唐宸
 24|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
 -|||队名和队员待定
--||谭皓仁，谢雨轩，赵思翰|新生尚未组队
+-||谭皓仁，谢雨轩|新生尚未组队
 -|-|戚家浩|保留资格
 
 ## 【现役队员】 +【了解[集训队历任队长和队员（2021年入学至今）的获奖情况和毕业去向](xcpcalumni)】
