@@ -40,14 +40,14 @@
 16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|队名和队员待定
 17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|队名和队员待定
 18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
-19|前有绝景<BR>Mind Your Step|申名扬，张海鹏|队名和队员待定
+19|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁|
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
 21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
 23|中国龙能飞<BR>Make Nailong Great Again|石俊祺，杨文轩，戴唐宸
 24|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
 -|||队名和队员待定
--||谭皓仁，谢雨轩|新生尚未组队
+-||谢雨轩|新生尚未组队
 -|-|戚家浩|保留资格
 
 ## 【现役队员】 +【了解[集训队历任队长和队员（2021年入学至今）的获奖情况和毕业去向](xcpcalumni)】
