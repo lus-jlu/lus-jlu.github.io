@@ -39,7 +39,7 @@
 17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|队名和队员待定
 18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
 19|前有绝景<BR>Mind Your Step|申名扬，张海鹏|队名和队员待定
-20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|队名和队员待定
+20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
 21|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 22|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
 23|中国龙能飞<BR>Make Nailong Great Again|石俊祺，杨文轩，戴唐宸
