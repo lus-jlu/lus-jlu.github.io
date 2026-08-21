@@ -38,7 +38,7 @@
 14|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
 15|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
 16|一键通过<BR>sudo AC|李九思，李明宇，徐睦轩|队名和队员待定
-17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|队名和队员待定
+17|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
 18|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
 19|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁|
 20|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
