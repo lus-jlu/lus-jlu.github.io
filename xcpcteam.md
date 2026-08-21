@@ -27,7 +27,7 @@
 4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|队名和队员待定
 5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
 6|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|
-7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|队名和队员待定
+7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
 8|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思瀚，李书航|ICPC队伍
 -|抉择，抉择<BR>Indecision, Indecision|范俊廷，陈思潮|队名和队员待定
 9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
