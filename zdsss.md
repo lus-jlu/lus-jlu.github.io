@@ -79,11 +79,11 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文4篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文3篇。
 1. **Sun Genghao**, Lü Shuai\*, Zhou Wenbo\*. Meta-balanced state correction: A bi-level optimization framework for adaptive offline reinforcement learning. 2026. (Submitted)
 2. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
 3. **Sun Genghao**, Chen Huangyang, Lü Shuai\*, Zhou Wenbo\*. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
-4. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
+4. Chen Huangyang, Chen Juan, Zhang Tao, **Sun Genghao**, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. **Information Processing and Management**, 2027, 64(XXX): 105160. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、校三好学生、校优秀学生干部
@@ -146,7 +146,7 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、陈娟教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文8篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文7篇。
 1. Zhang Tao, Zhu Yungang, Zhang Shunhao, **Chen Huangyang**, Zhou Wenbo, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 2. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
 3. Sun Genghao, **Chen Huangyang**, Lü Shuai\*, Zhou Wenbo\*. AQHA: Accurate Q-value estimation and high-quality action imitation in offline reinforcement learning. 2026. (Submitted)
@@ -155,7 +155,7 @@ reinforcement learning. 2026. (Submitted)
 6. Xiao Wei, Zhang Tao, **Chen Huangyang**, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 7. Li Songlin, Lü Shuai, Wu Hao, **Chen Huangyang**, Zhou Wenbo\*, Li Jingyao\*. Anchor-based perturbation-driven exploration for offline-to-online
 reinforcement learning. 2026. (Submitted)
-8. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
+8. **Chen Huangyang**, Chen Juan, Zhang Tao, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. **Information Processing and Management**, 2027, 64(XXX): 105160. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，一等奖学金、校优秀学生标兵
@@ -185,13 +185,13 @@ reinforcement learning. 2026. (Submitted)
 - 2024.09至今，吉林大学软件学院软件工程专业，推免硕士生（导师：吕帅教授、朱允刚副教授）
 - 研究方向：人工智能、机器学习
 
-## 【学术论文】在国内外期刊和会议上发表学术论文0篇，在审学术论文6篇。
+## 【学术论文】在国内外期刊和会议上发表学术论文1篇，在审学术论文5篇。
 1. **Zhang Tao**, Zhu Yungang, Zhang Shunhao, Chen Huangyang, Zhou Wenbo, Lü Shuai\*. SEBDC: Structured exploration with behavior density constraints for offline-to-online reinforcement learning. 2026. (Submitted)
 2. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*, Zhou Wenbo\*. Trust-domain-based policy regularization in offline reinforcement learning. 2026. (Submitted)
 3. **Zhang Tao**, Zhu Yungang, Chen Huangyang, Wu Hao, Xiao Wei, Lü Shuai\*, Zhou Wenbo\*. Efficient and stable offline-to-online reinforcement learning via heterogeneous policy transfer. 2026. (Submitted)
 4. Wu Hao, Lü Shuai, Zhang Shunhao, Chen Huangyang, **Zhang Tao**, Zhou Wenbo\*, Li Jingyao\*. UDPBC: Uncertainty-guided dual-perspective behavior cloning for offline-to-online reinforcement learning. 2026. (Submitted)
 5. Xiao Wei, **Zhang Tao**, Chen Huangyang, Li Jingyao\*, Zhou Wenbo\*. Q-bounded and adaptive Q-value constraints for offline-to-online reinforcement learning. 2026. (Submitted)
-6. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
+6. Chen Huangyang, Chen Juan, **Zhang Tao**, Sun Genghao, Lü Shuai\*. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. **Information Processing and Management**, 2027, 64(XXX): 105160. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 
 ## 【荣誉奖励】
 - 2020-2021学年，国家励志奖学金、二等奖学金、校三好学生
