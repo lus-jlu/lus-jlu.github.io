@@ -121,7 +121,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 <A href="ky" target="_blank">整理的期刊和会议评价</A>
 
 主要代表性学术论文：
-1. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. **Information Processing and Management**, 2027, 64(X): 105160. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
+1. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. **Information Processing and Management**, 2027, 64(XXX): 105160. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 2. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2027, 64(1): 105035. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 3. Zhang Xiaodan, Fang Wensi, Tan Lei, **Lü Shuai\***. AutoVote: Adaptive learning rate modulation for continual test-time adaptation via sensitivity voting. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
 4. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, Yuan Jianhui, Zhang Xiaodan, Li Jingyao\*, **Lü Shuai\***. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
@@ -206,8 +206,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 23. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Domain adaptive hashing retrieval via frequency-based mixup and cross-space collaboration. 2026. (Submitted)
 24. Li Jingyao, Li Zhanshan, **Lü Shuai\***. Unsupervised domain adaptation via multiple VLM-assisted strategies: Pseudo-labeling, dual prompting and representation decomposition. 2026. (Submitted)
 25. Xiao Wei, Li Songlin, An Daolong, Wu Hao, Zhang Xiaodan, **Lü Shuai\***. Corrected critic and adaptive constraint for offline-to-online reinforcement learning. 2026. (Submitted)
-26. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. 2026. (Submitted)
-27. **Lü Shuai**, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
+26. **Lü Shuai**, Yuan Jianhui, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. 2026. (Submitted)
 
 注：按照国际惯例，*表示通讯作者。
 
@@ -314,7 +313,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 + **吴昊**，2024级推免硕士生，**在Information Processing and Management发表学术论文1篇，获中国研究生数学建模竞赛国家级二等奖**
 + **孙耕浩**，2024级推免硕士生，**获中国研究生数学建模竞赛国家级三等奖**
 + **章晓丹**，2024级推免硕士生，**在MM 2026发表学术论文1篇，获中国研究生数学建模竞赛国家级三等奖**
-+ **陈黄洋**，2024级推免硕士生，**获中国研究生数学建模竞赛国家级三等奖**
++ **陈黄洋**，2024级推免硕士生，**在Information Processing and Management发表学术论文1篇，获中国研究生数学建模竞赛国家级三等奖**
 + **张涛**，2024级推免硕士生
 + **檀磊**，2024级推免硕士生，**在MM 2026发表学术论文1篇，获中国研究生数学建模竞赛国家级三等奖、中国研究生数学建模竞赛国家级三等奖**
 + **侯志斌**，2024级硕士生，**获中国研究生数学建模竞赛国家级三等奖、中国研究生数学建模竞赛国家级三等奖**
