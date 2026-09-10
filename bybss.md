@@ -14,6 +14,7 @@
 - 2017.09-2019.06，武汉理工大学汽车工程学院车辆工程专业，硕士生
 - 2020.09-2026.09，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生（导师：吕帅教授）
 - 研究方向：人工智能、机器学习
+- 毕业去向：[广西桂林] 桂林电子科技大学教师
 
 ## 【学术论文】在国内外期刊和会议上发表学术论文2篇。
 1. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
