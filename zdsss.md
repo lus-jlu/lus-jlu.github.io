@@ -499,7 +499,7 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【联系方式】
 -	邮箱：待学校分配
--	办公：吉林大学王湘浩楼B2XX室
+-	办公：吉林大学王湘浩楼B227室
 
 ***
 
@@ -512,4 +512,4 @@ reinforcement learning. 2026. (Submitted)
 
 ## 【联系方式】
 -	邮箱：待学校分配
--	办公：吉林大学王湘浩楼B2XX室
+-	办公：吉林大学王湘浩楼B227室
