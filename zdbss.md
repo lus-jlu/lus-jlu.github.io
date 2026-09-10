@@ -1,30 +1,7 @@
 # 在读博士生
-- 2020级博士生（1人）：周瑞凯
 - 2024级博士生（1人）：方文思
 - 2025级博士生（1人）：廉筱峪
 - 2026级博士生（1人）：吴玉龙
-
-***
-
-<div align=center><img src="figures/zhourk2020.png" width="150"></div>
-
-## 周瑞凯，男，瑶族，1992年07月生，广西壮族自治区桂林市人。
-- 2012.09-2016.06，武汉轻工大学机械工程学院机械设计制造及其自动化专业，本科生
-- 2017.09-2019.06，武汉理工大学汽车工程学院车辆工程专业，硕士生
-- 2020.09-预计2026.09，吉林大学计算机科学与技术学院计算机软件与理论专业，博士生（导师：吕帅教授）
-- 研究方向：人工智能、机器学习
-
-## 【学术论文】在国内外期刊和会议上发表学术论文2篇。
-1. **Zhou Ruikai**, Zhong Taihong, Zhu Wenbo, Han Shuai, Lü Shuai\*. Influence of Gaussian distribution on performance metrics in continuous reinforcement learning. **Information Processing and Management**, 2026, 63(2): 104428. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
-2. **Zhou Ruikai**, Zhu Wenbo, Han Shuai, Kang Meng, Lü Shuai\*. VCSAP: Online reinforcement learning exploration method based on visitation count of state-action pairs. **Neural Networks**, 2025, 184: 107052. **(中科院2区TOP期刊, CCF推荐B类期刊, SCI, IF: 7.2)**
-
-## 【荣誉奖励】
-- 2020-2021学年，研究生学业奖学金
-- 2021-2022学年，研究生学业奖学金
-- 2022-2023学年，研究生学业奖学金
-
-## 【联系方式】
-- 办公：吉林大学王湘浩楼B227室
 
 ***
 
@@ -119,4 +96,4 @@
 
 ## 【联系方式】
 - 邮箱：yulongw26@mails.jlu.edu.cn
-- 办公：吉林大学王湘浩楼B2XX室
+- 办公：吉林大学王湘浩楼B227室
