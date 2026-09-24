@@ -41,8 +41,8 @@
 18|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
 19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
 20|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁|
-21|中国龙能飞<BR>Make Nailong Great Again|杨文轩，戴唐宸|
-22|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
+21|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
+22|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵|
 23|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 24|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
 25|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
