@@ -21,31 +21,31 @@
 序|队名|队员|备注
 :-:|:-:|:-:|:-:
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|
-2|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC队伍
 -|踏痕<BR>Traces Endure|栗铭远，席乐媛，赵思翰|CCPC队伍
-3|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|
-4|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
-5|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
-6|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|
-7|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
-8|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思翰，李书航|ICPC队伍
-9|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
-10|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|
-11|皮卡丘站起来是皮卡兵<BR>Pokeman|陈思潮，范俊廷，谢雨轩|
-12|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|
-13|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|
-14|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
+2|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|
+3|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|
+4|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC队伍
+5|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|
+6|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|
+7|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|
+8|迷途之子<BR>Lost Soul|唐德睿，毛胜超，石津豪|
+9|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
+10|皮卡丘站起来是皮卡兵<BR>Pokeman|陈思潮，范俊廷，谢雨轩|
+11|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|
+12|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|
+13|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思翰，李书航|ICPC队伍
+14|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
-16|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
-17|欧拉回响<BR>Euler Echo|李九思，徐睦轩，李明宇|
-18|悲怆<BR>Pathetique|刘鑫宇，龙麒旭，杨翔宇|
+16|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
+17|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵|
+18|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁|
 19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
-20|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁|
-21|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
-22|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵|
-23|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
-24|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
-25|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
+20|欧拉回响<BR>Euler Echo|李九思，徐睦轩，李明宇|
+21|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|
+22|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
+23|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
+24|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
+25|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
 -|邱天粉丝团<BR>Lovely Qiut Fan Club|席乐媛，钟姝伶，张天琦|CCPC队伍+女队
 -|吉赫兹<BR>GHz|郭欣慧，何睿倩，张天琦|ICPC队伍+女队
 
