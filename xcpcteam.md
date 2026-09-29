@@ -37,8 +37,6 @@
 14|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|
 15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|
 16|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|
--|邱天粉丝团<BR>Lovely Qiut Fan Club|席乐媛，钟姝伶，张天琦|女队<BR>CCPC队伍
--|吉赫兹<BR>GHz|郭欣慧，何睿倩，张天琦|女队<BR>ICPC队伍
 17|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵|
 18|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁|
 19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
@@ -48,6 +46,8 @@
 23|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
 24|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
 25|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
+-|邱天粉丝团<BR>Lovely Qiut Fan Club|席乐媛，钟姝伶，张天琦|女队<BR>CCPC队伍
+-|吉赫兹<BR>GHz|郭欣慧，何睿倩，张天琦|女队<BR>ICPC队伍
 
 ## 【现役队员】 +【了解[集训队历任队长和队员（2021年入学至今）的获奖情况和毕业去向](xcpcalumni)】
 
