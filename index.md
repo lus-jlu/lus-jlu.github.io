@@ -112,7 +112,7 @@
 34. 技术开发项目：无线电管理领域知识库数据录入及测试
 35. 技术开发项目：山西省监测站管理与覆盖分析系统
 
-## 【科研论文】在AAAI、IJCAI、MM、NeurIPS、SIGIR、Information Processing and Management、Information Sciences、Neural Networks、Pattern Recognition、Expert Systems with Applications、Knowledge-Based Systems、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文152篇，其中：SCI和EI检索学术论文121篇。
+## 【科研论文】在AAAI、IJCAI、MM、NeurIPS、SIGIR、Information Processing and Management、Information Sciences、Neural Networks、Pattern Recognition、Expert Systems with Applications、Knowledge-Based Systems、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文153篇，其中：SCI和EI检索学术论文122篇。
 
 DBLP：<A href="https://dblp.org/pid/27/10828-1" target="_blank">Shuai Lü 0001 (aka: Shuai Lu 0001, Shuai Lv 0001)</A>
 
