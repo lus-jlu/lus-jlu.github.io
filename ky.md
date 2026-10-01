@@ -85,6 +85,7 @@
 1|<A href="https://kdd2027.kdd.org" target="_">KDD 2027</A>|2026.7.19 AOE<BR>2027.2.XX AOE|2026.7.26 AOE<BR>2027.2.XX AOE|2027.8.1-5|San Jose, USA|<A href="https://openreview.net/group?id=KDD.org/2027" target="_blank">投稿系统</A>
 2|<A href="https://aaai.org/conference/aaai/aaai-27" target="_blank">AAAI 2027</A>|2026.7.21 AOE|2025.7.28 AOE|2027.2.16-23|Montreal, Canada|<A href="https://openreview.net/group?id=AAAI.org/2027" target="_blank">投稿系统</A>
 3|<A href="https://iclr.cc/Conferences/2027" target="_blank">ICLR 2027</A>|2026.9.18 AOE|2025.9.25 AOE|2027.4.26-28|San Francisco, USA|<A href="https://openreview.net/group?id=ICLR.cc/2027" target="_blank">投稿系统</A>
+4|<A href="https://cvpr.thecvf.com/Conferences/2027" target="_blank">CVPR 2027</A>|2026.11.10 AOE|2026.11.16 AOE|2027.6.22-25|Seattle, USA|<A href="https://openreview.net/group?id=thecvf.com/CVPR/2027" target="_blank">投稿系统</A>
 
 ## 4. 作者信息和致谢
 
