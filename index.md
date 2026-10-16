@@ -8,7 +8,7 @@
 
 现任中国计算机学会理论计算机科学专业委员会执行委员、中国计算机学会形式化方法专业委员会执行委员、中国计算机学会教育专业委员会执行委员、中国计算机学会高级会员、吉林省计算机学会理事。曾任中国人工智能学会机器博弈专业委员会委员。现任吉林大学XCPC集训队总教练、吉林大学软件工程专业负责人、吉林大学研究生培养指导委员会软件学院分委员会委员、ICPC国际大学生程序设计竞赛（吉林大学）竞赛负责人、蓝桥杯全国大学生软件和信息技术大赛（吉林大学）竞赛负责人、CCPC中国大学生程序设计竞赛（吉林大学）竞赛负责人、百度之星程序设计大赛（吉林大学）竞赛负责人。曾任吉林大学软件学院教学委员会委员、吉林大学计算机科学与技术学院学术委员会秘书。
 
-主要研究领域为人工智能、机器学习与数据挖掘，主要侧重迁移学习、强化学习。主持国家自然科学基金项目等科研项目13项，参加科研项目29项。在AAAI、IJCAI、MM、NeurIPS、SIGIR、Information Processing and Management、Information Sciences、Neural Networks、Pattern Recognition、Expert Systems with Applications、Knowledge-Based Systems、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文153篇，其中：SCI和EI检索学术论文122篇。荣获全国商业科技进步一等奖3项、二等奖1项，吉林省自然科学二等奖1项，吉林省科学技术进步三等奖2项。
+主要研究领域为人工智能、机器学习与数据挖掘，主要侧重迁移学习、强化学习。主持国家自然科学基金项目等科研项目13项，参加科研项目29项。在AAAI、IJCAI、MM、NeurIPS、SIGIR、Information Processing and Management、Information Sciences、Neural Networks、Pattern Recognition、Expert Systems with Applications、Knowledge-Based Systems、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文154篇，其中：SCI和EI检索学术论文123篇。荣获全国商业科技进步一等奖3项、二等奖1项，吉林省自然科学二等奖1项，吉林省科学技术进步三等奖2项。
 
 现任国家精品课程、国家级精品资源共享课、国家精品在线开放课程、国家级一流本科课程《高级语言程序设计》和国家级一流本科课程《程序设计基础》教学团队实践负责人，《人工智能基础》/《人工智能引论》教学团队负责人，主要承担《程序设计基础》/《高级语言程序设计》、《人工智能基础》/《人工智能引论》等课程的教学工作。参加国家级教学改革项目4项，省部级教学改革项目2项，校级教学改革项目10项。在计算机教育上发表教研论文9篇。荣获校级教学成果一等奖2项、二等奖1项。荣获吉林大学“三育人”先进个人，吉林大学本科课堂教学质量卓越奖1次、优秀奖2次，吉林大学优秀班主任。
 
@@ -112,7 +112,7 @@
 34. 技术开发项目：无线电管理领域知识库数据录入及测试
 35. 技术开发项目：山西省监测站管理与覆盖分析系统
 
-## 【科研论文】在AAAI、IJCAI、MM、NeurIPS、SIGIR、Information Processing and Management、Information Sciences、Neural Networks、Pattern Recognition、Expert Systems with Applications、Knowledge-Based Systems、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文153篇，其中：SCI和EI检索学术论文122篇。
+## 【科研论文】在AAAI、IJCAI、MM、NeurIPS、SIGIR、Information Processing and Management、Information Sciences、Neural Networks、Pattern Recognition、Expert Systems with Applications、Knowledge-Based Systems、计算机学报、软件学报、计算机研究与发展、电子学报等国内外期刊和会议上发表学术论文154篇，其中：SCI和EI检索学术论文123篇。
 
 DBLP：<A href="https://dblp.org/pid/27/10828-1" target="_blank">Shuai Lü 0001 (aka: Shuai Lu 0001, Shuai Lv 0001)</A>
 
@@ -121,7 +121,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 <A href="ky" target="_blank">整理的期刊和会议评价</A>
 
 主要代表性学术论文：
-1. Yuan Jianhui, **Lü Shuai**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. **Expert Systems with Applications**, 2026. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
+1. Yuan Jianhui, **Lü Shuai**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. **Expert Systems with Applications**, 2027. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
 2. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. **Information Processing and Management**, 2027, 64(2): 105160. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 3. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2027, 64(1): 105035. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 4. Wu Hao, Zhang Shunhao, **Lü Shuai\***. Optimistic Q-value adaptation for offline-to-online reinforcement learning. In: **Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)**, Sydney, Australia, December 6-12, 2026. **(CCF推荐A类会议)**
@@ -305,7 +305,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 + **吴珺泓**，2022级推免硕士生，**在Expert Systems with Applications发表学术论文1篇，获中国研究生数学建模竞赛国家级一等奖、研究生学术业绩三等奖学金、研究生国家奖学金、吉林银行王湘浩奖学金、吉林大学优秀毕业研究生**，毕业去向：[北京] 北京京东世纪贸易有限公司
 + **安道龙**，2022级硕士生，**在Neural Networks发表学术论文1篇**，毕业去向：[上海] 华为技术有限公司
 + **李松霖**，2023级推免硕士生，**在AAAI 2026发表学术论文1篇，获吉林大学优秀本科毕业论文、中国研究生数学建模竞赛国家级三等奖、吉林银行王湘浩奖学金、吉林大学优秀毕业研究生**，毕业去向：[北京] 北京京东世纪贸易有限公司
-+ **袁健会**，2023级硕士生，**获中国研究生数学建模竞赛国家级三等奖**，毕业去向：[北京] 北京三快在线科技有限公司
++ **袁健会**，2023级硕士生，**在Expert Systems with Applications发表学术论文1篇，获中国研究生数学建模竞赛国家级三等奖**，毕业去向：[北京] 北京三快在线科技有限公司
 + **肖威**，2023级硕士生，**获中国研究生数学建模竞赛国家级三等奖**，毕业去向：[北京] 北京嘀嘀无限科技发展有限公司
 
 ### <A href="zdsss" target="_blank">在读硕士生（查看详细情况）</A>
