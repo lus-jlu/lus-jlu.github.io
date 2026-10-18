@@ -34,9 +34,9 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |1|21241614<BR>徐梓博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC济南<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛|||6🥇3🥈0🥉
 |2|55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥉ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥇ICPC西安||4🥇4🥈3🥉
-|3|06240722<BR>王宗凡<BR>[现2025级]|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|||1🥇5🥈1🥉
-|4|17240426<BR>张健哲|软件学院<BR>软件工程|/|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|||0🥇2🥈2🥉
-|5|21241416<BR>欧阳承风|计算机科学与技术学院<BR>物联网工程|/|🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|||0🥇1🥈3🥉
+|3|06240722<BR>王宗凡<BR>[现2025级]|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|🥈CCPC长春||1🥇6🥈1🥉
+|4|21241416<BR>欧阳承风|计算机科学与技术学院<BR>物联网工程|/|🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥈CCPC长春||0🥇2🥈3🥉
+|5|17240426<BR>张健哲|软件学院<BR>软件工程|/|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|||0🥇2🥈2🥉
 |6|21240711<BR>毛胜超|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|||0🥇1🥈1🥉
 |7|21240223<BR>石津豪|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|||0🥇1🥈1🥉
 |8|21240329<BR>王星皓|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|/|/|1🥈1🥉
@@ -53,7 +53,7 @@
 |4|13230320<BR>王一丁|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港|/|/|6🥇3🥈
 |5|23230119<BR>王天泽|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC东亚区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|/|/|3🥇4🥈1🥉
 |6|55231008<BR>钟姝伶（女）|软件学院<BR>软件工程|/|/|🥇CCPC女生专场<BR>🥉ICPC沈阳||1🥇0🥈1🥉
-|7|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆||0🥇6🥈2🥉
+|7|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|🥈CCPC长春|0🥇7🥈2🥉
 |8|21230111<BR>乔彦博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉
 |9|35232116<BR>王恕|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉
 |10|20232116<BR>张智祺|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉
