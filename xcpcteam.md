@@ -21,10 +21,10 @@
 序|队名|队员|ICPC赛站|CCPC赛站
 :-:|:-:|:-:|:-:|:-:
 1|故障吉奇人<BR>The Defect|于之航，陈鹏旭，徐梓博|ICPC武汉，ICPC南昌|CCPC乐山，CCPC厦门
--|踏痕<BR>Traces Endure|栗铭远，席乐媛，赵思翰|-|CCPC乐山，CCPC荆州
+-|踏痕<BR>Traces Endure|栗铭远，席乐媛，赵思翰||CCPC乐山，CCPC荆州
 2|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|ICPC沈阳，ICPC上海|CCPC长春，CCPC厦门
 3|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|ICPC成都，ICPC上海|CCPC荆州，CCPC厦门
-4|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC西安，ICPC南昌|-
+4|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC西安，ICPC南昌|
 5|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|ICPC武汉，ICPC香港|CCPC长春，CCPC乐山
 6|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|ICPC成都，ICPC南京|CCPC荆州
 7|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|ICPC西安，ICPC南京|
@@ -33,21 +33,21 @@
 10|皮卡丘站起来是皮卡兵<BR>Pokeman|陈思潮，范俊廷，谢雨轩|ICPC成都，ICPC南京|
 11|帮我开下A103<BR>OpenAI03|钟姝伶，庄锦浩，韩洋|ICPC上海，ICPC南昌|
 12|吉林大学有空调了就很…队<BR>JLU has air_conditions, you know that...|朱明昊，樊陆旭，袁正扬|ICPC武汉|
-13|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思翰，李书航|ICPC武汉|-
+13|幻想乡自动机<BR>Gensokyo Automata|于翔，赵思翰，李书航|ICPC武汉|
 14|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|ICPC西安|
 15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|ICPC成都|
 16|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|ICPC沈阳|
-17|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵|
-18|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁|
-19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田|
-20|欧拉回响<BR>Euler Echo|李九思，徐睦轩，李明宇|
-21|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博|
-22|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩|
-23|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
-24|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯||-
-25|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
--|邱天粉丝团<BR>Lovely Qiut Fan Club|席乐媛，钟姝伶，张天琦|-|CCPC女生专场
--|吉赫兹<BR>GHz|郭欣慧，何睿倩，张天琦|ICPC沈阳女队
+17|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵||
+18|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁||
+19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田||
+20|欧拉回响<BR>Euler Echo|李九思，徐睦轩，李明宇||
+21|没想好叫什么<BR>I don’t know|郭轩豪，张哲宇，王文博||
+22|追忆<BR>Recall|曾康睿，窄广昊，戴嘉浩||
+23|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖||
+24|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯||
+25|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕||
+-|邱天粉丝团<BR>Lovely Qiut Fan Club|席乐媛，钟姝伶，张天琦||CCPC女生专场
+-|吉赫兹<BR>GHz|郭欣慧，何睿倩，张天琦|ICPC沈阳女队|
 
 ## 【现役队员】 +【了解[集训队历任队长和队员（2021年入学至今）的获奖情况和毕业去向](xcpcalumni)】
 
