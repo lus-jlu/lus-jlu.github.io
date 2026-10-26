@@ -24,7 +24,7 @@
 -|踏痕<BR>Traces Endure|栗铭远，席乐媛，赵思翰|-|CCPC乐山，CCPC荆州
 2|交流障碍星人<BR>Discommunication|刘昱，王宗凡，欧阳承风|ICPC沈阳，ICPC上海|CCPC长春，CCPC厦门
 3|卡卡<BR>AKAK|拱垲，张健哲，袁英麒|ICPC成都，ICPC上海|CCPC荆州，CCPC厦门
-4|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC西安，ICPC南昌|
+4|飞鸿踏雪<BR>To be or not to be|邱天，席乐媛，栗铭远|ICPC西安，ICPC南昌|-
 5|金色心电图<BR>ECG: The Chrysos|张力文，刘子涵，才青卓|ICPC武汉，ICPC香港|CCPC长春，CCPC乐山
 6|时代码戏团<BR>CFBOYS|鞠学深，李雨隆，刘勋|ICPC成都，ICPC南京|CCPC荆州
 7|醉星河<BR>Drunken Starlight|何旭，林辰旭，林钰博|ICPC西安，ICPC南京|
