@@ -46,7 +46,7 @@
 23|我也要AC吗<BR>Me?AC?|蒋昊晨，许语涵，王铎霖|
 24|坐标轴<BR>XYZ|张天琦，郭欣慧，陈莹柯|女队
 25|编C++编的<BR>Play Python|李丞尉，张耘赫，曹硕|
--|邱天粉丝团<BR>Lovely Qiut Fan Club|席乐媛，钟姝伶，张天琦|CCPC女生专场
+-|邱天粉丝团<BR>Lovely Qiut Fan Club|席乐媛，钟姝伶，张天琦|-|CCPC女生专场
 -|吉赫兹<BR>GHz|郭欣慧，何睿倩，张天琦|ICPC沈阳女队
 
 ## 【现役队员】 +【了解[集训队历任队长和队员（2021年入学至今）的获奖情况和毕业去向](xcpcalumni)】
