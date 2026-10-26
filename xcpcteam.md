@@ -65,8 +65,8 @@
 |2|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC东亚区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛||8🥇4🥈1🥉
 |3|55231008<BR>钟姝伶（女）|软件学院<BR>软件工程|/|/|🥇CCPC女生专场<BR>🥉ICPC沈阳||1🥇0🥈1🥉
 |4|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|🥈CCPC长春|0🥇7🥈2🥉
-|5|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆||0🥇2🥈4🥉
-|6|55231029<BR>袁英麒|软件学院<BR>工科试验班（软件工程）|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆||0🥇2🥈4🥉
+|5|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都|0🥇2🥈5🥉
+|6|55231029<BR>袁英麒|软件学院<BR>工科试验班（软件工程）|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都|0🥇2🥈5🥉
 |7|55230218<BR>唐德睿|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|/|/|🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥉CCPC长春|0🥇1🥈4🥉
 |8|21230108<BR>鞠学深|计算机科学与技术学院<BR>计算机科学与技术|/|/|🥉ICPC沈阳||0🥇0🥈1🥉
 |9|21230132<BR>刘勋|计算机科学与技术学院<BR>计算机科学与技术|/|/|/|
@@ -80,7 +80,7 @@
 |2|55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥉ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥇ICPC西安|4🥇4🥈3🥉
 |3|06240722<BR>王宗凡<BR>[现2025级]|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|🥈CCPC长春|1🥇6🥈1🥉
 |4|21241416<BR>欧阳承风|计算机科学与技术学院<BR>物联网工程|/|🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥈CCPC长春|0🥇2🥈3🥉
-|5|17240426<BR>张健哲|软件学院<BR>软件工程|/|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆||0🥇2🥈2🥉
+|5|17240426<BR>张健哲|软件学院<BR>软件工程|/|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都|0🥇2🥈3🥉
 |6|21240711<BR>毛胜超|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|🥉CCPC长春|0🥇1🥈2🥉
 |7|21240223<BR>石津豪|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|🥉CCPC长春|0🥇1🥈2🥉
 |8|55240922<BR>朱明昊|软件学院<BR>软件工程|/|🥉ICPC成都<BR>🥉ICPC南京||0🥇0🥈2🥉
