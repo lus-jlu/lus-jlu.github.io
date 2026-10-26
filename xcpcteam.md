@@ -37,7 +37,7 @@
 14|心如止水<BR>Be Water My Friend|余赫，肖子豪，常易铭|ICPC西安|
 15|菜吉互啄<BR>VeJitable|蒋玺豪，陈文泉，何睿倩|ICPC成都|
 16|告白氧球<BR>Confession Oxygen Ball|席佳阳，高赫，白瑞秋|ICPC沈阳|
-17|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵||
+17|倚兰<BR>The Orchid Cultivators|杨文轩，戴唐宸，冯奕涵|ICPC上海【待定】|
 18|前有绝景<BR>The Rolling Vistas|申名扬，张海鹏，谭皓仁||
 19|随缘AC<BR>Casual AC Team|刘烨辉，李晨阳，王云田||
 20|欧拉回响<BR>Euler Echo|李九思，徐睦轩，李明宇||
