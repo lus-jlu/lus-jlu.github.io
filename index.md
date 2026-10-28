@@ -121,7 +121,7 @@ ORCID：<A href="https://orcid.org/0000-0002-8081-4498" target="_blank">0000-000
 <A href="ky" target="_blank">整理的期刊和会议评价</A>
 
 主要代表性学术论文：
-1. Yuan Jianhui, **Lü Shuai**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. **Expert Systems with Applications**, 2027, 134794. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
+1. Yuan Jianhui, **Lü Shuai**, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. **Expert Systems with Applications**, 2027, 334: 134794. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
 2. Chen Huangyang, Chen Juan, Zhang Tao, Sun Genghao, **Lü Shuai\***. Reward shaping based on trajectory quality for offline and hybrid reinforcement learning. **Information Processing and Management**, 2027, 64(2): 105160. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 3. Wu Hao, Li Songlin, Xiao Wei, Zhong Taihong, **Lü Shuai\***. Offline-to-online reinforcement learning with triple-intensity policy constraints. **Information Processing and Management**, 2027, 64(1): 105035. **(中科院1区TOP期刊, CCF推荐B类期刊, SCI, 目前IF: 8.1)**
 4. Wu Hao, Zhang Shunhao, **Lü Shuai\***. Optimistic Q-value adaptation for offline-to-online reinforcement learning. In: **Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)**, Sydney, Australia, December 6-12, 2026. **(CCF推荐A类会议)**
