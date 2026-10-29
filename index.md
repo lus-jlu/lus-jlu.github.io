@@ -67,7 +67,7 @@
   - Applied Soft Computing、Engineering Applications of Artificial Intelligence、Expert Systems with Applications、Frontiers of Computer Science、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Transactions on Evolutionary Computation、IEEE Transactions on Neural Networks and Learning Systems、Information Processing and Management、Information Sciences、Knowledge-Based Systems、Science China Information Sciences
   - 计算机学报、软件学报、电子学报、自动化学报
 + 学术会议论文评审
-  - AAAI、CVPR、ICCV、ICLR、ICML、IJCAI、KDD、MM、NeurIPS、SIGIR
+  - AAAI、CVPR、ICCV、ICLR、ICML、IJCAI、KDD、MM、NeurIPS、SIGIR、WWW
 
 ***
 
