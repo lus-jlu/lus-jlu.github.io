@@ -57,7 +57,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |1|17231020<BR>于之航|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC南京<BR>🥇CCPC深圳<BR>🥇ICPC杭州<BR>🥈ICPC东亚区决赛|🥇CCPC哈尔滨<BR>🥇CCPC济南<BR>🥈ICPC沈阳<BR>🥇ICPC香港<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛||12🥇3🥈0🥉
 |2|21230522<BR>陈鹏旭|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥇CCPC秦皇岛<BR>🥈ICPC西安<BR>🥈ICPC合肥<BR>🥈ICPC东亚区决赛|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明<BR>🥇CCPC总决赛|🥇ICPC武汉<BR>🥇CCPC济南<BR>🥇CCPC郑州<BR>🥇ICPC香港<BR>🥇ICPC东亚区决赛||8🥇4🥈1🥉
-|3|55231008<BR>钟姝伶（女）|软件学院<BR>软件工程|/|/|🥇CCPC女生专场<BR>🥉ICPC沈阳||1🥇0🥈1🥉
+|3|55231008<BR>钟姝伶（女）|软件学院<BR>软件工程|/|/|🥇CCPC女生专场<BR>🥉ICPC沈阳|🥈CCPC女生专场|1🥇1🥈1🥉
 |4|14230912<BR>刘昱|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC杭州|🥈CCPC哈尔滨<BR>🥉ICPC昆明<BR>🥈ICPC香港|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|🥈CCPC长春|0🥇7🥈2🥉
 |5|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都|0🥇2🥈5🥉
 |6|55231029<BR>袁英麒|软件学院<BR>工科试验班（软件工程）|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都|0🥇2🥈5🥉
