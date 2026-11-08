@@ -59,7 +59,7 @@ reinforcement learning. 2026. (Submitted)
 ## 【学术论文】在国内外期刊和会议上发表学术论文3篇，在审学术论文1篇。
 1. **Yuan Jianhui**, Lü Shuai, Zhang Xinyu, Li Guixiang, Tan Lei, Li Jingyao\*, Zhou Wenbo\*. GRACE: Enhancing source-free universal domain adaptation via gradient-aware contrastive learning and entropy-aware alignment. 2026. (Submitted)
 2. **Yuan Jianhui**, Lü Shuai, Zhang Xinyu, Zhang Shaojie, Fang Wensi, Li Jingyao\*. Pre-trained initialization and memory-enhanced correction for source-free universal domain adaptation. **Expert Systems with Applications**, 2027, 334: 134794. **(中科院1区TOP期刊, CCF推荐C类期刊, SCI, 目前IF: 9.4)**
-3. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026. **(CCF推荐A类会议)**
+3. Tan Lei, Guo Dong, Fang Wensi, Li Guixiang, **Yuan Jianhui**, Zhang Xiaodan, Li Jingyao\*, Lü Shuai\*. Divide and correct: Alternating normalization and prototype alignment for continual test-time adaptation. In: **Proceedings of the 34th ACM International Conference on Multimedia (MM 2026)**, Rio de Janeiro, Brazil, November 10–14, 2026, 9373–9381. **(CCF推荐A类会议)**
 4. Li Zhuang, **Yuan Jianhui**, Li Guixiang, Wang Hao, Li Xingcan, Li Dan, Wang Xinhua\*. RSI-YOLO: Object detection method for remote sensing images based on improved YOLO. **Sensors**, 2023, 23: 6414. **(中科院2区期刊, SCI, IF: 3.4)**
 
 ## 【荣誉奖励】
