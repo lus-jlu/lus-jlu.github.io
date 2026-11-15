@@ -45,7 +45,7 @@
 |2|55241008<BR>席乐媛（女）|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥈CCPC济南<BR>🥇CCPC女生专场<BR>🥈ICPC杭州<BR>🥈CCPC郑州<BR>🥇ICPC昆明|🥉ICPC西安<BR>🥇CCPC女生专场<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥇ICPC西安<BR>🥈CCPC女生专场<BR>🥇CCPC乐山<BR>🥈CCPC荆州||5🥇6🥈3🥉
 |3|06240722<BR>王宗凡<BR>[现2025级]|计算机科学与技术学院<BR>计算机科学与技术|🥉ICPC南京<BR>🥇CCPC郑州<BR>🥈ICPC昆明|🥈ICPC南京<BR>🥈CCPC济南<BR>🥈ICPC上海<BR>🥈CCPC重庆|🥈CCPC长春<BR>🥇ICPC沈阳||2🥇6🥈1🥉
 |4|21241416<BR>欧阳承风|计算机科学与技术学院<BR>物联网工程|/|🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥈CCPC长春<BR>🥇ICPC沈阳||1🥇2🥈3🥉
-|5|17240426<BR>张健哲|软件学院<BR>软件工程|/|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都||0🥇2🥈3🥉
+|5|17240426<BR>张健哲|软件学院<BR>软件工程|/|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都<BR>🥉CCPC荆州||0🥇2🥈4🥉
 |6|21240711<BR>毛胜超|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|🥉CCPC长春<BR>🥈ICPC南京||0🥇2🥈2🥉
 |7|21240223<BR>石津豪|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|🥉CCPC长春<BR>🥈ICPC南京||0🥇2🥈2🥉
 |8|21240329<BR>王星皓|计算机科学与技术学院<BR>计算机科学与技术|/|🥈ICPC西安<BR>🥉ICPC成都|/|/|1🥈1🥉
@@ -69,8 +69,8 @@
 |8|21230111<BR>乔彦博|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉
 |9|35232116<BR>王恕|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉
 |10|20232116<BR>张智祺|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|🥉CCPC桂林<BR>🥈ICPC南京<BR>🥈ICPC沈阳|🥈CCPC哈尔滨<BR>🥉ICPC成都<BR>🥈ICPC沈阳|/|/|4🥈2🥉
-|11|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都|0🥇2🥈5🥉
-|12|55231029<BR>袁英麒|软件学院<BR>工科试验班（软件工程）|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都|0🥇2🥈5🥉
+|11|21231026<BR>拱垲|计算机科学与技术学院<BR>计算机科学与技术|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都<BR>🥉CCPC荆州|0🥇2🥈6🥉
+|12|55231029<BR>袁英麒|软件学院<BR>工科试验班（软件工程）|/|🥉ICPC成都<BR>🥉CCPC郑州|🥈ICPC武汉<BR>🥉ICPC南京<BR>🥈CCPC济南<BR>🥉CCPC重庆|🥉ICPC成都<BR>🥉CCPC荆州|0🥇2🥈6🥉
 |13|55230218<BR>唐德睿|计算机科学与技术学院<BR>理科试验班（唐敖庆计算机班）|/|/|🥉ICPC西安<BR>🥉CCPC哈尔滨<BR>🥈ICPC沈阳<BR>🥉CCPC郑州|🥉CCPC长春<BR>🥈ICPC南京|0🥇2🥈4🥉
 |14|55230227<BR>康德润|软件学院<BR>工科试验班（软件工程）|/|/|🥈ICPC沈阳|/|1🥈
 |15|55230421<BR>刘雅奇|软件学院<BR>工科试验班（软件工程）|/|/|🥈ICPC沈阳|/|1🥈
