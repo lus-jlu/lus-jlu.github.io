@@ -1,9 +1,8 @@
-# 蓝桥杯全国大学生软件和信息技术大赛
+# 蓝桥杯全国大学生软件和信息技术大赛<div><img src="figures/lanqiao.png" width="150"></div>
 
 ## 蓝桥杯全国大学生软件和信息技术大赛（原蓝桥杯全国软件和信息技术专业人才大赛，简称蓝桥杯大赛），由中国软件行业协会指导、蓝桥杯全国大学生软件和信息技术大赛组委会主办、国信蓝桥教育科技股份有限公司承办。
 
 ## 官方网站：<A href="https://dasai.lanqiao.cn" target="_blank">dasai.lanqiao.cn</A>
-<div align=center><img src="figures/lanqiao.png" width="150"></div>
 
 ## 第18届蓝桥杯大赛的比赛科目（随时更新）
 + 软件赛（个人赛）：C/C++程序设计、Java软件开发、Python程序设计、Web应用开发、软件测试、网络安全
